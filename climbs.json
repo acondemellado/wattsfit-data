@@ -1503,6 +1503,11 @@
     {"name": "Peyragudes - Altiport (Genos)", "region": "Pirineos", "country": "FR", "lengthKm": 8.5, "avgGradientPct": 8.0, "summitM": 1605, "races": ["TDF"]},
 
     {"name": "Monte Igeldo (desde Donostia)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 1.5, "avgGradientPct": 7.5, "summitM": 180, "races": ["Klasika San Sebastián"]},
-    {"name": "Monte Igeldo (desde Orio)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 6.0, "avgGradientPct": 4.5, "summitM": 180, "races": ["—"]}
+    {"name": "Monte Igeldo (desde Orio)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 6.0, "avgGradientPct": 4.5, "summitM": 180, "races": ["—"]},
+
+    {"name": "Larraitz (desde Amezketa)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 5.0, "avgGradientPct": 7.0, "summitM": 540, "races": ["—"]},
+    {"name": "Larraitz (desde Zaldibia)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 9.0, "avgGradientPct": 5.0, "summitM": 540, "races": ["—"]},
+    {"name": "Larraitz (desde Alegia)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 12.0, "avgGradientPct": 4.5, "summitM": 540, "races": ["—"]},
+    {"name": "Gaintza (desde Zaldibia/Ordizia)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 3.5, "avgGradientPct": 6.5, "summitM": 290, "races": ["—"]}
   ]
 }

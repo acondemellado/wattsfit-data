@@ -1500,6 +1500,9 @@
     {"name": "Col de Peyresourde (Loudenvielle)", "region": "Pirineos", "country": "FR", "lengthKm": 9.7, "avgGradientPct": 7.8, "summitM": 1569, "races": ["TDF"]},
 
     {"name": "Peyragudes - Altiport (Loudenvielle)", "region": "Pirineos", "country": "FR", "lengthKm": 14.6, "avgGradientPct": 6.7, "summitM": 1605, "races": ["TDF"]},
-    {"name": "Peyragudes - Altiport (Genos)", "region": "Pirineos", "country": "FR", "lengthKm": 8.5, "avgGradientPct": 8.0, "summitM": 1605, "races": ["TDF"]}
+    {"name": "Peyragudes - Altiport (Genos)", "region": "Pirineos", "country": "FR", "lengthKm": 8.5, "avgGradientPct": 8.0, "summitM": 1605, "races": ["TDF"]},
+
+    {"name": "Monte Igeldo (desde Donostia)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 1.5, "avgGradientPct": 7.5, "summitM": 180, "races": ["Klasika San Sebastián"]},
+    {"name": "Monte Igeldo (desde Orio)", "region": "Gipuzkoa", "country": "ES", "lengthKm": 6.0, "avgGradientPct": 4.5, "summitM": 180, "races": ["—"]}
   ]
 }

@@ -1483,6 +1483,23 @@
 
     {"name": "Sierra Espuña (Murcia 2)", "region": "Murcia", "country": "ES", "lengthKm": 17.0, "avgGradientPct": 5.5, "summitM": 1300, "races": ["—"]},
     {"name": "Pico Revolcadores", "region": "Murcia", "country": "ES", "lengthKm": 8.0, "avgGradientPct": 6.0, "summitM": 2027, "races": ["—"]},
-    {"name": "Carrascoy", "region": "Murcia", "country": "ES", "lengthKm": 6.5, "avgGradientPct": 7.0, "summitM": 1066, "races": ["—"]}
+    {"name": "Carrascoy", "region": "Murcia", "country": "ES", "lengthKm": 6.5, "avgGradientPct": 7.0, "summitM": 1066, "races": ["—"]},
+
+    {"name": "Col du Portillon (Luchon)", "region": "Pirineos", "country": "FR", "lengthKm": 8.3, "avgGradientPct": 6.9, "summitM": 1293, "races": ["TDF"]},
+    {"name": "Coth de Portilhon (Bossòst)", "region": "Pirineo Catalán", "country": "ES", "lengthKm": 9.0, "avgGradientPct": 6.5, "summitM": 1293, "races": ["—"]},
+
+    {"name": "Col de Menté (Saint-Béat)", "region": "Pirineos", "country": "FR", "lengthKm": 9.3, "avgGradientPct": 9.1, "summitM": 1349, "races": ["TDF"]},
+    {"name": "Col de Menté (Pont de l'Oule)", "region": "Pirineos", "country": "FR", "lengthKm": 7.0, "avgGradientPct": 8.0, "summitM": 1349, "races": ["TDF"]},
+
+    {"name": "Pòrt deth Guardader d'Arres (Bossòst)", "region": "Pirineo Catalán", "country": "ES", "lengthKm": 12.5, "avgGradientPct": 7.5, "summitM": 1572, "races": ["—"]},
+
+    {"name": "Col de Balès (Luchon)", "region": "Pirineos", "country": "FR", "lengthKm": 19.2, "avgGradientPct": 6.1, "summitM": 1755, "races": ["TDF"]},
+    {"name": "Col de Balès (Mauléon-Barousse)", "region": "Pirineos", "country": "FR", "lengthKm": 14.0, "avgGradientPct": 5.5, "summitM": 1755, "races": ["TDF"]},
+
+    {"name": "Col de Peyresourde (Luchon)", "region": "Pirineos", "country": "FR", "lengthKm": 14.5, "avgGradientPct": 6.1, "summitM": 1569, "races": ["TDF"]},
+    {"name": "Col de Peyresourde (Loudenvielle)", "region": "Pirineos", "country": "FR", "lengthKm": 9.7, "avgGradientPct": 7.8, "summitM": 1569, "races": ["TDF"]},
+
+    {"name": "Peyragudes - Altiport (Loudenvielle)", "region": "Pirineos", "country": "FR", "lengthKm": 14.6, "avgGradientPct": 6.7, "summitM": 1605, "races": ["TDF"]},
+    {"name": "Peyragudes - Altiport (Genos)", "region": "Pirineos", "country": "FR", "lengthKm": 8.5, "avgGradientPct": 8.0, "summitM": 1605, "races": ["TDF"]}
   ]
 }

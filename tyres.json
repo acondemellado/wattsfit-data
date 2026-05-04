@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "source": "Datos curados a partir de bicyclerollingresistance.com, Tour Magazine, Cyclingnews, BikeRadar y CyclingTips. Ratings 1-10 (10 mejor). stiffnessFactor multiplica la presión final calculada (0.90 muy flexible, 1.07 muy rígida).",
+  "tyres": [
+    {"brand": "Pirelli", "model": "P Zero Race TLR SL", "mounting": "tubeless", "stiffnessFactor": 0.96, "rollingResistance": 9, "punctureProtection": 6, "grip": 8, "durability": 6, "category": "road"},
+    {"brand": "Pirelli", "model": "P Zero Race TLR", "mounting": "tubeless", "stiffnessFactor": 0.98, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Pirelli", "model": "P Zero Race", "mounting": "clincher", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Pirelli", "model": "Cinturato Gravel H", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 7, "durability": 7, "category": "gravel"},
+    {"brand": "Pirelli", "model": "Cinturato Gravel M", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+    {"brand": "Pirelli", "model": "Cinturato Gravel S", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 6, "punctureProtection": 7, "grip": 9, "durability": 8, "category": "gravel"},
+
+    {"brand": "Continental", "model": "GP5000 S TR", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 9, "punctureProtection": 7, "grip": 9, "durability": 8, "category": "road"},
+    {"brand": "Continental", "model": "GP5000 AS TR", "mounting": "tubeless", "stiffnessFactor": 1.04, "rollingResistance": 7, "punctureProtection": 9, "grip": 9, "durability": 9, "category": "road"},
+    {"brand": "Continental", "model": "GP5000", "mounting": "clincher", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 8, "category": "road"},
+    {"brand": "Continental", "model": "Grand Prix 4-Season", "mounting": "clincher", "stiffnessFactor": 1.05, "rollingResistance": 5, "punctureProtection": 9, "grip": 8, "durability": 9, "category": "road"},
+    {"brand": "Continental", "model": "Grand Prix Urban", "mounting": "clincher", "stiffnessFactor": 1.05, "rollingResistance": 6, "punctureProtection": 9, "grip": 7, "durability": 9, "category": "road"},
+    {"brand": "Continental", "model": "Competition Pro Ltd", "mounting": "tubular", "stiffnessFactor": 0.93, "rollingResistance": 9, "punctureProtection": 5, "grip": 9, "durability": 6, "category": "road"},
+    {"brand": "Continental", "model": "Terra Speed", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 6, "grip": 7, "durability": 7, "category": "gravel"},
+    {"brand": "Continental", "model": "Terra Trail", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "Vittoria", "model": "Corsa Pro TLR", "mounting": "tubeless", "stiffnessFactor": 0.94, "rollingResistance": 9, "punctureProtection": 5, "grip": 9, "durability": 6, "category": "road"},
+    {"brand": "Vittoria", "model": "Corsa Pro Control TLR", "mounting": "tubeless", "stiffnessFactor": 0.96, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Vittoria", "model": "Corsa Speed TLR", "mounting": "tubeless", "stiffnessFactor": 0.92, "rollingResistance": 10, "punctureProtection": 3, "grip": 7, "durability": 4, "category": "road"},
+    {"brand": "Vittoria", "model": "Corsa N.EXT", "mounting": "tubeless", "stiffnessFactor": 0.98, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 7, "category": "road"},
+    {"brand": "Vittoria", "model": "Corsa CX III", "mounting": "tubular", "stiffnessFactor": 0.92, "rollingResistance": 9, "punctureProtection": 5, "grip": 9, "durability": 5, "category": "road"},
+    {"brand": "Vittoria", "model": "Terreno Dry", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 7, "durability": 8, "category": "gravel"},
+    {"brand": "Vittoria", "model": "Terreno Mix", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "Schwalbe", "model": "Pro One TLE", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Schwalbe", "model": "Pro One TT TLE", "mounting": "tubeless", "stiffnessFactor": 0.95, "rollingResistance": 9, "punctureProtection": 5, "grip": 7, "durability": 5, "category": "road"},
+    {"brand": "Schwalbe", "model": "Pro One Aero TLE", "mounting": "tubeless", "stiffnessFactor": 0.97, "rollingResistance": 9, "punctureProtection": 6, "grip": 8, "durability": 6, "category": "road"},
+    {"brand": "Schwalbe", "model": "One", "mounting": "clincher", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "road"},
+    {"brand": "Schwalbe", "model": "Marathon Plus", "mounting": "clincher", "stiffnessFactor": 1.07, "rollingResistance": 4, "punctureProtection": 10, "grip": 7, "durability": 10, "category": "road"},
+    {"brand": "Schwalbe", "model": "G-One R", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 6, "grip": 8, "durability": 7, "category": "gravel"},
+    {"brand": "Schwalbe", "model": "G-One Speed", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 7, "durability": 8, "category": "gravel"},
+    {"brand": "Schwalbe", "model": "G-One Allround", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "Michelin", "model": "Power Cup TLR", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Michelin", "model": "Power Time Trial", "mounting": "clincher", "stiffnessFactor": 0.94, "rollingResistance": 9, "punctureProtection": 4, "grip": 6, "durability": 4, "category": "road"},
+    {"brand": "Michelin", "model": "Power All-Season", "mounting": "clincher", "stiffnessFactor": 1.03, "rollingResistance": 7, "punctureProtection": 8, "grip": 9, "durability": 8, "category": "road"},
+    {"brand": "Michelin", "model": "Power Adventure", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "Goodyear", "model": "Eagle F1 R Tubeless", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 6, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Goodyear", "model": "Eagle F1 SuperSport R", "mounting": "tubeless", "stiffnessFactor": 0.95, "rollingResistance": 9, "punctureProtection": 5, "grip": 8, "durability": 5, "category": "road"},
+    {"brand": "Goodyear", "model": "Eagle F1", "mounting": "clincher", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Goodyear", "model": "Connector Ultimate", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "Maxxis", "model": "High Road Pro TLR", "mounting": "tubeless", "stiffnessFactor": 0.99, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 7, "category": "road"},
+    {"brand": "Maxxis", "model": "Re-Fuse", "mounting": "clincher", "stiffnessFactor": 1.04, "rollingResistance": 6, "punctureProtection": 9, "grip": 8, "durability": 9, "category": "road"},
+    {"brand": "Maxxis", "model": "Rambler", "mounting": "tubeless", "stiffnessFactor": 1.02, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+    {"brand": "Maxxis", "model": "Receptor", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 7, "durability": 8, "category": "gravel"},
+
+    {"brand": "Cadex", "model": "Race", "mounting": "tubeless", "stiffnessFactor": 0.97, "rollingResistance": 8, "punctureProtection": 6, "grip": 9, "durability": 6, "category": "road"},
+    {"brand": "Cadex", "model": "Aero", "mounting": "tubeless", "stiffnessFactor": 0.95, "rollingResistance": 9, "punctureProtection": 5, "grip": 8, "durability": 5, "category": "road"},
+
+    {"brand": "Specialized", "model": "S-Works Turbo Cotton", "mounting": "clincher", "stiffnessFactor": 0.92, "rollingResistance": 9, "punctureProtection": 5, "grip": 9, "durability": 5, "category": "road"},
+    {"brand": "Specialized", "model": "S-Works Turbo RapidAir 2BR", "mounting": "tubeless", "stiffnessFactor": 0.96, "rollingResistance": 9, "punctureProtection": 6, "grip": 9, "durability": 6, "category": "road"},
+    {"brand": "Specialized", "model": "S-Works Mondo", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 8, "grip": 9, "durability": 8, "category": "gravel"},
+    {"brand": "Specialized", "model": "Pathfinder Pro 2BR", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 8, "punctureProtection": 7, "grip": 7, "durability": 8, "category": "gravel"},
+
+    {"brand": "WTB", "model": "Vulpine", "mounting": "tubeless", "stiffnessFactor": 1.02, "rollingResistance": 6, "punctureProtection": 8, "grip": 8, "durability": 8, "category": "gravel"},
+    {"brand": "WTB", "model": "Riddler", "mounting": "tubeless", "stiffnessFactor": 1.02, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+    {"brand": "WTB", "model": "Resolute", "mounting": "tubeless", "stiffnessFactor": 1.02, "rollingResistance": 6, "punctureProtection": 8, "grip": 9, "durability": 8, "category": "gravel"},
+
+    {"brand": "Hutchinson", "model": "Fusion 5 Performance", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "road"},
+    {"brand": "Hutchinson", "model": "Touareg", "mounting": "tubeless", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 8, "durability": 8, "category": "gravel"},
+
+    {"brand": "FMB", "model": "Paris-Roubaix Pro", "mounting": "tubular", "stiffnessFactor": 0.90, "rollingResistance": 8, "punctureProtection": 7, "grip": 9, "durability": 6, "category": "road"},
+
+    {"brand": "Genérico", "model": "Genérico", "mounting": "clincher", "stiffnessFactor": 1.00, "rollingResistance": 7, "punctureProtection": 7, "grip": 7, "durability": 7, "category": "road"}
+  ]
+}

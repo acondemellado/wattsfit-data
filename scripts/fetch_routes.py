@@ -110,64 +110,143 @@ STAGE_RACES_2026: list[tuple[str, str, str, str, list[int]]] = [
 
 SOURCES: list[Source] = []
 
-# Tour de France 2026 (21 etapas) — cyclingstage
-for n in range(1, 22):
-    SOURCES.append(Source(
-        id=f"tdf-2026-stage-{n:02d}",
-        name=f"Tour de France 2026 — Stage {n}",
-        type="grand-tour",
-        country="FR",
-        source_url=_cs_tdf(n),
-        event="Tour de France 2026",
-        stage=n,
-    ))
+# ── Carga dinámica desde scripts/discovered_races.json si existe ────────
+# El script `discover_stage_races.py` sondea cyclingstage y guarda el
+# inventario de slugs/etapas disponibles por año. Esto permite añadir
+# carreras nuevas sin editar este archivo.
+DISCOVERED_FILE = REPO_ROOT / "scripts" / "discovered_races.json"
 
-# Giro d'Italia 2026 (21 etapas) — cyclingstage slug 'giro-italy'
-for n in range(1, 22):
-    SOURCES.append(Source(
-        id=f"giro-2026-stage-{n:02d}",
-        name=f"Giro d'Italia 2026 — Stage {n}",
-        type="grand-tour",
-        country="IT",
-        source_url=_cs_giro(n),
-        event="Giro d'Italia 2026",
-        stage=n,
-    ))
+# Map de slug → id-prefix custom (para grand tours usamos tdf/giro/vuelta)
+_GRAND_TOUR_IDS = {
+    "tour-de-france": "tdf",
+    "giro-italy": "giro",
+    "vuelta-spain": "vuelta",
+}
 
-# Vuelta a España 2026 (21 etapas)
-for n in range(1, 22):
-    SOURCES.append(Source(
-        id=f"vuelta-2026-stage-{n:02d}",
-        name=f"Vuelta a España 2026 — Stage {n}",
-        type="grand-tour",
-        country="ES",
-        source_url=_cs_vuelta(n),
-        event="Vuelta a España 2026",
-        stage=n,
-    ))
 
-# Clásicas 2026 — cyclingstage (slug verificado)
-CLASSICS = [
-    ("omloop-het-nieuwsblad-2026", "Omloop Het Nieuwsblad 2026",         "BE", _cs("omloop-het-nieuwsblad")),
-    ("kuurne-brussel-kuurne-2026", "Kuurne-Brussels-Kuurne 2026",        "BE", _cs("kuurne-brussels-kuurne")),
-    ("strade-bianche-2026",        "Strade Bianche 2026",                 "IT", _cs("strade-bianche")),
-    ("milan-san-remo-2026",        "Milán-San Remo 2026",                 "IT", _cs("milan-san-remo")),
-    ("e3-saxo-classic-2026",       "E3 Saxo Classic 2026",                "BE", _cs("e3-saxo-classic")),
-    ("gent-wevelgem-2026",         "Gent-Wevelgem 2026",                  "BE", _cs("in-flanders-fields")),
-    ("dwars-door-vlaanderen-2026", "Dwars door Vlaanderen 2026",          "BE", _cs("dwars-door-vlaanderen")),
-    ("ronde-vlaanderen-2026",      "Tour of Flanders 2026",               "BE", _cs("tour-of-flanders")),
-    ("paris-roubaix-2026",         "Paris-Roubaix 2026",                  "FR", _cs("paris-roubaix")),
-    ("brabantse-pijl-2026",        "De Brabantse Pijl 2026",              "BE", _cs("brabantse-pijl")),
-    ("amstel-gold-race-2026",      "Amstel Gold Race 2026",               "NL", _cs("amstel-gold-race")),
-    ("fleche-wallonne-2026",       "La Flèche Wallonne 2026",             "BE", _cs("la-fleche-wallonne")),
-    ("liege-bastogne-liege-2026",  "Liège-Bastogne-Liège 2026",           "BE", _cs("liege-bastogne-liege")),
-]
-for sid, name, country, url in CLASSICS:
-    event = name.rsplit(" 2026", 1)[0] + " 2026"
-    SOURCES.append(Source(
-        id=sid, name=name, type="classic", country=country,
-        source_url=url, event=event,
-    ))
+def _stage_id(slug: str, year: int, n: int) -> str:
+    if slug in _GRAND_TOUR_IDS:
+        return f"{_GRAND_TOUR_IDS[slug]}-{year}-stage-{n:02d}"
+    return f"{slug}-{year}-stage-{n:02d}"
+
+
+def _event_name(name: str, year: int) -> str:
+    return f"{name} {year}"
+
+
+def _load_from_discovered() -> bool:
+    """Devuelve True si pudo cargar SOURCES desde discovered_races.json."""
+    if not DISCOVERED_FILE.exists():
+        return False
+    data = json.loads(DISCOVERED_FILE.read_text())
+
+    for year_key, slugs in data.get("grand_tours", {}).items():
+        year = int(year_key)
+        for slug, info in slugs.items():
+            for n in info["stages"]:
+                stage_label = "prologue" if n == 0 else f"Stage {n}"
+                SOURCES.append(Source(
+                    id=(f"{_GRAND_TOUR_IDS.get(slug, slug)}-{year}-prologue"
+                        if n == 0
+                        else _stage_id(slug, year, n)),
+                    name=f"{info['name']} {year} — {stage_label}",
+                    type="grand-tour",
+                    country=info["country"],
+                    source_url=(f"https://cdn.cyclingstage.com/images/{slug}/{year}/prologue-route.gpx"
+                                if n == 0 else _cs_stage(slug, n)),
+                    event=_event_name(info["name"], year),
+                    stage=n if n > 0 else None,
+                    year=year,
+                ))
+
+    for year_key, slugs in data.get("stage_races", {}).items():
+        year = int(year_key)
+        for slug, info in slugs.items():
+            for n in info["stages"]:
+                stage_label = "Prologue" if n == 0 else f"Stage {n}"
+                SOURCES.append(Source(
+                    id=(f"{slug}-{year}-prologue" if n == 0
+                        else f"{slug}-{year}-stage-{n:02d}"),
+                    name=f"{info['name']} {year} — {stage_label}",
+                    type="stage-race",
+                    country=info["country"],
+                    source_url=(f"https://cdn.cyclingstage.com/images/{slug}/{year}/prologue-route.gpx"
+                                if n == 0 else _cs_stage(slug, n)),
+                    event=_event_name(info["name"], year),
+                    stage=n if n > 0 else None,
+                    year=year,
+                ))
+
+    for year_key, slugs in data.get("classics", {}).items():
+        year = int(year_key)
+        for slug, info in slugs.items():
+            SOURCES.append(Source(
+                id=f"{slug}-{year}",
+                name=f"{info['name']} {year}",
+                type="classic",
+                country=info["country"],
+                source_url=f"https://cdn.cyclingstage.com/images/{slug}/{year}/route.gpx",
+                event=_event_name(info["name"], year),
+                year=year,
+            ))
+    return True
+
+
+# Fallback hardcoded (uso si no hay discovered_races.json)
+def _load_hardcoded_2026() -> None:
+    for n in range(1, 22):
+        SOURCES.append(Source(
+            id=f"tdf-2026-stage-{n:02d}",
+            name=f"Tour de France 2026 — Stage {n}",
+            type="grand-tour", country="FR", source_url=_cs_tdf(n),
+            event="Tour de France 2026", stage=n,
+        ))
+    for n in range(1, 22):
+        SOURCES.append(Source(
+            id=f"giro-2026-stage-{n:02d}",
+            name=f"Giro d'Italia 2026 — Stage {n}",
+            type="grand-tour", country="IT", source_url=_cs_giro(n),
+            event="Giro d'Italia 2026", stage=n,
+        ))
+    for n in range(1, 22):
+        SOURCES.append(Source(
+            id=f"vuelta-2026-stage-{n:02d}",
+            name=f"Vuelta a España 2026 — Stage {n}",
+            type="grand-tour", country="ES", source_url=_cs_vuelta(n),
+            event="Vuelta a España 2026", stage=n,
+        ))
+    for sid, name, country, url in [
+        ("omloop-het-nieuwsblad-2026", "Omloop Het Nieuwsblad 2026", "BE", _cs("omloop-het-nieuwsblad")),
+        ("kuurne-brussel-kuurne-2026", "Kuurne-Brussels-Kuurne 2026", "BE", _cs("kuurne-brussels-kuurne")),
+        ("strade-bianche-2026",        "Strade Bianche 2026",         "IT", _cs("strade-bianche")),
+        ("milan-san-remo-2026",        "Milán-San Remo 2026",         "IT", _cs("milan-san-remo")),
+        ("e3-saxo-classic-2026",       "E3 Saxo Classic 2026",        "BE", _cs("e3-saxo-classic")),
+        ("gent-wevelgem-2026",         "Gent-Wevelgem 2026",          "BE", _cs("in-flanders-fields")),
+        ("dwars-door-vlaanderen-2026", "Dwars door Vlaanderen 2026",  "BE", _cs("dwars-door-vlaanderen")),
+        ("ronde-vlaanderen-2026",      "Tour of Flanders 2026",       "BE", _cs("tour-of-flanders")),
+        ("paris-roubaix-2026",         "Paris-Roubaix 2026",          "FR", _cs("paris-roubaix")),
+        ("brabantse-pijl-2026",        "De Brabantse Pijl 2026",      "BE", _cs("brabantse-pijl")),
+        ("amstel-gold-race-2026",      "Amstel Gold Race 2026",       "NL", _cs("amstel-gold-race")),
+        ("fleche-wallonne-2026",       "La Flèche Wallonne 2026",     "BE", _cs("la-fleche-wallonne")),
+        ("liege-bastogne-liege-2026",  "Liège-Bastogne-Liège 2026",   "BE", _cs("liege-bastogne-liege")),
+    ]:
+        SOURCES.append(Source(
+            id=sid, name=name, type="classic", country=country,
+            source_url=url, event=name,
+        ))
+    for id_prefix, race_name, country, slug, stage_numbers in STAGE_RACES_2026:
+        for n in stage_numbers:
+            SOURCES.append(Source(
+                id=f"{id_prefix}-stage-{n:02d}",
+                name=f"{race_name} — Stage {n}",
+                type="stage-race", country=country,
+                source_url=_cs_stage(slug, n),
+                event=race_name, stage=n,
+            ))
+
+
+if not _load_from_discovered():
+    _load_hardcoded_2026()
 
 # Cicloturistas con descarga directa verificada
 GRAN_FONDOS = [
@@ -250,31 +329,6 @@ GRAN_FONDOS = [
     ),
 ]
 SOURCES.extend(GRAN_FONDOS)
-
-# Stage races con patron cyclingstage estable
-for id_prefix, race_name, country, slug, stage_numbers in STAGE_RACES_2026:
-    for n in stage_numbers:
-        url = _cs_stage(slug, n)
-        SOURCES.append(Source(
-            id=f"{id_prefix}-stage-{n:02d}",
-            name=f"{race_name} — Stage {n}",
-            type="stage-race",
-            country=country,
-            source_url=url,
-            event=race_name,
-            stage=n,
-        ))
-    # Tour Down Under: prologue
-    if slug == "tour-down-under":
-        SOURCES.append(Source(
-            id=f"{id_prefix}-prologue",
-            name=f"{race_name} — Prologue",
-            type="stage-race",
-            country=country,
-            source_url=f"https://cdn.cyclingstage.com/images/{slug}/2026/prologue-route.gpx",
-            event=race_name,
-            stage=0,
-        ))
 
 
 # ── Descarga ───────────────────────────────────────────────────────────────

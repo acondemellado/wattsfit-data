@@ -1,0 +1,284 @@
+{
+  "grand_tours": {
+    "2026": {
+      "tour-de-france": {
+        "country": "FR",
+        "name": "Tour de France",
+        "id_prefix": "tdf",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "giro-italy": {
+        "country": "IT",
+        "name": "Giro d'Italia",
+        "id_prefix": "giro",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "vuelta-spain": {
+        "country": "ES",
+        "name": "Vuelta a España",
+        "id_prefix": "vuelta",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    },
+    "2027": {}
+  },
+  "stage_races": {
+    "2026": {
+      "paris-nice": {
+        "country": "FR",
+        "name": "Paris-Nice",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "tirreno-adriatico": {
+        "country": "IT",
+        "name": "Tirreno-Adriatico",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "tour-down-under": {
+        "country": "AU",
+        "name": "Tour Down Under",
+        "stages": [
+          0,
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      "volta-ao-algarve": {
+        "country": "PT",
+        "name": "Volta ao Algarve",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "tour-of-the-basque-country": {
+        "country": "ES",
+        "name": "Itzulia Basque Country",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "volta-a-catalunya": {
+        "country": "ES",
+        "name": "Volta a Catalunya",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "ruta-del-sol": {
+        "country": "ES",
+        "name": "Vuelta a Andalucía (Ruta del Sol)",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "tour-of-valencia": {
+        "country": "ES",
+        "name": "Tour of Valencia",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "uae-tour": {
+        "country": "AE",
+        "name": "UAE Tour",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "o-gran-camino": {
+        "country": "ES",
+        "name": "O Gran Camiño",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "tour-of-the-alps": {
+        "country": "AT",
+        "name": "Tour of the Alps",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    "2027": {}
+  },
+  "classics": {
+    "2026": {
+      "omloop-het-nieuwsblad": {
+        "country": "BE",
+        "name": "Omloop Het Nieuwsblad"
+      },
+      "kuurne-brussels-kuurne": {
+        "country": "BE",
+        "name": "Kuurne-Brussels-Kuurne"
+      },
+      "strade-bianche": {
+        "country": "IT",
+        "name": "Strade Bianche"
+      },
+      "milan-san-remo": {
+        "country": "IT",
+        "name": "Milán-San Remo"
+      },
+      "e3-saxo-classic": {
+        "country": "BE",
+        "name": "E3 Saxo Classic"
+      },
+      "in-flanders-fields": {
+        "country": "BE",
+        "name": "Gent-Wevelgem"
+      },
+      "dwars-door-vlaanderen": {
+        "country": "BE",
+        "name": "Dwars door Vlaanderen"
+      },
+      "tour-of-flanders": {
+        "country": "BE",
+        "name": "Tour of Flanders"
+      },
+      "paris-roubaix": {
+        "country": "FR",
+        "name": "Paris-Roubaix"
+      },
+      "brabantse-pijl": {
+        "country": "BE",
+        "name": "De Brabantse Pijl"
+      },
+      "amstel-gold-race": {
+        "country": "NL",
+        "name": "Amstel Gold Race"
+      },
+      "la-fleche-wallonne": {
+        "country": "BE",
+        "name": "La Flèche Wallonne"
+      },
+      "liege-bastogne-liege": {
+        "country": "BE",
+        "name": "Liège-Bastogne-Liège"
+      }
+    },
+    "2027": {}
+  }
+}

@@ -76,6 +76,34 @@ def _cs_giro(n: int) -> str:
     return f"https://cdn.cyclingstage.com/images/giro-italy/2026/stage-{n}-route.gpx"
 
 
+def _cs_stage(slug: str, n: int) -> str:
+    return f"https://cdn.cyclingstage.com/images/{slug}/2026/stage-{n}-route.gpx"
+
+
+def _maratona_url() -> str:
+    return "https://www.maratona.it/public/sitemin/GPX_Maratona_Course.zip"
+
+
+# Slug y etapas reales (verificadas con HEAD 200) para carreras cubiertas
+# por cyclingstage. Lista de stages: usamos lista explícita en lugar de
+# rango porque algunas carreras saltan números (p.ej. TDU 2026 no tiene
+# stage 2 ni 6 publicados).
+STAGE_RACES_2026: list[tuple[str, str, str, str, list[int]]] = [
+    # (id_prefix, race_name, country, slug, stage_numbers)
+    ("paris-nice-2026",            "Paris-Nice 2026",                        "FR", "paris-nice",                 [1, 2, 3, 4, 5, 6, 7, 8]),
+    ("tirreno-adriatico-2026",     "Tirreno-Adriatico 2026",                 "IT", "tirreno-adriatico",          [1, 2, 3, 4, 5, 6, 7]),
+    ("tour-down-under-2026",       "Tour Down Under 2026",                   "AU", "tour-down-under",            [1, 3, 4, 5]),
+    ("volta-ao-algarve-2026",      "Volta ao Algarve 2026",                  "PT", "volta-ao-algarve",           [1, 2, 3, 4, 5]),
+    ("itzulia-basque-country-2026","Itzulia Basque Country 2026",            "ES", "tour-of-the-basque-country", [1, 2, 3, 4, 5, 6]),
+    ("volta-catalunya-2026",       "Volta a Catalunya 2026",                 "ES", "volta-a-catalunya",          [1, 2, 3, 4, 5, 6, 7]),
+    ("ruta-del-sol-2026",          "Vuelta a Andalucía (Ruta del Sol) 2026", "ES", "ruta-del-sol",               [1, 2, 3, 4, 5]),
+    ("tour-of-valencia-2026",      "Tour of Valencia 2026",                  "ES", "tour-of-valencia",           [1, 2, 3, 4, 5]),
+    ("uae-tour-2026",              "UAE Tour 2026",                          "AE", "uae-tour",                   [1, 2, 3, 4, 5, 6, 7]),
+    ("o-gran-camino-2026",         "O Gran Camiño 2026",                     "ES", "o-gran-camino",              [1, 2, 3, 4]),
+    ("tour-of-the-alps-2026",      "Tour of the Alps 2026",                  "AT", "tour-of-the-alps",           [1, 2, 3, 4, 5]),
+]
+
+
 SOURCES: list[Source] = []
 
 # Tour de France 2026 (21 etapas) — cyclingstage
@@ -140,14 +168,6 @@ for sid, name, country, url in CLASSICS:
 # Cicloturistas con descarga directa verificada
 GRAN_FONDOS = [
     Source(
-        id="maratona-dles-dolomites-2026",
-        name="Maratona dles Dolomites 2026 — Maratona 138 km",
-        type="gran-fondo", country="IT",
-        source_url="https://www.maratona.it/maratona.gpx",
-        event="Maratona dles Dolomites 2026",
-        notes="Distancia 138 km / 4320 m D+. Recorrido fijo histórico.",
-    ),
-    Source(
         id="mallorca-312-2026",
         name="Mallorca 312 OK Mobility 2026",
         type="gran-fondo", country="ES",
@@ -206,8 +226,51 @@ GRAN_FONDOS = [
         notes="Archivo de 2025 (organizador actualiza cerca de fecha).",
         is_zip=True,
     ),
+    Source(
+        id="sportful-dolomiti-race-2026-medium",
+        name="Sportful Dolomiti Race 2026 — Medium 125 km",
+        type="gran-fondo", country="IT",
+        source_url="https://www.sportfuldolomitirace.it/wp-content/uploads/2024/05/SDR-definitivo-GPX125.zip",
+        event="Granfondo Sportful Dolomiti Race 2026",
+        notes="Archivo del 2024 (organizador no ha republicado).",
+        is_zip=True,
+    ),
+    Source(
+        id="maratona-dles-dolomites-2026",
+        name="Maratona dles Dolomites 2026 — 138 km",
+        type="gran-fondo", country="IT",
+        source_url=_maratona_url(),
+        event="Maratona dles Dolomites 2026",
+        notes="Distancia 138 km / 4230 m D+. Recorrido fijo.",
+        is_zip=True,
+    ),
 ]
 SOURCES.extend(GRAN_FONDOS)
+
+# Stage races con patron cyclingstage estable
+for id_prefix, race_name, country, slug, stage_numbers in STAGE_RACES_2026:
+    for n in stage_numbers:
+        url = _cs_stage(slug, n)
+        SOURCES.append(Source(
+            id=f"{id_prefix}-stage-{n:02d}",
+            name=f"{race_name} — Stage {n}",
+            type="stage-race",
+            country=country,
+            source_url=url,
+            event=race_name,
+            stage=n,
+        ))
+    # Tour Down Under: prologue
+    if slug == "tour-down-under":
+        SOURCES.append(Source(
+            id=f"{id_prefix}-prologue",
+            name=f"{race_name} — Prologue",
+            type="stage-race",
+            country=country,
+            source_url=f"https://cdn.cyclingstage.com/images/{slug}/2026/prologue-route.gpx",
+            event=race_name,
+            stage=0,
+        ))
 
 
 # ── Descarga ───────────────────────────────────────────────────────────────

@@ -101,6 +101,10 @@ STAGE_RACES_2026: list[tuple[str, str, str, str, list[int]]] = [
     ("uae-tour-2026",              "UAE Tour 2026",                          "AE", "uae-tour",                   [1, 2, 3, 4, 5, 6, 7]),
     ("o-gran-camino-2026",         "O Gran Camiño 2026",                     "ES", "o-gran-camino",              [1, 2, 3, 4]),
     ("tour-of-the-alps-2026",      "Tour of the Alps 2026",                  "AT", "tour-of-the-alps",           [1, 2, 3, 4, 5]),
+    # Tour Auvergne-Rhône-Alpes (ex Critérium du Dauphiné) — 7-14 jun 2026.
+    # cyclingstage publicará el GPX 2-4 semanas antes; el script lo recogerá
+    # cuando exista (404 hoy 13 may 2026). Reintentar a partir del 17 may.
+    ("tour-aura-2026",             "Tour Auvergne-Rhône-Alpes 2026",         "FR", "tour-auvergne-rhone-alpes",  [1, 2, 3, 4, 5, 6, 7, 8]),
 ]
 
 

@@ -15,7 +15,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CLIMBS_FILE = REPO_ROOT / "climbs.json"
-ASCENTS_FILE = REPO_ROOT / "scripts" / "data" / "climb_pro_ascents.json"
+DEFAULT_ASCENTS_FILE = REPO_ROOT / "scripts" / "data" / "climb_pro_ascents.json"
 
 
 def normalize(s: str, keep_parens: bool = False) -> str:
@@ -29,9 +29,17 @@ def normalize(s: str, keep_parens: bool = False) -> str:
     return s
 
 
+def _ascent_key(a: dict) -> tuple:
+    """Clave de deduplicación: rider+year+time_s±5s."""
+    return (a.get("rider", ""), a.get("year", 0), a.get("time_s", 0) // 5)
+
+
 def main() -> int:
+    ascents_file = (Path(sys.argv[1]).resolve()
+                    if len(sys.argv) > 1 else DEFAULT_ASCENTS_FILE)
+    print(f"Cargando ascensos de: {ascents_file}")
     climbs_data = json.loads(CLIMBS_FILE.read_text())
-    entries = json.loads(ASCENTS_FILE.read_text())
+    entries = json.loads(ascents_file.read_text())
     climbs = climbs_data["climbs"]
 
     by_full: dict[str, list[dict]] = {}
@@ -59,10 +67,15 @@ def main() -> int:
 
         if len(candidates) == 1:
             tgt = candidates[0]
-            tgt["proAscents"] = entry["ascents"]
-            total_ascents += len(entry["ascents"])
+            existing = tgt.get("proAscents", []) or []
+            existing_keys = {_ascent_key(a) for a in existing}
+            new = [a for a in entry["ascents"]
+                   if _ascent_key(a) not in existing_keys]
+            tgt["proAscents"] = existing + new
+            total_ascents += len(new)
             merged += 1
-            print(f"  ✓ {match_str} → {tgt['name']} ({len(entry['ascents'])} ascensos)")
+            print(f"  ✓ {match_str} → {tgt['name']} "
+                  f"(+{len(new)} nuevos, total {len(tgt['proAscents'])})")
         elif not candidates:
             not_found.append(match_str)
         else:

@@ -1,0 +1,106 @@
+[
+  {
+    "match": "Col du Granon",
+    "ascents": [
+      {"rider": "Jonas Vingegaard", "time_s": 2155, "year": 2022, "race": "Tour de France stage 11", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/07/13/jonas-vingegaard-cracks-tadej-pogacar-on-col-du-granon/"}
+    ]
+  },
+  {
+    "match": "Plateau de Beille",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 2384, "year": 2024, "race": "Tour de France stage 15", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/07/14/greatest-climbing-performances-of-all-time-on-plateau-de-beille-tour-de-france-2024-stage-15/"}
+    ]
+  },
+  {
+    "match": "Col de la Loze",
+    "ascents": [
+      {"rider": "Felix Gall", "time_s": 2040, "year": 2023, "race": "Tour de France stage 17", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2023/07/19/vingegaard-destroys-tadej-pogacar-in-week-3-tour-de-france-2023-stages-16-17/"},
+      {"rider": "Miguel Ángel López", "time_s": 3778, "year": 2020, "race": "Tour de France stage 17", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://www.cyclingweekly.com/news/racing/tour-de-france/tour-de-france-2020-new-strava-koms-set-on-col-de-la-madeleine-and-col-de-la-loze-468823"}
+    ]
+  },
+  {
+    "match": "Col de Joux Plane",
+    "ascents": [
+      {"rider": "Tadej Pogačar / Jonas Vingegaard", "time_s": 2032, "year": 2023, "race": "Tour de France stage 14", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2023/07/15/pogacar-and-vingegaard-flying-up-joux-plane-tour-de-france-stage-14-2023/"}
+    ]
+  },
+  {
+    "match": "Tre Cime di Lavaredo",
+    "ascents": [
+      {"rider": "Primož Roglič", "time_s": 860, "year": 2023, "race": "Giro d'Italia stage 19", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2023/05/26/roglic-destroys-tre-cime-di-laverado-record-before-final-itt/"}
+    ]
+  },
+  {
+    "match": "Passo dello Stelvio (Prato)",
+    "ascents": [
+      {"rider": "Jai Hindley", "time_s": 4181, "year": 2020, "race": "Giro d'Italia stage 18", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://www.rouleur.cc/en-us/blogs/rouleur-explore/the-must-ride-mountain-passes-in-italy-where-they-are-the-numbers-and-the-strava-records"}
+    ]
+  },
+  {
+    "match": "Grand Colombier",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 2672, "year": 2023, "race": "Tour de France stage 13", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "http://www.climbing-records.com/2023/07/pogacar-demolishes-also-grand-colombier.html"}
+    ]
+  },
+  {
+    "match": "Pla d'Adet (Saint-Lary)",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 1670, "year": 2024, "race": "Tour de France stage 14", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/07/13/pogacar-possibly-does-the-greatest-performance-of-the-21st-century-tour-de-france-2024-stage-14/"},
+      {"rider": "Jonas Vingegaard", "time_s": 1709, "year": 2024, "race": "Tour de France stage 14", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/07/13/pogacar-possibly-does-the-greatest-performance-of-the-21st-century-tour-de-france-2024-stage-14/"}
+    ]
+  },
+  {
+    "match": "Isola 2000",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 2264, "year": 2024, "race": "Tour de France stage 19", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/07/19/second-greatest-performance-of-all-time-by-pogacar-tour-de-france-2024-stage-19/"}
+    ]
+  },
+  {
+    "match": "Col de Marie Blanque",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 1468, "year": 2020, "race": "Tour de France stage 9", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/power-analysis-tadej-pogacar-on-stage-9-of-the-2020-tour-de-france/"}
+    ]
+  },
+  {
+    "match": "Col du Pré",
+    "ascents": [
+      {"rider": "Lenny Martínez / Valentin Paret-Peintre / Primož Roglič", "time_s": 2107, "year": 2025, "race": "Tour de France stage 19", "context": "leading", "climb_type": "intermediate", "source_url": "https://cyclingflash.com/news/tour-2025-5-climbing-records-broken-tadej-pogacar-remains-the-world-s-fastest"}
+    ]
+  },
+  {
+    "match": "Puy Mary",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 840, "year": 2024, "race": "Tour de France stage 11", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2024/07/10/vingegaard-returns-to-beat-pogacar-tour-de-france-2024-stage-11/"}
+    ]
+  },
+  {
+    "match": "Oude Kwaremont",
+    "ascents": [
+      {"rider": "Mathieu van der Poel", "time_s": 166, "year": 2026, "race": "Tour of Flanders", "context": "leading", "climb_type": "intermediate", "source_url": "https://cyclingflash.com/news/mathieu-van-der-poel-sets-fastest-ever-time-on-oude-kwaremont-after-tadej-pogacar-attack"},
+      {"rider": "Tadej Pogačar", "time_s": 168, "year": 2025, "race": "Tour of Flanders", "context": "leading", "climb_type": "intermediate", "source_url": "https://cyclingflash.com/news/mathieu-van-der-poel-sets-fastest-ever-time-on-oude-kwaremont-after-tadej-pogacar-attack"}
+    ]
+  },
+  {
+    "match": "Cipressa",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 528, "year": 2026, "race": "Milán-San Remo", "context": "leading", "climb_type": "intermediate", "source_url": "https://www.cyclingnews.com/news/next-year-cipressa-under-eight-minutes-van-der-poel-and-pogacar-joke-with-each-other-after-record-breaking-milan-san-remo/"},
+      {"rider": "Tadej Pogačar", "time_s": 535, "year": 2025, "race": "Milán-San Remo", "context": "leading", "climb_type": "intermediate", "source_url": "https://www.domestiquecycling.com/en/news/pogacar-sets-new-cipressa-record-in-stunning-fightback/"},
+      {"rider": "Tadej Pogačar", "time_s": 529, "year": 2024, "race": "Milán-San Remo", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://www.bikeradar.com/news/pogacars-historic-milan-san-remo-win-in-seven-incredible-numbers"},
+      {"rider": "Tadej Pogačar", "time_s": 537, "year": 2023, "race": "Milán-San Remo", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://www.domestiquecycling.com/en/news/pogacar-sets-new-cipressa-record-in-stunning-fightback/"}
+    ]
+  },
+  {
+    "match": "Poggio di San Remo",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 331, "year": 2024, "race": "Milán-San Remo", "context": "leading", "climb_type": "intermediate", "source_url": "https://www.bikeradar.com/news/pogacars-historic-milan-san-remo-win-in-seven-incredible-numbers"},
+      {"rider": "Mathieu van der Poel", "time_s": 340, "year": 2023, "race": "Milán-San Remo", "context": "leading", "climb_type": "intermediate", "source_url": "https://www.cyclingnews.com/races/milan-san-remo-2023/elite-men/results/"}
+    ]
+  },
+  {
+    "match": "Côte de la Redoute",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 238, "year": 2025, "race": "Liège-Bastogne-Liège", "context": "leading", "climb_type": "intermediate", "source_url": "https://cyclinguptodate.com/cycling/nearly-9wkg-tadej-pogacar-and-paul-seixas-deliver-greatest-ever-four-minute-effort-on-la-redoute-at-liege-bastogne-liege"},
+      {"rider": "Tadej Pogačar", "time_s": 248, "year": 2024, "race": "Liège-Bastogne-Liège", "context": "leading", "climb_type": "intermediate", "source_url": "https://velo.outsideonline.com/road/road-racing/power-analysis-tadej-pogacar-liege-bastogne-liege/"}
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "match": "Alpe d'Huez",
+    "ascents": [
+      {"rider": "Tadej Pogačar / Jonas Vingegaard / Geraint Thomas", "time_s": 2348, "year": 2022, "race": "Tour de France stage 12", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/07/14/multiple-riders-set-fastest-on-alpe-dhuez-since-2006/"},
+      {"rider": "Tom Pidcock", "time_s": 2349, "year": 2022, "race": "Tour de France stage 12", "context": "leading", "climb_type": "mountain-finish", "source_url": "http://www.climbing-records.com/2022/07/fastest-alpe-dhuez-ascent-in-16-years.html"}
+    ]
+  },
+  {
+    "match": "Mont Ventoux (Bédoin)",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 3227, "year": 2025, "race": "Tour de France stage 16", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2025/07/22/historical-performances-of-vingegaard-and-pogacar-on-mont-ventoux-tour-de-france-2025-stage-16/"},
+      {"rider": "Jonas Vingegaard", "time_s": 3273, "year": 2025, "race": "Tour de France stage 16", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2025/07/22/historical-performances-of-vingegaard-and-pogacar-on-mont-ventoux-tour-de-france-2025-stage-16/"},
+      {"rider": "Oscar Onley", "time_s": 3332, "year": 2025, "race": "Tour de France stage 16", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://cyclingflash.com/news/pogacar-the-fastest-ever-on-mont-ventoux-17-new-riders-in-the-top-50-all-time"}
+    ]
+  },
+  {
+    "match": "Col du Galibier (Valloire)",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 1250, "year": 2024, "race": "Tour de France stage 4 (final 8.5 km from Plan Lachat)", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2024/07/02/pogacar-smashes-the-col-du-galibier-record-tour-de-france-2024-stage-4/"},
+      {"rider": "Nairo Quintana", "time_s": 1343, "year": 2019, "race": "Tour de France stage 18", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2024/07/02/pogacar-smashes-the-col-du-galibier-record-tour-de-france-2024-stage-4/"}
+    ]
+  },
+  {
+    "match": "Col de la Madeleine",
+    "ascents": [
+      {"rider": "Jonas Vingegaard / Tadej Pogačar", "time_s": 3278, "year": 2025, "race": "Tour de France stage 18", "context": "leading", "climb_type": "intermediate", "source_url": "https://www.domestiquecycling.com/en/news/vingegaard-pogacar-fall-short-of-col-de-la-madeleine-climbing-record/"}
+    ]
+  },
+  {
+    "match": "Hautacam",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 2111, "year": 2025, "race": "Tour de France stage 12", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/power-analysis-stage-12-tour-de-france-pogacar-takes-revenge-hautacam/"},
+      {"rider": "Jonas Vingegaard", "time_s": 2240, "year": 2025, "race": "Tour de France stage 12", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://www.threads.com/@cyclingbottleinsta/post/DMN74yKIsco"},
+      {"rider": "Jonas Vingegaard", "time_s": 2197, "year": 2022, "race": "Tour de France stage 18", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/07/21/vingegaard-does-the-fastest-hautacam-since-armstrong/"},
+      {"rider": "Tadej Pogačar", "time_s": 2258, "year": 2022, "race": "Tour de France stage 18", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://www.threads.com/@cyclingbottleinsta/post/DMN74yKIsco"}
+    ]
+  },
+  {
+    "match": "La Planche des Belles Filles",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 970, "year": 2020, "race": "Tour de France stage 20 (ITT, climb only)", "context": "leading", "climb_type": "mountain-finish", "source_url": "http://www.climbing-records.com/2020/09/incredible-pogacar-wins-tour-with-new.html"},
+      {"rider": "Tadej Pogačar / Jonas Vingegaard", "time_s": 1183, "year": 2022, "race": "Tour de France stage 7 (Super Planche)", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/07/08/pogacar-breaks-la-super-plance-des-belles-filles-climbing-record/"},
+      {"rider": "Thibaut Pinot / Dylan Teuns", "time_s": 1050, "year": 2019, "race": "Tour de France stage 6", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://pjammcycling.com/climb/1312.La-Planch-des-Belles-Filles"}
+    ]
+  },
+  {
+    "match": "Passo Fedaia (Marmolada)",
+    "ascents": [
+      {"rider": "Jai Hindley", "time_s": 1130, "year": 2022, "race": "Giro d'Italia stage 20", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/05/28/hindley-almost-breaks-passo-fedaia-record-from-90s/"}
+    ]
+  },
+  {
+    "match": "Passo Giau",
+    "ascents": [
+      {"rider": "Egan Bernal", "time_s": 1965, "year": 2021, "race": "Giro d'Italia stage 16", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2022/04/08/giro-2021-egan-bernal-is-unbeatable-at-high-altitude/"}
+    ]
+  },
+  {
+    "match": "Alto de l'Angliru",
+    "ascents": [
+      {"rider": "Primož Roglič / Jonas Vingegaard", "time_s": 2547, "year": 2023, "race": "Vuelta a España stage 17", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://forum.cyclingnews.com/threads/angliru-climbing-time.40756/"},
+      {"rider": "Sepp Kuss", "time_s": 2566, "year": 2023, "race": "Vuelta a España stage 17", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://forum.cyclingnews.com/threads/angliru-climbing-time.40756/"},
+      {"rider": "Primož Roglič / Sepp Kuss", "time_s": 2640, "year": 2020, "race": "Vuelta a España stage 12", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://forum.cyclingnews.com/threads/angliru-climbing-time.40756/"},
+      {"rider": "João Almeida", "time_s": 2470, "year": 2025, "race": "Vuelta a España stage 13", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2025/09/05/almeida-conquers-alto-de-langliru-as-vingegaard-shadows-him-vuelta-a-espana-2025-stage-13/"}
+    ]
+  },
+  {
+    "match": "Lagos de Covadonga",
+    "ascents": [
+      {"rider": "Primož Roglič", "time_s": 1529, "year": 2024, "race": "Vuelta a España stage 16", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/09/03/mas-and-landa-attack-on-covadonga-vuelta-a-espana-2024-stage-16/"},
+      {"rider": "Primož Roglič", "time_s": 1605, "year": 2021, "race": "Vuelta a España stage 17", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/09/03/mas-and-landa-attack-on-covadonga-vuelta-a-espana-2024-stage-16/"}
+    ]
+  },
+  {
+    "match": "Bola del Mundo",
+    "ascents": [
+      {"rider": "Jonas Vingegaard", "time_s": 2266, "year": 2025, "race": "Vuelta a España stage 20", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://velo.outsideonline.com/road/road-training/how-vingegaard-sealed-gc-victory-at-the-vuelta-power-analysis"}
+    ]
+  },
+  {
+    "match": "Mur de Huy",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 166, "year": 2025, "race": "Flèche Wallonne", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://cyclinguptodate.com/cycling/tadej-pogacars-matches-dylan-teuns-climbing-time-at-mur-de-huy-valverde-and-alaphilippe-maintain-climbing-record"}
+    ]
+  },
+  {
+    "match": "Col du Tourmalet",
+    "ascents": [
+      {"rider": "Jonas Vingegaard / Tadej Pogačar", "time_s": 2737, "year": 2023, "race": "Tour de France stage 6 (mountain finish from Luz-Saint-Sauveur)", "context": "leading", "climb_type": "mountain-finish", "source_url": "http://www.climbing-records.com/2023/07/vingegaard-and-pogacar-break-30-year.html"}
+    ]
+  }
+]

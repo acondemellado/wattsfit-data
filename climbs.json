@@ -20,7 +20,9 @@
         "race": "Tour de France",
         "source_url": "https://en.wikipedia.org/wiki/Marco_Pantani",
         "notes": "37:35 desde 14,5 km (referencia histórica). Reconocido ampliamente como récord pese a era EPO."
-      }
+      },
+      "summitLat": 45.0833,
+      "summitLon": 6.0667
     },
     {
       "name": "Col du Tourmalet",
@@ -31,7 +33,17 @@
       "summitM": 2115,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.9048,
+      "summitLon": 0.141,
+      "proRecord": {
+        "rider": "Jonas Vingegaard / Tadej Pogačar",
+        "time_s": 2735,
+        "year": 2023,
+        "race": "Tour de France (etapa 6)",
+        "source_url": "https://cyclinguptodate.com/cycling/tour-de-france-jonas-vingegaard-and-tadej-pogacar-smash-the-col-du-tourmalet-record",
+        "notes": "45:35 desde Luz-Saint-Sauveur (vertiente oeste). Récord moderno."
+      }
     },
     {
       "name": "Mont Ventoux (Bédoin)",
@@ -51,7 +63,9 @@
         "race": "Tour de France (etapa 16)",
         "source_url": "https://en.wikipedia.org/wiki/Mont_Ventoux",
         "notes": "53:47 desde la rotonda St-Estève en Bédoin. Batió el 55:51 de Iban Mayo (2004)."
-      }
+      },
+      "summitLat": 44.1741,
+      "summitLon": 5.2783
     },
     {
       "name": "Col du Galibier (Valloire)",
@@ -71,7 +85,9 @@
         "race": "Tour de France (etapa 4)",
         "source_url": "https://lanternerouge.com/2024/07/02/pogacar-smashes-the-col-du-galibier-record-tour-de-france-2024-stage-4/",
         "notes": "20:50 para los últimos 8,5 km finales desde Plan Lachat. Mejoró por 1:33 a Quintana (2019)."
-      }
+      },
+      "summitLat": 45.064,
+      "summitLon": 6.408
     },
     {
       "name": "Col d'Izoard",
@@ -82,7 +98,9 @@
       "summitM": 2360,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 44.82,
+      "summitLon": 6.735
     },
     {
       "name": "Col de la Madeleine",
@@ -102,7 +120,9 @@
         "race": "Tour de France (etapa 16)",
         "source_url": "https://cyclingflash.com/news/tour-2025-will-col-de-la-madeleine-s-climbing-record-fall-too",
         "notes": "52:40 desde La Chambre. Récord histórico aún en pie."
-      }
+      },
+      "summitLat": 45.4378,
+      "summitLon": 6.4011
     },
     {
       "name": "Col du Glandon",
@@ -122,7 +142,9 @@
         "race": "Tour de France (etapa 18)",
         "source_url": "https://cyclingflash.com/news/tour-2025-a-new-climbing-record-on-glandon-and-a-failed-attempt-on-madeleine",
         "notes": "51:10. Batió el récord de Contador (2017)."
-      }
+      },
+      "summitLat": 45.2398,
+      "summitLon": 6.1719
     },
     {
       "name": "Col de la Croix de Fer",
@@ -134,7 +156,9 @@
       "races": [
         "TDF",
         "Dauphiné"
-      ]
+      ],
+      "summitLat": 45.2277,
+      "summitLon": 6.2031
     },
     {
       "name": "Col d'Aubisque",
@@ -145,7 +169,9 @@
       "summitM": 1709,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.9778,
+      "summitLon": -0.3372
     },
     {
       "name": "Hautacam",
@@ -156,7 +182,9 @@
       "summitM": 1520,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.9697,
+      "summitLon": -0.05
     },
     {
       "name": "Col de Peyresourde",
@@ -167,7 +195,9 @@
       "summitM": 1569,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.7972,
+      "summitLon": 0.4506
     },
     {
       "name": "Col d'Aspin",
@@ -178,7 +208,9 @@
       "summitM": 1490,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.9442,
+      "summitLon": 0.3261
     },
     {
       "name": "Plateau de Beille",
@@ -189,7 +221,9 @@
       "summitM": 1780,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 42.7917,
+      "summitLon": 1.7011
     },
     {
       "name": "Luz Ardiden",
@@ -211,7 +245,9 @@
       "summitM": 2413,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 44.97,
+      "summitLon": 6.6217
     },
     {
       "name": "Col de la Loze",
@@ -253,7 +289,9 @@
         "race": "Tour de France (etapa 20, CRI)",
         "source_url": "http://www.climbing-records.com/2020/09/incredible-pogacar-wins-tour-with-new.html",
         "notes": "16:10 versión estándar (5,9 km / 8,5%). Super Planche: 19:43 (2022)."
-      }
+      },
+      "summitLat": 47.77,
+      "summitLon": 6.7811
     },
     {
       "name": "Pra Loup",
@@ -317,7 +355,9 @@
         "race": "Giro d'Italia (etapa 20)",
         "source_url": "http://www.climbing-records.com/2017/05/fast-ascents-on-stelvio.html",
         "notes": "1:01:17 sobre 19,5 km al 7,5%. Mejor tiempo pro moderno desde Prato."
-      }
+      },
+      "summitLat": 46.5283,
+      "summitLon": 10.4544
     },
     {
       "name": "Passo del Mortirolo (Mazzo)",
@@ -336,7 +376,9 @@
         "race": "Giro d'Italia",
         "source_url": "https://www.cyclingnews.com/features/passo-del-mortirolo-why-the-jewel-of-the-giro-ditalia-is-pro-cyclings-most-brutal-climb/",
         "notes": "41:42. Pantani 42:40 (1994). Algunas fuentes discuten Contador 2015."
-      }
+      },
+      "summitLat": 46.2547,
+      "summitLon": 10.3036
     },
     {
       "name": "Passo Gavia (Ponte di Legno)",
@@ -367,7 +409,9 @@
         "race": "Giro d'Italia",
         "source_url": "https://www.maratona.it/en/giro-d-italia-and-maratona",
         "notes": "28:54 desde Arabba. Año aproximado."
-      }
+      },
+      "summitLat": 46.4878,
+      "summitLon": 11.8125
     },
     {
       "name": "Monte Zoncolan (Ovaro)",
@@ -386,7 +430,9 @@
         "race": "Giro d'Italia (etapa 17)",
         "source_url": "https://en.wikipedia.org/wiki/Monte_Zoncolan",
         "notes": "39:05 sobre 10,1 km al 11,9% desde Ovaro."
-      }
+      },
+      "summitLat": 46.5036,
+      "summitLon": 12.9322
     },
     {
       "name": "Passo Giau",
@@ -405,7 +451,9 @@
         "race": "Giro d'Italia (etapa 16)",
         "source_url": "https://lanternerouge.com/2022/04/08/giro-2021-egan-bernal-is-unbeatable-at-high-antitud/",
         "notes": "32:42 sobre 9,8 km al 9,3% en condiciones de lluvia."
-      }
+      },
+      "summitLat": 46.4847,
+      "summitLon": 12.0578
     },
     {
       "name": "Passo Fedaia (Marmolada)",
@@ -424,7 +472,9 @@
         "race": "Giro d'Italia (etapa 20)",
         "source_url": "https://lanternerouge.com/2022/05/28/hindley-almost-breaks-passo-fedaia-record-from-90s/",
         "notes": "18:50 para los 5,3 km finales al 11,1%. Pantani 1998 mantiene récord histórico no oficialmente cronometrado."
-      }
+      },
+      "summitLat": 46.4583,
+      "summitLon": 11.8714
     },
     {
       "name": "Plan de Corones (Kronplatz)",
@@ -443,7 +493,9 @@
         "race": "Giro d'Italia (etapa 16, CRI)",
         "source_url": "https://www.cyclingnews.com/races/giro-ditalia-2010/stage-16/results/",
         "notes": "41:28 ganando la CRI de Plan de Corones."
-      }
+      },
+      "summitLat": 46.7392,
+      "summitLon": 11.9544
     },
     {
       "name": "Tre Cime di Lavaredo",
@@ -574,7 +626,9 @@
         "race": "Vuelta a España",
         "source_url": "https://en.wikipedia.org/wiki/Alto_de_l%27Angliru",
         "notes": "41:55 a 18,32 km/h. João Almeida 43:25 (2023) segundo más rápido."
-      }
+      },
+      "summitLat": 43.2233,
+      "summitLon": -5.9311
     },
     {
       "name": "Lagos de Covadonga",
@@ -593,7 +647,9 @@
         "race": "Vuelta a España (etapa 15)",
         "source_url": "https://cyclist.co.uk/news/5284/check-out-thibaut-pinots-lagos-de-covadonga-strava-kom",
         "notes": "33:22 KOM Strava al ganar la etapa. 21,6 km/h media."
-      }
+      },
+      "summitLat": 43.27,
+      "summitLon": -4.9925
     },
     {
       "name": "Alto de Velefique",
@@ -667,7 +723,9 @@
         "race": "Vuelta a España (etapa 20)",
         "source_url": "http://www.climbing-records.com/2012/09/bola-del-mundo-purito-as-fast-as.html",
         "notes": "35:15 sobre 11,2 km al 8,6% (Navacerrada + Bola). Purito igualó tiempo (2012)."
-      }
+      },
+      "summitLat": 40.7878,
+      "summitLon": -4.0086
     },
     {
       "name": "Alto de la Pandera",
@@ -952,7 +1010,9 @@
         "race": "Flèche Wallonne",
         "source_url": "https://www.total-velo.com/mur-de-huy-pourcentages-puissance-records/",
         "notes": "2:40 sobre el km empinado (hasta 26%). Valverde 2:41 (2014)."
-      }
+      },
+      "summitLat": 50.5161,
+      "summitLon": 5.2419
     },
     {
       "name": "Cauberg",
@@ -2586,7 +2646,9 @@
         "race": "Tour de France",
         "source_url": "https://lanternerouge.com/2022/07/21/vingegaard-does-the-fastest-hautacam-since-armstrong/",
         "notes": "34:40. Riis confesó EPO. Récord limpio moderno: Pogacar 35:08 (2025)."
-      }
+      },
+      "summitLat": 42.9697,
+      "summitLon": -0.05
     },
     {
       "name": "Lac de Payolle",
@@ -2861,7 +2923,9 @@
       "summitM": 1589,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 45.1141,
+      "summitLon": 2.6721
     },
     {
       "name": "Plomb du Cantal",
@@ -3144,7 +3208,9 @@
         "race": "Tour de France (etapa 17)",
         "source_url": "https://www.cyclingweekly.com/news/racing/tour-de-france/tour-de-france-2020-new-strava-koms-set-on-col-de-la-madeleine-and-col-de-la-loze-468823",
         "notes": "Strava KOM 1:02:58 al ganar la etapa. Primer ascenso pro al puerto."
-      }
+      },
+      "summitLat": 45.3958,
+      "summitLon": 6.575
     },
     {
       "name": "Col du Galibier (Briançon)",
@@ -3185,7 +3251,9 @@
         "race": "Tour de France (etapa 18)",
         "source_url": "http://www.climbing-records.com/2017/07/barguil-sets-tremendous-record-on-izoard.html",
         "notes": "38:15 para 14,1 km al 7,1% desde Briançon."
-      }
+      },
+      "summitLat": 44.82,
+      "summitLon": 6.735
     },
     {
       "name": "Col d'Izoard (Guillestre)",
@@ -9381,7 +9449,9 @@
       "summitM": 1336,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 47.9,
+      "summitLon": 7.1
     },
     {
       "name": "Ballon d'Alsace",
@@ -9392,7 +9462,9 @@
       "summitM": 1178,
       "races": [
         "TDF"
-      ]
+      ],
+      "summitLat": 47.8208,
+      "summitLon": 6.8366
     },
     {
       "name": "Col du Markstein",

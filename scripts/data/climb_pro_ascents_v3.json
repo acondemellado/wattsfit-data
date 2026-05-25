@@ -1,0 +1,69 @@
+[
+  {
+    "match": "Blockhaus (Roccamorice)",
+    "ascents": [
+      {"rider": "Richard Carapaz", "time_s": 2534, "year": 2022, "race": "Giro d'Italia stage 9", "context": "gc-group", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2022/11/19/the-top-10-climbing-performances-of-2022/"}
+    ]
+  },
+  {
+    "match": "Monte Lussari",
+    "ascents": [
+      {"rider": "Primož Roglič", "time_s": 1715, "year": 2023, "race": "Giro d'Italia stage 20 ITT", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2023/05/27/roglic-rewrites-history-with-huge-giro-ditalia-comeback/"}
+    ]
+  },
+  {
+    "match": "Crans-Montana",
+    "ascents": [
+      {"rider": "Einer Rubio", "time_s": 2882, "year": 2023, "race": "Giro d'Italia stage 13", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"}
+    ]
+  },
+  {
+    "match": "Monte Grappa (Semonzo)",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 3102, "year": 2024, "race": "Giro d'Italia stage 20", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2024/05/25/pogacar-pushes-monster-watts-on-monte-grappa-giro-ditalia-stage-20-2024/"}
+    ]
+  },
+  {
+    "match": "Colle delle Finestre",
+    "ascents": [
+      {"rider": "Simon Yates", "time_s": 3563, "year": 2025, "race": "Giro d'Italia stage 20", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2025/05/31/simon-yates-smashes-finestre-record-giro-ditalia-2025-stage-20/"}
+    ]
+  },
+  {
+    "match": "Cuitu Negru",
+    "ascents": [
+      {"rider": "Eddie Dunbar", "time_s": 1493, "year": 2024, "race": "Vuelta a España stage 20", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/09/07/dunbar-breaks-picon-blanco-record-vuelta-a-espana-2024-stage-20/"}
+    ]
+  },
+  {
+    "match": "Col du Soulor",
+    "ascents": [
+      {"rider": "Grupo GC (Pogačar/Vingegaard)", "time_s": 2014, "year": 2025, "race": "Tour de France stage 12", "context": "gc-group", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2025/07/17/pogacar-destroys-gc-riders-on-hautacam-tour-de-france-2025-stage-12/"}
+    ]
+  },
+  {
+    "match": "Port Ainé",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 2770, "year": 2024, "race": "Volta a Catalunya stage 3", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/03/20/tadej-pogacar-obliterates-port-aine-record-volta-a-catalunya-2024-stage-3/"}
+    ]
+  },
+  {
+    "match": "Alto de Arrate",
+    "ascents": [
+      {"rider": "Ben Healy", "time_s": 729, "year": 2025, "race": "Itzulia Basque Country stage 6", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2025/04/12/uae-stops-healys-strong-ride-itzulia-basque-country-2025-stage-6/"},
+      {"rider": "Jonas Vingegaard", "time_s": 681, "year": 2023, "race": "Itzulia Basque Country", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2025/04/12/uae-stops-healys-strong-ride-itzulia-basque-country-2025-stage-6/"}
+    ]
+  },
+  {
+    "match": "Colma di Sormano",
+    "ascents": [
+      {"rider": "Tadej Pogačar", "time_s": 1456, "year": 2024, "race": "Il Lombardia", "context": "leading", "climb_type": "intermediate", "source_url": "https://lanternerouge.com/2024/10/12/stellar-performance-by-pogacar-closes-the-greatest-season-of-all-time-il-lombardia-2024/"}
+    ]
+  },
+  {
+    "match": "Picón Blanco",
+    "ascents": [
+      {"rider": "Eddie Dunbar", "time_s": 1493, "year": 2024, "race": "Vuelta a España stage 20", "context": "leading", "climb_type": "mountain-finish", "source_url": "https://lanternerouge.com/2024/09/07/dunbar-breaks-picon-blanco-record-vuelta-a-espana-2024-stage-20/"}
+    ]
+  }
+]

@@ -806,6 +806,17 @@
       "summitM": 2178,
       "races": [
         "Giro"
+      ],
+      "proAscents": [
+        {
+          "rider": "Simon Yates",
+          "time_s": 3563,
+          "year": 2025,
+          "race": "Giro d'Italia stage 20",
+          "context": "leading",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2025/05/31/simon-yates-smashes-finestre-record-giro-ditalia-2025-stage-20/"
+        }
       ]
     },
     {
@@ -1162,6 +1173,17 @@
       "summitM": 1485,
       "races": [
         "Vuelta a Burgos"
+      ],
+      "proAscents": [
+        {
+          "rider": "Eddie Dunbar",
+          "time_s": 1493,
+          "year": 2024,
+          "race": "Vuelta a España stage 20",
+          "context": "leading",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2024/09/07/dunbar-breaks-picon-blanco-record-vuelta-a-espana-2024-stage-20/"
+        }
       ]
     },
     {
@@ -1217,6 +1239,26 @@
       "summitM": 540,
       "races": [
         "Itzulia"
+      ],
+      "proAscents": [
+        {
+          "rider": "Ben Healy",
+          "time_s": 729,
+          "year": 2025,
+          "race": "Itzulia Basque Country stage 6",
+          "context": "leading",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2025/04/12/uae-stops-healys-strong-ride-itzulia-basque-country-2025-stage-6/"
+        },
+        {
+          "rider": "Jonas Vingegaard",
+          "time_s": 681,
+          "year": 2023,
+          "race": "Itzulia Basque Country",
+          "context": "leading",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2025/04/12/uae-stops-healys-strong-ride-itzulia-basque-country-2025-stage-6/"
+        }
       ]
     },
     {
@@ -1317,6 +1359,17 @@
       "races": [
         "Volta Catalunya",
         "Vuelta"
+      ],
+      "proAscents": [
+        {
+          "rider": "Tadej Pogačar",
+          "time_s": 2770,
+          "year": 2024,
+          "race": "Volta a Catalunya stage 3",
+          "context": "leading",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2024/03/20/tadej-pogacar-obliterates-port-aine-record-volta-a-catalunya-2024-stage-3/"
+        }
       ]
     },
     {
@@ -1743,6 +1796,17 @@
       "summitM": 1474,
       "races": [
         "TDF"
+      ],
+      "proAscents": [
+        {
+          "rider": "Grupo GC (Pogačar/Vingegaard)",
+          "time_s": 2014,
+          "year": 2025,
+          "race": "Tour de France stage 12",
+          "context": "gc-group",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2025/07/17/pogacar-destroys-gc-riders-on-hautacam-tour-de-france-2025-stage-12/"
+        }
       ]
     },
     {
@@ -1988,6 +2052,17 @@
       "summitM": 1745,
       "races": [
         "Giro"
+      ],
+      "proAscents": [
+        {
+          "rider": "Tadej Pogačar",
+          "time_s": 3102,
+          "year": 2024,
+          "race": "Giro d'Italia stage 20",
+          "context": "leading",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2024/05/25/pogacar-pushes-monster-watts-on-monte-grappa-giro-ditalia-stage-20-2024/"
+        }
       ]
     },
     {
@@ -2077,6 +2152,17 @@
       "summitM": 2142,
       "races": [
         "Giro"
+      ],
+      "proAscents": [
+        {
+          "rider": "Richard Carapaz",
+          "time_s": 2534,
+          "year": 2022,
+          "race": "Giro d'Italia stage 9",
+          "context": "gc-group",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2022/11/19/the-top-10-climbing-performances-of-2022/"
+        }
       ]
     },
     {
@@ -2254,6 +2340,17 @@
       "summitM": 1830,
       "races": [
         "Vuelta"
+      ],
+      "proAscents": [
+        {
+          "rider": "Eddie Dunbar",
+          "time_s": 1493,
+          "year": 2024,
+          "race": "Vuelta a España stage 20",
+          "context": "leading",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2024/09/07/dunbar-breaks-picon-blanco-record-vuelta-a-espana-2024-stage-20/"
+        }
       ]
     },
     {
@@ -8535,6 +8632,17 @@
       "summitM": 1124,
       "races": [
         "Lombardía"
+      ],
+      "proAscents": [
+        {
+          "rider": "Tadej Pogačar",
+          "time_s": 1456,
+          "year": 2024,
+          "race": "Il Lombardia",
+          "context": "leading",
+          "climb_type": "intermediate",
+          "source_url": "https://lanternerouge.com/2024/10/12/stellar-performance-by-pogacar-closes-the-greatest-season-of-all-time-il-lombardia-2024/"
+        }
       ]
     },
     {
@@ -8811,6 +8919,17 @@
       "summitM": 1760,
       "races": [
         "Giro"
+      ],
+      "proAscents": [
+        {
+          "rider": "Primož Roglič",
+          "time_s": 1715,
+          "year": 2023,
+          "race": "Giro d'Italia stage 20 ITT",
+          "context": "leading",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2023/05/27/roglic-rewrites-history-with-huge-giro-ditalia-comeback/"
+        }
       ]
     },
     {
@@ -9418,6 +9537,17 @@
       "summitM": 1500,
       "races": [
         "Tour de Romandie"
+      ],
+      "proAscents": [
+        {
+          "rider": "Einer Rubio",
+          "time_s": 2882,
+          "year": 2023,
+          "race": "Giro d'Italia stage 13",
+          "context": "leading",
+          "climb_type": "mountain-finish",
+          "source_url": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"
+        }
       ]
     },
     {

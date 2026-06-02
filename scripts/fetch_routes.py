@@ -351,15 +351,24 @@ def _cs_women_classic(base: str) -> str:
 
 
 def _load_women_2026() -> None:
-    # Gran vuelta femenina con GPX disponible: Giro d'Italia Women (9 etapas).
-    for n in range(1, 10):
-        SOURCES.append(Source(
-            id=f"giro-women-2026-stage-{n:02d}",
-            name=f"Giro d'Italia Women 2026 — Stage {n}",
-            type="grand-tour", country="IT",
-            source_url=_cs_women_stage("giro-women", n),
-            event="Giro d'Italia Women 2026", stage=n, gender="women",
-        ))
+    # Grandes vueltas femeninas. (id_prefix, race, country, cdn_base, n_stages)
+    # Giro Women: GPX ya publicado. Tour de France Femmes y Vuelta Femenina:
+    # cyclingstage aún no publica sus GPX 2026 (404 hoy); el fetch los salta
+    # sin error y los recogerá automáticamente en cuanto existan. Bases CDN
+    # verificadas con la edición 2025.
+    for prefix, race, country, base, n_stages in [
+        ("giro-women-2026",            "Giro d'Italia Women 2026",          "IT", "giro-women",          9),
+        ("tour-de-france-femmes-2026", "Tour de France Femmes 2026",        "FR", "tour-de-france-femmes", 9),
+        ("vuelta-femenina-2026",       "La Vuelta Femenina 2026",           "ES", "vuelta-femenina",     7),
+    ]:
+        for n in range(1, n_stages + 1):
+            SOURCES.append(Source(
+                id=f"{prefix}-stage-{n:02d}",
+                name=f"{race} — Stage {n}",
+                type="grand-tour", country=country,
+                source_url=_cs_women_stage(base, n),
+                event=race, stage=n, gender="women",
+            ))
     # Grandes clásicas femeninas (un día).
     for sid, name, country, base in [
         ("strade-bianche-women-2026",        "Strade Bianche Donne 2026",        "IT", "strade-bianche"),

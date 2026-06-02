@@ -1315,20 +1315,20 @@
       "year": 2026,
       "stage": 6,
       "gpx_path": "routes/grand-tour/tdf-2026-stage-06.gpx",
-      "source_url": "https://www.cyclingstage.com/tour-de-france-2026-route/stage-6-tdf-2026/ (GPX origen erróneo; trazado reconstruido con OSRM sobre waypoints oficiales Pau→Col d'Aspin→Col du Tourmalet→Gavarnie-Gèdre y altimetría Copernicus EU-DEM 25m)",
-      "notes": "Reconstruido 2026-06-02: el GPX de cyclingstage estaba truncado (128 km, sin Aspin ni Tourmalet, máx 1824 m). Ruta oficial: 186 km, Aspin + Tourmalet + final en Gavarnie-Gèdre.",
-      "distance_km": 182.09,
-      "elevation_gain_m": 4225,
-      "elevation_loss_m": 3036,
-      "min_ele_m": 177,
-      "max_ele_m": 2100,
+      "source_url": "GPX oficial de la etapa (recorrido real verificado, aportado manualmente).",
+      "notes": "Etapa 6 (Pau→Gavarnie-Gèdre vía Aspin+Tourmalet). GPX oficial verificado, guardado SIN decimar para fidelidad total. Sustituye al de cyclingstage (truncado) y a la reconstrucción OSRM (imprecisa).",
+      "distance_km": 186.15,
+      "elevation_gain_m": 4158,
+      "elevation_loss_m": 2968,
+      "min_ele_m": 182,
+      "max_ele_m": 2108,
       "bbox": {
-        "min_lat": 42.73639,
-        "max_lat": 43.29919,
-        "min_lon": -0.37755,
-        "max_lon": 0.36076
+        "min_lat": 42.73503,
+        "max_lat": 43.28784,
+        "min_lon": -0.35957,
+        "max_lon": 0.37936
       },
-      "points": 1001
+      "points": 6434
     },
     {
       "id": "tdf-2026-stage-07",

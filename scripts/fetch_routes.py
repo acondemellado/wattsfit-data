@@ -436,21 +436,70 @@ def fetch_gpx(src: Source) -> bytes | None:
 
 # ── Procesado ──────────────────────────────────────────────────────────────
 
-def decimate(gpx: gpxpy.gpx.GPX, target: int = TARGET_POINTS) -> None:
+# Tolerancia de simplificación Douglas-Peucker (metros). Garantiza que la
+# línea simplificada NUNCA se aleja más de esto del track real (también en las
+# horquillas), a diferencia del submuestreo uniforme, que recortaba curvas.
+EPSILON_M = 8.0
+
+
+def _project(points, lat0):
+    """Proyección equirectangular local a metros (suficiente a escala de etapa
+    para medir distancias perpendiculares en RDP)."""
+    kx = 111320.0 * math.cos(math.radians(lat0))
+    ky = 110540.0
+    return [(p.longitude * kx, p.latitude * ky) for p in points]
+
+
+def _perp_dist(px, py, ax, ay, bx, by) -> float:
+    """Distancia del punto (px,py) al SEGMENTO (a→b), en las mismas unidades."""
+    dx, dy = bx - ax, by - ay
+    if dx == 0 and dy == 0:
+        return math.hypot(px - ax, py - ay)
+    t = ((px - ax) * dx + (py - ay) * dy) / (dx * dx + dy * dy)
+    t = max(0.0, min(1.0, t))
+    cx, cy = ax + t * dx, ay + t * dy
+    return math.hypot(px - cx, py - cy)
+
+
+def _rdp_keep(proj, eps: float) -> list[bool]:
+    """Máscara de puntos a conservar (Douglas-Peucker iterativo)."""
+    n = len(proj)
+    keep = [False] * n
+    keep[0] = keep[n - 1] = True
+    stack = [(0, n - 1)]
+    while stack:
+        i, j = stack.pop()
+        if j <= i + 1:
+            continue
+        ax, ay = proj[i]
+        bx, by = proj[j]
+        dmax, idx = 0.0, -1
+        for k in range(i + 1, j):
+            d = _perp_dist(proj[k][0], proj[k][1], ax, ay, bx, by)
+            if d > dmax:
+                dmax, idx = d, k
+        if dmax > eps and idx != -1:
+            keep[idx] = True
+            stack.append((i, idx))
+            stack.append((idx, j))
+    return keep
+
+
+def decimate(gpx: gpxpy.gpx.GPX, epsilon_m: float = EPSILON_M) -> None:
     """
-    Decima cada segmento a aprox. target puntos repartidos uniformemente.
-    Mantiene siempre primero y último.
+    Simplifica cada segmento con Douglas-Peucker: elimina puntos redundantes
+    pero CONSERVANDO la forma real dentro de `epsilon_m` metros. No inventa ni
+    desplaza la traza — solo descarta puntos que ya quedan sobre la línea.
     """
     for track in gpx.tracks:
         for seg in track.segments:
-            n = len(seg.points)
-            if n <= target:
+            pts = seg.points
+            if len(pts) <= 2:
                 continue
-            step = n / target
-            keep_idx = {round(i * step) for i in range(target)}
-            keep_idx.add(0)
-            keep_idx.add(n - 1)
-            seg.points = [p for i, p in enumerate(seg.points) if i in keep_idx]
+            lat0 = sum(p.latitude for p in pts) / len(pts)
+            proj = _project(pts, lat0)
+            keep = _rdp_keep(proj, epsilon_m)
+            seg.points = [p for p, k in zip(pts, keep) if k]
 
 
 def compute_stats(gpx: gpxpy.gpx.GPX) -> dict:

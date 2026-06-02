@@ -15,18 +15,19 @@
       "gpx_path": "routes/classic/brabantse-pijl-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/brabantse-pijl/2026/route.gpx",
       "notes": "",
-      "distance_km": 160.29,
-      "elevation_gain_m": 1628,
-      "elevation_loss_m": 1556,
-      "min_ele_m": 23,
+      "gender": "men",
+      "distance_km": 162.01,
+      "elevation_gain_m": 1525,
+      "elevation_loss_m": 1453,
+      "min_ele_m": 24,
       "max_ele_m": 132,
       "bbox": {
         "min_lat": 50.66196,
-        "max_lat": 50.81765,
-        "min_lon": 4.14929,
+        "max_lat": 50.81775,
+        "min_lon": 4.14926,
         "max_lon": 4.612
       },
-      "points": 1001
+      "points": 821
     },
     {
       "id": "dwars-door-vlaanderen-2026",
@@ -39,18 +40,19 @@
       "gpx_path": "routes/classic/dwars-door-vlaanderen-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/dwars-door-vlaanderen/2026/route.gpx",
       "notes": "",
-      "distance_km": 181.35,
-      "elevation_gain_m": 1367,
-      "elevation_loss_m": 1383,
-      "min_ele_m": 5,
+      "gender": "men",
+      "distance_km": 183.93,
+      "elevation_gain_m": 1328,
+      "elevation_loss_m": 1344,
+      "min_ele_m": 6,
       "max_ele_m": 156,
       "bbox": {
-        "min_lat": 50.73469,
-        "max_lat": 50.9749,
+        "min_lat": 50.73436,
+        "max_lat": 50.97546,
         "min_lon": 3.16708,
-        "max_lon": 3.68622
+        "max_lon": 3.68628
       },
-      "points": 1001
+      "points": 855
     },
     {
       "id": "e3-saxo-classic-2026",
@@ -63,18 +65,19 @@
       "gpx_path": "routes/classic/e3-saxo-classic-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/e3-saxo-classic/2026/route.gpx",
       "notes": "",
-      "distance_km": 203.88,
-      "elevation_gain_m": 2276,
-      "elevation_loss_m": 2278,
-      "min_ele_m": 9,
-      "max_ele_m": 161,
+      "gender": "men",
+      "distance_km": 208.07,
+      "elevation_gain_m": 2317,
+      "elevation_loss_m": 2319,
+      "min_ele_m": 8,
+      "max_ele_m": 162,
       "bbox": {
-        "min_lat": 50.73757,
+        "min_lat": 50.73753,
         "max_lat": 50.88378,
-        "min_lon": 3.29859,
-        "max_lon": 3.83925
+        "min_lon": 3.29819,
+        "max_lon": 3.83967
       },
-      "points": 1001
+      "points": 1086
     },
     {
       "id": "fleche-wallonne-femmes-2026",
@@ -88,18 +91,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/la-fleche-wallonne/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 146.51,
-      "elevation_gain_m": 1965,
-      "elevation_loss_m": 1848,
-      "min_ele_m": 71,
+      "distance_km": 147.82,
+      "elevation_gain_m": 1889,
+      "elevation_loss_m": 1772,
+      "min_ele_m": 72,
       "max_ele_m": 302,
       "bbox": {
-        "min_lat": 50.32827,
+        "min_lat": 50.32793,
         "max_lat": 50.52687,
-        "min_lon": 4.95683,
-        "max_lon": 5.32629
+        "min_lon": 4.95678,
+        "max_lon": 5.32917
       },
-      "points": 1001
+      "points": 754
     },
     {
       "id": "in-flanders-fields-2026",
@@ -112,18 +115,19 @@
       "gpx_path": "routes/classic/in-flanders-fields-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/in-flanders-fields/2026/route.gpx",
       "notes": "",
-      "distance_km": 237.6,
-      "elevation_gain_m": 1113,
-      "elevation_loss_m": 1084,
+      "gender": "men",
+      "distance_km": 240.45,
+      "elevation_gain_m": 1054,
+      "elevation_loss_m": 1056,
       "min_ele_m": -3,
-      "max_ele_m": 157,
+      "max_ele_m": 158,
       "bbox": {
         "min_lat": 50.73535,
-        "max_lat": 51.18601,
-        "min_lon": 2.58604,
+        "max_lat": 51.18605,
+        "min_lon": 2.58603,
         "max_lon": 3.18172
       },
-      "points": 1001
+      "points": 887
     },
     {
       "id": "kuurne-brussels-kuurne-2026",
@@ -136,18 +140,19 @@
       "gpx_path": "routes/classic/kuurne-brussels-kuurne-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/kuurne-brussels-kuurne/2026/route.gpx",
       "notes": "",
-      "distance_km": 189.76,
-      "elevation_gain_m": 1752,
-      "elevation_loss_m": 1750,
+      "gender": "men",
+      "distance_km": 192.92,
+      "elevation_gain_m": 1728,
+      "elevation_loss_m": 1726,
       "min_ele_m": 8,
       "max_ele_m": 142,
       "bbox": {
-        "min_lat": 50.66981,
-        "max_lat": 50.87104,
-        "min_lon": 3.26362,
+        "min_lat": 50.66901,
+        "max_lat": 50.87128,
+        "min_lon": 3.2626,
         "max_lon": 3.77367
       },
-      "points": 1001
+      "points": 912
     },
     {
       "id": "la-fleche-wallonne-2026",
@@ -160,18 +165,19 @@
       "gpx_path": "routes/classic/la-fleche-wallonne-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/la-fleche-wallonne/2026/route.gpx",
       "notes": "",
-      "distance_km": 196.47,
-      "elevation_gain_m": 2863,
-      "elevation_loss_m": 2827,
-      "min_ele_m": 72,
+      "gender": "men",
+      "distance_km": 199.84,
+      "elevation_gain_m": 2849,
+      "elevation_loss_m": 2813,
+      "min_ele_m": 71,
       "max_ele_m": 305,
       "bbox": {
         "min_lat": 50.38244,
-        "max_lat": 50.70807,
-        "min_lon": 5.2136,
-        "max_lon": 5.75929
+        "max_lat": 50.70828,
+        "min_lon": 5.21352,
+        "max_lon": 5.75965
       },
-      "points": 1001
+      "points": 1194
     },
     {
       "id": "liege-bastogne-liege-2026",
@@ -184,18 +190,19 @@
       "gpx_path": "routes/classic/liege-bastogne-liege-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/liege-bastogne-liege/2026/route.gpx",
       "notes": "",
-      "distance_km": 253.33,
-      "elevation_gain_m": 3922,
-      "elevation_loss_m": 3938,
+      "gender": "men",
+      "distance_km": 258.52,
+      "elevation_gain_m": 3888,
+      "elevation_loss_m": 3904,
       "min_ele_m": 61,
-      "max_ele_m": 648,
+      "max_ele_m": 649,
       "bbox": {
-        "min_lat": 50.00105,
+        "min_lat": 50.00051,
         "max_lat": 50.62219,
-        "min_lon": 5.54725,
-        "max_lon": 5.95237
+        "min_lon": 5.54718,
+        "max_lon": 5.95246
       },
-      "points": 1001
+      "points": 1317
     },
     {
       "id": "liege-bastogne-liege-femmes-2026",
@@ -209,18 +216,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/liege-bastogne-liege/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 153.9,
-      "elevation_gain_m": 2584,
-      "elevation_loss_m": 2983,
+      "distance_km": 155.93,
+      "elevation_gain_m": 2552,
+      "elevation_loss_m": 2951,
       "min_ele_m": 65,
-      "max_ele_m": 648,
+      "max_ele_m": 649,
       "bbox": {
         "min_lat": 50.03133,
-        "max_lat": 50.62203,
-        "min_lon": 5.54718,
-        "max_lon": 5.95129
+        "max_lat": 50.62214,
+        "min_lon": 5.54717,
+        "max_lon": 5.95155
       },
-      "points": 1001
+      "points": 940
     },
     {
       "id": "omloop-het-nieuwsblad-2026",
@@ -233,18 +240,19 @@
       "gpx_path": "routes/classic/omloop-het-nieuwsblad-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/omloop-het-nieuwsblad/2026/route.gpx",
       "notes": "",
-      "distance_km": 203.34,
-      "elevation_gain_m": 1552,
-      "elevation_loss_m": 1546,
+      "gender": "men",
+      "distance_km": 207.45,
+      "elevation_gain_m": 1539,
+      "elevation_loss_m": 1533,
       "min_ele_m": 2,
       "max_ele_m": 104,
       "bbox": {
-        "min_lat": 50.7674,
-        "max_lat": 51.03512,
+        "min_lat": 50.76739,
+        "max_lat": 51.03514,
         "min_lon": 3.5283,
-        "max_lon": 4.02626
+        "max_lon": 4.02632
       },
-      "points": 1001
+      "points": 1071
     },
     {
       "id": "ronde-vlaanderen-women-2026",
@@ -258,18 +266,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-flanders/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 162.46,
-      "elevation_gain_m": 1266,
-      "elevation_loss_m": 1290,
-      "min_ele_m": 5,
-      "max_ele_m": 159,
+      "distance_km": 164.04,
+      "elevation_gain_m": 1244,
+      "elevation_loss_m": 1268,
+      "min_ele_m": 4,
+      "max_ele_m": 158,
       "bbox": {
-        "min_lat": 50.75385,
-        "max_lat": 50.95648,
-        "min_lon": 3.50085,
+        "min_lat": 50.75374,
+        "max_lat": 50.95649,
+        "min_lon": 3.50079,
         "max_lon": 3.89163
       },
-      "points": 1001
+      "points": 822
     },
     {
       "id": "tour-of-flanders-2026",
@@ -282,18 +290,19 @@
       "gpx_path": "routes/classic/tour-of-flanders-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-flanders/2026/route.gpx",
       "notes": "",
-      "distance_km": 270.76,
-      "elevation_gain_m": 2072,
-      "elevation_loss_m": 2071,
+      "gender": "men",
+      "distance_km": 278.05,
+      "elevation_gain_m": 2094,
+      "elevation_loss_m": 2095,
       "min_ele_m": -1,
       "max_ele_m": 159,
       "bbox": {
-        "min_lat": 50.75395,
+        "min_lat": 50.75359,
         "max_lat": 51.21469,
-        "min_lon": 3.50086,
+        "min_lon": 3.50079,
         "max_lon": 4.38191
       },
-      "points": 1001
+      "points": 1422
     },
     {
       "id": "paris-roubaix-2026",
@@ -306,18 +315,19 @@
       "gpx_path": "routes/classic/paris-roubaix-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-roubaix/2026/route.gpx",
       "notes": "",
-      "distance_km": 251.52,
-      "elevation_gain_m": 1157,
-      "elevation_loss_m": 1196,
-      "min_ele_m": 14,
-      "max_ele_m": 159,
+      "gender": "men",
+      "distance_km": 257.33,
+      "elevation_gain_m": 1055,
+      "elevation_loss_m": 1094,
+      "min_ele_m": 13,
+      "max_ele_m": 158,
       "bbox": {
         "min_lat": 49.44708,
-        "max_lat": 50.67915,
+        "max_lat": 50.67936,
         "min_lon": 2.89949,
-        "max_lon": 3.5119
+        "max_lon": 3.51194
       },
-      "points": 1001
+      "points": 1120
     },
     {
       "id": "paris-roubaix-femmes-2026",
@@ -331,18 +341,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/paris-roubaix/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 141.2,
-      "elevation_gain_m": 576,
-      "elevation_loss_m": 601,
+      "distance_km": 143.47,
+      "elevation_gain_m": 559,
+      "elevation_loss_m": 584,
       "min_ele_m": 14,
       "max_ele_m": 115,
       "bbox": {
         "min_lat": 50.18458,
-        "max_lat": 50.67939,
-        "min_lon": 3.10166,
-        "max_lon": 3.50314
+        "max_lat": 50.67935,
+        "min_lon": 3.10141,
+        "max_lon": 3.50317
       },
-      "points": 1001
+      "points": 803
     },
     {
       "id": "milan-san-remo-2026",
@@ -355,18 +365,19 @@
       "gpx_path": "routes/classic/milan-san-remo-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/milan-san-remo/2026/route.gpx",
       "notes": "",
-      "distance_km": 289.01,
-      "elevation_gain_m": 2172,
-      "elevation_loss_m": 2236,
+      "gender": "men",
+      "distance_km": 296.58,
+      "elevation_gain_m": 2270,
+      "elevation_loss_m": 2334,
       "min_ele_m": 1,
-      "max_ele_m": 533,
+      "max_ele_m": 534,
       "bbox": {
         "min_lat": 43.81598,
-        "max_lat": 45.25641,
+        "max_lat": 45.2564,
         "min_lon": 7.77621,
-        "max_lon": 9.20173
+        "max_lon": 9.2017
       },
-      "points": 1001
+      "points": 1676
     },
     {
       "id": "strade-bianche-2026",
@@ -379,18 +390,19 @@
       "gpx_path": "routes/classic/strade-bianche-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/strade-bianche/2026/route.gpx",
       "notes": "",
-      "distance_km": 192.03,
-      "elevation_gain_m": 3343,
-      "elevation_loss_m": 3282,
-      "min_ele_m": 140,
-      "max_ele_m": 454,
+      "gender": "men",
+      "distance_km": 199.7,
+      "elevation_gain_m": 3429,
+      "elevation_loss_m": 3368,
+      "min_ele_m": 139,
+      "max_ele_m": 453,
       "bbox": {
-        "min_lat": 43.04875,
-        "max_lat": 43.38209,
-        "min_lon": 11.25552,
-        "max_lon": 11.61862
+        "min_lat": 43.04873,
+        "max_lat": 43.38282,
+        "min_lon": 11.25466,
+        "max_lon": 11.61872
       },
-      "points": 1001
+      "points": 1543
     },
     {
       "id": "strade-bianche-women-2026",
@@ -404,18 +416,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/strade-bianche/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 128.21,
-      "elevation_gain_m": 2150,
-      "elevation_loss_m": 2078,
-      "min_ele_m": 140,
+      "distance_km": 130.53,
+      "elevation_gain_m": 2132,
+      "elevation_loss_m": 2060,
+      "min_ele_m": 139,
       "max_ele_m": 370,
       "bbox": {
-        "min_lat": 43.1248,
-        "max_lat": 43.38161,
-        "min_lon": 11.25508,
-        "max_lon": 11.48471
+        "min_lat": 43.12481,
+        "max_lat": 43.38282,
+        "min_lon": 11.25466,
+        "max_lon": 11.48492
       },
-      "points": 1001
+      "points": 951
     },
     {
       "id": "amstel-gold-race-2026",
@@ -428,18 +440,19 @@
       "gpx_path": "routes/classic/amstel-gold-race-2026.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/amstel-gold-race/2026/route.gpx",
       "notes": "",
-      "distance_km": 246.05,
-      "elevation_gain_m": 3191,
-      "elevation_loss_m": 3108,
+      "gender": "men",
+      "distance_km": 256.17,
+      "elevation_gain_m": 3257,
+      "elevation_loss_m": 3174,
       "min_ele_m": 40,
-      "max_ele_m": 329,
+      "max_ele_m": 330,
       "bbox": {
-        "min_lat": 50.74833,
-        "max_lat": 50.99383,
-        "min_lon": 5.69992,
-        "max_lon": 6.0209
+        "min_lat": 50.74799,
+        "max_lat": 50.99439,
+        "min_lon": 5.6998,
+        "max_lon": 6.0212
       },
-      "points": 1001
+      "points": 1576
     },
     {
       "id": "amstel-gold-race-women-2026",
@@ -453,18 +466,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/amstel-gold-race/2026/route-women.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 153.87,
-      "elevation_gain_m": 1733,
-      "elevation_loss_m": 1654,
+      "distance_km": 156.4,
+      "elevation_gain_m": 1694,
+      "elevation_loss_m": 1615,
       "min_ele_m": 41,
       "max_ele_m": 209,
       "bbox": {
         "min_lat": 50.80458,
-        "max_lat": 50.99421,
+        "max_lat": 50.99439,
         "min_lon": 5.70374,
         "max_lon": 5.98266
       },
-      "points": 1001
+      "points": 871
     },
     {
       "id": "mallorca-312-2026",
@@ -477,18 +490,19 @@
       "gpx_path": "routes/gran-fondo/mallorca-312-2026.gpx",
       "source_url": "https://mallorca312.com/wp-content/uploads/2025/03/Mallorca312_OKMobility_2025.gpx",
       "notes": "Track 2025 — el organizador actualiza al de 2026 cerca de la fecha.",
-      "distance_km": 293.04,
-      "elevation_gain_m": 4274,
-      "elevation_loss_m": 4275,
+      "gender": "men",
+      "distance_km": 311.75,
+      "elevation_gain_m": 4448,
+      "elevation_loss_m": 4448,
       "min_ele_m": 4,
       "max_ele_m": 869,
       "bbox": {
-        "min_lat": 39.57691,
+        "min_lat": 39.57693,
         "max_lat": 39.90476,
-        "min_lon": 2.40908,
-        "max_lon": 3.35084
+        "min_lon": 2.40907,
+        "max_lon": 3.35155
       },
-      "points": 1001
+      "points": 2265
     },
     {
       "id": "pedro-delgado-2026-fondo",
@@ -501,18 +515,19 @@
       "gpx_path": "routes/gran-fondo/pedro-delgado-2026-fondo.gpx",
       "source_url": "https://pedrodelgado.com/wp-content/uploads/2020/11/La_Perico-Fondo.zip",
       "notes": "119 km / 2100 m D+.",
-      "distance_km": 118.45,
-      "elevation_gain_m": 2408,
-      "elevation_loss_m": 2313,
+      "gender": "men",
+      "distance_km": 118.76,
+      "elevation_gain_m": 2420,
+      "elevation_loss_m": 2325,
       "min_ele_m": 986,
-      "max_ele_m": 1857,
+      "max_ele_m": 1858,
       "bbox": {
-        "min_lat": 40.78881,
+        "min_lat": 40.78879,
         "max_lat": 41.06899,
         "min_lon": -4.11689,
-        "max_lon": -3.79179
+        "max_lon": -3.79183
       },
-      "points": 1001
+      "points": 730
     },
     {
       "id": "pedro-delgado-2026-gran-fondo",
@@ -525,18 +540,19 @@
       "gpx_path": "routes/gran-fondo/pedro-delgado-2026-gran-fondo.gpx",
       "source_url": "https://pedrodelgado.com/wp-content/uploads/2020/11/La_Perico-Gran_Fondo.zip",
       "notes": "164 km / 3200 m D+ (track histórico, ediciones recientes usan el mismo).",
-      "distance_km": 162.02,
-      "elevation_gain_m": 3606,
-      "elevation_loss_m": 3513,
+      "gender": "men",
+      "distance_km": 163.97,
+      "elevation_gain_m": 3782,
+      "elevation_loss_m": 3689,
       "min_ele_m": 986,
-      "max_ele_m": 1857,
+      "max_ele_m": 1858,
       "bbox": {
-        "min_lat": 40.78881,
-        "max_lat": 41.06895,
+        "min_lat": 40.78879,
+        "max_lat": 41.06899,
         "min_lon": -4.11695,
-        "max_lon": -3.71074
+        "max_lon": -3.71009
       },
-      "points": 1001
+      "points": 1102
     },
     {
       "id": "paris-roubaix-challenge-2026-145",
@@ -549,18 +565,19 @@
       "gpx_path": "routes/gran-fondo/paris-roubaix-challenge-2026-145.gpx",
       "source_url": "https://storage-aso.lequipe.fr/ASO/publicEvents_prc/prc26-145kmvf.gpx",
       "notes": "Distancia media (19 sectores).",
-      "distance_km": 145.36,
-      "elevation_gain_m": 581,
-      "elevation_loss_m": 586,
+      "gender": "men",
+      "distance_km": 146.48,
+      "elevation_gain_m": 550,
+      "elevation_loss_m": 555,
       "min_ele_m": 14,
       "max_ele_m": 72,
       "bbox": {
-        "min_lat": 50.36816,
+        "min_lat": 50.36815,
         "max_lat": 50.67929,
         "min_lon": 3.10143,
         "max_lon": 3.46103
       },
-      "points": 1001
+      "points": 826
     },
     {
       "id": "paris-roubaix-challenge-2026-170",
@@ -573,18 +590,19 @@
       "gpx_path": "routes/gran-fondo/paris-roubaix-challenge-2026-170.gpx",
       "source_url": "https://storage-aso.lequipe.fr/ASO/publicEvents_prc/prc26-170kmvf.gpx",
       "notes": "Distancia larga oficial ASO (30 sectores pavé).",
-      "distance_km": 169.83,
-      "elevation_gain_m": 815,
-      "elevation_loss_m": 935,
+      "gender": "men",
+      "distance_km": 173.48,
+      "elevation_gain_m": 809,
+      "elevation_loss_m": 929,
       "min_ele_m": 14,
-      "max_ele_m": 151,
+      "max_ele_m": 152,
       "bbox": {
         "min_lat": 50.03537,
-        "max_lat": 50.67882,
-        "min_lon": 3.10145,
-        "max_lon": 3.51132
+        "max_lat": 50.67942,
+        "min_lon": 3.10141,
+        "max_lon": 3.51196
       },
-      "points": 1001
+      "points": 943
     },
     {
       "id": "paris-roubaix-challenge-2026-70",
@@ -597,18 +615,19 @@
       "gpx_path": "routes/gran-fondo/paris-roubaix-challenge-2026-70.gpx",
       "source_url": "https://storage-aso.lequipe.fr/ASO/publicEvents_prc/prc26-70km-gpx.gpx",
       "notes": "Distancia corta (8 sectores).",
-      "distance_km": 71.39,
-      "elevation_gain_m": 379,
-      "elevation_loss_m": 384,
+      "gender": "men",
+      "distance_km": 71.17,
+      "elevation_gain_m": 314,
+      "elevation_loss_m": 319,
       "min_ele_m": 22,
       "max_ele_m": 72,
       "bbox": {
-        "min_lat": 50.52058,
-        "max_lat": 50.67926,
+        "min_lat": 50.5206,
+        "max_lat": 50.67922,
         "min_lon": 3.14652,
         "max_lon": 3.28289
       },
-      "points": 971
+      "points": 412
     },
     {
       "id": "maratona-dles-dolomites-2026",
@@ -621,18 +640,19 @@
       "gpx_path": "routes/gran-fondo/maratona-dles-dolomites-2026.gpx",
       "source_url": "https://www.maratona.it/public/sitemin/GPX_Maratona_Course.zip",
       "notes": "Distancia 138 km / 4230 m D+. Recorrido fijo.",
-      "distance_km": 132.46,
-      "elevation_gain_m": 4904,
-      "elevation_loss_m": 4805,
-      "min_ele_m": 1316,
-      "max_ele_m": 2241,
+      "gender": "men",
+      "distance_km": 137.16,
+      "elevation_gain_m": 5582,
+      "elevation_loss_m": 5484,
+      "min_ele_m": 1314,
+      "max_ele_m": 2242,
       "bbox": {
-        "min_lat": 46.44356,
-        "max_lat": 46.58539,
+        "min_lat": 46.44348,
+        "max_lat": 46.5854,
         "min_lon": 11.75683,
         "max_lon": 12.11052
       },
-      "points": 1001
+      "points": 1511
     },
     {
       "id": "sportful-dolomiti-race-2026-long",
@@ -645,18 +665,19 @@
       "gpx_path": "routes/gran-fondo/sportful-dolomiti-race-2026-long.gpx",
       "source_url": "https://www.sportfuldolomitirace.it/wp-content/uploads/2025/06/Sportful_25_lungo.gpx_.zip",
       "notes": "Archivo de 2025 (organizador actualiza cerca de fecha).",
-      "distance_km": 189.0,
-      "elevation_gain_m": 5366,
-      "elevation_loss_m": 5333,
+      "gender": "men",
+      "distance_km": 202.09,
+      "elevation_gain_m": 5666,
+      "elevation_loss_m": 5634,
       "min_ele_m": 272,
-      "max_ele_m": 1784,
+      "max_ele_m": 1772,
       "bbox": {
-        "min_lat": 46.01664,
+        "min_lat": 46.01649,
         "max_lat": 46.45133,
-        "min_lon": 11.7617,
-        "max_lon": 12.14476
+        "min_lon": 11.76159,
+        "max_lon": 12.1448
       },
-      "points": 1001
+      "points": 1786
     },
     {
       "id": "sportful-dolomiti-race-2026-medium",
@@ -669,18 +690,19 @@
       "gpx_path": "routes/gran-fondo/sportful-dolomiti-race-2026-medium.gpx",
       "source_url": "https://www.sportfuldolomitirace.it/wp-content/uploads/2024/05/SDR-definitivo-GPX125.zip",
       "notes": "Archivo del 2024 (organizador no ha republicado).",
-      "distance_km": 122.65,
-      "elevation_gain_m": 2740,
-      "elevation_loss_m": 2708,
+      "gender": "men",
+      "distance_km": 124.49,
+      "elevation_gain_m": 2727,
+      "elevation_loss_m": 2694,
       "min_ele_m": 272,
-      "max_ele_m": 1370,
+      "max_ele_m": 1366,
       "bbox": {
-        "min_lat": 46.0165,
-        "max_lat": 46.27174,
-        "min_lon": 11.76156,
+        "min_lat": 46.01649,
+        "max_lat": 46.27202,
+        "min_lon": 11.76159,
         "max_lon": 12.08476
       },
-      "points": 1001
+      "points": 1071
     },
     {
       "id": "vuelta-2026-stage-01",
@@ -693,18 +715,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 9.81,
-      "elevation_gain_m": 173,
-      "elevation_loss_m": 213,
+      "gender": "men",
+      "distance_km": 9.66,
+      "elevation_gain_m": 148,
+      "elevation_loss_m": 194,
       "min_ele_m": 1,
       "max_ele_m": 88,
       "bbox": {
         "min_lat": 43.7258,
-        "max_lat": 43.74822,
-        "min_lon": 7.41398,
-        "max_lon": 7.43488
+        "max_lat": 43.7482,
+        "min_lon": 7.41399,
+        "max_lon": 7.43485
       },
-      "points": 910
+      "points": 109
     },
     {
       "id": "vuelta-2026-stage-02",
@@ -717,9 +740,10 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 209.34,
-      "elevation_gain_m": 2980,
-      "elevation_loss_m": 2838,
+      "gender": "men",
+      "distance_km": 215.52,
+      "elevation_gain_m": 3018,
+      "elevation_loss_m": 2876,
       "min_ele_m": 2,
       "max_ele_m": 712,
       "bbox": {
@@ -728,7 +752,7 @@
         "min_lon": 5.77861,
         "max_lon": 7.38722
       },
-      "points": 1001
+      "points": 1631
     },
     {
       "id": "vuelta-2026-stage-03",
@@ -741,18 +765,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 163.42,
-      "elevation_gain_m": 2522,
-      "elevation_loss_m": 622,
+      "gender": "men",
+      "distance_km": 164.41,
+      "elevation_gain_m": 2481,
+      "elevation_loss_m": 581,
       "min_ele_m": 1,
       "max_ele_m": 1932,
       "bbox": {
         "min_lat": 42.48493,
-        "max_lat": 43.18047,
-        "min_lon": 2.02964,
+        "max_lat": 43.1805,
+        "min_lon": 2.02968,
         "max_lon": 3.0628
       },
-      "points": 1001
+      "points": 899
     },
     {
       "id": "vuelta-2026-stage-04",
@@ -765,16 +790,17 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 103.56,
-      "elevation_gain_m": 2961,
-      "elevation_loss_m": 3085,
-      "min_ele_m": 1003,
-      "max_ele_m": 2410,
+      "gender": "men",
+      "distance_km": 105.21,
+      "elevation_gain_m": 2953,
+      "elevation_loss_m": 3077,
+      "min_ele_m": 1004,
+      "max_ele_m": 2409,
       "bbox": {
-        "min_lat": 42.49671,
-        "max_lat": 42.58391,
-        "min_lon": 1.51318,
-        "max_lon": 1.73802
+        "min_lat": 42.49669,
+        "max_lat": 42.58393,
+        "min_lon": 1.51312,
+        "max_lon": 1.7381
       },
       "points": 1001
     },
@@ -789,18 +815,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 168.82,
-      "elevation_gain_m": 1556,
-      "elevation_loss_m": 1899,
-      "min_ele_m": -3,
-      "max_ele_m": 383,
+      "gender": "men",
+      "distance_km": 170.58,
+      "elevation_gain_m": 1522,
+      "elevation_loss_m": 1870,
+      "min_ele_m": -2,
+      "max_ele_m": 380,
       "bbox": {
-        "min_lat": 40.70265,
+        "min_lat": 40.70264,
         "max_lat": 41.14393,
-        "min_lon": 0.40574,
+        "min_lon": 0.40573,
         "max_lon": 0.82007
       },
-      "points": 1001
+      "points": 978
     },
     {
       "id": "vuelta-2026-stage-06",
@@ -813,18 +840,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 171.18,
-      "elevation_gain_m": 2922,
-      "elevation_loss_m": 2973,
+      "gender": "men",
+      "distance_km": 174.54,
+      "elevation_gain_m": 2912,
+      "elevation_loss_m": 2963,
       "min_ele_m": 2,
       "max_ele_m": 839,
       "bbox": {
-        "min_lat": 39.97487,
+        "min_lat": 39.97483,
         "max_lat": 40.3575,
-        "min_lon": -0.04714,
+        "min_lon": -0.04726,
         "max_lon": 0.24824
       },
-      "points": 1001
+      "points": 1248
     },
     {
       "id": "vuelta-2026-stage-07",
@@ -837,18 +865,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 145.96,
-      "elevation_gain_m": 3538,
-      "elevation_loss_m": 1828,
+      "gender": "men",
+      "distance_km": 149.17,
+      "elevation_gain_m": 3545,
+      "elevation_loss_m": 1835,
       "min_ele_m": 231,
       "max_ele_m": 1965,
       "bbox": {
-        "min_lat": 40.07148,
+        "min_lat": 40.07146,
         "max_lat": 40.37806,
-        "min_lon": -0.75419,
-        "max_lon": -0.00785
+        "min_lon": -0.75423,
+        "max_lon": -0.00786
       },
-      "points": 1001
+      "points": 1314
     },
     {
       "id": "vuelta-2026-stage-08",
@@ -861,18 +890,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-08.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-8-route.gpx",
       "notes": "",
-      "distance_km": 163.61,
-      "elevation_gain_m": 1244,
-      "elevation_loss_m": 1247,
+      "gender": "men",
+      "distance_km": 165.06,
+      "elevation_gain_m": 1208,
+      "elevation_loss_m": 1211,
       "min_ele_m": 2,
-      "max_ele_m": 386,
+      "max_ele_m": 387,
       "bbox": {
         "min_lat": 38.97064,
-        "max_lat": 39.64622,
-        "min_lon": -0.68705,
-        "max_lon": -0.18344
+        "max_lat": 39.64627,
+        "min_lon": -0.6871,
+        "max_lon": -0.18345
       },
-      "points": 1001
+      "points": 884
     },
     {
       "id": "vuelta-2026-stage-09",
@@ -885,18 +915,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-09.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-9-route.gpx",
       "notes": "",
-      "distance_km": 174.81,
-      "elevation_gain_m": 4844,
-      "elevation_loss_m": 3398,
+      "gender": "men",
+      "distance_km": 187.1,
+      "elevation_gain_m": 4896,
+      "elevation_loss_m": 3450,
       "min_ele_m": 75,
       "max_ele_m": 1544,
       "bbox": {
         "min_lat": 38.53724,
-        "max_lat": 38.83836,
-        "min_lon": -0.41978,
-        "max_lon": -0.05657
+        "max_lat": 38.83892,
+        "min_lon": -0.42003,
+        "max_lon": -0.05643
       },
-      "points": 1001
+      "points": 1887
     },
     {
       "id": "vuelta-2026-stage-10",
@@ -909,18 +940,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-10.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-10-route.gpx",
       "notes": "",
-      "distance_km": 181.81,
-      "elevation_gain_m": 2617,
-      "elevation_loss_m": 2809,
+      "gender": "men",
+      "distance_km": 183.36,
+      "elevation_gain_m": 2602,
+      "elevation_loss_m": 2794,
       "min_ele_m": 431,
-      "max_ele_m": 1295,
+      "max_ele_m": 1296,
       "bbox": {
         "min_lat": 38.33698,
-        "max_lat": 38.66449,
+        "max_lat": 38.6645,
         "min_lon": -2.56737,
-        "max_lon": -1.70387
+        "max_lon": -1.70385
       },
-      "points": 1001
+      "points": 1167
     },
     {
       "id": "vuelta-2026-stage-11",
@@ -933,18 +965,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-11.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-11-route.gpx",
       "notes": "",
-      "distance_km": 153.38,
-      "elevation_gain_m": 1335,
-      "elevation_loss_m": 1025,
+      "gender": "men",
+      "distance_km": 154.24,
+      "elevation_gain_m": 1292,
+      "elevation_loss_m": 981,
       "min_ele_m": -4,
-      "max_ele_m": 626,
+      "max_ele_m": 625,
       "bbox": {
-        "min_lat": 37.58301,
-        "max_lat": 37.80491,
-        "min_lon": -1.71614,
+        "min_lat": 37.58297,
+        "max_lat": 37.8049,
+        "min_lon": -1.71621,
         "max_lon": -0.77401
       },
-      "points": 1001
+      "points": 701
     },
     {
       "id": "vuelta-2026-stage-12",
@@ -957,18 +990,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-12.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-12-route.gpx",
       "notes": "",
-      "distance_km": 161.72,
-      "elevation_gain_m": 4401,
-      "elevation_loss_m": 2367,
+      "gender": "men",
+      "distance_km": 165.5,
+      "elevation_gain_m": 4405,
+      "elevation_loss_m": 2371,
       "min_ele_m": 117,
       "max_ele_m": 2151,
       "bbox": {
-        "min_lat": 37.07134,
-        "max_lat": 37.38116,
+        "min_lat": 37.07132,
+        "max_lat": 37.38125,
         "min_lon": -2.54671,
         "max_lon": -1.89178
       },
-      "points": 1001
+      "points": 1401
     },
     {
       "id": "vuelta-2026-stage-13",
@@ -981,18 +1015,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-13.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-13-route.gpx",
       "notes": "",
-      "distance_km": 187.2,
-      "elevation_gain_m": 3246,
-      "elevation_loss_m": 2834,
-      "min_ele_m": 15,
+      "gender": "men",
+      "distance_km": 191.86,
+      "elevation_gain_m": 3273,
+      "elevation_loss_m": 2861,
+      "min_ele_m": 16,
       "max_ele_m": 1350,
       "bbox": {
-        "min_lat": 36.74475,
-        "max_lat": 37.32313,
-        "min_lon": -4.14612,
-        "max_lon": -3.53668
+        "min_lat": 36.7447,
+        "max_lat": 37.32312,
+        "min_lon": -4.14614,
+        "max_lon": -3.53664
       },
-      "points": 1001
+      "points": 1501
     },
     {
       "id": "vuelta-2026-stage-14",
@@ -1005,18 +1040,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-14.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-14-route.gpx",
       "notes": "",
-      "distance_km": 146.68,
-      "elevation_gain_m": 4023,
-      "elevation_loss_m": 2593,
+      "gender": "men",
+      "distance_km": 150.92,
+      "elevation_gain_m": 4034,
+      "elevation_loss_m": 2604,
       "min_ele_m": 391,
       "max_ele_m": 1821,
       "bbox": {
-        "min_lat": 37.53227,
-        "max_lat": 37.83997,
-        "min_lon": -3.946,
-        "max_lon": -3.51274
+        "min_lat": 37.5323,
+        "max_lat": 37.83998,
+        "min_lon": -3.94632,
+        "max_lon": -3.51224
       },
-      "points": 1001
+      "points": 1336
     },
     {
       "id": "vuelta-2026-stage-15",
@@ -1029,18 +1065,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-15.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-15-route.gpx",
       "notes": "",
-      "distance_km": 175.61,
-      "elevation_gain_m": 2724,
-      "elevation_loss_m": 2689,
+      "gender": "men",
+      "distance_km": 180.19,
+      "elevation_gain_m": 2734,
+      "elevation_loss_m": 2699,
       "min_ele_m": 53,
-      "max_ele_m": 787,
+      "max_ele_m": 786,
       "bbox": {
         "min_lat": 37.69846,
-        "max_lat": 38.1885,
-        "min_lon": -5.28794,
-        "max_lon": -4.77252
+        "max_lat": 38.18848,
+        "min_lon": -5.28801,
+        "max_lon": -4.77255
       },
-      "points": 1001
+      "points": 1385
     },
     {
       "id": "vuelta-2026-stage-16",
@@ -1053,18 +1090,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-16.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-16-route.gpx",
       "notes": "",
-      "distance_km": 186.35,
-      "elevation_gain_m": 2183,
-      "elevation_loss_m": 2809,
+      "gender": "men",
+      "distance_km": 188.53,
+      "elevation_gain_m": 2163,
+      "elevation_loss_m": 2789,
       "min_ele_m": 3,
-      "max_ele_m": 832,
+      "max_ele_m": 831,
       "bbox": {
         "min_lat": 37.14151,
-        "max_lat": 37.92013,
-        "min_lon": -6.92522,
-        "max_lon": -6.50883
+        "max_lat": 37.92012,
+        "min_lon": -6.92523,
+        "max_lon": -6.50835
       },
-      "points": 1001
+      "points": 1239
     },
     {
       "id": "vuelta-2026-stage-17",
@@ -1077,18 +1115,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-17.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-17-route.gpx",
       "notes": "",
-      "distance_km": 195.09,
-      "elevation_gain_m": 864,
-      "elevation_loss_m": 892,
-      "min_ele_m": 3,
-      "max_ele_m": 233,
+      "gender": "men",
+      "distance_km": 195.9,
+      "elevation_gain_m": 792,
+      "elevation_loss_m": 820,
+      "min_ele_m": 4,
+      "max_ele_m": 232,
       "bbox": {
-        "min_lat": 37.06149,
-        "max_lat": 37.53981,
-        "min_lon": -5.99565,
-        "max_lon": -5.45289
+        "min_lat": 37.06033,
+        "max_lat": 37.53979,
+        "min_lon": -5.9957,
+        "max_lon": -5.45263
       },
-      "points": 1001
+      "points": 712
     },
     {
       "id": "vuelta-2026-stage-18",
@@ -1101,18 +1140,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-18.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-18-route.gpx",
       "notes": "",
-      "distance_km": 32.05,
-      "elevation_gain_m": 168,
-      "elevation_loss_m": 125,
+      "gender": "men",
+      "distance_km": 31.95,
+      "elevation_gain_m": 149,
+      "elevation_loss_m": 106,
       "min_ele_m": 3,
       "max_ele_m": 56,
       "bbox": {
         "min_lat": 36.59056,
-        "max_lat": 36.70647,
+        "max_lat": 36.70645,
         "min_lon": -6.23151,
         "max_lon": -6.0674
       },
-      "points": 736
+      "points": 147
     },
     {
       "id": "vuelta-2026-stage-19",
@@ -1125,18 +1165,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-19.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-19-route.gpx",
       "notes": "",
-      "distance_km": 199.73,
-      "elevation_gain_m": 3846,
-      "elevation_loss_m": 2600,
+      "gender": "men",
+      "distance_km": 204.74,
+      "elevation_gain_m": 3864,
+      "elevation_loss_m": 2618,
       "min_ele_m": 1,
       "max_ele_m": 1248,
       "bbox": {
         "min_lat": 36.42795,
-        "max_lat": 36.80135,
-        "min_lon": -5.20035,
+        "max_lat": 36.80137,
+        "min_lon": -5.20067,
         "max_lon": -4.1385
       },
-      "points": 1001
+      "points": 1531
     },
     {
       "id": "vuelta-2026-stage-20",
@@ -1149,18 +1190,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-20.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-20-route.gpx",
       "notes": "",
-      "distance_km": 177.41,
-      "elevation_gain_m": 4963,
-      "elevation_loss_m": 4264,
+      "gender": "men",
+      "distance_km": 185.41,
+      "elevation_gain_m": 5000,
+      "elevation_loss_m": 4301,
       "min_ele_m": 678,
       "max_ele_m": 1880,
       "bbox": {
-        "min_lat": 37.12995,
+        "min_lat": 37.12988,
         "max_lat": 37.32007,
-        "min_lon": -3.59015,
+        "min_lon": -3.59016,
         "max_lon": -3.08776
       },
-      "points": 1001
+      "points": 1782
     },
     {
       "id": "vuelta-2026-stage-21",
@@ -1173,18 +1215,19 @@
       "gpx_path": "routes/grand-tour/vuelta-2026-stage-21.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/vuelta-spain/2026/stage-21-route.gpx",
       "notes": "",
-      "distance_km": 94.85,
-      "elevation_gain_m": 1177,
-      "elevation_loss_m": 1059,
-      "min_ele_m": 574,
+      "gender": "men",
+      "distance_km": 95.97,
+      "elevation_gain_m": 1123,
+      "elevation_loss_m": 1005,
+      "min_ele_m": 573,
       "max_ele_m": 847,
       "bbox": {
-        "min_lat": 37.07657,
-        "max_lat": 37.21819,
-        "min_lon": -3.71854,
-        "max_lon": -3.5679
+        "min_lat": 37.07653,
+        "max_lat": 37.2182,
+        "min_lon": -3.71859,
+        "max_lon": -3.56783
       },
-      "points": 1001
+      "points": 599
     },
     {
       "id": "tdf-2026-stage-01",
@@ -1197,18 +1240,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 19.58,
-      "elevation_gain_m": 220,
-      "elevation_loss_m": 120,
-      "min_ele_m": 2,
+      "gender": "men",
+      "distance_km": 19.53,
+      "elevation_gain_m": 188,
+      "elevation_loss_m": 88,
+      "min_ele_m": 6,
       "max_ele_m": 111,
       "bbox": {
         "min_lat": 41.35987,
-        "max_lat": 41.41972,
+        "max_lat": 41.41971,
         "min_lon": 2.14575,
         "max_lon": 2.21932
       },
-      "points": 458
+      "points": 76
     },
     {
       "id": "tdf-2026-stage-02",
@@ -1221,18 +1265,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 173.81,
-      "elevation_gain_m": 2320,
-      "elevation_loss_m": 2221,
+      "gender": "men",
+      "distance_km": 177.88,
+      "elevation_gain_m": 2310,
+      "elevation_loss_m": 2211,
       "min_ele_m": 1,
       "max_ele_m": 434,
       "bbox": {
         "min_lat": 41.1268,
-        "max_lat": 41.43111,
+        "max_lat": 41.43112,
         "min_lon": 1.2927,
         "max_lon": 2.17313
       },
-      "points": 1001
+      "points": 1258
     },
     {
       "id": "tdf-2026-stage-03",
@@ -1245,18 +1290,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 183.37,
-      "elevation_gain_m": 3740,
-      "elevation_loss_m": 2094,
-      "min_ele_m": 130,
+      "gender": "men",
+      "distance_km": 186.3,
+      "elevation_gain_m": 3712,
+      "elevation_loss_m": 2066,
+      "min_ele_m": 136,
       "max_ele_m": 1799,
       "bbox": {
         "min_lat": 41.60355,
-        "max_lat": 42.5871,
-        "min_lon": 1.89925,
+        "max_lat": 42.58713,
+        "min_lon": 1.89918,
         "max_lon": 2.29057
       },
-      "points": 1001
+      "points": 1267
     },
     {
       "id": "tdf-2026-stage-04",
@@ -1269,18 +1315,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 181.46,
-      "elevation_gain_m": 3284,
-      "elevation_loss_m": 2992,
-      "min_ele_m": 105,
-      "max_ele_m": 1454,
+      "gender": "men",
+      "distance_km": 183.93,
+      "elevation_gain_m": 3276,
+      "elevation_loss_m": 2984,
+      "min_ele_m": 104,
+      "max_ele_m": 1453,
       "bbox": {
-        "min_lat": 42.71968,
+        "min_lat": 42.71969,
         "max_lat": 43.20656,
         "min_lon": 1.38353,
         "max_lon": 2.3349
       },
-      "points": 1001
+      "points": 1296
     },
     {
       "id": "tdf-2026-stage-05",
@@ -1293,18 +1340,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 161.14,
-      "elevation_gain_m": 3244,
-      "elevation_loss_m": 3615,
-      "min_ele_m": 176,
-      "max_ele_m": 2114,
+      "gender": "men",
+      "distance_km": 163.08,
+      "elevation_gain_m": 3156,
+      "elevation_loss_m": 3527,
+      "min_ele_m": 177,
+      "max_ele_m": 2111,
       "bbox": {
-        "min_lat": 42.87294,
+        "min_lat": 42.8723,
         "max_lat": 43.29772,
-        "min_lon": -0.37908,
+        "min_lon": -0.37914,
         "max_lon": 0.38391
       },
-      "points": 1001
+      "points": 1028
     },
     {
       "id": "tdf-2026-stage-06",
@@ -1341,18 +1389,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 174.14,
-      "elevation_gain_m": 1158,
-      "elevation_loss_m": 1264,
-      "min_ele_m": -1,
-      "max_ele_m": 123,
+      "gender": "men",
+      "distance_km": 174.6,
+      "elevation_gain_m": 788,
+      "elevation_loss_m": 894,
+      "min_ele_m": 0,
+      "max_ele_m": 117,
       "bbox": {
         "min_lat": 43.68039,
         "max_lat": 44.84722,
         "min_lon": -0.58972,
-        "max_lon": -0.31312
+        "max_lon": -0.31296
       },
-      "points": 1001
+      "points": 560
     },
     {
       "id": "tdf-2026-stage-08",
@@ -1365,18 +1414,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-08.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-8-route.gpx",
       "notes": "",
-      "distance_km": 180.49,
-      "elevation_gain_m": 1264,
-      "elevation_loss_m": 1344,
+      "gender": "men",
+      "distance_km": 181.78,
+      "elevation_gain_m": 1223,
+      "elevation_loss_m": 1303,
       "min_ele_m": 30,
       "max_ele_m": 269,
       "bbox": {
-        "min_lat": 44.8008,
+        "min_lat": 44.80076,
         "max_lat": 45.17226,
-        "min_lon": 0.47802,
+        "min_lon": 0.47801,
         "max_lon": 1.23415
       },
-      "points": 1001
+      "points": 994
     },
     {
       "id": "tdf-2026-stage-09",
@@ -1389,18 +1439,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-09.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-9-route.gpx",
       "notes": "",
-      "distance_km": 179.94,
-      "elevation_gain_m": 3252,
-      "elevation_loss_m": 2842,
-      "min_ele_m": 144,
+      "gender": "men",
+      "distance_km": 183.99,
+      "elevation_gain_m": 3216,
+      "elevation_loss_m": 2806,
+      "min_ele_m": 147,
       "max_ele_m": 973,
       "bbox": {
-        "min_lat": 45.03644,
-        "max_lat": 45.59779,
+        "min_lat": 45.03639,
+        "max_lat": 45.59786,
         "min_lon": 1.54947,
         "max_lon": 2.30422
       },
-      "points": 1001
+      "points": 1315
     },
     {
       "id": "tdf-2026-stage-10",
@@ -1413,18 +1464,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-10.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-10-route.gpx",
       "notes": "",
-      "distance_km": 162.22,
-      "elevation_gain_m": 3735,
-      "elevation_loss_m": 3070,
+      "gender": "men",
+      "distance_km": 166.09,
+      "elevation_gain_m": 3733,
+      "elevation_loss_m": 3068,
       "min_ele_m": 573,
       "max_ele_m": 1577,
       "bbox": {
-        "min_lat": 44.75956,
-        "max_lat": 45.15849,
-        "min_lon": 2.35207,
-        "max_lon": 2.86351
+        "min_lat": 44.75953,
+        "max_lat": 45.15848,
+        "min_lon": 2.35201,
+        "max_lon": 2.86355
       },
-      "points": 1001
+      "points": 1361
     },
     {
       "id": "tdf-2026-stage-11",
@@ -1437,18 +1489,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-11.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-11-route.gpx",
       "notes": "",
-      "distance_km": 160.17,
-      "elevation_gain_m": 1559,
-      "elevation_loss_m": 1636,
-      "min_ele_m": 172,
-      "max_ele_m": 366,
+      "gender": "men",
+      "distance_km": 160.62,
+      "elevation_gain_m": 1060,
+      "elevation_loss_m": 1138,
+      "min_ele_m": 173,
+      "max_ele_m": 341,
       "bbox": {
         "min_lat": 46.16366,
-        "max_lat": 47.08745,
+        "max_lat": 47.08752,
         "min_lon": 3.18183,
         "max_lon": 3.52452
       },
-      "points": 1001
+      "points": 458
     },
     {
       "id": "tdf-2026-stage-12",
@@ -1461,18 +1514,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-12.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-12-route.gpx",
       "notes": "",
-      "distance_km": 180.08,
-      "elevation_gain_m": 1339,
-      "elevation_loss_m": 1400,
+      "gender": "men",
+      "distance_km": 180.62,
+      "elevation_gain_m": 1272,
+      "elevation_loss_m": 1333,
       "min_ele_m": 171,
-      "max_ele_m": 445,
+      "max_ele_m": 439,
       "bbox": {
         "min_lat": 46.67066,
         "max_lat": 46.85878,
-        "min_lon": 3.10904,
+        "min_lon": 3.10902,
         "max_lon": 4.84908
       },
-      "points": 1001
+      "points": 723
     },
     {
       "id": "tdf-2026-stage-13",
@@ -1485,18 +1539,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-13.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-13-route.gpx",
       "notes": "",
-      "distance_km": 201.68,
-      "elevation_gain_m": 2465,
-      "elevation_loss_m": 2320,
+      "gender": "men",
+      "distance_km": 204.13,
+      "elevation_gain_m": 2418,
+      "elevation_loss_m": 2273,
       "min_ele_m": 189,
-      "max_ele_m": 1168,
+      "max_ele_m": 1169,
       "bbox": {
         "min_lat": 47.11842,
-        "max_lat": 47.87712,
+        "max_lat": 47.87728,
         "min_lon": 5.44499,
-        "max_lon": 6.86296
+        "max_lon": 6.8637
       },
-      "points": 1001
+      "points": 1081
     },
     {
       "id": "tdf-2026-stage-14",
@@ -1509,18 +1564,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-14.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-14-route.gpx",
       "notes": "",
-      "distance_km": 151.19,
-      "elevation_gain_m": 3876,
-      "elevation_loss_m": 2916,
+      "gender": "men",
+      "distance_km": 154.6,
+      "elevation_gain_m": 3893,
+      "elevation_loss_m": 2933,
       "min_ele_m": 229,
-      "max_ele_m": 1332,
+      "max_ele_m": 1333,
       "bbox": {
-        "min_lat": 47.77557,
-        "max_lat": 47.9593,
-        "min_lon": 6.81965,
+        "min_lat": 47.77529,
+        "max_lat": 47.95937,
+        "min_lon": 6.81958,
         "max_lon": 7.30361
       },
-      "points": 1001
+      "points": 1303
     },
     {
       "id": "tdf-2026-stage-15",
@@ -1533,18 +1589,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-15.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-15-route.gpx",
       "notes": "",
-      "distance_km": 178.27,
-      "elevation_gain_m": 4200,
-      "elevation_loss_m": 3248,
-      "min_ele_m": 342,
+      "gender": "men",
+      "distance_km": 182.62,
+      "elevation_gain_m": 4192,
+      "elevation_loss_m": 3240,
+      "min_ele_m": 343,
       "max_ele_m": 1501,
       "bbox": {
         "min_lat": 46.03,
         "max_lat": 46.72037,
-        "min_lon": 5.8154,
-        "max_lon": 6.45162
+        "min_lon": 5.81538,
+        "max_lon": 6.45184
       },
-      "points": 1001
+      "points": 1325
     },
     {
       "id": "tdf-2026-stage-16",
@@ -1557,18 +1614,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-16.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-16-route.gpx",
       "notes": "",
-      "distance_km": 25.93,
-      "elevation_gain_m": 464,
-      "elevation_loss_m": 467,
+      "gender": "men",
+      "distance_km": 25.8,
+      "elevation_gain_m": 456,
+      "elevation_loss_m": 459,
       "min_ele_m": 375,
       "max_ele_m": 807,
       "bbox": {
         "min_lat": 46.35267,
         "max_lat": 46.40041,
-        "min_lon": 6.47111,
-        "max_lon": 6.61619
+        "min_lon": 6.47115,
+        "max_lon": 6.61627
       },
-      "points": 1001
+      "points": 190
     },
     {
       "id": "tdf-2026-stage-17",
@@ -1581,18 +1639,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-17.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-17-route.gpx",
       "notes": "",
-      "distance_km": 177.74,
-      "elevation_gain_m": 2298,
-      "elevation_loss_m": 2354,
-      "min_ele_m": 192,
+      "gender": "men",
+      "distance_km": 179.72,
+      "elevation_gain_m": 2280,
+      "elevation_loss_m": 2336,
+      "min_ele_m": 193,
       "max_ele_m": 1134,
       "bbox": {
-        "min_lat": 45.32591,
-        "max_lat": 45.7653,
-        "min_lon": 5.41956,
-        "max_lon": 6.11429
+        "min_lat": 45.32582,
+        "max_lat": 45.76532,
+        "min_lon": 5.41955,
+        "max_lon": 6.11443
       },
-      "points": 1001
+      "points": 1084
     },
     {
       "id": "tdf-2026-stage-18",
@@ -1605,18 +1664,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-18.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-18-route.gpx",
       "notes": "",
-      "distance_km": 181.03,
-      "elevation_gain_m": 3876,
-      "elevation_loss_m": 2252,
+      "gender": "men",
+      "distance_km": 184.34,
+      "elevation_gain_m": 3878,
+      "elevation_loss_m": 2254,
       "min_ele_m": 184,
       "max_ele_m": 1820,
       "bbox": {
-        "min_lat": 44.63834,
+        "min_lat": 44.63831,
         "max_lat": 45.31312,
         "min_lon": 5.48938,
-        "max_lon": 6.32636
+        "max_lon": 6.32633
       },
-      "points": 1001
+      "points": 1261
     },
     {
       "id": "tdf-2026-stage-19",
@@ -1629,18 +1689,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-19.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-19-route.gpx",
       "notes": "",
-      "distance_km": 126.96,
-      "elevation_gain_m": 3563,
-      "elevation_loss_m": 2596,
+      "gender": "men",
+      "distance_km": 128.27,
+      "elevation_gain_m": 3555,
+      "elevation_loss_m": 2588,
       "min_ele_m": 679,
       "max_ele_m": 1840,
       "bbox": {
         "min_lat": 44.57693,
         "max_lat": 45.09457,
-        "min_lon": 5.82791,
-        "max_lon": 6.08678
+        "min_lon": 5.82788,
+        "max_lon": 6.08679
       },
-      "points": 1001
+      "points": 995
     },
     {
       "id": "tdf-2026-stage-20",
@@ -1653,18 +1714,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-20.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-20-route.gpx",
       "notes": "",
-      "distance_km": 164.41,
-      "elevation_gain_m": 5416,
-      "elevation_loss_m": 4286,
+      "gender": "men",
+      "distance_km": 170.69,
+      "elevation_gain_m": 5501,
+      "elevation_loss_m": 4371,
       "min_ele_m": 540,
       "max_ele_m": 2632,
       "bbox": {
-        "min_lat": 45.03199,
-        "max_lat": 45.27279,
-        "min_lon": 6.0059,
-        "max_lon": 6.47466
+        "min_lat": 45.03198,
+        "max_lat": 45.27282,
+        "min_lon": 6.00561,
+        "max_lon": 6.47491
       },
-      "points": 1001
+      "points": 1546
     },
     {
       "id": "tdf-2026-stage-21",
@@ -1677,18 +1739,19 @@
       "gpx_path": "routes/grand-tour/tdf-2026-stage-21.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-de-france/2026/stage-21-route.gpx",
       "notes": "",
-      "distance_km": 127.84,
-      "elevation_gain_m": 1369,
-      "elevation_loss_m": 1435,
-      "min_ele_m": 27,
-      "max_ele_m": 176,
+      "gender": "men",
+      "distance_km": 129.39,
+      "elevation_gain_m": 1072,
+      "elevation_loss_m": 1138,
+      "min_ele_m": 28,
+      "max_ele_m": 175,
       "bbox": {
         "min_lat": 48.77015,
-        "max_lat": 48.88968,
+        "max_lat": 48.8897,
         "min_lon": 1.75988,
-        "max_lon": 2.34463
+        "max_lon": 2.34464
       },
-      "points": 1001
+      "points": 536
     },
     {
       "id": "giro-2026-stage-01",
@@ -1701,18 +1764,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 155.65,
-      "elevation_gain_m": 837,
-      "elevation_loss_m": 838,
+      "gender": "men",
+      "distance_km": 155.79,
+      "elevation_gain_m": 793,
+      "elevation_loss_m": 774,
       "min_ele_m": -2,
-      "max_ele_m": 72,
+      "max_ele_m": 73,
       "bbox": {
-        "min_lat": 42.3457,
+        "min_lat": 42.34568,
         "max_lat": 42.7103,
-        "min_lon": 27.32187,
+        "min_lon": 27.32174,
         "max_lon": 27.7232
       },
-      "points": 1001
+      "points": 554
     },
     {
       "id": "giro-2026-stage-02",
@@ -1725,18 +1789,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 218.19,
-      "elevation_gain_m": 2310,
-      "elevation_loss_m": 2169,
-      "min_ele_m": 21,
+      "gender": "men",
+      "distance_km": 219.01,
+      "elevation_gain_m": 2236,
+      "elevation_loss_m": 2095,
+      "min_ele_m": 29,
       "max_ele_m": 920,
       "bbox": {
         "min_lat": 42.54852,
-        "max_lat": 43.10482,
-        "min_lon": 25.6319,
+        "max_lat": 43.10523,
+        "min_lon": 25.63191,
         "max_lon": 27.43378
       },
-      "points": 1001
+      "points": 825
     },
     {
       "id": "giro-2026-stage-03",
@@ -1749,18 +1814,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 175.24,
-      "elevation_gain_m": 1532,
-      "elevation_loss_m": 1135,
+      "gender": "men",
+      "distance_km": 175.32,
+      "elevation_gain_m": 1470,
+      "elevation_loss_m": 1073,
       "min_ele_m": 161,
       "max_ele_m": 1330,
       "bbox": {
-        "min_lat": 42.15249,
+        "min_lat": 42.15248,
         "max_lat": 42.69553,
         "min_lon": 23.32842,
         "max_lon": 24.71529
       },
-      "points": 1001
+      "points": 637
     },
     {
       "id": "giro-2026-stage-04",
@@ -1773,18 +1839,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 141.6,
-      "elevation_gain_m": 1589,
-      "elevation_loss_m": 1392,
+      "gender": "men",
+      "distance_km": 142.55,
+      "elevation_gain_m": 1536,
+      "elevation_loss_m": 1338,
       "min_ele_m": 1,
       "max_ele_m": 946,
       "bbox": {
         "min_lat": 38.86891,
-        "max_lat": 39.41033,
+        "max_lat": 39.41034,
         "min_lon": 16.05282,
         "max_lon": 16.56364
       },
-      "points": 1001
+      "points": 774
     },
     {
       "id": "giro-2026-stage-05",
@@ -1797,18 +1864,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 198.33,
-      "elevation_gain_m": 3596,
-      "elevation_loss_m": 2891,
+      "gender": "men",
+      "distance_km": 203.79,
+      "elevation_gain_m": 3651,
+      "elevation_loss_m": 2946,
       "min_ele_m": 15,
-      "max_ele_m": 1413,
+      "max_ele_m": 1411,
       "bbox": {
         "min_lat": 39.93269,
-        "max_lat": 40.64295,
-        "min_lon": 15.75746,
-        "max_lon": 16.32169
+        "max_lat": 40.643,
+        "min_lon": 15.75738,
+        "max_lon": 16.32191
       },
-      "points": 1001
+      "points": 1582
     },
     {
       "id": "giro-2026-stage-06",
@@ -1821,18 +1889,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 158.61,
-      "elevation_gain_m": 1091,
-      "elevation_loss_m": 1095,
+      "gender": "men",
+      "distance_km": 159.91,
+      "elevation_gain_m": 990,
+      "elevation_loss_m": 994,
       "min_ele_m": 3,
       "max_ele_m": 209,
       "bbox": {
         "min_lat": 40.44026,
         "max_lat": 40.96277,
-        "min_lon": 14.16689,
+        "min_lon": 14.1667,
         "max_lon": 14.98169
       },
-      "points": 1001
+      "points": 686
     },
     {
       "id": "giro-2026-stage-07",
@@ -1845,18 +1914,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 240.05,
-      "elevation_gain_m": 4353,
-      "elevation_loss_m": 2711,
+      "gender": "men",
+      "distance_km": 244.17,
+      "elevation_gain_m": 4331,
+      "elevation_loss_m": 2689,
       "min_ele_m": 1,
       "max_ele_m": 1658,
       "bbox": {
-        "min_lat": 41.20989,
+        "min_lat": 41.20988,
         "max_lat": 42.21781,
-        "min_lon": 13.3973,
-        "max_lon": 14.14212
+        "min_lon": 13.39657,
+        "max_lon": 14.14222
       },
-      "points": 1001
+      "points": 1387
     },
     {
       "id": "giro-2026-stage-08",
@@ -1869,18 +1939,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-08.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-8-route.gpx",
       "notes": "",
-      "distance_km": 156.1,
-      "elevation_gain_m": 1808,
-      "elevation_loss_m": 1522,
+      "gender": "men",
+      "distance_km": 157.37,
+      "elevation_gain_m": 1734,
+      "elevation_loss_m": 1450,
       "min_ele_m": 1,
       "max_ele_m": 373,
       "bbox": {
         "min_lat": 42.36494,
         "max_lat": 43.22687,
-        "min_lon": 13.69359,
+        "min_lon": 13.69345,
         "max_lon": 14.15048
       },
-      "points": 1001
+      "points": 684
     },
     {
       "id": "giro-2026-stage-09",
@@ -1893,18 +1964,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-09.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-9-route.gpx",
       "notes": "",
-      "distance_km": 181.2,
-      "elevation_gain_m": 2302,
-      "elevation_loss_m": 832,
+      "gender": "men",
+      "distance_km": 184.17,
+      "elevation_gain_m": 2254,
+      "elevation_loss_m": 780,
       "min_ele_m": -3,
       "max_ele_m": 1471,
       "bbox": {
         "min_lat": 44.13265,
-        "max_lat": 44.49302,
+        "max_lat": 44.49308,
         "min_lon": 10.81435,
         "max_lon": 12.3052
       },
-      "points": 1001
+      "points": 1021
     },
     {
       "id": "giro-2026-stage-10",
@@ -1917,18 +1989,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-10.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-10-route.gpx",
       "notes": "",
-      "distance_km": 40.01,
-      "elevation_gain_m": 83,
-      "elevation_loss_m": 86,
-      "min_ele_m": -3,
+      "gender": "men",
+      "distance_km": 40.0,
+      "elevation_gain_m": 46,
+      "elevation_loss_m": 46,
+      "min_ele_m": 1,
       "max_ele_m": 22,
       "bbox": {
         "min_lat": 43.82263,
-        "max_lat": 44.02167,
+        "max_lat": 44.02166,
         "min_lon": 10.09902,
         "max_lon": 10.27883
       },
-      "points": 1000
+      "points": 66
     },
     {
       "id": "giro-2026-stage-11",
@@ -1941,18 +2014,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-11.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-11-route.gpx",
       "notes": "",
-      "distance_km": 171.5,
-      "elevation_gain_m": 2430,
-      "elevation_loss_m": 2440,
+      "gender": "men",
+      "distance_km": 177.25,
+      "elevation_gain_m": 2466,
+      "elevation_loss_m": 2474,
       "min_ele_m": 1,
       "max_ele_m": 620,
       "bbox": {
-        "min_lat": 43.83659,
-        "max_lat": 44.3399,
+        "min_lat": 43.83653,
+        "max_lat": 44.34007,
         "min_lon": 9.32252,
         "max_lon": 10.61539
       },
-      "points": 1001
+      "points": 1400
     },
     {
       "id": "giro-2026-stage-12",
@@ -1965,18 +2039,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-12.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-12-route.gpx",
       "notes": "",
-      "distance_km": 173.66,
-      "elevation_gain_m": 2029,
-      "elevation_loss_m": 1833,
+      "gender": "men",
+      "distance_km": 177.25,
+      "elevation_gain_m": 2026,
+      "elevation_loss_m": 1830,
       "min_ele_m": 2,
-      "max_ele_m": 761,
+      "max_ele_m": 760,
       "bbox": {
         "min_lat": 43.90314,
-        "max_lat": 44.76279,
+        "max_lat": 44.76282,
         "min_lon": 7.92052,
         "max_lon": 8.82704
       },
-      "points": 1001
+      "points": 1201
     },
     {
       "id": "giro-2026-stage-13",
@@ -1989,18 +2064,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-13.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-13-route.gpx",
       "notes": "",
-      "distance_km": 184.56,
-      "elevation_gain_m": 1251,
-      "elevation_loss_m": 1145,
+      "gender": "men",
+      "distance_km": 185.86,
+      "elevation_gain_m": 1188,
+      "elevation_loss_m": 1082,
       "min_ele_m": 95,
       "max_ele_m": 591,
       "bbox": {
-        "min_lat": 44.86041,
+        "min_lat": 44.86003,
         "max_lat": 45.97229,
-        "min_lon": 8.35278,
-        "max_lon": 8.5736
+        "min_lon": 8.35277,
+        "max_lon": 8.57361
       },
-      "points": 1001
+      "points": 796
     },
     {
       "id": "giro-2026-stage-14",
@@ -2013,18 +2089,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-14.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-14-route.gpx",
       "notes": "",
-      "distance_km": 126.78,
-      "elevation_gain_m": 4162,
-      "elevation_loss_m": 2960,
-      "min_ele_m": 524,
+      "gender": "men",
+      "distance_km": 131.65,
+      "elevation_gain_m": 4168,
+      "elevation_loss_m": 2966,
+      "min_ele_m": 523,
       "max_ele_m": 1794,
       "bbox": {
         "min_lat": 45.68762,
-        "max_lat": 45.82383,
-        "min_lon": 7.16628,
-        "max_lon": 7.50124
+        "max_lat": 45.82397,
+        "min_lon": 7.16627,
+        "max_lon": 7.50162
       },
-      "points": 1001
+      "points": 1250
     },
     {
       "id": "giro-2026-stage-15",
@@ -2037,18 +2114,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-15.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-15-route.gpx",
       "notes": "",
-      "distance_km": 134.7,
-      "elevation_gain_m": 491,
-      "elevation_loss_m": 455,
+      "gender": "men",
+      "distance_km": 135.53,
+      "elevation_gain_m": 321,
+      "elevation_loss_m": 285,
       "min_ele_m": 60,
       "max_ele_m": 142,
       "bbox": {
-        "min_lat": 44.99702,
+        "min_lat": 44.99701,
         "max_lat": 45.50703,
-        "min_lon": 8.91914,
+        "min_lon": 8.91909,
         "max_lon": 9.16945
       },
-      "points": 1001
+      "points": 510
     },
     {
       "id": "giro-2026-stage-16",
@@ -2061,18 +2139,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-16.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-16-route.gpx",
       "notes": "",
-      "distance_km": 111.93,
-      "elevation_gain_m": 2919,
-      "elevation_loss_m": 1521,
-      "min_ele_m": 242,
+      "gender": "men",
+      "distance_km": 112.55,
+      "elevation_gain_m": 2904,
+      "elevation_loss_m": 1506,
+      "min_ele_m": 241,
       "max_ele_m": 1642,
       "bbox": {
         "min_lat": 46.23086,
         "max_lat": 46.50211,
-        "min_lon": 8.80126,
+        "min_lon": 8.80094,
         "max_lon": 9.0408
       },
-      "points": 1001
+      "points": 811
     },
     {
       "id": "giro-2026-stage-17",
@@ -2085,18 +2164,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-17.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-17-route.gpx",
       "notes": "",
-      "distance_km": 194.46,
-      "elevation_gain_m": 3106,
-      "elevation_loss_m": 2244,
-      "min_ele_m": 133,
-      "max_ele_m": 1138,
+      "gender": "men",
+      "distance_km": 199.65,
+      "elevation_gain_m": 3141,
+      "elevation_loss_m": 2279,
+      "min_ele_m": 134,
+      "max_ele_m": 1140,
       "bbox": {
         "min_lat": 45.55898,
-        "max_lat": 46.19054,
+        "max_lat": 46.19068,
         "min_lon": 9.51805,
-        "max_lon": 11.05303
+        "max_lon": 11.05344
       },
-      "points": 1001
+      "points": 1424
     },
     {
       "id": "giro-2026-stage-18",
@@ -2109,18 +2189,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-18.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-18-route.gpx",
       "notes": "",
-      "distance_km": 164.41,
-      "elevation_gain_m": 1824,
-      "elevation_loss_m": 1933,
+      "gender": "men",
+      "distance_km": 165.88,
+      "elevation_gain_m": 1804,
+      "elevation_loss_m": 1913,
       "min_ele_m": 107,
       "max_ele_m": 566,
       "bbox": {
-        "min_lat": 45.89536,
+        "min_lat": 45.89521,
         "max_lat": 46.22122,
         "min_lon": 11.08358,
-        "max_lon": 12.25529
+        "max_lon": 12.25532
       },
-      "points": 1001
+      "points": 955
     },
     {
       "id": "giro-2026-stage-19",
@@ -2133,18 +2214,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-19.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-19-route.gpx",
       "notes": "",
-      "distance_km": 144.92,
-      "elevation_gain_m": 4750,
-      "elevation_loss_m": 3623,
+      "gender": "men",
+      "distance_km": 150.19,
+      "elevation_gain_m": 4786,
+      "elevation_loss_m": 3659,
       "min_ele_m": 330,
       "max_ele_m": 2226,
       "bbox": {
         "min_lat": 46.04643,
-        "max_lat": 46.52394,
+        "max_lat": 46.52402,
         "min_lon": 11.9137,
-        "max_lon": 12.1447
+        "max_lon": 12.14477
       },
-      "points": 1001
+      "points": 1437
     },
     {
       "id": "giro-2026-stage-20",
@@ -2157,18 +2239,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-20.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-20-route.gpx",
       "notes": "",
-      "distance_km": 194.1,
-      "elevation_gain_m": 3687,
-      "elevation_loss_m": 2625,
+      "gender": "men",
+      "distance_km": 198.27,
+      "elevation_gain_m": 3709,
+      "elevation_loss_m": 2647,
       "min_ele_m": 146,
       "max_ele_m": 1290,
       "bbox": {
-        "min_lat": 46.06876,
-        "max_lat": 46.33768,
-        "min_lon": 12.5165,
-        "max_lon": 13.25762
+        "min_lat": 46.06873,
+        "max_lat": 46.33769,
+        "min_lon": 12.51643,
+        "max_lon": 13.25769
       },
-      "points": 1001
+      "points": 1373
     },
     {
       "id": "giro-2026-stage-21",
@@ -2181,18 +2264,19 @@
       "gpx_path": "routes/grand-tour/giro-2026-stage-21.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/giro-italy/2026/stage-21-route.gpx",
       "notes": "",
-      "distance_km": 131.1,
-      "elevation_gain_m": 1131,
-      "elevation_loss_m": 1123,
+      "gender": "men",
+      "distance_km": 132.83,
+      "elevation_gain_m": 774,
+      "elevation_loss_m": 766,
       "min_ele_m": -1,
-      "max_ele_m": 66,
+      "max_ele_m": 46,
       "bbox": {
-        "min_lat": 41.71487,
-        "max_lat": 41.90061,
-        "min_lon": 12.28607,
-        "max_lon": 12.49826
+        "min_lat": 41.71449,
+        "max_lat": 41.90075,
+        "min_lon": 12.28609,
+        "max_lon": 12.49836
       },
-      "points": 1001
+      "points": 542
     },
     {
       "id": "giro-women-2026-stage-01",
@@ -2206,18 +2290,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-1-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 140.36,
-      "elevation_gain_m": 178,
-      "elevation_loss_m": 173,
+      "distance_km": 140.47,
+      "elevation_gain_m": 146,
+      "elevation_loss_m": 150,
       "min_ele_m": -4,
       "max_ele_m": 17,
       "bbox": {
         "min_lat": 44.17676,
         "max_lat": 44.54065,
-        "min_lon": 11.97919,
+        "min_lon": 11.97914,
         "max_lon": 12.3894
       },
-      "points": 1001
+      "points": 448
     },
     {
       "id": "giro-women-2026-stage-02",
@@ -2231,18 +2315,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-2-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 145.22,
-      "elevation_gain_m": 509,
-      "elevation_loss_m": 515,
+      "distance_km": 145.69,
+      "elevation_gain_m": 485,
+      "elevation_loss_m": 489,
       "min_ele_m": -4,
       "max_ele_m": 262,
       "bbox": {
-        "min_lat": 45.56556,
-        "max_lat": 45.97562,
-        "min_lon": 12.22903,
-        "max_lon": 12.90174
+        "min_lat": 45.56557,
+        "max_lat": 45.97567,
+        "min_lon": 12.22904,
+        "max_lon": 12.90173
       },
-      "points": 1001
+      "points": 640
     },
     {
       "id": "giro-women-2026-stage-03",
@@ -2256,18 +2340,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-3-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 149.45,
-      "elevation_gain_m": 923,
-      "elevation_loss_m": 731,
-      "min_ele_m": -2,
+      "distance_km": 150.42,
+      "elevation_gain_m": 892,
+      "elevation_loss_m": 698,
+      "min_ele_m": -1,
       "max_ele_m": 387,
       "bbox": {
         "min_lat": 45.67402,
-        "max_lat": 46.27905,
-        "min_lon": 12.97213,
+        "max_lat": 46.27906,
+        "min_lon": 12.97209,
         "max_lon": 13.20264
       },
-      "points": 1001
+      "points": 686
     },
     {
       "id": "giro-women-2026-stage-04",
@@ -2281,10 +2365,10 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-4-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 12.69,
-      "elevation_gain_m": 712,
-      "elevation_loss_m": 60,
-      "min_ele_m": 340,
+      "distance_km": 12.58,
+      "elevation_gain_m": 711,
+      "elevation_loss_m": 59,
+      "min_ele_m": 341,
       "max_ele_m": 1047,
       "bbox": {
         "min_lat": 46.09205,
@@ -2292,7 +2376,7 @@
         "min_lon": 12.21495,
         "max_lon": 12.28105
       },
-      "points": 863
+      "points": 120
     },
     {
       "id": "giro-women-2026-stage-05",
@@ -2306,18 +2390,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-5-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 134.88,
-      "elevation_gain_m": 3186,
-      "elevation_loss_m": 2762,
+      "distance_km": 137.21,
+      "elevation_gain_m": 3178,
+      "elevation_loss_m": 2754,
       "min_ele_m": 460,
       "max_ele_m": 1808,
       "bbox": {
         "min_lat": 46.28341,
         "max_lat": 46.5814,
-        "min_lon": 12.1364,
-        "max_lon": 12.60023
+        "min_lon": 12.13634,
+        "max_lon": 12.6004
       },
-      "points": 1001
+      "points": 1147
     },
     {
       "id": "giro-women-2026-stage-06",
@@ -2331,18 +2415,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-6-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 154.45,
-      "elevation_gain_m": 908,
-      "elevation_loss_m": 1056,
+      "distance_km": 154.81,
+      "elevation_gain_m": 814,
+      "elevation_loss_m": 962,
       "min_ele_m": 15,
-      "max_ele_m": 276,
+      "max_ele_m": 275,
       "bbox": {
         "min_lat": 44.90042,
-        "max_lat": 45.88059,
-        "min_lon": 10.51151,
+        "max_lat": 45.88054,
+        "min_lon": 10.51154,
         "max_lon": 11.01557
       },
-      "points": 1001
+      "points": 713
     },
     {
       "id": "giro-women-2026-stage-07",
@@ -2356,18 +2440,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-7-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 163.15,
-      "elevation_gain_m": 1476,
-      "elevation_loss_m": 1329,
+      "distance_km": 164.54,
+      "elevation_gain_m": 1436,
+      "elevation_loss_m": 1289,
       "min_ele_m": 20,
-      "max_ele_m": 778,
+      "max_ele_m": 776,
       "bbox": {
-        "min_lat": 44.82113,
-        "max_lat": 45.04659,
+        "min_lat": 44.82114,
+        "max_lat": 45.04665,
         "min_lon": 9.0271,
         "max_lon": 10.43471
       },
-      "points": 1001
+      "points": 897
     },
     {
       "id": "giro-women-2026-stage-08",
@@ -2381,18 +2465,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-8-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 98.8,
-      "elevation_gain_m": 2797,
-      "elevation_loss_m": 1128,
+      "distance_km": 99.58,
+      "elevation_gain_m": 2783,
+      "elevation_loss_m": 1114,
       "min_ele_m": 336,
-      "max_ele_m": 2170,
+      "max_ele_m": 2169,
       "bbox": {
         "min_lat": 44.95751,
         "max_lat": 45.13579,
         "min_lon": 6.88102,
         "max_lon": 7.50996
       },
-      "points": 1001
+      "points": 743
     },
     {
       "id": "giro-women-2026-stage-09",
@@ -2406,18 +2490,18 @@
       "source_url": "https://cdn.cyclingstage.com/images/giro-women/2026/stage-9-route.gpx",
       "notes": "",
       "gender": "women",
-      "distance_km": 141.45,
-      "elevation_gain_m": 2088,
-      "elevation_loss_m": 2053,
+      "distance_km": 142.69,
+      "elevation_gain_m": 2063,
+      "elevation_loss_m": 2028,
       "min_ele_m": 249,
-      "max_ele_m": 1252,
+      "max_ele_m": 1253,
       "bbox": {
         "min_lat": 44.50468,
-        "max_lat": 44.86486,
-        "min_lon": 7.24304,
-        "max_lon": 7.53564
+        "max_lat": 44.86498,
+        "min_lon": 7.24296,
+        "max_lon": 7.53567
       },
-      "points": 1001
+      "points": 838
     },
     {
       "id": "uae-tour-2026-stage-01",
@@ -2430,18 +2514,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 144.44,
-      "elevation_gain_m": 1866,
-      "elevation_loss_m": 1789,
-      "min_ele_m": 86,
-      "max_ele_m": 202,
+      "gender": "men",
+      "distance_km": 144.34,
+      "elevation_gain_m": 1478,
+      "elevation_loss_m": 1402,
+      "min_ele_m": 87,
+      "max_ele_m": 201,
       "bbox": {
         "min_lat": 22.96483,
         "max_lat": 23.62295,
         "min_lon": 53.71693,
         "max_lon": 53.79699
       },
-      "points": 1001
+      "points": 463
     },
     {
       "id": "uae-tour-2026-stage-02",
@@ -2454,18 +2539,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 12.27,
-      "elevation_gain_m": 97,
-      "elevation_loss_m": 96,
-      "min_ele_m": -1,
+      "gender": "men",
+      "distance_km": 12.2,
+      "elevation_gain_m": 44,
+      "elevation_loss_m": 45,
+      "min_ele_m": 1,
       "max_ele_m": 10,
       "bbox": {
         "min_lat": 24.41767,
-        "max_lat": 24.44239,
+        "max_lat": 24.44238,
         "min_lon": 54.32406,
         "max_lon": 54.35583
       },
-      "points": 551
+      "points": 83
     },
     {
       "id": "uae-tour-2026-stage-03",
@@ -2478,18 +2564,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 182.65,
-      "elevation_gain_m": 2323,
-      "elevation_loss_m": 1106,
+      "gender": "men",
+      "distance_km": 182.58,
+      "elevation_gain_m": 2106,
+      "elevation_loss_m": 886,
       "min_ele_m": -5,
       "max_ele_m": 1229,
       "bbox": {
         "min_lat": 25.43341,
-        "max_lat": 25.83421,
+        "max_lat": 25.8342,
         "min_lon": 55.53784,
-        "max_lon": 56.13396
+        "max_lon": 56.13395
       },
-      "points": 1001
+      "points": 607
     },
     {
       "id": "uae-tour-2026-stage-04",
@@ -2502,18 +2589,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 182.05,
-      "elevation_gain_m": 2199,
-      "elevation_loss_m": 2250,
+      "gender": "men",
+      "distance_km": 182.11,
+      "elevation_gain_m": 2120,
+      "elevation_loss_m": 2166,
       "min_ele_m": -3,
       "max_ele_m": 488,
       "bbox": {
-        "min_lat": 24.81725,
-        "max_lat": 25.16365,
+        "min_lat": 24.81726,
+        "max_lat": 25.16366,
         "min_lon": 56.02264,
-        "max_lon": 56.35774
+        "max_lon": 56.35776
       },
-      "points": 1001
+      "points": 640
     },
     {
       "id": "uae-tour-2026-stage-05",
@@ -2526,18 +2614,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 165.7,
-      "elevation_gain_m": 709,
-      "elevation_loss_m": 700,
-      "min_ele_m": -8,
+      "gender": "men",
+      "distance_km": 165.59,
+      "elevation_gain_m": 515,
+      "elevation_loss_m": 483,
+      "min_ele_m": -5,
       "max_ele_m": 109,
       "bbox": {
         "min_lat": 24.79182,
         "max_lat": 25.30009,
         "min_lon": 55.2501,
-        "max_lon": 55.39685
+        "max_lon": 55.39692
       },
-      "points": 1000
+      "points": 369
     },
     {
       "id": "uae-tour-2026-stage-06",
@@ -2550,18 +2639,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 167.67,
-      "elevation_gain_m": 1475,
-      "elevation_loss_m": 736,
-      "min_ele_m": 163,
+      "gender": "men",
+      "distance_km": 167.47,
+      "elevation_gain_m": 1335,
+      "elevation_loss_m": 596,
+      "min_ele_m": 161,
       "max_ele_m": 1036,
       "bbox": {
-        "min_lat": 24.0587,
-        "max_lat": 24.31993,
-        "min_lon": 55.33765,
+        "min_lat": 24.05871,
+        "max_lat": 24.31992,
+        "min_lon": 55.33764,
         "max_lon": 55.78484
       },
-      "points": 1001
+      "points": 503
     },
     {
       "id": "uae-tour-2026-stage-07",
@@ -2574,18 +2664,19 @@
       "gpx_path": "routes/stage-race/uae-tour-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/uae-tour/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 148.92,
-      "elevation_gain_m": 359,
-      "elevation_loss_m": 357,
+      "gender": "men",
+      "distance_km": 148.88,
+      "elevation_gain_m": 217,
+      "elevation_loss_m": 211,
       "min_ele_m": -4,
-      "max_ele_m": 24,
+      "max_ele_m": 22,
       "bbox": {
-        "min_lat": 24.39165,
+        "min_lat": 24.39167,
         "max_lat": 24.54904,
         "min_lon": 54.32238,
-        "max_lon": 54.62463
+        "max_lon": 54.62462
       },
-      "points": 1001
+      "points": 433
     },
     {
       "id": "tour-of-the-alps-2026-stage-01",
@@ -2598,18 +2689,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-alps-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-alps/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 142.94,
-      "elevation_gain_m": 1843,
-      "elevation_loss_m": 1849,
-      "min_ele_m": 568,
+      "gender": "men",
+      "distance_km": 144.0,
+      "elevation_gain_m": 1818,
+      "elevation_loss_m": 1824,
+      "min_ele_m": 569,
       "max_ele_m": 920,
       "bbox": {
         "min_lat": 47.22603,
-        "max_lat": 47.31333,
+        "max_lat": 47.31332,
         "min_lon": 10.9562,
-        "max_lon": 11.40497
+        "max_lon": 11.40517
       },
-      "points": 1001
+      "points": 857
     },
     {
       "id": "tour-of-the-alps-2026-stage-02",
@@ -2622,18 +2714,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-alps-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-alps/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 146.47,
-      "elevation_gain_m": 2604,
-      "elevation_loss_m": 2076,
+      "gender": "men",
+      "distance_km": 147.09,
+      "elevation_gain_m": 2578,
+      "elevation_loss_m": 2050,
       "min_ele_m": 625,
       "max_ele_m": 1572,
       "bbox": {
         "min_lat": 46.57073,
         "max_lat": 47.29332,
-        "min_lon": 10.48803,
+        "min_lon": 10.48808,
         "max_lon": 11.04935
       },
-      "points": 1001
+      "points": 820
     },
     {
       "id": "tour-of-the-alps-2026-stage-03",
@@ -2646,18 +2739,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-alps-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-alps/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 168.35,
-      "elevation_gain_m": 3500,
-      "elevation_loss_m": 3980,
+      "gender": "men",
+      "distance_km": 173.39,
+      "elevation_gain_m": 3549,
+      "elevation_loss_m": 4029,
       "min_ele_m": 79,
-      "max_ele_m": 1690,
+      "max_ele_m": 1691,
       "bbox": {
-        "min_lat": 45.89637,
-        "max_lat": 46.68098,
-        "min_lon": 10.80738,
-        "max_lon": 11.15125
+        "min_lat": 45.89628,
+        "max_lat": 46.68102,
+        "min_lon": 10.80729,
+        "max_lon": 11.15135
       },
-      "points": 1001
+      "points": 1413
     },
     {
       "id": "tour-of-the-alps-2026-stage-04",
@@ -2670,18 +2764,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-alps-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-alps/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 162.47,
-      "elevation_gain_m": 4030,
-      "elevation_loss_m": 3964,
+      "gender": "men",
+      "distance_km": 166.68,
+      "elevation_gain_m": 4034,
+      "elevation_loss_m": 3968,
       "min_ele_m": 132,
       "max_ele_m": 1458,
       "bbox": {
-        "min_lat": 45.85494,
-        "max_lat": 46.21857,
-        "min_lon": 10.88583,
-        "max_lon": 11.34057
+        "min_lat": 45.85493,
+        "max_lat": 46.21905,
+        "min_lon": 10.88546,
+        "max_lon": 11.34119
       },
-      "points": 1001
+      "points": 1387
     },
     {
       "id": "tour-of-the-alps-2026-stage-05",
@@ -2694,18 +2789,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-alps-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-alps/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 125.81,
-      "elevation_gain_m": 2963,
-      "elevation_loss_m": 2893,
+      "gender": "men",
+      "distance_km": 127.71,
+      "elevation_gain_m": 2962,
+      "elevation_loss_m": 2892,
       "min_ele_m": 193,
       "max_ele_m": 1204,
       "bbox": {
         "min_lat": 46.10084,
-        "max_lat": 46.54076,
-        "min_lon": 11.10464,
-        "max_lon": 11.3515
+        "max_lat": 46.54077,
+        "min_lon": 11.10461,
+        "max_lon": 11.35152
       },
-      "points": 1001
+      "points": 1055
     },
     {
       "id": "tour-down-under-2026-prologue",
@@ -2718,18 +2814,19 @@
       "gpx_path": "routes/stage-race/tour-down-under-2026-prologue.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-down-under/2026/prologue-route.gpx",
       "notes": "",
-      "distance_km": 3.62,
-      "elevation_gain_m": 31,
-      "elevation_loss_m": 31,
-      "min_ele_m": 50,
+      "gender": "men",
+      "distance_km": 3.6,
+      "elevation_gain_m": 18,
+      "elevation_loss_m": 18,
+      "min_ele_m": 51,
       "max_ele_m": 58,
       "bbox": {
-        "min_lat": -34.93209,
+        "min_lat": -34.93207,
         "max_lat": -34.92788,
         "min_lon": 138.60366,
-        "max_lon": 138.62335
+        "max_lon": 138.62333
       },
-      "points": 106
+      "points": 20
     },
     {
       "id": "tour-down-under-2026-stage-01",
@@ -2742,9 +2839,10 @@
       "gpx_path": "routes/stage-race/tour-down-under-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-down-under/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 125.18,
-      "elevation_gain_m": 1376,
-      "elevation_loss_m": 1375,
+      "gender": "men",
+      "distance_km": 125.06,
+      "elevation_gain_m": 1216,
+      "elevation_loss_m": 1215,
       "min_ele_m": 145,
       "max_ele_m": 502,
       "bbox": {
@@ -2753,7 +2851,7 @@
         "min_lon": 138.8738,
         "max_lon": 139.0598
       },
-      "points": 1000
+      "points": 318
     },
     {
       "id": "tour-down-under-2026-stage-03",
@@ -2766,18 +2864,19 @@
       "gpx_path": "routes/stage-race/tour-down-under-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-down-under/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 154.6,
-      "elevation_gain_m": 2295,
-      "elevation_loss_m": 1936,
+      "gender": "men",
+      "distance_km": 155.62,
+      "elevation_gain_m": 2170,
+      "elevation_loss_m": 1811,
       "min_ele_m": 5,
-      "max_ele_m": 496,
+      "max_ele_m": 498,
       "bbox": {
-        "min_lat": -35.26591,
+        "min_lat": -35.26636,
         "max_lat": -34.91972,
         "min_lon": 138.49438,
         "max_lon": 138.94709
       },
-      "points": 1001
+      "points": 713
     },
     {
       "id": "tour-down-under-2026-stage-04",
@@ -2790,18 +2889,19 @@
       "gpx_path": "routes/stage-race/tour-down-under-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-down-under/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 177.91,
-      "elevation_gain_m": 2232,
-      "elevation_loss_m": 1861,
+      "gender": "men",
+      "distance_km": 178.68,
+      "elevation_gain_m": 1962,
+      "elevation_loss_m": 1591,
       "min_ele_m": 3,
       "max_ele_m": 385,
       "bbox": {
         "min_lat": -35.30861,
         "max_lat": -35.01671,
         "min_lon": 138.44293,
-        "max_lon": 138.64303
+        "max_lon": 138.64315
       },
-      "points": 1001
+      "points": 551
     },
     {
       "id": "tour-down-under-2026-stage-05",
@@ -2814,18 +2914,19 @@
       "gpx_path": "routes/stage-race/tour-down-under-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-down-under/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 167.09,
-      "elevation_gain_m": 3275,
-      "elevation_loss_m": 3275,
+      "gender": "men",
+      "distance_km": 169.6,
+      "elevation_gain_m": 3301,
+      "elevation_loss_m": 3301,
       "min_ele_m": 310,
-      "max_ele_m": 528,
+      "max_ele_m": 527,
       "bbox": {
         "min_lat": -35.06282,
         "max_lat": -35.00373,
         "min_lon": 138.70913,
         "max_lon": 138.76602
       },
-      "points": 1001
+      "points": 1255
     },
     {
       "id": "o-gran-camino-2026-stage-01",
@@ -2838,18 +2939,19 @@
       "gpx_path": "routes/stage-race/o-gran-camino-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/o-gran-camino/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 14.89,
-      "elevation_gain_m": 235,
-      "elevation_loss_m": 222,
-      "min_ele_m": 9,
+      "gender": "men",
+      "distance_km": 14.77,
+      "elevation_gain_m": 210,
+      "elevation_loss_m": 197,
+      "min_ele_m": 10,
       "max_ele_m": 102,
       "bbox": {
         "min_lat": 43.36793,
         "max_lat": 43.38612,
-        "min_lon": -8.44513,
-        "max_lon": -8.40138
+        "min_lon": -8.4451,
+        "max_lon": -8.40139
       },
-      "points": 938
+      "points": 125
     },
     {
       "id": "o-gran-camino-2026-stage-02",
@@ -2862,18 +2964,19 @@
       "gpx_path": "routes/stage-race/o-gran-camino-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/o-gran-camino/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 148.24,
-      "elevation_gain_m": 1657,
-      "elevation_loss_m": 2116,
+      "gender": "men",
+      "distance_km": 148.78,
+      "elevation_gain_m": 1579,
+      "elevation_loss_m": 2038,
       "min_ele_m": 2,
       "max_ele_m": 711,
       "bbox": {
         "min_lat": 43.32288,
-        "max_lat": 43.68814,
-        "min_lon": -7.78486,
-        "max_lon": -7.04637
+        "max_lat": 43.68815,
+        "min_lon": -7.78484,
+        "max_lon": -7.04633
       },
-      "points": 1001
+      "points": 777
     },
     {
       "id": "o-gran-camino-2026-stage-03",
@@ -2886,18 +2989,19 @@
       "gpx_path": "routes/stage-race/o-gran-camino-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/o-gran-camino/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 166.57,
-      "elevation_gain_m": 2026,
-      "elevation_loss_m": 2120,
+      "gender": "men",
+      "distance_km": 168.43,
+      "elevation_gain_m": 1971,
+      "elevation_loss_m": 2065,
       "min_ele_m": 1,
       "max_ele_m": 465,
       "bbox": {
-        "min_lat": 42.56014,
+        "min_lat": 42.56017,
         "max_lat": 43.19931,
-        "min_lon": -9.03252,
-        "max_lon": -8.65203
+        "min_lon": -9.03251,
+        "max_lon": -8.65202
       },
-      "points": 1001
+      "points": 988
     },
     {
       "id": "o-gran-camino-2026-stage-04",
@@ -2910,18 +3014,19 @@
       "gpx_path": "routes/stage-race/o-gran-camino-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/o-gran-camino/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 142.93,
-      "elevation_gain_m": 2850,
-      "elevation_loss_m": 2329,
-      "min_ele_m": 99,
-      "max_ele_m": 1142,
+      "gender": "men",
+      "distance_km": 145.01,
+      "elevation_gain_m": 2824,
+      "elevation_loss_m": 2303,
+      "min_ele_m": 100,
+      "max_ele_m": 1143,
       "bbox": {
         "min_lat": 42.08052,
         "max_lat": 42.45371,
-        "min_lon": -7.95885,
+        "min_lon": -7.95883,
         "max_lon": -7.58853
       },
-      "points": 1001
+      "points": 1089
     },
     {
       "id": "o-gran-camino-2026-stage-05",
@@ -2934,18 +3039,19 @@
       "gpx_path": "routes/stage-race/o-gran-camino-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/o-gran-camino/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 152.23,
-      "elevation_gain_m": 2076,
-      "elevation_loss_m": 1842,
+      "gender": "men",
+      "distance_km": 154.36,
+      "elevation_gain_m": 2057,
+      "elevation_loss_m": 1823,
       "min_ele_m": 3,
       "max_ele_m": 463,
       "bbox": {
-        "min_lat": 41.88755,
+        "min_lat": 41.88757,
         "max_lat": 42.1157,
         "min_lon": -8.88495,
-        "max_lon": -8.29916
+        "max_lon": -8.29911
       },
-      "points": 1001
+      "points": 1059
     },
     {
       "id": "ruta-del-sol-2026-stage-01",
@@ -2958,18 +3064,19 @@
       "gpx_path": "routes/stage-race/ruta-del-sol-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/ruta-del-sol/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 147.56,
-      "elevation_gain_m": 2674,
-      "elevation_loss_m": 2661,
-      "min_ele_m": 28,
+      "gender": "men",
+      "distance_km": 149.58,
+      "elevation_gain_m": 2675,
+      "elevation_loss_m": 2662,
+      "min_ele_m": 29,
       "max_ele_m": 1126,
       "bbox": {
-        "min_lat": 36.49998,
-        "max_lat": 36.80125,
-        "min_lon": -5.14856,
-        "max_lon": -4.61247
+        "min_lat": 36.49995,
+        "max_lat": 36.80137,
+        "min_lon": -5.14857,
+        "max_lon": -4.61242
       },
-      "points": 1001
+      "points": 1283
     },
     {
       "id": "ruta-del-sol-2026-stage-02",
@@ -2982,9 +3089,10 @@
       "gpx_path": "routes/stage-race/ruta-del-sol-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/ruta-del-sol/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 135.48,
-      "elevation_gain_m": 2709,
-      "elevation_loss_m": 1916,
+      "gender": "men",
+      "distance_km": 137.83,
+      "elevation_gain_m": 2701,
+      "elevation_loss_m": 1908,
       "min_ele_m": 3,
       "max_ele_m": 1350,
       "bbox": {
@@ -2993,7 +3101,7 @@
         "min_lon": -3.94823,
         "max_lon": -3.63381
       },
-      "points": 1001
+      "points": 1073
     },
     {
       "id": "ruta-del-sol-2026-stage-03",
@@ -3006,18 +3114,19 @@
       "gpx_path": "routes/stage-race/ruta-del-sol-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/ruta-del-sol/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 178.35,
-      "elevation_gain_m": 1970,
-      "elevation_loss_m": 2170,
-      "min_ele_m": 181,
-      "max_ele_m": 767,
+      "gender": "men",
+      "distance_km": 180.72,
+      "elevation_gain_m": 1951,
+      "elevation_loss_m": 2151,
+      "min_ele_m": 182,
+      "max_ele_m": 769,
       "bbox": {
-        "min_lat": 37.75321,
-        "max_lat": 38.12226,
+        "min_lat": 37.75235,
+        "max_lat": 38.12227,
         "min_lon": -4.21324,
         "max_lon": -3.80115
       },
-      "points": 1001
+      "points": 1026
     },
     {
       "id": "ruta-del-sol-2026-stage-04",
@@ -3030,18 +3139,19 @@
       "gpx_path": "routes/stage-race/ruta-del-sol-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/ruta-del-sol/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 164.72,
-      "elevation_gain_m": 1750,
-      "elevation_loss_m": 1275,
+      "gender": "men",
+      "distance_km": 165.82,
+      "elevation_gain_m": 1730,
+      "elevation_loss_m": 1255,
       "min_ele_m": 158,
       "max_ele_m": 787,
       "bbox": {
         "min_lat": 38.02553,
-        "max_lat": 38.49229,
+        "max_lat": 38.49234,
         "min_lon": -4.90212,
-        "max_lon": -4.2674
+        "max_lon": -4.26738
       },
-      "points": 1001
+      "points": 832
     },
     {
       "id": "ruta-del-sol-2026-stage-05",
@@ -3054,18 +3164,19 @@
       "gpx_path": "routes/stage-race/ruta-del-sol-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/ruta-del-sol/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 166.84,
-      "elevation_gain_m": 2246,
-      "elevation_loss_m": 2176,
-      "min_ele_m": 165,
+      "gender": "men",
+      "distance_km": 168.16,
+      "elevation_gain_m": 2219,
+      "elevation_loss_m": 2149,
+      "min_ele_m": 164,
       "max_ele_m": 714,
       "bbox": {
         "min_lat": 37.19635,
-        "max_lat": 37.66732,
-        "min_lon": -4.92446,
-        "max_lon": -4.44278
+        "max_lat": 37.66737,
+        "min_lon": -4.92451,
+        "max_lon": -4.44266
       },
-      "points": 1001
+      "points": 917
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-01",
@@ -3078,9 +3189,10 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 13.91,
-      "elevation_gain_m": 251,
-      "elevation_loss_m": 283,
+      "gender": "men",
+      "distance_km": 13.79,
+      "elevation_gain_m": 242,
+      "elevation_loss_m": 274,
       "min_ele_m": -1,
       "max_ele_m": 263,
       "bbox": {
@@ -3089,7 +3201,7 @@
         "min_lon": -2.96159,
         "max_lon": -2.90415
       },
-      "points": 859
+      "points": 112
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-02",
@@ -3102,18 +3214,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 161.08,
-      "elevation_gain_m": 3127,
-      "elevation_loss_m": 2767,
-      "min_ele_m": 384,
+      "gender": "men",
+      "distance_km": 163.76,
+      "elevation_gain_m": 3115,
+      "elevation_loss_m": 2755,
+      "min_ele_m": 385,
       "max_ele_m": 1204,
       "bbox": {
-        "min_lat": 42.74499,
-        "max_lat": 43.02477,
-        "min_lon": -2.06402,
+        "min_lat": 42.74465,
+        "max_lat": 43.02488,
+        "min_lon": -2.06399,
         "max_lon": -1.71957
       },
-      "points": 1001
+      "points": 1156
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-03",
@@ -3126,18 +3239,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 150.33,
-      "elevation_gain_m": 2651,
-      "elevation_loss_m": 2581,
+      "gender": "men",
+      "distance_km": 152.44,
+      "elevation_gain_m": 2630,
+      "elevation_loss_m": 2560,
       "min_ele_m": 41,
       "max_ele_m": 671,
       "bbox": {
         "min_lat": 42.95913,
         "max_lat": 43.23691,
-        "min_lon": -3.2067,
-        "max_lon": -2.79107
+        "min_lon": -3.20673,
+        "max_lon": -2.79082
       },
-      "points": 1001
+      "points": 1100
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-04",
@@ -3150,18 +3264,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 162.72,
-      "elevation_gain_m": 3009,
-      "elevation_loss_m": 2914,
+      "gender": "men",
+      "distance_km": 166.31,
+      "elevation_gain_m": 3006,
+      "elevation_loss_m": 2911,
       "min_ele_m": 1,
       "max_ele_m": 407,
       "bbox": {
-        "min_lat": 43.22616,
-        "max_lat": 43.44694,
-        "min_lon": -2.96143,
-        "max_lon": -2.66747
+        "min_lat": 43.22615,
+        "max_lat": 43.44708,
+        "min_lon": -2.96159,
+        "max_lon": -2.66748
       },
-      "points": 1001
+      "points": 1289
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-05",
@@ -3174,18 +3289,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 168.03,
-      "elevation_gain_m": 3842,
-      "elevation_loss_m": 3802,
-      "min_ele_m": 2,
-      "max_ele_m": 673,
+      "gender": "men",
+      "distance_km": 175.16,
+      "elevation_gain_m": 3975,
+      "elevation_loss_m": 3935,
+      "min_ele_m": 3,
+      "max_ele_m": 674,
       "bbox": {
-        "min_lat": 43.17207,
-        "max_lat": 43.3076,
-        "min_lon": -2.54356,
+        "min_lat": 43.17182,
+        "max_lat": 43.30769,
+        "min_lon": -2.54359,
         "max_lon": -2.18868
       },
-      "points": 1001
+      "points": 1626
     },
     {
       "id": "tour-of-the-basque-country-2026-stage-06",
@@ -3198,18 +3314,19 @@
       "gpx_path": "routes/stage-race/tour-of-the-basque-country-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-the-basque-country/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 132.89,
-      "elevation_gain_m": 2972,
-      "elevation_loss_m": 2992,
+      "gender": "men",
+      "distance_km": 135.23,
+      "elevation_gain_m": 2985,
+      "elevation_loss_m": 3005,
       "min_ele_m": 30,
-      "max_ele_m": 684,
+      "max_ele_m": 685,
       "bbox": {
         "min_lat": 43.07573,
         "max_lat": 43.22882,
-        "min_lon": -2.50604,
+        "min_lon": -2.50614,
         "max_lon": -2.31713
       },
-      "points": 1001
+      "points": 1181
     },
     {
       "id": "tour-of-valencia-2026-stage-01",
@@ -3222,18 +3339,19 @@
       "gpx_path": "routes/stage-race/tour-of-valencia-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-valencia/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 161.75,
-      "elevation_gain_m": 1486,
-      "elevation_loss_m": 1782,
+      "gender": "men",
+      "distance_km": 163.28,
+      "elevation_gain_m": 1473,
+      "elevation_loss_m": 1770,
       "min_ele_m": 1,
-      "max_ele_m": 329,
+      "max_ele_m": 331,
       "bbox": {
         "min_lat": 39.7668,
-        "max_lat": 40.22059,
+        "max_lat": 40.22063,
         "min_lon": -0.4633,
         "max_lon": 0.2236
       },
-      "points": 1001
+      "points": 991
     },
     {
       "id": "tour-of-valencia-2026-stage-02",
@@ -3246,10 +3364,11 @@
       "gpx_path": "routes/stage-race/tour-of-valencia-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-valencia/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 17.23,
-      "elevation_gain_m": 166,
-      "elevation_loss_m": 184,
-      "min_ele_m": 33,
+      "gender": "men",
+      "distance_km": 17.12,
+      "elevation_gain_m": 157,
+      "elevation_loss_m": 175,
+      "min_ele_m": 35,
       "max_ele_m": 187,
       "bbox": {
         "min_lat": 39.23303,
@@ -3257,7 +3376,7 @@
         "min_lon": -0.52216,
         "max_lon": -0.46548
       },
-      "points": 781
+      "points": 126
     },
     {
       "id": "tour-of-valencia-2026-stage-03",
@@ -3270,18 +3389,19 @@
       "gpx_path": "routes/stage-race/tour-of-valencia-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-valencia/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 155.79,
-      "elevation_gain_m": 1420,
-      "elevation_loss_m": 1331,
+      "gender": "men",
+      "distance_km": 157.38,
+      "elevation_gain_m": 1380,
+      "elevation_loss_m": 1292,
       "min_ele_m": 1,
-      "max_ele_m": 727,
+      "max_ele_m": 725,
       "bbox": {
-        "min_lat": 38.01369,
-        "max_lat": 38.5451,
+        "min_lat": 38.01365,
+        "max_lat": 38.54514,
         "min_lon": -0.99999,
         "max_lon": -0.43869
       },
-      "points": 1001
+      "points": 807
     },
     {
       "id": "tour-of-valencia-2026-stage-04",
@@ -3294,18 +3414,19 @@
       "gpx_path": "routes/stage-race/tour-of-valencia-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-valencia/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 165.61,
-      "elevation_gain_m": 3115,
-      "elevation_loss_m": 3162,
+      "gender": "men",
+      "distance_km": 171.51,
+      "elevation_gain_m": 3143,
+      "elevation_loss_m": 3190,
       "min_ele_m": 6,
       "max_ele_m": 651,
       "bbox": {
         "min_lat": 38.62014,
-        "max_lat": 38.85206,
-        "min_lon": -0.30272,
-        "max_lon": 0.16588
+        "max_lat": 38.85215,
+        "min_lon": -0.30275,
+        "max_lon": 0.16601
       },
-      "points": 1001
+      "points": 1514
     },
     {
       "id": "tour-of-valencia-2026-stage-05",
@@ -3318,18 +3439,19 @@
       "gpx_path": "routes/stage-race/tour-of-valencia-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-of-valencia/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 91.33,
-      "elevation_gain_m": 1176,
-      "elevation_loss_m": 1257,
+      "gender": "men",
+      "distance_km": 92.03,
+      "elevation_gain_m": 1151,
+      "elevation_loss_m": 1234,
       "min_ele_m": -1,
       "max_ele_m": 595,
       "bbox": {
         "min_lat": 39.46025,
-        "max_lat": 39.74833,
-        "min_lon": -0.48066,
+        "max_lat": 39.74839,
+        "min_lon": -0.4808,
         "max_lon": -0.32409
       },
-      "points": 1001
+      "points": 705
     },
     {
       "id": "volta-a-catalunya-2026-stage-01",
@@ -3342,18 +3464,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 167.82,
-      "elevation_gain_m": 2048,
-      "elevation_loss_m": 2066,
+      "gender": "men",
+      "distance_km": 171.7,
+      "elevation_gain_m": 2044,
+      "elevation_loss_m": 2062,
       "min_ele_m": 8,
       "max_ele_m": 812,
       "bbox": {
         "min_lat": 41.72223,
-        "max_lat": 41.97876,
-        "min_lon": 2.4982,
-        "max_lon": 3.0306
+        "max_lat": 41.9788,
+        "min_lon": 2.49775,
+        "max_lon": 3.03068
       },
-      "points": 1001
+      "points": 1299
     },
     {
       "id": "volta-a-catalunya-2026-stage-02",
@@ -3366,18 +3489,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 164.52,
-      "elevation_gain_m": 1842,
-      "elevation_loss_m": 1851,
+      "gender": "men",
+      "distance_km": 166.77,
+      "elevation_gain_m": 1789,
+      "elevation_loss_m": 1798,
       "min_ele_m": 3,
       "max_ele_m": 627,
       "bbox": {
-        "min_lat": 42.1064,
-        "max_lat": 42.42007,
+        "min_lat": 42.10621,
+        "max_lat": 42.42011,
         "min_lon": 2.49126,
-        "max_lon": 3.07392
+        "max_lon": 3.07398
       },
-      "points": 1001
+      "points": 1039
     },
     {
       "id": "volta-a-catalunya-2026-stage-03",
@@ -3390,18 +3514,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 154.39,
-      "elevation_gain_m": 2213,
-      "elevation_loss_m": 2286,
-      "min_ele_m": 30,
-      "max_ele_m": 979,
+      "gender": "men",
+      "distance_km": 158.06,
+      "elevation_gain_m": 2226,
+      "elevation_loss_m": 2299,
+      "min_ele_m": 29,
+      "max_ele_m": 980,
       "bbox": {
         "min_lat": 41.08129,
-        "max_lat": 41.31395,
-        "min_lon": 0.76398,
+        "max_lat": 41.314,
+        "min_lon": 0.76388,
         "max_lon": 1.14677
       },
-      "points": 1001
+      "points": 1323
     },
     {
       "id": "volta-a-catalunya-2026-stage-04",
@@ -3414,18 +3539,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 168.54,
-      "elevation_gain_m": 3951,
-      "elevation_loss_m": 1870,
+      "gender": "men",
+      "distance_km": 172.3,
+      "elevation_gain_m": 3933,
+      "elevation_loss_m": 1852,
       "min_ele_m": 55,
       "max_ele_m": 2143,
       "bbox": {
         "min_lat": 41.54684,
-        "max_lat": 42.42623,
-        "min_lon": 2.04783,
+        "max_lat": 42.42618,
+        "min_lon": 2.04709,
         "max_lon": 2.41673
       },
-      "points": 1001
+      "points": 1290
     },
     {
       "id": "volta-a-catalunya-2026-stage-05",
@@ -3438,18 +3564,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 148.59,
-      "elevation_gain_m": 4477,
-      "elevation_loss_m": 3082,
-      "min_ele_m": 569,
+      "gender": "men",
+      "distance_km": 154.3,
+      "elevation_gain_m": 4514,
+      "elevation_loss_m": 3119,
+      "min_ele_m": 568,
       "max_ele_m": 2109,
       "bbox": {
-        "min_lat": 42.17461,
+        "min_lat": 42.17459,
         "max_lat": 42.36028,
-        "min_lon": 1.34593,
-        "max_lon": 1.96141
+        "min_lon": 1.34591,
+        "max_lon": 1.96155
       },
-      "points": 1001
+      "points": 1436
     },
     {
       "id": "volta-a-catalunya-2026-stage-06",
@@ -3462,18 +3589,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 149.1,
-      "elevation_gain_m": 3754,
-      "elevation_loss_m": 3170,
-      "min_ele_m": 413,
-      "max_ele_m": 1735,
+      "gender": "men",
+      "distance_km": 156.86,
+      "elevation_gain_m": 3815,
+      "elevation_loss_m": 3231,
+      "min_ele_m": 406,
+      "max_ele_m": 1734,
       "bbox": {
-        "min_lat": 41.97703,
-        "max_lat": 42.24721,
-        "min_lon": 1.71756,
+        "min_lat": 41.9758,
+        "max_lat": 42.2473,
+        "min_lon": 1.71753,
         "max_lon": 2.04803
       },
-      "points": 1001
+      "points": 1545
     },
     {
       "id": "volta-a-catalunya-2026-stage-07",
@@ -3486,18 +3614,19 @@
       "gpx_path": "routes/stage-race/volta-a-catalunya-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-a-catalunya/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 94.27,
-      "elevation_gain_m": 1557,
-      "elevation_loss_m": 1559,
+      "gender": "men",
+      "distance_km": 94.91,
+      "elevation_gain_m": 1462,
+      "elevation_loss_m": 1465,
       "min_ele_m": -1,
       "max_ele_m": 173,
       "bbox": {
-        "min_lat": 41.26771,
+        "min_lat": 41.26769,
         "max_lat": 41.37458,
-        "min_lon": 1.98407,
+        "min_lon": 1.98412,
         "max_lon": 2.17024
       },
-      "points": 1001
+      "points": 663
     },
     {
       "id": "paris-nice-2026-stage-01",
@@ -3510,18 +3639,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 169.47,
-      "elevation_gain_m": 1737,
-      "elevation_loss_m": 1788,
+      "gender": "men",
+      "distance_km": 170.98,
+      "elevation_gain_m": 1679,
+      "elevation_loss_m": 1730,
       "min_ele_m": 16,
-      "max_ele_m": 192,
+      "max_ele_m": 191,
       "bbox": {
         "min_lat": 48.84233,
-        "max_lat": 49.08724,
-        "min_lon": 1.52064,
+        "max_lat": 49.08732,
+        "min_lon": 1.52061,
         "max_lon": 2.04364
       },
-      "points": 1001
+      "points": 828
     },
     {
       "id": "paris-nice-2026-stage-02",
@@ -3534,18 +3664,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 185.32,
-      "elevation_gain_m": 1160,
-      "elevation_loss_m": 1193,
+      "gender": "men",
+      "distance_km": 186.61,
+      "elevation_gain_m": 1133,
+      "elevation_loss_m": 1166,
       "min_ele_m": 59,
       "max_ele_m": 189,
       "bbox": {
         "min_lat": 47.99885,
         "max_lat": 48.93989,
-        "min_lon": 1.77814,
-        "max_lon": 2.74065
+        "min_lon": 1.77802,
+        "max_lon": 2.74072
       },
-      "points": 1001
+      "points": 853
     },
     {
       "id": "paris-nice-2026-stage-03",
@@ -3558,18 +3689,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 23.55,
-      "elevation_gain_m": 213,
-      "elevation_loss_m": 187,
+      "gender": "men",
+      "distance_km": 23.46,
+      "elevation_gain_m": 196,
+      "elevation_loss_m": 170,
       "min_ele_m": 141,
-      "max_ele_m": 267,
+      "max_ele_m": 265,
       "bbox": {
         "min_lat": 47.27674,
         "max_lat": 47.41346,
         "min_lon": 2.92156,
         "max_lon": 3.00206
       },
-      "points": 610
+      "points": 97
     },
     {
       "id": "paris-nice-2026-stage-04",
@@ -3582,18 +3714,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 193.61,
-      "elevation_gain_m": 2077,
-      "elevation_loss_m": 1584,
+      "gender": "men",
+      "distance_km": 194.47,
+      "elevation_gain_m": 2012,
+      "elevation_loss_m": 1519,
       "min_ele_m": 141,
       "max_ele_m": 634,
       "bbox": {
         "min_lat": 46.81235,
         "max_lat": 47.0828,
         "min_lon": 2.45967,
-        "max_lon": 4.31501
+        "max_lon": 4.31505
       },
-      "points": 1001
+      "points": 857
     },
     {
       "id": "paris-nice-2026-stage-05",
@@ -3606,18 +3739,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 197.72,
-      "elevation_gain_m": 2723,
-      "elevation_loss_m": 2500,
+      "gender": "men",
+      "distance_km": 204.27,
+      "elevation_gain_m": 2750,
+      "elevation_loss_m": 2527,
       "min_ele_m": 124,
-      "max_ele_m": 498,
+      "max_ele_m": 499,
       "bbox": {
-        "min_lat": 45.05329,
+        "min_lat": 45.05326,
         "max_lat": 46.20261,
         "min_lon": 4.64322,
         "max_lon": 4.8314
       },
-      "points": 1001
+      "points": 1508
     },
     {
       "id": "paris-nice-2026-stage-06",
@@ -3630,18 +3764,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 176.44,
-      "elevation_gain_m": 2014,
-      "elevation_loss_m": 1800,
+      "gender": "men",
+      "distance_km": 178.53,
+      "elevation_gain_m": 2018,
+      "elevation_loss_m": 1804,
       "min_ele_m": 7,
       "max_ele_m": 692,
       "bbox": {
         "min_lat": 43.68104,
         "max_lat": 43.89178,
-        "min_lon": 4.69363,
-        "max_lon": 5.61226
+        "min_lon": 4.69341,
+        "max_lon": 5.6123
       },
-      "points": 1001
+      "points": 1116
     },
     {
       "id": "paris-nice-2026-stage-07",
@@ -3654,18 +3789,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 134.79,
-      "elevation_gain_m": 3178,
-      "elevation_loss_m": 1593,
+      "gender": "men",
+      "distance_km": 137.78,
+      "elevation_gain_m": 3223,
+      "elevation_loss_m": 1638,
       "min_ele_m": 20,
       "max_ele_m": 1605,
       "bbox": {
         "min_lat": 43.70915,
         "max_lat": 44.24287,
         "min_lon": 6.93213,
-        "max_lon": 7.20524
+        "max_lon": 7.20527
       },
-      "points": 1001
+      "points": 1286
     },
     {
       "id": "paris-nice-2026-stage-08",
@@ -3678,18 +3814,19 @@
       "gpx_path": "routes/stage-race/paris-nice-2026-stage-08.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/paris-nice/2026/stage-8-route.gpx",
       "notes": "",
-      "distance_km": 138.51,
-      "elevation_gain_m": 2956,
-      "elevation_loss_m": 2975,
+      "gender": "men",
+      "distance_km": 145.16,
+      "elevation_gain_m": 2984,
+      "elevation_loss_m": 3003,
       "min_ele_m": 28,
       "max_ele_m": 1060,
       "bbox": {
-        "min_lat": 43.70597,
-        "max_lat": 43.96973,
-        "min_lon": 7.18401,
-        "max_lon": 7.36071
+        "min_lat": 43.70586,
+        "max_lat": 43.96974,
+        "min_lon": 7.18402,
+        "max_lon": 7.36077
       },
-      "points": 1001
+      "points": 1507
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-01",
@@ -3702,18 +3839,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 136.22,
-      "elevation_gain_m": 2967,
-      "elevation_loss_m": 2910,
+      "gender": "men",
+      "distance_km": 138.98,
+      "elevation_gain_m": 2964,
+      "elevation_loss_m": 2907,
       "min_ele_m": 198,
-      "max_ele_m": 1156,
+      "max_ele_m": 1153,
       "bbox": {
-        "min_lat": 44.92134,
-        "max_lat": 45.25806,
+        "min_lat": 44.9213,
+        "max_lat": 45.25809,
         "min_lon": 5.57017,
-        "max_lon": 5.89907
+        "max_lon": 5.89923
       },
-      "points": 1001
+      "points": 1098
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-02",
@@ -3726,18 +3864,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 228.49,
-      "elevation_gain_m": 3245,
-      "elevation_loss_m": 2814,
-      "min_ele_m": 118,
-      "max_ele_m": 1246,
+      "gender": "men",
+      "distance_km": 236.08,
+      "elevation_gain_m": 3275,
+      "elevation_loss_m": 2844,
+      "min_ele_m": 119,
+      "max_ele_m": 1247,
       "bbox": {
         "min_lat": 45.042,
-        "max_lat": 45.30103,
-        "min_lon": 3.77428,
+        "max_lat": 45.30131,
+        "min_lon": 3.77429,
         "max_lon": 5.62237
       },
-      "points": 1001
+      "points": 1712
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-03",
@@ -3750,18 +3889,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 28.43,
-      "elevation_gain_m": 402,
-      "elevation_loss_m": 385,
-      "min_ele_m": 291,
+      "gender": "men",
+      "distance_km": 28.28,
+      "elevation_gain_m": 392,
+      "elevation_loss_m": 375,
+      "min_ele_m": 293,
       "max_ele_m": 490,
       "bbox": {
         "min_lat": 46.02792,
-        "max_lat": 46.07381,
+        "max_lat": 46.0738,
         "min_lon": 4.1214,
         "max_lon": 4.24358
       },
-      "points": 873
+      "points": 200
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-04",
@@ -3774,18 +3914,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 162.56,
-      "elevation_gain_m": 2035,
-      "elevation_loss_m": 2385,
+      "gender": "men",
+      "distance_km": 163.95,
+      "elevation_gain_m": 2007,
+      "elevation_loss_m": 2357,
       "min_ele_m": 325,
       "max_ele_m": 1195,
       "bbox": {
         "min_lat": 45.07055,
-        "max_lat": 45.74312,
-        "min_lon": 3.72395,
+        "max_lat": 45.74311,
+        "min_lon": 3.72393,
         "max_lon": 4.23309
       },
-      "points": 1001
+      "points": 1035
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-05",
@@ -3798,18 +3939,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 193.6,
-      "elevation_gain_m": 2084,
-      "elevation_loss_m": 2389,
-      "min_ele_m": 169,
+      "gender": "men",
+      "distance_km": 197.34,
+      "elevation_gain_m": 2069,
+      "elevation_loss_m": 2374,
+      "min_ele_m": 168,
       "max_ele_m": 861,
       "bbox": {
         "min_lat": 45.49765,
-        "max_lat": 46.13413,
+        "max_lat": 46.13424,
         "min_lon": 4.35063,
-        "max_lon": 5.16538
+        "max_lon": 5.166
       },
-      "points": 1001
+      "points": 1344
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-06",
@@ -3822,18 +3964,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 179.29,
-      "elevation_gain_m": 2874,
-      "elevation_loss_m": 1870,
-      "min_ele_m": 196,
+      "gender": "men",
+      "distance_km": 181.29,
+      "elevation_gain_m": 2868,
+      "elevation_loss_m": 1864,
+      "min_ele_m": 197,
       "max_ele_m": 1211,
       "bbox": {
         "min_lat": 45.41522,
-        "max_lat": 45.8847,
+        "max_lat": 45.88473,
         "min_lon": 5.29655,
         "max_lon": 6.50378
       },
-      "points": 1001
+      "points": 1104
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-07",
@@ -3846,18 +3989,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 130.97,
-      "elevation_gain_m": 3691,
-      "elevation_loss_m": 2473,
+      "gender": "men",
+      "distance_km": 132.87,
+      "elevation_gain_m": 3684,
+      "elevation_loss_m": 2466,
       "min_ele_m": 226,
       "max_ele_m": 1497,
       "bbox": {
         "min_lat": 45.54942,
-        "max_lat": 46.05827,
-        "min_lon": 5.67495,
-        "max_lon": 5.814
+        "max_lat": 46.05854,
+        "min_lon": 5.67474,
+        "max_lon": 5.81405
       },
-      "points": 1001
+      "points": 1074
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-08",
@@ -3870,18 +4014,19 @@
       "gpx_path": "routes/stage-race/tour-auvergne-rhone-alpes-2026-stage-08.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-8-route.gpx",
       "notes": "",
-      "distance_km": 116.99,
-      "elevation_gain_m": 3884,
-      "elevation_loss_m": 3247,
+      "gender": "men",
+      "distance_km": 119.99,
+      "elevation_gain_m": 3908,
+      "elevation_loss_m": 3271,
       "min_ele_m": 448,
       "max_ele_m": 1735,
       "bbox": {
-        "min_lat": 45.68056,
-        "max_lat": 46.06963,
+        "min_lat": 45.68053,
+        "max_lat": 46.0697,
         "min_lon": 6.37195,
-        "max_lon": 6.63412
+        "max_lon": 6.63421
       },
-      "points": 1001
+      "points": 1194
     },
     {
       "id": "tirreno-adriatico-2026-stage-01",
@@ -3894,18 +4039,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 11.5,
-      "elevation_gain_m": 8,
-      "elevation_loss_m": 8,
+      "gender": "men",
+      "distance_km": 11.49,
+      "elevation_gain_m": 2,
+      "elevation_loss_m": 2,
       "min_ele_m": 2,
-      "max_ele_m": 4,
+      "max_ele_m": 3,
       "bbox": {
         "min_lat": 43.89319,
         "max_lat": 43.94345,
         "min_lon": 10.18312,
         "max_lon": 10.22569
       },
-      "points": 143
+      "points": 13
     },
     {
       "id": "tirreno-adriatico-2026-stage-02",
@@ -3918,18 +4064,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 201.57,
-      "elevation_gain_m": 2112,
-      "elevation_loss_m": 1839,
+      "gender": "men",
+      "distance_km": 205.56,
+      "elevation_gain_m": 2107,
+      "elevation_loss_m": 1826,
       "min_ele_m": -6,
-      "max_ele_m": 609,
+      "max_ele_m": 608,
       "bbox": {
-        "min_lat": 43.20826,
+        "min_lat": 43.20827,
         "max_lat": 43.92678,
         "min_lon": 10.32005,
         "max_lon": 11.10033
       },
-      "points": 1001
+      "points": 1248
     },
     {
       "id": "tirreno-adriatico-2026-stage-03",
@@ -3942,9 +4089,10 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 222.05,
-      "elevation_gain_m": 2209,
-      "elevation_loss_m": 1737,
+      "gender": "men",
+      "distance_km": 224.53,
+      "elevation_gain_m": 2236,
+      "elevation_loss_m": 1764,
       "min_ele_m": 118,
       "max_ele_m": 827,
       "bbox": {
@@ -3953,7 +4101,7 @@
         "min_lon": 11.98215,
         "max_lon": 13.37181
       },
-      "points": 1001
+      "points": 1141
     },
     {
       "id": "tirreno-adriatico-2026-stage-04",
@@ -3966,18 +4114,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 203.42,
-      "elevation_gain_m": 2664,
-      "elevation_loss_m": 3384,
-      "min_ele_m": -1,
-      "max_ele_m": 1371,
+      "gender": "men",
+      "distance_km": 209.44,
+      "elevation_gain_m": 2705,
+      "elevation_loss_m": 3425,
+      "min_ele_m": 1,
+      "max_ele_m": 1370,
       "bbox": {
-        "min_lat": 42.05091,
+        "min_lat": 42.05089,
         "max_lat": 42.88579,
         "min_lon": 13.27621,
-        "max_lon": 13.92795
+        "max_lon": 13.92855
       },
-      "points": 1001
+      "points": 1338
     },
     {
       "id": "tirreno-adriatico-2026-stage-05",
@@ -3990,18 +4139,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 179.76,
-      "elevation_gain_m": 3746,
-      "elevation_loss_m": 3457,
+      "gender": "men",
+      "distance_km": 186.27,
+      "elevation_gain_m": 3760,
+      "elevation_loss_m": 3471,
       "min_ele_m": 20,
       "max_ele_m": 633,
       "bbox": {
-        "min_lat": 43.58461,
-        "max_lat": 43.81319,
-        "min_lon": 12.74074,
+        "min_lat": 43.58441,
+        "max_lat": 43.81322,
+        "min_lon": 12.74033,
         "max_lon": 13.13476
       },
-      "points": 1001
+      "points": 1466
     },
     {
       "id": "tirreno-adriatico-2026-stage-06",
@@ -4014,18 +4164,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-06.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-6-route.gpx",
       "notes": "",
-      "distance_km": 181.95,
-      "elevation_gain_m": 3931,
-      "elevation_loss_m": 3505,
+      "gender": "men",
+      "distance_km": 187.55,
+      "elevation_gain_m": 3941,
+      "elevation_loss_m": 3515,
       "min_ele_m": 130,
-      "max_ele_m": 1451,
+      "max_ele_m": 1450,
       "bbox": {
-        "min_lat": 42.98802,
-        "max_lat": 43.25544,
-        "min_lon": 13.0489,
-        "max_lon": 13.41636
+        "min_lat": 42.98785,
+        "max_lat": 43.25549,
+        "min_lon": 13.04875,
+        "max_lon": 13.41629
       },
-      "points": 1001
+      "points": 1423
     },
     {
       "id": "tirreno-adriatico-2026-stage-07",
@@ -4038,18 +4189,19 @@
       "gpx_path": "routes/stage-race/tirreno-adriatico-2026-stage-07.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/tirreno-adriatico/2026/stage-7-route.gpx",
       "notes": "",
-      "distance_km": 141.52,
-      "elevation_gain_m": 1098,
-      "elevation_loss_m": 1096,
+      "gender": "men",
+      "distance_km": 142.8,
+      "elevation_gain_m": 1003,
+      "elevation_loss_m": 1001,
       "min_ele_m": 1,
       "max_ele_m": 483,
       "bbox": {
-        "min_lat": 42.91473,
+        "min_lat": 42.91468,
         "max_lat": 43.29133,
-        "min_lon": 13.71918,
+        "min_lon": 13.71899,
         "max_lon": 13.90267
       },
-      "points": 1001
+      "points": 617
     },
     {
       "id": "volta-ao-algarve-2026-stage-01",
@@ -4062,18 +4214,19 @@
       "gpx_path": "routes/stage-race/volta-ao-algarve-2026-stage-01.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-ao-algarve/2026/stage-1-route.gpx",
       "notes": "",
-      "distance_km": 180.5,
-      "elevation_gain_m": 1856,
-      "elevation_loss_m": 1845,
+      "gender": "men",
+      "distance_km": 182.94,
+      "elevation_gain_m": 1860,
+      "elevation_loss_m": 1849,
       "min_ele_m": 1,
       "max_ele_m": 473,
       "bbox": {
-        "min_lat": 37.12965,
-        "max_lat": 37.46913,
-        "min_lon": -7.82078,
-        "max_lon": -7.41249
+        "min_lat": 37.12936,
+        "max_lat": 37.46919,
+        "min_lon": -7.82103,
+        "max_lon": -7.41236
       },
-      "points": 1001
+      "points": 1101
     },
     {
       "id": "volta-ao-algarve-2026-stage-02",
@@ -4086,18 +4239,19 @@
       "gpx_path": "routes/stage-race/volta-ao-algarve-2026-stage-02.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-ao-algarve/2026/stage-2-route.gpx",
       "notes": "",
-      "distance_km": 146.06,
-      "elevation_gain_m": 2789,
-      "elevation_loss_m": 1944,
+      "gender": "men",
+      "distance_km": 147.83,
+      "elevation_gain_m": 2758,
+      "elevation_loss_m": 1913,
       "min_ele_m": 11,
       "max_ele_m": 882,
       "bbox": {
-        "min_lat": 37.12333,
-        "max_lat": 37.35971,
-        "min_lon": -8.61402,
-        "max_lon": -8.08288
+        "min_lat": 37.12334,
+        "max_lat": 37.35978,
+        "min_lon": -8.61397,
+        "max_lon": -8.08291
       },
-      "points": 1001
+      "points": 968
     },
     {
       "id": "volta-ao-algarve-2026-stage-03",
@@ -4110,18 +4264,19 @@
       "gpx_path": "routes/stage-race/volta-ao-algarve-2026-stage-03.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-ao-algarve/2026/stage-3-route.gpx",
       "notes": "",
-      "distance_km": 19.57,
-      "elevation_gain_m": 125,
-      "elevation_loss_m": 123,
+      "gender": "men",
+      "distance_km": 19.47,
+      "elevation_gain_m": 116,
+      "elevation_loss_m": 114,
       "min_ele_m": 8,
       "max_ele_m": 58,
       "bbox": {
-        "min_lat": 37.07025,
+        "min_lat": 37.07028,
         "max_lat": 37.11007,
-        "min_lon": -8.1272,
+        "min_lon": -8.12718,
         "max_lon": -8.0847
       },
-      "points": 622
+      "points": 137
     },
     {
       "id": "volta-ao-algarve-2026-stage-04",
@@ -4134,18 +4289,19 @@
       "gpx_path": "routes/stage-race/volta-ao-algarve-2026-stage-04.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-ao-algarve/2026/stage-4-route.gpx",
       "notes": "",
-      "distance_km": 174.42,
-      "elevation_gain_m": 1814,
-      "elevation_loss_m": 1886,
+      "gender": "men",
+      "distance_km": 175.57,
+      "elevation_gain_m": 1773,
+      "elevation_loss_m": 1845,
       "min_ele_m": 1,
       "max_ele_m": 488,
       "bbox": {
-        "min_lat": 37.09087,
-        "max_lat": 37.31673,
-        "min_lon": -8.81316,
+        "min_lat": 37.09092,
+        "max_lat": 37.31678,
+        "min_lon": -8.81311,
         "max_lon": -8.15803
       },
-      "points": 1001
+      "points": 950
     },
     {
       "id": "volta-ao-algarve-2026-stage-05",
@@ -4158,18 +4314,19 @@
       "gpx_path": "routes/stage-race/volta-ao-algarve-2026-stage-05.gpx",
       "source_url": "https://cdn.cyclingstage.com/images/volta-ao-algarve/2026/stage-5-route.gpx",
       "notes": "",
-      "distance_km": 146.58,
-      "elevation_gain_m": 2213,
-      "elevation_loss_m": 1709,
+      "gender": "men",
+      "distance_km": 147.74,
+      "elevation_gain_m": 2157,
+      "elevation_loss_m": 1653,
       "min_ele_m": 3,
       "max_ele_m": 512,
       "bbox": {
         "min_lat": 37.02339,
         "max_lat": 37.31412,
         "min_lon": -8.17993,
-        "max_lon": -7.75974
+        "max_lon": -7.7597
       },
-      "points": 1001
+      "points": 857
     }
   ]
 }

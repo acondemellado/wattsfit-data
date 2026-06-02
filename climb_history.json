@@ -1,0 +1,1322 @@
+{
+  "version": 1,
+  "updated": "2026-06-02",
+  "note": "Histórico de puertos para comparativas. MUESTRA: Tour de France 2023. Solo tiempos reales medidos (measured=true, con source_url) + presencia. Las estimaciones las calcula la app en vivo, no se almacenan aquí.",
+  "races_covered": [
+    {
+      "race": "Tour de France",
+      "year": 2023
+    }
+  ],
+  "climbs": [
+    {
+      "name": "Ballon d'Alsace",
+      "side": "Saint-Maurice-sur-Moselle",
+      "category": "2",
+      "lengthKm": 11.5,
+      "avgGradientPct": 5.2,
+      "summitLat": 47.8217,
+      "summitLon": 6.8392,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Cauterets-Cambasque",
+      "side": "Cauterets",
+      "category": "1",
+      "lengthKm": 15.9,
+      "avgGradientPct": 5.4,
+      "summitLat": 42.8775,
+      "summitLon": -0.1281,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 778,
+          "lengthKm": 5.2,
+          "note": "tramo final 5,2 km",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/12/23/the-top-10-climbing-performances-of-2023/"
+        },
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "group": "gc-group",
+          "rider": "Jonas Vingegaard",
+          "timeS": 802,
+          "lengthKm": 5.2,
+          "note": "tramo final 5,2 km",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/12/23/the-top-10-climbing-performances-of-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Col d'Aspin",
+      "side": "Sainte-Marie-de-Campan (oeste)",
+      "category": "1",
+      "lengthKm": 12.0,
+      "avgGradientPct": 6.5,
+      "summitLat": 42.9389,
+      "summitLon": 0.3261,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col d'Ichère",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col d'Itziar",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.1,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col d'Udana",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.6,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Cou",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.0,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Grosse Pierre",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.2,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Guéry",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.8,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Joux Plane",
+      "side": "Samoëns",
+      "category": "HC",
+      "lengthKm": 11.6,
+      "avgGradientPct": 8.5,
+      "summitLat": 46.1328,
+      "summitLon": 6.7114,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Pogačar / Vingegaard",
+          "timeS": 2032,
+          "lengthKm": 11.6,
+          "note": "subida completa",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/07/15/pogacar-and-vingegaard-flying-up-joux-plane-tour-de-france-stage-14-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Col de Marie-Blanque",
+      "side": "Escot (este)",
+      "category": "1",
+      "lengthKm": 7.7,
+      "avgGradientPct": 8.6,
+      "summitLat": 43.0705,
+      "summitLon": -0.5075,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 5,
+          "group": "leading",
+          "rider": "Jonas Vingegaard",
+          "timeS": 1258,
+          "lengthKm": 7.9,
+          "note": "subida completa",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/12/23/the-top-10-climbing-performances-of-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Col de Morga",
+      "side": null,
+      "category": "4",
+      "lengthKm": 4.0,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Saxel",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.2,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Soudet",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 15.2,
+      "avgGradientPct": 7.2,
+      "summitLat": 42.9867,
+      "summitLon": -0.7547,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Casse Froide",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.2,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Croix Fry",
+      "side": "Thônes",
+      "category": "1",
+      "lengthKm": 11.3,
+      "avgGradientPct": 7.0,
+      "summitLat": 45.8597,
+      "summitLon": 6.4286,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Croix Montmain",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.5,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Croix Rosier",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.3,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Croix Saint-Robert",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.0,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Croix des Moinats",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.2,
+      "avgGradientPct": 7.0,
+      "summitLat": 48.0028,
+      "summitLon": 6.8839,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Forclaz de Montmin",
+      "side": "Doussard",
+      "category": "1",
+      "lengthKm": 7.2,
+      "avgGradientPct": 7.3,
+      "summitLat": 45.8089,
+      "summitLon": 6.2436,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Loze",
+      "side": "Courchevel (Méribel)",
+      "category": "HC",
+      "lengthKm": 28.1,
+      "avgGradientPct": 6.0,
+      "summitLat": 45.4062,
+      "summitLon": 6.6135,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "group": "leading",
+          "rider": "Felix Gall (ganador)",
+          "timeS": 2049,
+          "lengthKm": 11.2,
+          "note": "tramo final 11,2 km desde Méribel",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/07/19/vingegaard-destroys-tadej-pogacar-in-week-3-tour-de-france-2023-stages-16-17/"
+        },
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "group": "gc-group",
+          "rider": "Jonas Vingegaard",
+          "timeS": 1979,
+          "lengthKm": 11.2,
+          "note": "tramo final 11,2 km desde Méribel",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/07/19/vingegaard-destroys-tadej-pogacar-in-week-3-tour-de-france-2023-stages-16-17/"
+        },
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "group": "gc-group",
+          "rider": "Tadej Pogačar",
+          "timeS": 2279,
+          "lengthKm": 11.2,
+          "note": "tramo final 11,2 km desde Méribel",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/07/19/vingegaard-destroys-tadej-pogacar-in-week-3-tour-de-france-2023-stages-16-17/"
+        }
+      ]
+    },
+    {
+      "name": "Col de la Moréno",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.8,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Ramaz",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.9,
+      "avgGradientPct": 7.1,
+      "summitLat": 46.1627,
+      "summitLon": 6.5762,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de la Schlucht",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.3,
+      "avgGradientPct": 5.4,
+      "summitLat": 48.0631,
+      "summitLon": 7.0186,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col des Aravis",
+      "side": "La Clusaz",
+      "category": "3",
+      "lengthKm": 4.4,
+      "avgGradientPct": 5.8,
+      "summitLat": 45.8744,
+      "summitLon": 6.4742,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col des Saisies",
+      "side": "Flumet",
+      "category": "1",
+      "lengthKm": 13.4,
+      "avgGradientPct": 5.1,
+      "summitLat": 45.7611,
+      "summitLon": 6.5347,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col des Écorbans",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.1,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col du Feu",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.8,
+      "avgGradientPct": 7.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col du Platzerwasel",
+      "side": "Metzeral",
+      "category": "1",
+      "lengthKm": 7.1,
+      "avgGradientPct": 8.4,
+      "summitLat": 47.9695,
+      "summitLon": 7.0429,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col du Tourmalet",
+      "side": "Sainte-Marie-de-Campan (este)",
+      "category": "HC",
+      "lengthKm": 17.1,
+      "avgGradientPct": 7.3,
+      "summitLat": 42.9048,
+      "summitLon": 0.141,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Jonas Vingegaard",
+          "timeS": 2711,
+          "lengthKm": 17.0,
+          "note": "subida completa — récord del puerto",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/07/06/tadej-pogacar-returns-to-his-best-tour-de-france-stage-6-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Cormet de Roselend",
+      "side": "Beaufort",
+      "category": "1",
+      "lengthKm": 19.9,
+      "avgGradientPct": 6.0,
+      "summitLat": 45.6912,
+      "summitLon": 6.6901,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte d'Alkiza",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.2,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte d'Aztiria",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.7,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte d'Ivory",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.3,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte d'Orioko Benta",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.6,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Boissieu",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.4,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Béguey",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.2,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Capvern-les-Bains",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.6,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Chambéry-le-Haut",
+      "side": "Chambéry",
+      "category": "4",
+      "lengthKm": 1.6,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Champs-Romain",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.8,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Condat-sur-Vienne",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.2,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Dému",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.1,
+      "avgGradientPct": 3.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Felletin",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.1,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Gurutze",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.6,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Laukiz",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.3,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Longefoy",
+      "side": "Aime",
+      "category": "2",
+      "lengthKm": 6.6,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Masmont",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.3,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Milloi",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.3,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Pike",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.0,
+      "avgGradientPct": 10.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Pontaumur",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.3,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Pontcharraud",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.8,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Saint-Victor-la-Rivière",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.0,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de San Juan de Gaztelugatxe",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.5,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Thizy-les-Bourgs",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.3,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Trabakua",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.2,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Vivero",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.2,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de la Chapelle-Marcousse",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.5,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte des Amerands",
+      "side": null,
+      "category": "2",
+      "lengthKm": 2.7,
+      "avgGradientPct": 10.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte du Bois de Lionge",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.9,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Grand Colombier",
+      "side": "Culoz",
+      "category": "HC",
+      "lengthKm": 17.4,
+      "avgGradientPct": 7.1,
+      "summitLat": 45.89917,
+      "summitLon": 5.76111,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 13,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 13,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 2631,
+          "lengthKm": 17.0,
+          "note": "mejor tiempo de la etapa",
+          "measured": true,
+          "sourceUrl": "https://velo.outsideonline.com/road/road-racing/tour-de-france/fastest-climbing-on-record-pogacar-kuss-pidcock-crush-strava-koms-all-through-tour-de-france"
+        }
+      ]
+    },
+    {
+      "name": "Jaizkibel",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.2,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Petit Ballon",
+      "side": "Sondernach",
+      "category": "1",
+      "lengthKm": 9.3,
+      "avgGradientPct": 8.1,
+      "summitLat": 47.9806,
+      "summitLon": 7.126,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Puy de Dôme",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 13.3,
+      "avgGradientPct": 7.7,
+      "summitLat": 45.7725,
+      "summitLon": 2.9646,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "group": "gc-group",
+          "rider": "Tadej Pogačar",
+          "timeS": 2111,
+          "lengthKm": 13.35,
+          "note": "subida completa",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/12/23/the-top-10-climbing-performances-of-2023/"
+        },
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 9,
+          "group": "gc-group",
+          "rider": "Jonas Vingegaard",
+          "timeS": 2119,
+          "lengthKm": 13.35,
+          "note": "subida completa",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/12/23/the-top-10-climbing-performances-of-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Saint-Gervais Mont-Blanc (Le Bettex)",
+      "side": "Saint-Gervais",
+      "category": "1",
+      "lengthKm": 7.0,
+      "avgGradientPct": 7.7,
+      "summitLat": 45.8569,
+      "summitLon": 6.7311,
+      "appearances": [
+        {
+          "race": "Tour de France",
+          "year": 2023,
+          "stage": 15,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    }
+  ]
+}

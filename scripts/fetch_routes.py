@@ -42,6 +42,10 @@ UA = "Wattsfit/1.0 (catalog builder; contact: acondemellado@gmail.com)"
 TIMEOUT = 30
 TARGET_POINTS = 1000
 
+# Entradas curadas a mano que NO deben re-descargarse de la fuente (GPX de
+# origen roto/parcial). Ver nota en main().
+SKIP_REFETCH = {"tdf-2026-stage-06"}
+
 
 @dataclass
 class Source:
@@ -56,6 +60,7 @@ class Source:
     notes: str = ""
     is_zip: bool = False
     gpx_path_in_zip: str | None = None
+    gender: str = "men"       # "men" | "women" — pelotón masculino o femenino
 
 
 # ── Fuentes ────────────────────────────────────────────────────────────────
@@ -331,6 +336,48 @@ GRAN_FONDOS = [
 SOURCES.extend(GRAN_FONDOS)
 
 
+# ── Pelotón femenino 2026 ────────────────────────────────────────────────────
+# cyclingstage publica GPX femeninos con bases CDN PROPIAS (distintas de la
+# masculina) y, en clásicas, con sufijo `route-women.gpx`. Verificadas con
+# HEAD 200 el 02/06/2026. Tour de France Femmes y Vuelta Femenina 2026 aún no
+# tienen GPX publicado (carreras de ago/may): se añadirán al salir.
+
+def _cs_women_stage(base: str, n: int) -> str:
+    return f"https://cdn.cyclingstage.com/images/{base}/2026/stage-{n}-route.gpx"
+
+
+def _cs_women_classic(base: str) -> str:
+    return f"https://cdn.cyclingstage.com/images/{base}/2026/route-women.gpx"
+
+
+def _load_women_2026() -> None:
+    # Gran vuelta femenina con GPX disponible: Giro d'Italia Women (9 etapas).
+    for n in range(1, 10):
+        SOURCES.append(Source(
+            id=f"giro-women-2026-stage-{n:02d}",
+            name=f"Giro d'Italia Women 2026 — Stage {n}",
+            type="grand-tour", country="IT",
+            source_url=_cs_women_stage("giro-women", n),
+            event="Giro d'Italia Women 2026", stage=n, gender="women",
+        ))
+    # Grandes clásicas femeninas (un día).
+    for sid, name, country, base in [
+        ("strade-bianche-women-2026",        "Strade Bianche Donne 2026",        "IT", "strade-bianche"),
+        ("ronde-vlaanderen-women-2026",      "Tour of Flanders Women 2026",      "BE", "tour-of-flanders"),
+        ("paris-roubaix-femmes-2026",        "Paris-Roubaix Femmes 2026",        "FR", "paris-roubaix"),
+        ("amstel-gold-race-women-2026",      "Amstel Gold Race Ladies 2026",     "NL", "amstel-gold-race"),
+        ("fleche-wallonne-femmes-2026",      "La Flèche Wallonne Femmes 2026",   "BE", "la-fleche-wallonne"),
+        ("liege-bastogne-liege-femmes-2026", "Liège-Bastogne-Liège Femmes 2026", "BE", "liege-bastogne-liege"),
+    ]:
+        SOURCES.append(Source(
+            id=sid, name=name, type="classic", country=country,
+            source_url=_cs_women_classic(base), event=name, gender="women",
+        ))
+
+
+_load_women_2026()
+
+
 # ── Descarga ───────────────────────────────────────────────────────────────
 
 def fetch_bytes(url: str) -> bytes:
@@ -475,6 +522,7 @@ def process(src: Source) -> dict | None:
         "gpx_path": f"routes/{src.type}/{src.id}.gpx",
         "source_url": src.source_url,
         "notes": src.notes,
+        "gender": src.gender,
         **stats,
     }
     print(f"  ✓ {src.id} — {stats['distance_km']} km / {stats['elevation_gain_m']} m D+ / {size_kb:.0f} KB")
@@ -483,7 +531,16 @@ def process(src: Source) -> dict | None:
 
 def main() -> int:
     only = sys.argv[1] if len(sys.argv) > 1 else None
-    selected = [s for s in SOURCES if not only or only in s.id]
+    if only == "women":
+        selected = [s for s in SOURCES if s.gender == "women"]
+    elif only:
+        selected = [s for s in SOURCES if only in s.id]
+    else:
+        selected = list(SOURCES)
+    # El GPX de cyclingstage de esta etapa está truncado en origen (sin Aspin
+    # ni Tourmalet). La entrada de routes.json se reconstruyó a mano con OSRM +
+    # EU-DEM; NO la sobreescribas re-descargando la fuente rota.
+    selected = [s for s in selected if s.id not in SKIP_REFETCH]
     print(f"Procesando {len(selected)} fuentes…")
     entries: list[dict] = []
     failures: list[str] = []

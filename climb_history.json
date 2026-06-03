@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-06-02",
-  "note": "Histórico de puertos para comparativas. MUESTRA: Tour de France 2023. Solo tiempos reales medidos (measured=true, con source_url) + presencia. Las estimaciones las calcula la app en vivo, no se almacenan aquí.",
+  "updated": "2026-06-03",
+  "note": "Histórico de puertos para comparativas. Solo tiempos reales medidos (measured=true, con source_url) + presencia. Las estimaciones las calcula la app en vivo, no se almacenan aquí. Separado de routes.json.",
   "races_covered": [
     {
       "race": "Tour de France",

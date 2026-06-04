@@ -1,0 +1,17 @@
+{"race":"Volta a Catalunya","year":2023,"climbs":[
+{"stage":1,"name":"Alt de Santa Pellaia","side":null,"category":null,"lengthKm":5.9,"avgGradientPct":4.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt de la Ganga","side":null,"category":null,"lengthKm":3.5,"avgGradientPct":4.1,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt de Romanyà","side":null,"category":null,"lengthKm":5.8,"avgGradientPct":4.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":2,"name":"Alt de Can Bordoi","side":null,"category":null,"lengthKm":0,"avgGradientPct":0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":2,"name":"Coll de Coubet","side":null,"category":"2","lengthKm":9.2,"avgGradientPct":5.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":2,"name":"Vallter 2000","side":"Setcases","category":"Especial","lengthKm":11.0,"avgGradientPct":7.6,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Coll de Coubet","side":null,"category":"2","lengthKm":9.2,"avgGradientPct":5.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Port de la Creueta","side":null,"category":"1","lengthKm":19.9,"avgGradientPct":4.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"La Molina","side":null,"category":"1","lengthKm":12.1,"avgGradientPct":4.3,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":5,"name":"Alt de Bot","side":null,"category":null,"lengthKm":0,"avgGradientPct":0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":5,"name":"Lo Port","side":"Mont Caro / Tortosa","category":"Especial","lengthKm":8.6,"avgGradientPct":8.9,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":7,"name":"Montjuïc","side":null,"category":"3","lengthKm":2.5,"avgGradientPct":4.6,"summitFinish":false,"summitLat":null,"summitLon":null}
+],"times":[
+{"name":"Vallter 2000","side":"Setcases","stage":2,"group":"leading","rider":"Roglič / Evenepoel / Ciccone","timeS":1911,"lengthKm":11.2,"note":"Lead group ascent ~31:51; record at the time per Lanterne Rouge / climbing-records.com","sourceUrl":"https://lanternerouge.com/2024/03/19/tadej-pogacar-sets-a-new-record-on-vallter-2000-volta-a-catalunya-2024-stage-2/"},
+{"name":"Lo Port","side":"Mont Caro / Tortosa","stage":5,"group":"leading","rider":"Primož Roglič","timeS":1434,"lengthKm":8.6,"note":"23:54 winning ascent, climb record (beat Valverde 24:06 from 2017)","sourceUrl":"https://lanternerouge.com/2023/03/24/roglic-makes-history-on-lo-port-volta-a-catalunya-2023-stage-5/"}
+]}

@@ -1,0 +1,17 @@
+{"race":"Volta a Catalunya","year":2019,"climbs":[
+{"stage":1,"name":"Port de Santa Fe del Montseny","side":null,"category":"1","lengthKm":17.5,"avgGradientPct":5.4,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt El Muntanya","side":null,"category":"1","lengthKm":3.9,"avgGradientPct":7.3,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Coll Formic","side":null,"category":"1","lengthKm":0,"avgGradientPct":0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Port de Collsacreu","side":null,"category":"3","lengthKm":0,"avgGradientPct":0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Alt de la Ganga","side":null,"category":null,"lengthKm":3.5,"avgGradientPct":0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Alt de Oix","side":null,"category":null,"lengthKm":7.7,"avgGradientPct":5.2,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Alt de Rocabruna","side":null,"category":null,"lengthKm":7.3,"avgGradientPct":5.8,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Vallter 2000","side":null,"category":"Especial","lengthKm":12.1,"avgGradientPct":7.3,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Coll de Coubet","side":null,"category":null,"lengthKm":9.2,"avgGradientPct":5.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Port de la Creueta","side":null,"category":null,"lengthKm":19.9,"avgGradientPct":4.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"La Molina","side":null,"category":"1","lengthKm":11.4,"avgGradientPct":4.3,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Coll d'Albarca","side":null,"category":null,"lengthKm":5.5,"avgGradientPct":3.1,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Coll d'Alforja","side":null,"category":null,"lengthKm":4.2,"avgGradientPct":4.6,"summitFinish":false,"summitLat":null,"summitLon":null}
+],"times":[
+{"name":"Vallter 2000","side":null,"stage":3,"group":"leading","rider":"Adam Yates / Bernal / D. Martin / Quintana","timeS":1990,"lengthKm":12.1,"note":"Lead group ascent, avg 21.89 km/h; record at the time (per climbing-records.com)","sourceUrl":"http://www.climbing-records.com/2019/03/catalunyas-best-set-new-record-on.html"}
+]}

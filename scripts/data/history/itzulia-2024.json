@@ -1,0 +1,30 @@
+{"race":"Itzulia Basque Country","year":2024,"climbs":[
+{"stage":2,"name":"Saint-Ignace","side":null,"category":3,"lengthKm":null,"avgGradientPct":null,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Itsondo","side":null,"category":3,"lengthKm":8.2,"avgGradientPct":5.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Usategieta Gaina","side":null,"category":3,"lengthKm":11.2,"avgGradientPct":3.2,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Uitzi","side":null,"category":3,"lengthKm":4.7,"avgGradientPct":6.9,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Zuarrarrate","side":null,"category":3,"lengthKm":6.8,"avgGradientPct":3.6,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Olaberria","side":null,"category":3,"lengthKm":1.6,"avgGradientPct":7.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Lizarrusti","side":null,"category":2,"lengthKm":6.4,"avgGradientPct":4.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Opakua","side":null,"category":2,"lengthKm":7.1,"avgGradientPct":5.8,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Azazeta","side":null,"category":3,"lengthKm":5.3,"avgGradientPct":3.4,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Olaeta","side":null,"category":3,"lengthKm":3.0,"avgGradientPct":8.6,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Untzilla","side":null,"category":3,"lengthKm":2.3,"avgGradientPct":8.1,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Leintz-Gatzaga","side":null,"category":3,"lengthKm":3.0,"avgGradientPct":8.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":5,"name":"Urkiola","side":null,"category":1,"lengthKm":5.5,"avgGradientPct":9.5,"summitFinish":false,"summitLat":43.1003,"summitLon":-2.6347},
+{"stage":5,"name":"Muniketa Gaina","side":null,"category":2,"lengthKm":3.5,"avgGradientPct":7.3,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":5,"name":"Muniketa Gaina","side":null,"category":2,"lengthKm":3.5,"avgGradientPct":7.3,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Elkorrieta","side":null,"category":3,"lengthKm":2.6,"avgGradientPct":6.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Azurki","side":null,"category":1,"lengthKm":5.1,"avgGradientPct":7.4,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Elosua","side":null,"category":2,"lengthKm":10.0,"avgGradientPct":5.3,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Krabelin","side":null,"category":1,"lengthKm":5.0,"avgGradientPct":9.6,"summitFinish":false,"summitLat":43.2255,"summitLon":-2.4615},
+{"stage":6,"name":"Trabakua","side":null,"category":2,"lengthKm":3.3,"avgGradientPct":7.1,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Izua (Arrate)","side":null,"category":1,"lengthKm":4.1,"avgGradientPct":9.2,"summitFinish":false,"summitLat":43.2156,"summitLon":-2.4747},
+{"stage":6,"name":"Urkaregi","side":null,"category":3,"lengthKm":5.0,"avgGradientPct":4.8,"summitFinish":false,"summitLat":null,"summitLon":null}
+],"times":[
+{"name":"Krabelin","side":null,"stage":6,"group":"leading","rider":"Marc Soler","timeS":945,"lengthKm":5.0,"note":"6.44 W/kg (Lanterne Rouge)","sourceUrl":"https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"},
+{"name":"Krabelin","side":null,"stage":6,"group":"GC","rider":"Mattias Skjelmose","timeS":995,"lengthKm":5.0,"note":"~16:35 GC group, 6.01 W/kg (Lanterne Rouge)","sourceUrl":"https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"},
+{"name":"Izua (Arrate)","side":null,"stage":6,"group":"leading","rider":"Juan Ayuso","timeS":697,"lengthKm":4.1,"note":"fastest time, 7.01 W/kg (Lanterne Rouge)","sourceUrl":"https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"},
+{"name":"Izua (Arrate)","side":null,"stage":6,"group":"chasing","rider":"Carlos Rodriguez","timeS":710,"lengthKm":4.1,"note":"with Skjelmose, 6.92 W/kg (Lanterne Rouge)","sourceUrl":"https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"},
+{"name":"Izua (Arrate)","side":null,"stage":6,"group":"chasing","rider":"Oscar Onley","timeS":741,"lengthKm":4.1,"note":"6.60 W/kg (Lanterne Rouge)","sourceUrl":"https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"}
+]}

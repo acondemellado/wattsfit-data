@@ -44,6 +44,42 @@
       "year": 2025
     },
     {
+      "race": "Itzulia Basque Country",
+      "year": 2016
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2017
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2018
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2019
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2021
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2022
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2023
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2024
+    },
+    {
+      "race": "Itzulia Basque Country",
+      "year": 2025
+    },
+    {
       "race": "Tour de France",
       "year": 2016
     },
@@ -81,6 +117,42 @@
     },
     {
       "race": "Tour de France",
+      "year": 2025
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2016
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2017
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2018
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2019
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2021
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2022
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2023
+    },
+    {
+      "race": "Volta a Catalunya",
+      "year": 2024
+    },
+    {
+      "race": "Volta a Catalunya",
       "year": 2025
     },
     {
@@ -137,6 +209,90 @@
         {
           "race": "Giro d'Italia",
           "year": 2020,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Aguilar Gaina",
+      "side": null,
+      "category": 3,
+      "lengthKm": 12.6,
+      "avgGradientPct": 3.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Aia",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alkiza",
+      "side": null,
+      "category": 3,
+      "lengthKm": 4.4,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Almika-Sollube",
+      "side": null,
+      "category": "1",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
           "stage": 2,
           "role": "intermediate"
         }
@@ -367,6 +523,534 @@
       "performances": []
     },
     {
+      "name": "Alt de Bot",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Can Bordoi",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Collsacreu",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Coubet",
+      "side": null,
+      "category": "1",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Lilla",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.1,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Montjuic",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.0,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Montseny",
+      "side": null,
+      "category": "2",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Oix",
+      "side": null,
+      "category": null,
+      "lengthKm": 7.7,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Parpers",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Rocabruna",
+      "side": null,
+      "category": null,
+      "lengthKm": 7.3,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Romanyà",
+      "side": null,
+      "category": null,
+      "lengthKm": 5.8,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Sant Grau",
+      "side": null,
+      "category": null,
+      "lengthKm": 8.0,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Santa Pellaia",
+      "side": null,
+      "category": null,
+      "lengthKm": 5.9,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Toses",
+      "side": null,
+      "category": "1",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Ullastrell",
+      "side": null,
+      "category": "2",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de Viladrau",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de la Ganga",
+      "side": null,
+      "category": null,
+      "lengthKm": 3.5,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de la Maradona",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de la Pullosa",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de la Ventoses",
+      "side": null,
+      "category": "2",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt de les Guilleries",
+      "side": null,
+      "category": "2",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt dels Angels",
+      "side": null,
+      "category": "1",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt dels Pinars de Bado",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alt el Muntanya",
+      "side": null,
+      "category": "1",
+      "lengthKm": 3.9,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto Campo de Arbre",
       "side": null,
       "category": "3",
@@ -589,6 +1273,24 @@
       "performances": []
     },
     {
+      "name": "Alto Trabakua",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.2,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto Xorret de Catí",
       "side": null,
       "category": "1",
@@ -728,6 +1430,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Aia",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2016,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Aitana",
       "side": null,
       "category": "HC",
@@ -789,6 +1509,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Alkiza",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.0,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Alpedrinha",
       "side": null,
       "category": "3",
@@ -819,6 +1557,24 @@
           "race": "Vuelta a España",
           "year": 2022,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Andazarrate",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.9,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -1116,9 +1872,9 @@
     {
       "name": "Alto de Elgeta",
       "side": null,
-      "category": "3",
-      "lengthKm": 6.2,
-      "avgGradientPct": 5.2,
+      "category": "2",
+      "lengthKm": 6.0,
+      "avgGradientPct": 6.7,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
@@ -1126,6 +1882,12 @@
           "race": "Vuelta a España",
           "year": 2020,
           "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -1144,6 +1906,24 @@
           "race": "Vuelta a España",
           "year": 2019,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Erro",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.4,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -1205,6 +1985,24 @@
           "year": 2016,
           "stage": 7,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Garrastatxu",
+      "side": null,
+      "category": "2",
+      "lengthKm": 2.7,
+      "avgGradientPct": 11.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2016,
+          "stage": 2,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -1397,6 +2195,42 @@
       "performances": []
     },
     {
+      "name": "Alto de Ixua",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Izua",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Kampazar",
       "side": null,
       "category": "3",
@@ -1481,6 +2315,60 @@
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Mandubia",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.0,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Mendizorrotz",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.7,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Mezkiriz",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.3,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -1656,6 +2544,24 @@
           "race": "Vuelta a España",
           "year": 2016,
           "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Pagatza (Elgeta)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.0,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -1968,6 +2874,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Santa Ageda",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.6,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Santa Eufemia",
       "side": null,
       "category": "3",
@@ -2067,8 +2991,8 @@
       "name": "Alto de Sollube",
       "side": null,
       "category": "2",
-      "lengthKm": 7.2,
-      "avgGradientPct": 4.2,
+      "lengthKm": 5.2,
+      "avgGradientPct": 8.2,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
@@ -2076,6 +3000,12 @@
           "race": "Vuelta a España",
           "year": 2025,
           "stage": 11,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -2148,6 +3078,42 @@
           "race": "Vuelta a España",
           "year": 2019,
           "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Udana",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.0,
+      "avgGradientPct": 3.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Urkaregi",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.0,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -3195,6 +4161,24 @@
       "performances": []
     },
     {
+      "name": "Alto de la Piedad",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2016,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de la Serratella",
       "side": null,
       "category": "2",
@@ -3693,8 +4677,8 @@
       "name": "Alto del Vivero",
       "side": null,
       "category": "2",
-      "lengthKm": 4.6,
-      "avgGradientPct": 8.0,
+      "lengthKm": 5.6,
+      "avgGradientPct": 8.2,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
@@ -3702,6 +4686,12 @@
           "race": "Vuelta a España",
           "year": 2022,
           "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -3847,6 +4837,66 @@
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Altube",
+      "side": null,
+      "category": 3,
+      "lengthKm": 4.5,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Altzo",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.3,
+      "avgGradientPct": 8.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Andazarrate",
+      "side": null,
+      "category": 3,
+      "lengthKm": 5.8,
+      "avgGradientPct": 3.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -4029,6 +5079,30 @@
       "performances": []
     },
     {
+      "name": "Aretxabalgane",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.6,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Arinsal",
       "side": null,
       "category": "1",
@@ -4042,6 +5116,48 @@
           "year": 2023,
           "stage": 3,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Arkiskil",
+      "side": null,
+      "category": 3,
+      "lengthKm": 4.5,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Arribinieta",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.8,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -4065,6 +5181,24 @@
       "performances": []
     },
     {
+      "name": "Asensio",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.3,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Avaglio",
       "side": null,
       "category": "3",
@@ -4077,6 +5211,78 @@
           "race": "Giro d'Italia",
           "year": 2018,
           "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Azazeta",
+      "side": null,
+      "category": 3,
+      "lengthKm": 5.3,
+      "avgGradientPct": 3.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Azurki",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.5,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -4192,6 +5398,24 @@
       ]
     },
     {
+      "name": "Balerringaga",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.0,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Ballon d'Alsace",
       "side": null,
       "category": "1",
@@ -4228,6 +5452,48 @@
       "performances": []
     },
     {
+      "name": "Beasain (final wall)",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.4,
+      "avgGradientPct": 10.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bedarona",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.1,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Berzano di San Pietro",
       "side": null,
       "category": "4",
@@ -4240,6 +5506,66 @@
           "race": "Giro d'Italia",
           "year": 2024,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bezi",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.8,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bikoitz Gane",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.9,
+      "avgGradientPct": 8.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bizkaiko Begiratokia",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.7,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -4477,6 +5803,24 @@
       "performances": []
     },
     {
+      "name": "Boí Taüll",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.2,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Breuil-Cervinia",
       "side": "Valtournenche",
       "category": "1",
@@ -4575,6 +5919,24 @@
           "year": 2016,
           "stage": 17,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Campa Hafade",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.1,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -8811,14 +10173,86 @@
       "performances": []
     },
     {
-      "name": "Coll d'Estenalles",
+      "name": "Coll Formic",
       "side": null,
-      "category": "2",
-      "lengthKm": null,
-      "avgGradientPct": null,
+      "category": "1",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll d'Albarca",
+      "side": null,
+      "category": null,
+      "lengthKm": 5.5,
+      "avgGradientPct": 3.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll d'Alforja",
+      "side": null,
+      "category": null,
+      "lengthKm": 4.2,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll d'Estenalles",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.3,
+      "avgGradientPct": 3.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
         {
           "race": "Vuelta a España",
           "year": 2023,
@@ -8853,6 +10287,156 @@
           "race": "Vuelta a España",
           "year": 2018,
           "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Boixols",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.4,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Bracons",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.0,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Capafonts",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.6,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Comiols",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.8,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Coubet",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.2,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Fatxes",
+      "side": null,
+      "category": null,
+      "lengthKm": 14.4,
+      "avgGradientPct": 2.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de Pradell",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.6,
+      "avgGradientPct": 7.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -8931,6 +10515,36 @@
       "performances": []
     },
     {
+      "name": "Coll de la Batallola",
+      "side": null,
+      "category": null,
+      "lengthKm": 11.8,
+      "avgGradientPct": 3.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Coll de la Comella",
       "side": null,
       "category": "2",
@@ -8943,6 +10557,54 @@
           "race": "Vuelta a España",
           "year": 2018,
           "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de la Creu d'Ordal",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.6,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de la Creueta",
+      "side": null,
+      "category": "1",
+      "lengthKm": 21.0,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -9070,6 +10732,42 @@
           "sourceUrl": "http://www.climbing-records.com/2018/09/the-watts-keep-glowing-la-vuelta.html"
         }
       ]
+    },
+    {
+      "name": "Coll de la Teixeta",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.8,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coll de les Llebres / La Mussara",
+      "side": null,
+      "category": "2",
+      "lengthKm": 17.8,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Collada Llomena",
@@ -9220,8 +10918,8 @@
       "name": "Collada de Toses",
       "side": null,
       "category": "1",
-      "lengthKm": 24.3,
-      "avgGradientPct": 3.5,
+      "lengthKm": 21.4,
+      "avgGradientPct": 3.2,
       "summitLat": 42.338,
       "summitLon": 2.027,
       "appearances": [
@@ -9229,6 +10927,12 @@
           "race": "Vuelta a España",
           "year": 2025,
           "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -9283,6 +10987,30 @@
           "race": "Vuelta a España",
           "year": 2019,
           "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Collado de Sant Isidre",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.9,
+      "avgGradientPct": 8.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -9841,6 +11569,24 @@
           "race": "Tour de France",
           "year": 2024,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Collet de Cal Ros",
+      "side": null,
+      "category": null,
+      "lengthKm": 10.0,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -13850,6 +15596,24 @@
       "performances": []
     },
     {
+      "name": "Deskarga",
+      "side": null,
+      "category": 3,
+      "lengthKm": 6.5,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Dori",
       "side": null,
       "category": "2",
@@ -13922,6 +15686,174 @@
       "performances": []
     },
     {
+      "name": "Elgeta",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.0,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Elkano",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Elkorrieta",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.6,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Elosua",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.1,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Endoia",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.0,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Erlaitz",
+      "side": null,
+      "category": 1,
+      "lengthKm": 7.4,
+      "avgGradientPct": 6.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Ermita de Santa Lucía",
       "side": null,
       "category": null,
@@ -13978,6 +15910,48 @@
           "year": 2017,
           "stage": 5,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Ermualde",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.1,
+      "avgGradientPct": 11.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Errigoiti",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.8,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 3,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -14115,6 +16089,24 @@
           "sourceUrl": "http://www.climbing-records.com/2017/05/"
         }
       ]
+    },
+    {
+      "name": "Etxauri",
+      "side": null,
+      "category": 3,
+      "lengthKm": 11.3,
+      "avgGradientPct": 3.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Fai della Paganella",
@@ -14418,6 +16410,48 @@
       "performances": []
     },
     {
+      "name": "Gainza",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.2,
+      "avgGradientPct": 12.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Garate",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.5,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Giovo",
       "side": null,
       "category": "",
@@ -14490,6 +16524,36 @@
       "performances": []
     },
     {
+      "name": "Gontzagaraigana",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.6,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Gontzegaraine",
       "side": null,
       "category": "3",
@@ -14520,6 +16584,24 @@
           "race": "Giro d'Italia",
           "year": 2021,
           "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Goñi",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.9,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -14830,6 +16912,24 @@
       "performances": []
     },
     {
+      "name": "Intermediate climb",
+      "side": null,
+      "category": null,
+      "lengthKm": 6.3,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Isola 2000",
       "side": null,
       "category": "1",
@@ -14873,17 +16973,204 @@
       ]
     },
     {
+      "name": "Itsondo",
+      "side": null,
+      "category": 3,
+      "lengthKm": 8.2,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Izua",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.7,
+      "avgGradientPct": 8.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Izua (Arrate)",
+      "side": null,
+      "category": 1,
+      "lengthKm": 4.1,
+      "avgGradientPct": 9.2,
+      "summitLat": 43.2156,
+      "summitLon": -2.4747,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 4,
+          "group": "leading",
+          "rider": "Joao Almeida",
+          "timeS": 745,
+          "lengthKm": 3.35,
+          "note": "timed segment 3.35km at 12.30%, 6.93 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/04/10/almeida-dominates-on-alternate-arrate-itzulia-basque-country-2025-stage-4/"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Juan Ayuso",
+          "timeS": 697,
+          "lengthKm": 4.1,
+          "note": "fastest time, 7.01 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "group": "chasing",
+          "rider": "Carlos Rodriguez",
+          "timeS": 710,
+          "lengthKm": 4.1,
+          "note": "with Skjelmose, 6.92 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "group": "chasing",
+          "rider": "Oscar Onley",
+          "timeS": 741,
+          "lengthKm": 4.1,
+          "note": "6.60 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Jonas Vingegaard",
+          "timeS": 677,
+          "lengthKm": 4.1,
+          "note": "7.46 W/kg; reference time cited by Lanterne Rouge",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        }
+      ]
+    },
+    {
+      "name": "Izua Gaina",
+      "side": null,
+      "category": "1",
+      "lengthKm": 3.0,
+      "avgGradientPct": 12.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Jaizkibel",
       "side": null,
       "category": "2",
-      "lengthKm": 8.2,
-      "avgGradientPct": 5.3,
+      "lengthKm": 6.9,
+      "avgGradientPct": 6.2,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
         {
           "race": "Tour de France",
           "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Jata",
+      "side": null,
+      "category": "3",
+      "lengthKm": 9.1,
+      "avgGradientPct": 3.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
           "stage": 2,
           "role": "intermediate"
         }
@@ -14946,6 +17233,66 @@
       ]
     },
     {
+      "name": "Kalbario",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.2,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Karabieta",
+      "side": null,
+      "category": 2,
+      "lengthKm": 6.7,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Karakate",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.2,
+      "avgGradientPct": 8.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Kolovrat",
       "side": null,
       "category": "1",
@@ -14958,6 +17305,133 @@
           "race": "Giro d'Italia",
           "year": 2022,
           "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Krabelin",
+      "side": null,
+      "category": 1,
+      "lengthKm": 5.0,
+      "avgGradientPct": 10.0,
+      "summitLat": 43.2255,
+      "summitLon": -2.4615,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Marc Soler",
+          "timeS": 945,
+          "lengthKm": 5.0,
+          "note": "6.44 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "group": "GC",
+          "rider": "Mattias Skjelmose",
+          "timeS": 995,
+          "lengthKm": 5.0,
+          "note": "~16:35 GC group, 6.01 W/kg (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/04/06/uae-masterclass-knocks-out-skjelmose-basque-country-2024-stage-6/"
+        }
+      ]
+    },
+    {
+      "name": "La Antigua",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.3,
+      "avgGradientPct": 9.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Asturiana",
+      "side": null,
+      "category": 2,
+      "lengthKm": 7.6,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Barrerilla",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -15200,6 +17674,60 @@
       "performances": []
     },
     {
+      "name": "La Molina",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.6,
+      "avgGradientPct": 4.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Plagne",
       "side": null,
       "category": "HC",
@@ -15373,6 +17901,24 @@
           "year": 2022,
           "stage": 7,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Tejera",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.5,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -15729,6 +18275,24 @@
       "performances": []
     },
     {
+      "name": "Las Campas",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.4,
+      "avgGradientPct": 8.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Las Estacas de Trueba",
       "side": null,
       "category": "3",
@@ -15844,6 +18408,24 @@
       "performances": []
     },
     {
+      "name": "Leintz-Gatzaga",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.0,
+      "avgGradientPct": 8.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Les Praeres de Nava",
       "side": null,
       "category": "1",
@@ -15909,6 +18491,97 @@
         }
       ],
       "performances": []
+    },
+    {
+      "name": "Lizarraga",
+      "side": null,
+      "category": 2,
+      "lengthKm": 9.5,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lizarrusti",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.4,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lo Port",
+      "side": null,
+      "category": null,
+      "lengthKm": 8.4,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lo Port",
+      "side": "Mont Caro / Tortosa",
+      "category": "Especial",
+      "lengthKm": 8.6,
+      "avgGradientPct": 8.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 5,
+          "group": "leading",
+          "rider": "Primož Roglič",
+          "timeS": 1434,
+          "lengthKm": 8.6,
+          "note": "23:54 winning ascent, climb record (beat Valverde 24:06 from 2017)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/03/24/roglic-makes-history-on-lo-port-volta-a-catalunya-2023-stage-5/"
+        }
+      ]
     },
     {
       "name": "Lodrino",
@@ -16034,6 +18707,24 @@
       ]
     },
     {
+      "name": "Maddiola",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Madonna del Ghisallo",
       "side": null,
       "category": "3",
@@ -16088,6 +18779,30 @@
       "performances": []
     },
     {
+      "name": "Malkuartu",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.5,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Manciano",
       "side": null,
       "category": "4",
@@ -16100,6 +18815,24 @@
           "race": "Giro d'Italia",
           "year": 2019,
           "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Mandubia",
+      "side": null,
+      "category": 3,
+      "lengthKm": 5.3,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -16229,6 +18962,60 @@
           "race": "Giro d'Italia",
           "year": 2023,
           "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Meaga",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.9,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Mendexa",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Milloi",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.5,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -16524,6 +19311,24 @@
           "sourceUrl": "http://www.climbing-records.com/2016/07/"
         }
       ]
+    },
+    {
+      "name": "Mont-Louis",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.4,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Montagna Grande di Viggiano",
@@ -16828,6 +19633,24 @@
           "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
         }
       ]
+    },
+    {
+      "name": "Monte Kalbo",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.9,
+      "avgGradientPct": 7.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Monte Lussari",
@@ -17428,6 +20251,48 @@
       ]
     },
     {
+      "name": "Montjuïc",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0.7,
+      "avgGradientPct": 12.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Montoso",
       "side": null,
       "category": "1",
@@ -17441,6 +20306,24 @@
           "year": 2019,
           "stage": 12,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montserrat",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.8,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 4,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -17651,6 +20534,24 @@
       "performances": []
     },
     {
+      "name": "Morga Gaina",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.1,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Mottolino (Livigno)",
       "side": null,
       "category": "1",
@@ -17725,6 +20626,42 @@
           "year": 2018,
           "stage": 6,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Muniketa Gaina",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.5,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Muniketa Gane",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.0,
+      "avgGradientPct": 6.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -17910,6 +20847,48 @@
       "performances": []
     },
     {
+      "name": "Natxitua",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.5,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Natxitua Gaina",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.5,
+      "avgGradientPct": 3.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Oasi Zegna",
       "side": null,
       "category": "3",
@@ -17964,6 +20943,96 @@
       "performances": []
     },
     {
+      "name": "Olaberria",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.6,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Olaeta",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.0,
+      "avgGradientPct": 8.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Opakua",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.6,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Opellora",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.1,
+      "avgGradientPct": 13.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Orcières-Merlette",
       "side": null,
       "category": "1",
@@ -17977,6 +21046,24 @@
           "year": 2020,
           "stage": 4,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Orendain",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.8,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -18079,6 +21166,24 @@
       "performances": []
     },
     {
+      "name": "Ozeka",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.6,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Pal",
       "side": null,
       "category": "1",
@@ -18109,6 +21214,30 @@
           "race": "Vuelta a España",
           "year": 2018,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Paresi",
+      "side": null,
+      "category": 3,
+      "lengthKm": 9.0,
+      "avgGradientPct": 3.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -20210,6 +23339,54 @@
       "performances": []
     },
     {
+      "name": "Port Ainé",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.5,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port d'Ager",
+      "side": null,
+      "category": "2",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Port d'Envalira",
       "side": null,
       "category": "1",
@@ -20258,6 +23435,66 @@
       "performances": []
     },
     {
+      "name": "Port de Cantó",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2016,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de Collabos",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.2,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de Collsacreu",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Port de Lers",
       "side": null,
       "category": "1",
@@ -20276,6 +23513,72 @@
           "race": "Tour de France",
           "year": 2019,
           "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de Montserrat",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.2,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de Santa Fe del Montseny",
+      "side": null,
+      "category": "1",
+      "lengthKm": 17.5,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de Toses",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -20313,6 +23616,72 @@
       ]
     },
     {
+      "name": "Port de la Creu de Perves",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.5,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de la Creueta",
+      "side": null,
+      "category": "1",
+      "lengthKm": 19.9,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Port de les Guilleries",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.7,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Port del Cantó",
       "side": null,
       "category": "1",
@@ -20325,6 +23694,24 @@
           "race": "Vuelta a España",
           "year": 2025,
           "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 5,
           "role": "intermediate"
         },
         {
@@ -21964,6 +25351,24 @@
       "performances": []
     },
     {
+      "name": "Puerto de Toses",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Puerto de Tudons",
       "side": null,
       "category": "2",
@@ -22926,6 +26331,42 @@
       "performances": []
     },
     {
+      "name": "Saint-Ignace",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Saldias",
+      "side": null,
+      "category": 2,
+      "lengthKm": 2.9,
+      "avgGradientPct": 9.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "San Amaro",
       "side": null,
       "category": "3",
@@ -22973,6 +26414,24 @@
         {
           "race": "Giro d'Italia",
           "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Cosme",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
           "stage": 2,
           "role": "intermediate"
         }
@@ -23083,6 +26542,24 @@
       "performances": []
     },
     {
+      "name": "San Martin de Unx",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "San Martino di Castrozza",
       "side": null,
       "category": "2",
@@ -23113,6 +26590,42 @@
           "race": "Giro d'Italia",
           "year": 2025,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Miguel",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.9,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Pelayo",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -23234,6 +26747,42 @@
       "performances": []
     },
     {
+      "name": "Santa Ageda",
+      "side": null,
+      "category": 2,
+      "lengthKm": 9.0,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Santa Koloma",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.0,
+      "avgGradientPct": 8.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Santa Ninfa",
       "side": null,
       "category": "4",
@@ -23247,6 +26796,48 @@
           "year": 2020,
           "stage": 2,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Santo Domingo",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.6,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Santuari de Queralt",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.0,
+      "avgGradientPct": 7.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 6,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -23317,6 +26908,24 @@
           "sourceUrl": "https://lanternerouge.com/2024/05/05/pogacar-wins-on-oropa-despite-a-crash-giro-ditalia-2024-stage-2/"
         }
       ]
+    },
+    {
+      "name": "Sarasola",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.9,
+      "avgGradientPct": 3.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Saver",
@@ -24021,6 +27630,72 @@
       "performances": []
     },
     {
+      "name": "Trabakua",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.2,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Trabakua Gaina",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.0,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Tre Cime di Lavaredo (Rifugio Auronzo)",
       "side": null,
       "category": "HC",
@@ -24070,6 +27745,72 @@
       "performances": []
     },
     {
+      "name": "Tunel de Vielha",
+      "side": null,
+      "category": null,
+      "lengthKm": 15.0,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2018,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Turó del Puig",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.1,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Uitzi",
+      "side": null,
+      "category": 3,
+      "lengthKm": 3.7,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Umbrail Pass (Giogo di Santa Maria)",
       "side": "Santa Maria Val Mustair",
       "category": "1",
@@ -24082,6 +27823,192 @@
           "race": "Giro d'Italia",
           "year": 2017,
           "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Untzilla",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.3,
+      "avgGradientPct": 8.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Urkaregi",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.9,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Urkiola",
+      "side": null,
+      "category": 1,
+      "lengthKm": 5.5,
+      "avgGradientPct": 9.5,
+      "summitLat": 43.1003,
+      "summitLon": -2.6347,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Urruztimendi",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.9,
+      "avgGradientPct": 11.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Usartza (Arrate)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.4,
+      "avgGradientPct": 8.2,
+      "summitLat": 43.2178,
+      "summitLon": -2.4856,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2021,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2018,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2016,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Usartza (Arrate)",
+      "side": "steep/short side",
+      "category": "1",
+      "lengthKm": 3.9,
+      "avgGradientPct": 10.8,
+      "summitLat": 43.2178,
+      "summitLon": -2.4856,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2017,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Usartza Gaina (Arrate)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.0,
+      "avgGradientPct": 8.8,
+      "summitLat": 43.2178,
+      "summitLon": -2.4856,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2019,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Usategieta Gaina",
+      "side": null,
+      "category": 3,
+      "lengthKm": 11.2,
+      "avgGradientPct": 3.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -24310,6 +28237,92 @@
       "performances": []
     },
     {
+      "name": "Vallter 2000",
+      "side": null,
+      "category": "Especial",
+      "lengthKm": 12.1,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2019,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Adam Yates / Bernal / D. Martin / Quintana",
+          "timeS": 1990,
+          "lengthKm": 12.1,
+          "note": "Lead group ascent, avg 21.89 km/h; record at the time (per climbing-records.com)",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2019/03/catalunyas-best-set-new-record-on.html"
+        }
+      ]
+    },
+    {
+      "name": "Vallter 2000",
+      "side": "Setcases",
+      "category": "Especial",
+      "lengthKm": 11.0,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Volta a Catalunya",
+          "year": 2024,
+          "stage": 2,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 1890,
+          "lengthKm": 11.2,
+          "note": "31:30 winning ascent, ~6.23 W/kg; new climb record (beat 2023 mark by 21s)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/03/19/tadej-pogacar-sets-a-new-record-on-vallter-2000-volta-a-catalunya-2024-stage-2/"
+        },
+        {
+          "race": "Volta a Catalunya",
+          "year": 2023,
+          "stage": 2,
+          "group": "leading",
+          "rider": "Roglič / Evenepoel / Ciccone",
+          "timeS": 1911,
+          "lengthKm": 11.2,
+          "note": "Lead group ascent ~31:51; record at the time per Lanterne Rouge / climbing-records.com",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/03/19/tadej-pogacar-sets-a-new-record-on-vallter-2000-volta-a-catalunya-2024-stage-2/"
+        }
+      ]
+    },
+    {
       "name": "Verrayes",
       "side": null,
       "category": "2",
@@ -24352,6 +28365,24 @@
       "performances": []
     },
     {
+      "name": "Villabona",
+      "side": null,
+      "category": 3,
+      "lengthKm": 1.1,
+      "avgGradientPct": 12.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Visegrád (Castle)",
       "side": null,
       "category": "4",
@@ -24365,6 +28396,24 @@
           "year": 2022,
           "stage": 1,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Vivero",
+      "side": null,
+      "category": 2,
+      "lengthKm": 4.4,
+      "avgGradientPct": 7.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -24414,6 +28463,24 @@
           "year": 2023,
           "stage": 18,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Zuarrarrate",
+      "side": null,
+      "category": 3,
+      "lengthKm": 6.8,
+      "avgGradientPct": 3.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Itzulia Basque Country",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
         }
       ],
       "performances": []

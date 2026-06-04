@@ -1,0 +1,20 @@
+{"race":"Volta a Catalunya","year":2024,"climbs":[
+{"stage":1,"name":"Alt de Romanyà","side":null,"category":null,"lengthKm":6.0,"avgGradientPct":4.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt de la Ganga","side":null,"category":null,"lengthKm":3.6,"avgGradientPct":4.4,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt dels Àngels","side":null,"category":null,"lengthKm":4.8,"avgGradientPct":6.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":1,"name":"Alt de Sant Grau","side":null,"category":null,"lengthKm":8.0,"avgGradientPct":4.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":2,"name":"Coll de Coubet","side":null,"category":"2","lengthKm":10.0,"avgGradientPct":5.4,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":2,"name":"Vallter 2000","side":"Setcases","category":"Especial","lengthKm":11.0,"avgGradientPct":7.6,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Port de Toses","side":null,"category":"1","lengthKm":11.0,"avgGradientPct":6.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Port del Cantó","side":null,"category":"Especial","lengthKm":25.0,"avgGradientPct":4.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":3,"name":"Port Ainé","side":null,"category":"Especial","lengthKm":18.5,"avgGradientPct":6.8,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Coll de la Batallola","side":null,"category":null,"lengthKm":11.8,"avgGradientPct":3.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Collet de Cal Ros","side":null,"category":null,"lengthKm":10.0,"avgGradientPct":4.3,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Coll de Pradell","side":null,"category":"1","lengthKm":14.6,"avgGradientPct":7.1,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Collado de Sant Isidre","side":null,"category":"2","lengthKm":4.9,"avgGradientPct":8.8,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":6,"name":"Santuari de Queralt","side":null,"category":"2","lengthKm":6.0,"avgGradientPct":7.2,"summitFinish":true,"summitLat":null,"summitLon":null},
+{"stage":7,"name":"Coll de la Creu d'Ordal","side":null,"category":"3","lengthKm":7.0,"avgGradientPct":4.0,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":7,"name":"Montjuïc","side":null,"category":"3","lengthKm":2.5,"avgGradientPct":4.6,"summitFinish":false,"summitLat":null,"summitLon":null}
+],"times":[
+{"name":"Vallter 2000","side":"Setcases","stage":2,"group":"leading","rider":"Tadej Pogačar","timeS":1890,"lengthKm":11.2,"note":"31:30 winning ascent, ~6.23 W/kg; new climb record (beat 2023 mark by 21s)","sourceUrl":"https://lanternerouge.com/2024/03/19/tadej-pogacar-sets-a-new-record-on-vallter-2000-volta-a-catalunya-2024-stage-2/"}
+]}

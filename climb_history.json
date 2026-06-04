@@ -4,6 +4,46 @@
   "note": "Histórico de puertos para comparativas. Solo tiempos reales medidos (measured=true, con source_url) + presencia. Las estimaciones las calcula la app en vivo, no se almacenan aquí. Separado de routes.json.",
   "races_covered": [
     {
+      "race": "Giro d'Italia",
+      "year": 2016
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2017
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2018
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2019
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2020
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2021
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2022
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2023
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2024
+    },
+    {
+      "race": "Giro d'Italia",
+      "year": 2025
+    },
+    {
       "race": "Tour de France",
       "year": 2016
     },
@@ -85,6 +125,60 @@
     }
   ],
   "climbs": [
+    {
+      "name": "Agrigento",
+      "side": null,
+      "category": "",
+      "lengthKm": 3.7,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alpe Motta",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.3,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alpe San Pellegrino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.7,
+      "avgGradientPct": 8.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
     {
       "name": "Alpe d'Huez",
       "side": null,
@@ -217,6 +311,60 @@
           "sourceUrl": "https://cycling-passion.com/top-200-fastest-climbs-alpe-d-huez/"
         }
       ]
+    },
+    {
+      "name": "Alpe di Mera",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.7,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alpe di Poti",
+      "side": null,
+      "category": "2",
+      "lengthKm": 10.0,
+      "avgGradientPct": 9.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alpe di Siusi",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.8,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 15,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Alto Campo de Arbre",
@@ -3705,6 +3853,66 @@
       "performances": []
     },
     {
+      "name": "Antagnod",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.5,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Anterselva (Antholz)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 9.6,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 17,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Aprica",
+      "side": null,
+      "category": "",
+      "lengthKm": 12.3,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 16,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Aramón Formigal",
       "side": null,
       "category": "1",
@@ -3839,6 +4047,60 @@
       "performances": []
     },
     {
+      "name": "Ascoli Piceno (San Giacomo)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 15.5,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Avaglio",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.55,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Baiso",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.8,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Balcón de Alicante",
       "side": null,
       "category": "1",
@@ -3966,6 +4228,134 @@
       "performances": []
     },
     {
+      "name": "Berzano di San Pietro",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Blockhaus",
+      "side": "Scafa",
+      "category": "1",
+      "lengthKm": 13.6,
+      "avgGradientPct": 8.4,
+      "summitLat": 42.2129,
+      "summitLon": 14.1233,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 9,
+          "group": "leading",
+          "rider": "Jai Hindley / Romain Bardet / Richard Carapaz / Mikel Landa / João Almeida",
+          "timeS": 2535,
+          "lengthKm": 13.8,
+          "note": "Lead GC group reached the summit together (42:15) at avg 19.60 km/h; first summit finish of the race, Hindley took the stage in the sprint of the group",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2022/05/jai-hindley-flies-to-maglia-rosa-on.html"
+        }
+      ]
+    },
+    {
+      "name": "Blockhaus (Passo Lanciano side, Roccamorice)",
+      "side": "Roccamorice",
+      "category": "1",
+      "lengthKm": 13.6,
+      "avgGradientPct": 8.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Blockhaus (from Roccamorice)",
+      "side": "Roccamorice",
+      "category": null,
+      "lengthKm": 13.6,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 9,
+          "group": "leading",
+          "rider": "Nairo Quintana",
+          "timeS": 2394,
+          "lengthKm": 13.6,
+          "note": "Stage winner; widely reported climbing time 39:54 over the official 13.6 km at 8.4%. Lanterne Rouge estimated ~40:35 at 6.17 W/kg.",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/nairo-quintana-wins-blockhaus-giro-ditalia-stage-nine-marred-controversy-330553"
+        }
+      ]
+    },
+    {
+      "name": "Bocca della Selva",
+      "side": null,
+      "category": "1",
+      "lengthKm": 20.0,
+      "avgGradientPct": 4.5,
+      "summitLat": 41.3733,
+      "summitLon": 14.4239,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 10,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 8,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Bola del Mundo",
       "side": null,
       "category": null,
@@ -4015,6 +4405,24 @@
       "performances": []
     },
     {
+      "name": "Borsea",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.9,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Bosberg",
       "side": null,
       "category": "4",
@@ -4027,6 +4435,24 @@
           "race": "Tour de France",
           "year": 2019,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bosco di Sant'Antonio",
+      "side": null,
+      "category": "",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 9,
           "role": "intermediate"
         }
       ],
@@ -4046,6 +4472,24 @@
           "year": 2024,
           "stage": 2,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Breuil-Cervinia",
+      "side": "Valtournenche",
+      "category": "1",
+      "lengthKm": 18.2,
+      "avgGradientPct": 5.3,
+      "summitLat": 45.9345,
+      "summitLon": 7.6311,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 20,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -4094,6 +4538,30 @@
       ]
     },
     {
+      "name": "Calascio",
+      "side": null,
+      "category": "2",
+      "lengthKm": 14.0,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Camins del Penyagolosa (Alto Mas de la Costa, Llucena)",
       "side": null,
       "category": "1",
@@ -4107,6 +4575,96 @@
           "year": 2016,
           "stage": 17,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Campo Carlo Magno",
+      "side": null,
+      "category": "2",
+      "lengthKm": 15.3,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Campo Felice",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.6,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Camposauro",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.1,
+      "avgGradientPct": 7.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Candriai",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.1,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Carbonare",
+      "side": null,
+      "category": "2",
+      "lengthKm": 12.9,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -4130,6 +4688,24 @@
       "performances": []
     },
     {
+      "name": "Castana",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Castell de Montjuïc",
       "side": null,
       "category": "3",
@@ -4142,6 +4718,60 @@
           "race": "Vuelta a España",
           "year": 2023,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Castello di Caneva",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Castello di Carpineti",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Castino",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -4227,6 +4857,102 @@
       "performances": []
     },
     {
+      "name": "Cevo",
+      "side": null,
+      "category": "3",
+      "lengthKm": 10.6,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Chieti",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Cima Campo",
+      "side": null,
+      "category": "2",
+      "lengthKm": 18.7,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Cima Porzus",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.75,
+      "avgGradientPct": 8.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Cima Sappada",
+      "side": null,
+      "category": "",
+      "lengthKm": 7.4,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Cime de la Bonette",
       "side": null,
       "category": "HC",
@@ -4256,6 +4982,60 @@
           "sourceUrl": "https://lanternerouge.com/2024/07/19/second-greatest-performance-of-all-time-by-pogacar-tour-de-france-2024-stage-19/"
         }
       ]
+    },
+    {
+      "name": "Civiglio",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.2,
+      "avgGradientPct": 9.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Cogne",
+      "side": null,
+      "category": "2",
+      "lengthKm": 22.4,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 15,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coi",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.0,
+      "avgGradientPct": 9.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Col Bayard",
@@ -4323,6 +5103,60 @@
         {
           "race": "Tour de France",
           "year": 2017,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col Saint-Pantaléon",
+      "side": null,
+      "category": "1",
+      "lengthKm": 16.5,
+      "avgGradientPct": 7.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col Tsecore",
+      "side": null,
+      "category": "1",
+      "lengthKm": 16.0,
+      "avgGradientPct": 7.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col Tzecore",
+      "side": null,
+      "category": "1",
+      "lengthKm": 16.0,
+      "avgGradientPct": 7.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
           "stage": 19,
           "role": "intermediate"
         }
@@ -4930,6 +5764,24 @@
           "race": "Tour de France",
           "year": 2022,
           "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Joux",
+      "side": null,
+      "category": "1",
+      "lengthKm": 15.1,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 19,
           "role": "intermediate"
         }
       ],
@@ -5547,6 +6399,24 @@
       "performances": []
     },
     {
+      "name": "Col de Saint-Pantaleon",
+      "side": null,
+      "category": "1",
+      "lengthKm": 16.5,
+      "avgGradientPct": 7.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col de Saxel",
       "side": null,
       "category": "3",
@@ -5744,8 +6614,8 @@
       "name": "Col de Vars",
       "side": null,
       "category": "1",
-      "lengthKm": 9.3,
-      "avgGradientPct": 7.5,
+      "lengthKm": 18.8,
+      "avgGradientPct": 5.8,
       "summitLat": 44.5394,
       "summitLon": 6.7028,
       "appearances": [
@@ -5766,9 +6636,52 @@
           "year": 2017,
           "stage": 18,
           "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "role": "intermediate"
         }
       ],
-      "performances": []
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Stefan Denifl",
+          "timeS": 2838,
+          "lengthKm": 18.8,
+          "note": "18.8 km @ 5.8%; 23.85 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "chase",
+          "rider": "Nieve-Foliforov-Dombrowski group",
+          "timeS": 2848,
+          "lengthKm": 18.8,
+          "note": "18.8 km @ 5.8%; 23.76 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Peloton",
+          "timeS": 3263,
+          "lengthKm": 18.8,
+          "note": "18.8 km @ 5.8%; 20.74 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        }
+      ]
     },
     {
       "name": "Col de l'Espinas",
@@ -8412,6 +9325,474 @@
       "performances": []
     },
     {
+      "name": "Colle Balisio",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.3,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle Molella",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.6,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle Passerino",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle San Carlo",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.5,
+      "avgGradientPct": 9.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Richard Carapaz",
+          "timeS": 2161,
+          "lengthKm": 10.5,
+          "note": "Lanterne Rouge measured ~36:01 on full Colle San Carlo (~10.5 km) while attacking the GC group; 5.93 eW/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/category/watts/feed/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Carapaz-Nibali-Carthy",
+          "timeS": 768,
+          "lengthKm": 4.1,
+          "note": "Upper/steep 4.1 km at 9.8% segment of Colle San Carlo; GC group, climbing-records.com",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2019/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Bauke Mollema",
+          "timeS": 763,
+          "lengthKm": 4.1,
+          "note": "Upper/steep 4.1 km at 9.8% segment of Colle San Carlo; fastest 2019 time per climbing-records.com",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2019/"
+        }
+      ]
+    },
+    {
+      "name": "Colle San Zeno",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.9,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle del Lys",
+      "side": "Viu",
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle del Lys",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.9,
+      "avgGradientPct": 6.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle dell'Agnello",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 20.7,
+      "avgGradientPct": 7.0,
+      "summitLat": 46.6839,
+      "summitLon": 6.9796,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Michele Scarponi",
+          "timeS": 2045,
+          "lengthKm": 9.0,
+          "note": "final 9.0 km @ 9.7%; 15.84 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Nibali-Chaves-Kruijswijk",
+          "timeS": 2045,
+          "lengthKm": 9.0,
+          "note": "final 9.0 km @ 9.7%; 15.84 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "chase",
+          "rider": "Valverde-Zakarin group",
+          "timeS": 2095,
+          "lengthKm": 9.0,
+          "note": "final 9.0 km @ 9.7%; 15.47 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        }
+      ]
+    },
+    {
+      "name": "Colle della Bonette (Cime de la Bonette)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 22.2,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Mikel Nieve",
+          "timeS": 3890,
+          "lengthKm": 22.0,
+          "note": "22.0 km @ 6.8%; 20.36 km/h; finish at 2715m",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "chase",
+          "rider": "Taaramae-Foliforov-Atapuma group",
+          "timeS": 3965,
+          "lengthKm": 22.0,
+          "note": "22.0 km @ 6.8%; 19.97 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Peloton",
+          "timeS": 4040,
+          "lengthKm": 22.0,
+          "note": "22.0 km @ 6.8%; 19.60 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        }
+      ]
+    },
+    {
+      "name": "Colle della Lombarda",
+      "side": null,
+      "category": "1",
+      "lengthKm": 20.3,
+      "avgGradientPct": 7.3,
+      "summitLat": 44.2027,
+      "summitLon": 7.1501,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Vincenzo Nibali",
+          "timeS": 3437,
+          "lengthKm": 20.3,
+          "note": "20.3 km @ 7.3%; 21.26 km/h; took GC",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "chase",
+          "rider": "Uran-Valverde",
+          "timeS": 3465,
+          "lengthKm": 20.3,
+          "note": "20.3 km @ 7.3%; 21.09 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Esteban Chaves",
+          "timeS": 3494,
+          "lengthKm": 20.3,
+          "note": "20.3 km @ 7.3%; 20.92 km/h; lost pink jersey",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/full-gas-lombarde-crowns-nibali.html"
+        }
+      ]
+    },
+    {
+      "name": "Colle della Maddalena",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.5,
+      "avgGradientPct": 8.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle delle Finestre",
+      "side": "Susa",
+      "category": "1",
+      "lengthKm": 18.5,
+      "avgGradientPct": 9.2,
+      "summitLat": 45.0718,
+      "summitLon": 7.0535,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Chris Froome",
+          "timeS": 3860,
+          "lengthKm": 18.3,
+          "note": "18.3 km @ 9.2%, avg 17.07 km/h; solo attack 80 km from finish",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 3903,
+          "lengthKm": 18.3,
+          "note": "Dumoulin-Carapaz-Lopez-Pinot group, avg 16.88 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Sebastien Reichenbach",
+          "timeS": 3923,
+          "lengthKm": 18.3,
+          "note": "avg 16.79 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 3990,
+          "lengthKm": 18.3,
+          "note": "Pozzovivo-Oomen-Bennett-Formolo-O'Connor-Poels group, avg 16.51 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        }
+      ]
+    },
+    {
+      "name": "Colle delle Finestre",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 18.5,
+      "avgGradientPct": 9.2,
+      "summitLat": 45.0833,
+      "summitLon": 7.05,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Simon Yates",
+          "timeS": 3563,
+          "lengthKm": 18.5,
+          "note": "Course record (climbing-records.com 59:22 / Lanterne Rouge 59:23); beat previous record (Pablo Torres 2024, 1:00:45) by ~1:23; ~6.20 eW/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/31/simon-yates-smashes-finestre-record-giro-ditalia-2025-stage-20/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Carapaz / Del Toro",
+          "timeS": 3661,
+          "lengthKm": 18.5,
+          "note": "GC group ~1:38 slower than Yates (Lanterne Rouge); climbing-records.com has Carapaz/Del Toro ~15s slower than Torres' 1:00:45; derived ~1:01:01",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/31/simon-yates-smashes-finestre-record-giro-ditalia-2025-stage-20/"
+        }
+      ]
+    },
+    {
       "name": "Colle di Barbotto",
       "side": null,
       "category": "2",
@@ -8424,6 +9805,24 @@
           "race": "Tour de France",
           "year": 2024,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Colle di Nava",
+      "side": null,
+      "category": "3",
+      "lengthKm": 9.1,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 13,
           "role": "intermediate"
         }
       ],
@@ -8489,6 +9888,60 @@
           "sourceUrl": "https://lanternerouge.com/2022/08/27/remco-evenepoel-push-huge-watts-once-again-vuelta-a-espana-stage-8/"
         }
       ]
+    },
+    {
+      "name": "Colma di Sormano",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.6,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Coppa Casarinelle",
+      "side": null,
+      "category": "2",
+      "lengthKm": 15.0,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Corio",
+      "side": null,
+      "category": "4",
+      "lengthKm": 3.1,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Cormet de Roselend",
@@ -8561,6 +10014,237 @@
         }
       ],
       "performances": []
+    },
+    {
+      "name": "Costalissoio",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.8,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "leading",
+          "rider": "Simon Yates",
+          "timeS": 640,
+          "lengthKm": 3.7,
+          "note": "3.7 km @ 9.0%, avg 20.81 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 660,
+          "lengthKm": 3.7,
+          "note": "Pozzovivo-Pinot-Carapaz-Dumoulin-Lopez group, avg 20.18 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": "Chris Froome",
+          "timeS": 705,
+          "lengthKm": 3.7,
+          "note": "Froome group, avg 18.89 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        }
+      ]
+    },
+    {
+      "name": "Courmayeur",
+      "side": null,
+      "category": "3",
+      "lengthKm": 8.0,
+      "avgGradientPct": 3.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Crans-Montana",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.1,
+      "avgGradientPct": 7.2,
+      "summitLat": 46.3075,
+      "summitLon": 7.4811,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "group": "leading",
+          "rider": "Einer Rubio (stage winner)",
+          "timeS": 2128,
+          "lengthKm": 13.1,
+          "note": "Rubio 35:28; Hugh Carthy (solo) 34:14 was fastest",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 2060,
+          "lengthKm": 13.1,
+          "note": "GC group 34:20",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"
+        }
+      ]
+    },
+    {
+      "name": "Croce Abbio",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.5,
+      "avgGradientPct": 4.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Croce Serra",
+      "side": null,
+      "category": "3",
+      "lengthKm": 11.2,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Croce d'Aune",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.1,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Croce di Casale",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.7,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Croix de Coeur",
+      "side": null,
+      "category": "1",
+      "lengthKm": 15.4,
+      "avgGradientPct": 8.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "group": "leading",
+          "rider": "Bruno Armirail / Derek Gee (break)",
+          "timeS": 2882,
+          "lengthKm": 15.5,
+          "note": "Breakaway 48:02",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 13,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 2997,
+          "lengthKm": 15.5,
+          "note": "GC group ~49:57, 1:55 slower than break",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/19/another-disappointing-mountain-stage-in-the-2023-giro-ditalia/"
+        }
+      ]
     },
     {
       "name": "Cuitu Negru (Valgrande-Pajares)",
@@ -12166,6 +13850,24 @@
       "performances": []
     },
     {
+      "name": "Dori",
+      "side": null,
+      "category": "2",
+      "lengthKm": 16.4,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "El Ferial Larra-Belagua",
       "side": null,
       "category": "1",
@@ -12299,6 +14001,140 @@
       "performances": []
     },
     {
+      "name": "Etna (Linguaglossa)",
+      "side": "Linguaglossa",
+      "category": "",
+      "lengthKm": 18.2,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Harm Vanhoucke",
+          "timeS": 2844,
+          "lengthKm": 18.6,
+          "note": "Strava fastest time on the NE/Linguaglossa approach; avg 23.3 km/h",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Steven Kruijswijk",
+          "timeS": 2873,
+          "lengthKm": 18.6,
+          "note": "GC contender among the fastest on Strava segment",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Fausto Masnada",
+          "timeS": 2908,
+          "lengthKm": 18.6,
+          "note": "Strava segment time",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"
+        }
+      ]
+    },
+    {
+      "name": "Etna (Rifugio Sapienza)",
+      "side": "Nicolosi",
+      "category": "1",
+      "lengthKm": 22.8,
+      "avgGradientPct": 5.9,
+      "summitLat": 37.6985,
+      "summitLon": 15.0008,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Etna (Rifugio Sapienza, from Nicolosi)",
+      "side": "Nicolosi",
+      "category": "1",
+      "lengthKm": 17.95,
+      "avgGradientPct": 6.6,
+      "summitLat": 37.7005,
+      "summitLon": 14.9984,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 4,
+          "group": "leading",
+          "rider": "Ilnur Zakarin",
+          "timeS": 2902,
+          "lengthKm": 17.8,
+          "note": "Fastest GC rider; climbing-records.com measured 17.8 km at 6.7%, 22.08 km/h. Polanc (stage winner, from the day's break) measured 52:18.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 4,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 2922,
+          "lengthKm": 17.8,
+          "note": "20-rider GC group, 48:42, 21.93 km/h per climbing-records.com.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/"
+        }
+      ]
+    },
+    {
+      "name": "Fai della Paganella",
+      "side": null,
+      "category": "2",
+      "lengthKm": 10.2,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Finhaut-Emosson",
       "side": null,
       "category": "HC",
@@ -12342,6 +14178,318 @@
       ]
     },
     {
+      "name": "Forca Capistrello",
+      "side": null,
+      "category": "2",
+      "lengthKm": 16.3,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forca Caruso",
+      "side": null,
+      "category": "3",
+      "lengthKm": 12.7,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forca di Gualdo",
+      "side": null,
+      "category": "4",
+      "lengthKm": 10.4,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forca di Presta",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.2,
+      "avgGradientPct": 3.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella Cibiana",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.6,
+      "avgGradientPct": 7.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella Monte Rest",
+      "side": null,
+      "category": "2",
+      "lengthKm": 10.5,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella Mostaccin",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.9,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella Valbona",
+      "side": null,
+      "category": "",
+      "lengthKm": 20.0,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella di Monte Rest",
+      "side": null,
+      "category": "",
+      "lengthKm": 7.0,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Forcella di Pala Barzana",
+      "side": null,
+      "category": "",
+      "lengthKm": 13.3,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Foza (Asiago plateau)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.05,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gabicce Monte",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gagliole",
+      "side": null,
+      "category": "4",
+      "lengthKm": 0.8,
+      "avgGradientPct": 11.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Giovo",
+      "side": null,
+      "category": "",
+      "lengthKm": 8.1,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Giovo (Palù di Giovo)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.9,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Goletto di Cadino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 19.9,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Goniace (San Martino)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.9,
+      "avgGradientPct": 8.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Gontzegaraine",
       "side": null,
       "category": "3",
@@ -12358,6 +14506,109 @@
         }
       ],
       "performances": []
+    },
+    {
+      "name": "Gornje Cerovo",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gracen",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.0,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gran Sasso d'Italia (Campo Imperatore)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 26.0,
+      "avgGradientPct": 3.4,
+      "summitLat": 42.4385,
+      "summitLon": 13.586,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gran Sasso d'Italia (Campo Imperatore, final ramp)",
+      "side": null,
+      "category": null,
+      "lengthKm": 3.9,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "group": "leading",
+          "rider": "Davide Bais",
+          "timeS": 865,
+          "lengthKm": 3.9,
+          "note": "Final 3.9 km at 8.26%; 14:25 at 4.82 W/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/12/slowest-mountain-top-finish-in-2023-giro-ditalia-2023-stage-7/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "group": "gc-group",
+          "rider": "Remco Evenepoel (GC group)",
+          "timeS": 704,
+          "lengthKm": 3.9,
+          "note": "Final 3.9 km at 8.26%; 11:44 at 5.85 W/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/12/slowest-mountain-top-finish-in-2023-giro-ditalia-2023-stage-7/"
+        }
+      ]
     },
     {
       "name": "Grand Ballon",
@@ -12440,6 +14691,42 @@
       ]
     },
     {
+      "name": "Grotti Alto (sterrato)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.5,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Guardia Sanframondi",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 8,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Hautacam",
       "side": null,
       "category": "HC",
@@ -12519,6 +14806,24 @@
           "race": "Tour de France",
           "year": 2016,
           "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Il Pilonetto",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.0,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 14,
           "role": "intermediate"
         }
       ],
@@ -12641,6 +14946,24 @@
       ]
     },
     {
+      "name": "Kolovrat",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.3,
+      "avgGradientPct": 9.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Campa",
       "side": null,
       "category": "3",
@@ -12702,6 +15025,24 @@
       ]
     },
     {
+      "name": "La Cima",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.9,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Collada Llomena",
       "side": null,
       "category": "1",
@@ -12745,6 +15086,60 @@
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Colletta",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Croce",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.5,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Crosetta",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.6,
+      "avgGradientPct": 7.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 16,
           "role": "intermediate"
         }
       ],
@@ -12947,6 +15342,24 @@
       ]
     },
     {
+      "name": "La Sellata",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.8,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Super Planche des Belles Filles",
       "side": null,
       "category": "1",
@@ -13061,6 +15474,42 @@
           "sourceUrl": "http://www.climbing-records.com/2016/07/"
         }
       ]
+    },
+    {
+      "name": "Lago Laceno",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.6,
+      "avgGradientPct": 6.2,
+      "summitLat": 40.8169,
+      "summitLon": 15.0617,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lago Serru",
+      "side": null,
+      "category": "1",
+      "lengthKm": 20.3,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 13,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Lagos de Covadonga",
@@ -13262,6 +15711,24 @@
       "performances": []
     },
     {
+      "name": "Lamon",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Las Estacas de Trueba",
       "side": null,
       "category": "3",
@@ -13341,6 +15808,42 @@
       "performances": []
     },
     {
+      "name": "Le Motte",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.0,
+      "avgGradientPct": 8.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Le Svolte di Popoli",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.5,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Les Praeres de Nava",
       "side": null,
       "category": "1",
@@ -13403,6 +15906,24 @@
           "year": 2025,
           "stage": 2,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lodrino",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -13513,6 +16034,158 @@
       ]
     },
     {
+      "name": "Madonna del Ghisallo",
+      "side": null,
+      "category": "3",
+      "lengthKm": 8.6,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Madonna di Campiglio",
+      "side": null,
+      "category": "",
+      "lengthKm": 15.5,
+      "avgGradientPct": 5.9,
+      "summitLat": 46.23,
+      "summitLon": 10.826,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 17,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Madonnina del Domm",
+      "side": null,
+      "category": "",
+      "lengthKm": 12.0,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Manciano",
+      "side": null,
+      "category": "4",
+      "lengthKm": 8.0,
+      "avgGradientPct": 3.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Manera",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Marsia (Tagliacozzo)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.9,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "group": "leading",
+          "rider": null,
+          "timeS": 1485,
+          "lengthKm": 11.9,
+          "note": "Approximate: lead group completed full climb in 'just under 25 minutes' (Lanterne Rouge); not an exact measured time",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/16/uaes-young-guns-strike-roglic-on-first-summit-finish-giro-ditalia-stage-7-2025/"
+        }
+      ]
+    },
+    {
+      "name": "Marsia (Tagliacozzo) - final steep segment",
+      "side": null,
+      "category": null,
+      "lengthKm": 2.5,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "group": "leading",
+          "rider": "Juan Ayuso",
+          "timeS": 463,
+          "lengthKm": 2.5,
+          "note": "Ayuso 6.74 eW/kg for 7:43 on steepest final segment (~9.84%) of the climb (Lanterne Rouge)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/16/uaes-young-guns-strike-roglic-on-first-summit-finish-giro-ditalia-stage-7-2025/"
+        }
+      ]
+    },
+    {
       "name": "Mas de la Costa",
       "side": null,
       "category": "HC",
@@ -13542,6 +16215,24 @@
           "sourceUrl": "http://www.climbing-records.com/2019/08/new-record-on-mas-de-la-costa.html"
         }
       ]
+    },
+    {
+      "name": "Matassone",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.3,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Mirador de Ézaro",
@@ -13611,6 +16302,24 @@
       "performances": []
     },
     {
+      "name": "Miragolo San Salvatore",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Monasterio de Tentudía",
       "side": null,
       "category": "2",
@@ -13624,6 +16333,48 @@
           "year": 2022,
           "stage": 17,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monreale",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.1,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monsano",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.8,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 12,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 10,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -13775,6 +16526,697 @@
       ]
     },
     {
+      "name": "Montagna Grande di Viggiano",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.6,
+      "avgGradientPct": 9.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montalbano",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.8,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Avena",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.9,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Berico",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.1,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Bondone",
+      "side": null,
+      "category": "",
+      "lengthKm": 20.0,
+      "avgGradientPct": 7.0,
+      "summitLat": 46.0167,
+      "summitLon": 11.0333,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "group": "leading",
+          "rider": "Joao Almeida (stage winner)",
+          "timeS": 3294,
+          "lengthKm": 21.7,
+          "note": "Almeida 54:54 at 5.94 eW/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/23/geraint-thomas-career-performance-on-monte-bondone-giro-ditalia-stage-16-2023/"
+        }
+      ]
+    },
+    {
+      "name": "Monte Grappa",
+      "side": null,
+      "category": "1",
+      "lengthKm": 24.2,
+      "avgGradientPct": 5.3,
+      "summitLat": 45.8725,
+      "summitLon": 11.8,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Grappa (1st ascent, Semonzo)",
+      "side": "Semonzo",
+      "category": "1",
+      "lengthKm": 18.1,
+      "avgGradientPct": 8.1,
+      "summitLat": 45.8728,
+      "summitLon": 11.7997,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Grappa (2nd ascent, Semonzo)",
+      "side": "Semonzo",
+      "category": "1",
+      "lengthKm": 18.1,
+      "avgGradientPct": 8.1,
+      "summitLat": 45.8728,
+      "summitLon": 11.7997,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 3102,
+          "lengthKm": 18.1,
+          "note": "51:42 a 6.19 eW/kg; ~1 min mas rapido que Quintana 2014; 57s mas rapido que la CRI de Quintana 2014 en el mismo segmento",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/25/pogacar-pushes-monster-watts-on-monte-grappa-giro-ditalia-stage-20-2024/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Tiberi/Martinez/Rubio",
+          "timeS": 3219,
+          "lengthKm": 18.1,
+          "note": "+1:57 a Pogačar a 5.91-5.92 eW/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/25/pogacar-pushes-monster-watts-on-monte-grappa-giro-ditalia-stage-20-2024/"
+        }
+      ]
+    },
+    {
+      "name": "Monte Grappa (Semonzo, CRI 2014)",
+      "side": "Semonzo",
+      "category": null,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Nairo Quintana",
+          "timeS": 3159,
+          "lengthKm": null,
+          "note": "Referencia historica: 52:39 a 6.23 eW/kg en la CRI del Giro 2014 (cima 500 m mas lejos en la subida)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/25/pogacar-pushes-monster-watts-on-monte-grappa-giro-ditalia-stage-20-2024/"
+        }
+      ]
+    },
+    {
+      "name": "Monte Jafferau (Bardonecchia)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.2,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Richard Carapaz",
+          "timeS": 1473,
+          "lengthKm": 7.2,
+          "note": "7.2 km @ 9.0%, avg 17.60 km/h; fastest on the finish climb",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Thibaut Pinot",
+          "timeS": 1480,
+          "lengthKm": 7.2,
+          "note": "avg 17.51 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Miguel Angel Lopez",
+          "timeS": 1485,
+          "lengthKm": 7.2,
+          "note": "avg 17.45 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Chris Froome",
+          "timeS": 1495,
+          "lengthKm": 7.2,
+          "note": "stage winner; avg 17.34 km/h on final climb",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Tom Dumoulin",
+          "timeS": 1496,
+          "lengthKm": 7.2,
+          "note": "avg 17.33 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        }
+      ]
+    },
+    {
+      "name": "Monte Lussari",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.3,
+      "avgGradientPct": 12.3,
+      "summitLat": 46.4804,
+      "summitLon": 13.5229,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Primoz Roglic",
+          "timeS": 1715,
+          "lengthKm": 7.3,
+          "note": "28:35 at 6.46 eW/kg, excluding ~15 s lost to chain drop; stage win, took maglia rosa from Thomas",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/27/roglic-rewrites-history-with-huge-giro-ditalia-comeback/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 20,
+          "group": "gc-group",
+          "rider": "Geraint Thomas",
+          "timeS": 1767,
+          "lengthKm": 7.3,
+          "note": "29:27 at 6.26 eW/kg; lost 37 s to Roglic on the climb",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/27/roglic-rewrites-history-with-huge-giro-ditalia-comeback/"
+        }
+      ]
+    },
+    {
+      "name": "Monte Morello",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Pana (Santa Cristina Valgardena)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.5,
+      "avgGradientPct": 6.1,
+      "summitLat": 46.5556,
+      "summitLon": 11.715,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 16,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Scuro",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.1,
+      "avgGradientPct": 9.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Sirino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 24.4,
+      "avgGradientPct": 3.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Urano",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.5,
+      "avgGradientPct": 9.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Vulture (1st ascent, Monticchio)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 6.3,
+      "avgGradientPct": 6.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Vulture (2nd ascent)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.6,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte Zoncolan",
+      "side": "Ovaro",
+      "category": "1",
+      "lengthKm": 10.1,
+      "avgGradientPct": 11.9,
+      "summitLat": 46.5,
+      "summitLon": 12.9167,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Chris Froome",
+          "timeS": 2398,
+          "lengthKm": 9.8,
+          "note": "9.8 km @ 12.2%, avg 14.71 km/h; 6th fastest time ever, 55s off Simoni 2007 record",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-resurrected-on-zoncolan.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Simon Yates",
+          "timeS": 2404,
+          "lengthKm": 10.0,
+          "note": "Top-100 reference 10.0 km, avg 14.68 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Domenico Pozzovivo",
+          "timeS": 2421,
+          "lengthKm": 10.0,
+          "note": "avg 14.57 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Miguel Angel Lopez",
+          "timeS": 2423,
+          "lengthKm": 10.0,
+          "note": "avg 14.56 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Tom Dumoulin",
+          "timeS": 2435,
+          "lengthKm": 10.0,
+          "note": "avg 14.49 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Thibaut Pinot",
+          "timeS": 2440,
+          "lengthKm": 10.0,
+          "note": "avg 14.46 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Wout Poels",
+          "timeS": 2465,
+          "lengthKm": 10.0,
+          "note": "avg 14.31 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Sebastien Reichenbach",
+          "timeS": 2477,
+          "lengthKm": 10.0,
+          "note": "avg 14.24 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/new-top-100-zoncolan-high-level-by.html"
+        }
+      ]
+    },
+    {
+      "name": "Monte Zoncolan",
+      "side": "Sutrio",
+      "category": "1",
+      "lengthKm": 14.1,
+      "avgGradientPct": 8.5,
+      "summitLat": 46.5005,
+      "summitLon": 12.9176,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 14,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Egan Bernal",
+          "timeS": 2402,
+          "lengthKm": 13.1,
+          "note": "New record/fastest ascent on Sutrio side; beat Simoni 2003 (41:28) by 1:26; ~6.1-6.2 w/kg; Bernal led the GC group over the top",
+          "measured": true,
+          "sourceUrl": "https://velo.outsideonline.com/road/road-racing/giro-ditalia/power-analysis-bernal-sets-a-new-record-on-the-zoncolan/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Gilberto Simoni",
+          "timeS": 2488,
+          "lengthKm": 13.2,
+          "note": "Previous best time (2003 Giro), referenced as the record Bernal broke",
+          "measured": true,
+          "sourceUrl": "https://velo.outsideonline.com/road/road-racing/giro-ditalia/power-analysis-bernal-sets-a-new-record-on-the-zoncolan/"
+        }
+      ]
+    },
+    {
+      "name": "Monte della Mattera",
+      "side": null,
+      "category": "3",
+      "lengthKm": 10.0,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte di Procida",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monte di Ragogna",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.75,
+      "avgGradientPct": 10.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 16,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Montecalvo",
       "side": null,
       "category": "4",
@@ -13793,6 +17235,78 @@
       "performances": []
     },
     {
+      "name": "Montechiaro d'Asti",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monteforte Irpino",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.8,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montelago",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.6,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monteluro",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Montemaggio",
       "side": null,
       "category": "3",
@@ -13805,6 +17319,127 @@
           "race": "Tour de France",
           "year": 2024,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montemaggiore",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.3,
+      "avgGradientPct": 10.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montemolino",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Monterovere (Menador)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.9,
+      "avgGradientPct": 9.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montescaglioso",
+      "side": null,
+      "category": "4",
+      "lengthKm": 2.9,
+      "avgGradientPct": 8.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Montevergine di Mercogliano",
+      "side": null,
+      "category": "2",
+      "lengthKm": 17.0,
+      "avgGradientPct": 5.0,
+      "summitLat": 40.9394,
+      "summitLon": 14.7244,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 8,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 8,
+          "group": "leading",
+          "rider": "Richard Carapaz",
+          "timeS": 1930,
+          "lengthKm": 15.3,
+          "note": "15.3 km @ 5.1%, avg 28.54 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/carapaz-springs-up-after-montevergine.html"
+        }
+      ]
+    },
+    {
+      "name": "Montoso",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.8,
+      "avgGradientPct": 9.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 12,
           "role": "intermediate"
         }
       ],
@@ -14016,6 +17651,85 @@
       "performances": []
     },
     {
+      "name": "Mottolino (Livigno)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.6,
+      "avgGradientPct": 7.7,
+      "summitLat": 46.5006,
+      "summitLon": 10.1556,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Mount Etna",
+      "side": "Ragalna",
+      "category": null,
+      "lengthKm": 19.5,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Simon Yates",
+          "timeS": 2921,
+          "lengthKm": 19.5,
+          "note": "19.5 km @ 6.5%, avg 24.03 km/h; measured segment longer than official 15 km KOM",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/mitchelton-scott-explodes-etna.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 6,
+          "group": "leading",
+          "rider": "Esteban Chaves",
+          "timeS": 3017,
+          "lengthKm": 19.5,
+          "note": "19.5 km @ 6.5%, avg 23.27 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/mitchelton-scott-explodes-etna.html"
+        }
+      ]
+    },
+    {
+      "name": "Mount Etna (Osservatorio Astrofisico)",
+      "side": "Ragalna",
+      "category": "1",
+      "lengthKm": 15.0,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Mur d'Aurec-sur-Loire",
       "side": null,
       "category": "1",
@@ -14058,6 +17772,36 @@
           "race": "Tour de France",
           "year": 2017,
           "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Muro di Ca' del Poggio",
+      "side": null,
+      "category": "",
+      "lengthKm": 1.15,
+      "avgGradientPct": 12.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 20,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 20,
           "role": "intermediate"
         }
       ],
@@ -14166,6 +17910,24 @@
       "performances": []
     },
     {
+      "name": "Oasi Zegna",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.7,
+      "avgGradientPct": 5.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Observatorio Astrofísico de Javalambre (Pico del Buitre)",
       "side": null,
       "category": "1",
@@ -14220,6 +17982,103 @@
       "performances": []
     },
     {
+      "name": "Oropa (Santuario di Oropa)",
+      "side": "Biella",
+      "category": "1",
+      "lengthKm": 11.75,
+      "avgGradientPct": 6.2,
+      "summitLat": 45.6252,
+      "summitLon": 7.982,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 14,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Tom Dumoulin",
+          "timeS": 1057,
+          "lengthKm": 6.7,
+          "note": "Stage winner; climbing-records.com measured 6.7 km at 8%, 17:37, 22.82 km/h (a reader recalculated 17:27).",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/tom-dumoulin-flattens-oropa.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Ilnur Zakarin",
+          "timeS": 1060,
+          "lengthKm": 6.7,
+          "note": "Next fastest, 17:40 per climbing-records.com.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/tom-dumoulin-flattens-oropa.html"
+        }
+      ]
+    },
+    {
+      "name": "Osimo",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.3,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Ostra",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.0,
+      "avgGradientPct": 9.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Ovindoli",
+      "side": null,
+      "category": "2",
+      "lengthKm": 12.4,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Pal",
       "side": null,
       "category": "1",
@@ -14250,6 +18109,24 @@
           "race": "Vuelta a España",
           "year": 2018,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Parlasco",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.6,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 18,
           "role": "intermediate"
         }
       ],
@@ -14367,6 +18244,1347 @@
           "year": 2025,
           "stage": 17,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Bordala",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.5,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Brocon (2nd ascent SW)",
+      "side": "southwest",
+      "category": "1",
+      "lengthKm": 11.9,
+      "avgGradientPct": 6.5,
+      "summitLat": 46.1714,
+      "summitLon": 11.6314,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 1624,
+          "lengthKm": 9.4,
+          "note": "27:04 a 6.07 eW/kg; medido sobre los 9.4 km finales (7.71%)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/22/pogacar-strongest-from-the-gc-group-giro-ditalia-stage-17-2024/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "group": "gc-group",
+          "rider": "Tiberi/Thomas/Martinez/Rubio/Bardet",
+          "timeS": 1642,
+          "lengthKm": 9.4,
+          "note": "+18s a Pogačar (5.95-6.00 eW/kg segun draft); tiempo estimado a partir del gap",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/22/pogacar-strongest-from-the-gc-group-giro-ditalia-stage-17-2024/"
+        }
+      ]
+    },
+    {
+      "name": "Passo Brocon (Albergo, 1st ascent NE)",
+      "side": "northeast",
+      "category": "2",
+      "lengthKm": 15.4,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Campolongo",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.0,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Castrin (Hofmahdjoch)",
+      "side": null,
+      "category": "",
+      "lengthKm": 8.8,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Colla",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.3,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Duron",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.4,
+      "avgGradientPct": 9.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Durone",
+      "side": null,
+      "category": "",
+      "lengthKm": 10.0,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Fedaia (Marmolada)",
+      "side": "Malga Ciapela",
+      "category": "1",
+      "lengthKm": 14.0,
+      "avgGradientPct": 7.6,
+      "summitLat": 46.4575,
+      "summitLon": 11.874,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 20,
+          "group": "leading",
+          "rider": "Jai Hindley",
+          "timeS": 1132,
+          "lengthKm": 5.3,
+          "note": "Timed on the steep final 5.3 km at 11.3%; Hindley solo in 18:52 (~6.51 w/kg, avg 16.86 km/h), fastest Fedaia since Casagrande 2000 (2s slower than record). Dropped Carapaz to take the maglia rosa",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2022/05/28/hindley-almost-breaks-passo-fedaia-record-from-90s/"
+        }
+      ]
+    },
+    {
+      "name": "Passo Gardena",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.8,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 18,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Giau",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.8,
+      "avgGradientPct": 9.4,
+      "summitLat": 46.4838,
+      "summitLon": 12.0843,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 16,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 2164,
+          "lengthKm": 9.8,
+          "note": "GC group 36:04 at 5.40 W/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/26/roglic-destroys-tre-cime-di-laverado-record-before-final-itt/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 16,
+          "group": "leading",
+          "rider": "Egan Bernal",
+          "timeS": 1965,
+          "lengthKm": 9.7,
+          "note": "Solo in maglia rosa; new climbing record, beat previous best by ~49s; ~5.91 w/kg in cold/wet conditions (4-6C)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2022/04/08/giro-2021-egan-bernal-is-unbeatable-at-high-altitude/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Scarponi-Nibali-Valverde-Kruijswijk-Majka-Uran-Chaves-Zakarin-Pozzovivo-Dombrowski-Nieve",
+          "timeS": 2014,
+          "lengthKm": 9.8,
+          "note": "9.8 km @ 9.2%; 17.52 km/h; climbing-records record group",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/frightening-speed-in-dolomites.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "group": "chase",
+          "rider": "Amador-Fuglsang",
+          "timeS": 2065,
+          "lengthKm": 9.8,
+          "note": "9.8 km @ 9.2%; 17.08 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/frightening-speed-in-dolomites.html"
+        }
+      ]
+    },
+    {
+      "name": "Passo Gobbera",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.8,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Godi",
+      "side": null,
+      "category": "2",
+      "lengthKm": 15.5,
+      "avgGradientPct": 3.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Lanciano",
+      "side": null,
+      "category": "",
+      "lengthKm": 10.3,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 9,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Manghen",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.9,
+      "avgGradientPct": 7.6,
+      "summitLat": 46.17325,
+      "summitLon": 11.44147,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Pinei",
+      "side": null,
+      "category": "1",
+      "lengthKm": 23.4,
+      "avgGradientPct": 4.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Pordoi",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.3,
+      "avgGradientPct": 6.9,
+      "summitLat": 46.4858,
+      "summitLon": 11.8073,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 20,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 18,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Rolle",
+      "side": null,
+      "category": "2",
+      "lengthKm": 20.6,
+      "avgGradientPct": 4.7,
+      "summitLat": 46.2972,
+      "summitLon": 11.7869,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Roverello",
+      "side": null,
+      "category": "4",
+      "lengthKm": 4.0,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo San Bernardino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 23.7,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo San Leonardo",
+      "side": null,
+      "category": "",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo San Pellegrino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.5,
+      "avgGradientPct": 6.2,
+      "summitLat": 46.3658,
+      "summitLon": 11.7783,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Sella",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.5,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Sella (Cima Coppi)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.9,
+      "avgGradientPct": 7.4,
+      "summitLat": 46.5108,
+      "summitLon": 11.7611,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo Tre Croci",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.1,
+      "avgGradientPct": 7.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "group": "leading",
+          "rider": null,
+          "timeS": 1362,
+          "lengthKm": 8.0,
+          "note": "Leading group 22:42 at 5.70 W/kg",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/26/roglic-destroys-tre-cime-di-laverado-record-before-final-itt/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "leading",
+          "rider": "Michael Woods",
+          "timeS": 1340,
+          "lengthKm": 7.9,
+          "note": "7.9 km @ 7.4%, avg 21.22 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 1408,
+          "lengthKm": 7.9,
+          "note": "30-rider peloton, avg 20.20 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        }
+      ]
+    },
+    {
+      "name": "Passo Valparola",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.5,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 18,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "group": "leading",
+          "rider": "Chaves-Kruijswijk",
+          "timeS": 1604,
+          "lengthKm": 11.5,
+          "note": "11.5 km @ 5.8%; 25.81 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/frightening-speed-in-dolomites.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "group": "gc-group",
+          "rider": "Vincenzo Nibali",
+          "timeS": 1634,
+          "lengthKm": 11.5,
+          "note": "11.5 km @ 5.8%; 25.34 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/frightening-speed-in-dolomites.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 14,
+          "group": "chase",
+          "rider": "Valverde-Amador group",
+          "timeS": 1760,
+          "lengthKm": 11.5,
+          "note": "11.5 km @ 5.8%; 23.52 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/frightening-speed-in-dolomites.html"
+        }
+      ]
+    },
+    {
+      "name": "Passo del Bocco",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Bracco",
+      "side": null,
+      "category": "3",
+      "lengthKm": 15.3,
+      "avgGradientPct": 4.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Carnaio",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Lume Spento",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Mortirolo",
+      "side": "Mazzo di Valtellina",
+      "category": "1",
+      "lengthKm": 12.8,
+      "avgGradientPct": 10.1,
+      "summitLat": 46.248,
+      "summitLon": 10.2991,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Mortirolo",
+      "side": "Monno",
+      "category": "1",
+      "lengthKm": 12.6,
+      "avgGradientPct": 7.6,
+      "summitLat": 46.2467,
+      "summitLon": 10.2978,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Mortirolo",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.6,
+      "avgGradientPct": 7.6,
+      "summitLat": 46.2389,
+      "summitLon": 10.2956,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Mortirolo (from Monno)",
+      "side": "Monno",
+      "category": "1",
+      "lengthKm": 12.6,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Tonale",
+      "side": null,
+      "category": "2",
+      "lengthKm": 15.2,
+      "avgGradientPct": 6.0,
+      "summitLat": 46.2586,
+      "summitLon": 10.5856,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Tonale (from Ponte di Legno)",
+      "side": "Ponte di Legno",
+      "category": "",
+      "lengthKm": 11.0,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo del Vetriolo",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.8,
+      "avgGradientPct": 7.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Calla",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Colma",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.5,
+      "avgGradientPct": 6.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Consuma",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Crosetta",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.6,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Mauria",
+      "side": null,
+      "category": "3",
+      "lengthKm": 8.9,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo della Mendola",
+      "side": null,
+      "category": "2",
+      "lengthKm": 14.8,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 17,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo delle Crocelle",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.5,
+      "avgGradientPct": 4.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo dello Spluga",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.9,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo dello Stelvio",
+      "side": "Prato / Trafoi",
+      "category": "CC",
+      "lengthKm": 24.7,
+      "avgGradientPct": 7.5,
+      "summitLat": 46.5285,
+      "summitLon": 10.4543,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 18,
+          "group": "leading",
+          "rider": "Dennis / Geoghegan Hart / Hindley",
+          "timeS": 4266,
+          "lengthKm": 24.7,
+          "note": "Record ascent 1:11:06; avg ~20.6 km/h; VAM >1500 m/h; ~5.5-5.7 w/kg at altitude",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2020/10/"
+        }
+      ]
+    },
+    {
+      "name": "Passo dello Stelvio (Cima Coppi, from Bormio)",
+      "side": "Bormio",
+      "category": "HC",
+      "lengthKm": 21.7,
+      "avgGradientPct": 7.1,
+      "summitLat": 46.5286,
+      "summitLon": 10.4528,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di Foscagno",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.6,
+      "avgGradientPct": 6.4,
+      "summitLat": 46.4956,
+      "summitLon": 10.2025,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 787,
+          "lengthKm": null,
+          "note": "Solo el tramo de ataque: 13:07 a 6.88 eW/kg (no la subida completa); subida total ~35:30 a 6.10 W/kg en altitud",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/19/pogacar-stomps-the-competition-in-livignos-thin-air-giro-ditalia-stage-15-2024/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": "Thomas/Arensman/Martinez",
+          "timeS": null,
+          "lengthKm": null,
+          "note": "Perdieron 2:22 ante Pogačar en Foscagno; tiempo absoluto no documentado",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/19/pogacar-stomps-the-competition-in-livignos-thin-air-giro-ditalia-stage-15-2024/"
+        }
+      ]
+    },
+    {
+      "name": "Passo di Monte Croce Comelico",
+      "side": null,
+      "category": "",
+      "lengthKm": 13.9,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di Pinei (Panidersattel)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.25,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di San Boldo",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.0,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di San Valentino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.8,
+      "avgGradientPct": 7.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di Sant'Antonio",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.3,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 1320,
+          "lengthKm": 6.4,
+          "note": "20-rider peloton, 6.4 km @ 9.4%, avg 17.45 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/simon-yates-stronger-than-ever-in.html"
+        }
+      ]
+    },
+    {
+      "name": "Passo di Santa Barbara",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.7,
+      "avgGradientPct": 8.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Passo di Santa Cristina",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.7,
+      "avgGradientPct": 8.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 16,
+          "group": "leading",
+          "rider": "Jai Hindley / Mikel Landa / Richard Carapaz",
+          "timeS": 2175,
+          "lengthKm": 12.7,
+          "note": "Trio climbed in 36:15 (~6.20 w/kg), beating Marco Pantani's 1994 record by 8 seconds; descent to Aprica decided the stage (won by Hirt from the break)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2022/05/24/carapaz-keeps-maglia-rosa-doing-his-best-watts-giro-ditalia-stage-16/"
+        }
+      ]
+    },
+    {
+      "name": "Passo di Tanamea",
+      "side": null,
+      "category": "3",
+      "lengthKm": 12.1,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Perugia (final climb, ITT)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.3,
+      "avgGradientPct": 10.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 7,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -14492,6 +19710,134 @@
         }
       ],
       "performances": []
+    },
+    {
+      "name": "Pian del Falco",
+      "side": null,
+      "category": "1",
+      "lengthKm": 16.0,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pian del Lupo",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.4,
+      "avgGradientPct": 8.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Piancanelli",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Piancavallo",
+      "side": null,
+      "category": "",
+      "lengthKm": 15.5,
+      "avgGradientPct": 7.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 15,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 15,
+          "group": "gc-group",
+          "rider": "Geoghegan Hart / Kelderman / Hindley",
+          "timeS": 2270,
+          "lengthKm": 13.61,
+          "note": "Measured first 13.61 km at 8.15%; ~6.3 w/kg; reported 37:50 (some sources 37:51); 2nd fastest ever after Pantani 36:20 (1998)",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/"
+        }
+      ]
+    },
+    {
+      "name": "Piancavallo (Monte Cavallo)",
+      "side": "Aviano",
+      "category": "1",
+      "lengthKm": 13.8,
+      "avgGradientPct": 8.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Thibaut Pinot",
+          "timeS": 2330,
+          "lengthKm": 13.8,
+          "note": "Fastest ascent; climbing-records.com measured 13.8 km at 8.1%, 38:50, 21.32 km/h.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/pinot-fastest-on-piancavallo-after.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Jungels-A.Yates-Quintana-Mollema-Nibali-Hirt",
+          "timeS": 2340,
+          "lengthKm": 13.8,
+          "note": "GC group 39:00, 21.23 km/h per climbing-records.com (Pozzovivo-Zakarin 38:55; Landa 39:25).",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2017/05/pinot-fastest-on-piancavallo-after.html"
+        }
+      ]
     },
     {
       "name": "Pic de Nore",
@@ -14652,6 +19998,78 @@
       ]
     },
     {
+      "name": "Pietra di Bismantova",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.8,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pieve d'Alpago",
+      "side": null,
+      "category": "4",
+      "lengthKm": 3.4,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pieve di Alpago",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pila (Les Fleurs)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.2,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Pla d'Adet (Saint-Lary-Soulan)",
       "side": null,
       "category": "HC",
@@ -14754,6 +20172,42 @@
           "sourceUrl": "https://lanternerouge.com/2024/07/14/greatest-climbing-performances-of-all-time-on-plateau-de-beille-tour-de-france-2024-stage-15/"
         }
       ]
+    },
+    {
+      "name": "Poggio l'Apparita",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pontives (Ortisei / St. Ulrich)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.3,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 18,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Port d'Envalira",
@@ -14896,6 +20350,60 @@
       ]
     },
     {
+      "name": "Portella Femmina Morta",
+      "side": "Acquedolci",
+      "category": "2",
+      "lengthKm": 32.75,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Portella Femmina Morta",
+      "side": null,
+      "category": "2",
+      "lengthKm": 32.0,
+      "avgGradientPct": 4.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Portella Mandrazzi",
+      "side": null,
+      "category": "",
+      "lengthKm": 19.5,
+      "avgGradientPct": 4.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Portillo de Lunada",
       "side": null,
       "category": "2",
@@ -14938,6 +20446,24 @@
       "performances": []
     },
     {
+      "name": "Pramartino",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.65,
+      "avgGradientPct": 10.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Prat d'Albis",
       "side": null,
       "category": "1",
@@ -14965,6 +20491,68 @@
           "note": "Strava KOM del puerto (37:12 a 17,3 km/h); referencia del segmento, no del ganador de etapa Simon Yates",
           "measured": true,
           "sourceUrl": "https://www.cyclingweekly.com/news/racing/tour-de-france/heres-holds-strava-koms-toughest-climbs-tour-de-france-2019-428856"
+        }
+      ]
+    },
+    {
+      "name": "Prati di Tivo",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.6,
+      "avgGradientPct": 7.0,
+      "summitLat": 42.4839,
+      "summitLon": 13.5494,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 8,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 8,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 2166,
+          "lengthKm": 14.6,
+          "note": "36:06 segun climbing-records (24.43 km/h); Lanterne Rouge reporta 36:20 a 6.17 eW/kg",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2024/05/no-record-breaking-pogacar-on-prati-di.html"
+        }
+      ]
+    },
+    {
+      "name": "Prato Nevoso",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.9,
+      "avgGradientPct": 6.9,
+      "summitLat": 44.2567,
+      "summitLon": 7.7891,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 18,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 18,
+          "group": "leading",
+          "rider": "Miguel Angel Lopez",
+          "timeS": 2005,
+          "lengthKm": 12.9,
+          "note": "12.9 km @ 7.4%, avg 23.16 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/prato-nevoso-entertaining-and-fast.html"
         }
       ]
     },
@@ -16976,6 +22564,24 @@
       "performances": []
     },
     {
+      "name": "Putignano",
+      "side": null,
+      "category": "4",
+      "lengthKm": 0.9,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Puy Mary (Pas de Peyrol)",
       "side": null,
       "category": "1",
@@ -17055,6 +22661,42 @@
       "performances": []
     },
     {
+      "name": "Qafa e Llogarasë (Llogara Pass)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 10.5,
+      "avgGradientPct": 7.4,
+      "summitLat": 40.2058,
+      "summitLon": 19.5969,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Qafa e Shakellës",
+      "side": null,
+      "category": "4",
+      "lengthKm": 5.3,
+      "avgGradientPct": 4.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Rampe Saint-Hilaire",
       "side": null,
       "category": "3",
@@ -17067,6 +22709,199 @@
           "race": "Tour de France",
           "year": 2025,
           "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Ravellino",
+      "side": null,
+      "category": "3",
+      "lengthKm": 8.9,
+      "avgGradientPct": 4.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 18,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Recanati",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Rionero Sannitico",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Risoul",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.85,
+      "avgGradientPct": 6.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Vincenzo Nibali",
+          "timeS": 2016,
+          "lengthKm": 12.8,
+          "note": "12.8 km @ 6.9%; 22.86 km/h; stage winner",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "chase",
+          "rider": "Majka-Valverde-Uran",
+          "timeS": 2100,
+          "lengthKm": 12.8,
+          "note": "12.8 km @ 6.9%; 21.94 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": "Steven Kruijswijk",
+          "timeS": 2178,
+          "lengthKm": 12.8,
+          "note": "12.8 km @ 6.9%; 21.16 km/h; lost pink jersey",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/05/nibali-finds-his-lost-watts-on-road-to.html"
+        }
+      ]
+    },
+    {
+      "name": "Roccaraso",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.0,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 7,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Roccaraso (Aremogna)",
+      "side": null,
+      "category": "",
+      "lengthKm": 9.7,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Roccaraso (Rifugio Aremogna)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 20.0,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Roncola Alta",
+      "side": null,
+      "category": "2",
+      "lengthKm": 10.0,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 15,
           "role": "intermediate"
         }
       ],
@@ -17127,6 +22962,42 @@
       "performances": []
     },
     {
+      "name": "San Baronto",
+      "side": null,
+      "category": "4",
+      "lengthKm": 11.3,
+      "avgGradientPct": 2.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Giovanni in Monte",
+      "side": null,
+      "category": "4",
+      "lengthKm": 5.0,
+      "avgGradientPct": 6.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "San Leo",
       "side": null,
       "category": "2",
@@ -17147,9 +23018,9 @@
     {
       "name": "San Luca",
       "side": null,
-      "category": "2",
-      "lengthKm": 1.9,
-      "avgGradientPct": 10.6,
+      "category": "3",
+      "lengthKm": 2.1,
+      "avgGradientPct": 9.7,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
@@ -17158,6 +23029,224 @@
           "year": 2024,
           "stage": 2,
           "role": "summit-finish"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 1,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 1,
+          "group": "leading",
+          "rider": "Primoz Roglic",
+          "timeS": 338,
+          "lengthKm": 2.1,
+          "note": "Stage 1 mountain ITT winner; 2.1 km at 9.7%",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2019/10/devastating-roglic-on-san-luca.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 1,
+          "group": "leading",
+          "rider": "Giulio Ciccone",
+          "timeS": 359,
+          "lengthKm": 2.1,
+          "note": "Stage 1 mountain ITT; 2.1 km at 9.7%",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2019/10/devastating-roglic-on-san-luca.html"
+        }
+      ]
+    },
+    {
+      "name": "San Marino",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 9,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Martino di Castrozza",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.6,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Martino in Grania",
+      "side": null,
+      "category": "4",
+      "lengthKm": 5.9,
+      "avgGradientPct": 2.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Pietro",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Valentino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.2,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "group": "leading",
+          "rider": "Giulio Pellizzari",
+          "timeS": 2662,
+          "lengthKm": 18.2,
+          "note": "44:22 at 6.23 eW/kg (Lanterne Rouge stage 16 analysis)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/27/mega-performance-from-21-year-old-pellizzari-giro-ditalia-stage-16-2025/"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 16,
+          "group": "gc-group",
+          "rider": "Carapaz / Yates / Gee",
+          "timeS": 2670,
+          "lengthKm": 18.2,
+          "note": "GC group ~44-45 min at 6.03-6.15 eW/kg (Lanterne Rouge); ~44:30 representative, approximate",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/05/27/mega-performance-from-21-year-old-pellizzari-giro-ditalia-stage-16-2025/"
+        }
+      ]
+    },
+    {
+      "name": "San Vito (Superga)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 1.4,
+      "avgGradientPct": 10.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sant'Anna di Vinadio",
+      "side": null,
+      "category": "2",
+      "lengthKm": 2.3,
+      "avgGradientPct": 8.3,
+      "summitLat": 44.2319,
+      "summitLon": 7.105,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sant'Ignazio di Montelupone",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 10,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Santa Ninfa",
+      "side": null,
+      "category": "4",
+      "lengthKm": 5.6,
+      "avgGradientPct": 4.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 2,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -17181,18 +23270,327 @@
       "performances": []
     },
     {
-      "name": "Sestrière",
+      "name": "Santuario di Castelmonte",
       "side": null,
       "category": "2",
-      "lengthKm": 39.9,
-      "avgGradientPct": 3.7,
+      "lengthKm": 7.1,
+      "avgGradientPct": 7.8,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
         {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Santuario di Oropa",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.8,
+      "avgGradientPct": 6.2,
+      "summitLat": 45.6256,
+      "summitLon": 7.9869,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 2,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 1051,
+          "lengthKm": 11.8,
+          "note": "17:31; 6.77 eW/kg; 2nd fastest ever, +27s a récord Pantani 1999 (17:04)",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2024/05/05/pogacar-wins-on-oropa-despite-a-crash-giro-ditalia-2024-stage-2/"
+        }
+      ]
+    },
+    {
+      "name": "Saver",
+      "side": null,
+      "category": "4",
+      "lengthKm": 0.9,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sega di Ala",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.2,
+      "avgGradientPct": 9.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 17,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 17,
+          "group": "gc-group",
+          "rider": "Damiano Caruso",
+          "timeS": 2328,
+          "lengthKm": 11.0,
+          "note": "Caruso finished with maglia rosa Bernal; VAM 1700 m/h, ~392 W (5.9 w/kg). Almeida/Yates were faster in the finale (Yates took ~53s on Bernal)",
+          "measured": true,
+          "sourceUrl": "https://www.bicidastrada.it/i-dati-della-salita-di-sega-di-ala-potenza-e-van/"
+        }
+      ]
+    },
+    {
+      "name": "Sella Chianzutan",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.8,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sella Valcalda",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.6,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Selvino",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.1,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Serrada (Sella di Serrada)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 17.7,
+      "avgGradientPct": 5.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sestola (Passo del Lupo)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.4,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 10,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sestriere",
+      "side": null,
+      "category": "3",
+      "lengthKm": 16.2,
+      "avgGradientPct": 5.0,
+      "summitLat": 44.95,
+      "summitLon": 6.883,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 20,
+          "role": "summit-finish"
+        },
+        {
           "race": "Tour de France",
           "year": 2024,
           "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "role": "intermediate"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Chris Froome",
+          "timeS": 1423,
+          "lengthKm": 10.6,
+          "note": "measured 10.6 km @ 4.8%, avg 26.82 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2018,
+          "stage": 19,
+          "group": "gc-group",
+          "rider": null,
+          "timeS": 1470,
+          "lengthKm": 10.6,
+          "note": "Reichenbach-Pinot-Dumoulin-Lopez-Carapaz group, avg 25.96 km/h",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2018/05/froome-in-maglia-rosa-after-80-km-raid.html"
+        }
+      ]
+    },
+    {
+      "name": "Sestriere (east, 1st ascent)",
+      "side": "east",
+      "category": "",
+      "lengthKm": 9.2,
+      "avgGradientPct": 5.4,
+      "summitLat": 44.9568,
+      "summitLon": 6.8777,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sestriere (west, 2nd ascent)",
+      "side": "west",
+      "category": "",
+      "lengthKm": 11.4,
+      "avgGradientPct": 5.9,
+      "summitLat": 44.9568,
+      "summitLon": 6.8777,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sestriere (west, 3rd ascent / finish)",
+      "side": "west",
+      "category": "",
+      "lengthKm": 11.4,
+      "avgGradientPct": 5.9,
+      "summitLat": 44.9568,
+      "summitLon": 6.8777,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 20,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sezze",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -17425,6 +23823,24 @@
       ]
     },
     {
+      "name": "Simplon Pass",
+      "side": null,
+      "category": "1",
+      "lengthKm": 20.2,
+      "avgGradientPct": 6.5,
+      "summitLat": 46.251,
+      "summitLon": 8.0333,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Suc au May",
       "side": null,
       "category": "2",
@@ -17461,6 +23877,235 @@
       "performances": []
     },
     {
+      "name": "Superga",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.9,
+      "avgGradientPct": 9.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Superga (Bric del Duca)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.1,
+      "avgGradientPct": 8.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Surrel",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.9,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sveseri",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Terento",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.6,
+      "avgGradientPct": 7.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Toano",
+      "side": null,
+      "category": "2",
+      "lengthKm": 11.1,
+      "avgGradientPct": 4.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Torri di Fraele (Laghi di Cancano)",
+      "side": null,
+      "category": "",
+      "lengthKm": 8.7,
+      "avgGradientPct": 6.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 18,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Torricelle",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 21,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Tre Cime di Lavaredo (Rifugio Auronzo)",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 7.2,
+      "avgGradientPct": 7.6,
+      "summitLat": 46.6135,
+      "summitLon": 12.2965,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 19,
+          "group": "leading",
+          "rider": "Primoz Roglic",
+          "timeS": 860,
+          "lengthKm": 3.7,
+          "note": "14:20 at 6.43 eW/kg; course record, beat Nibali 2013 (15:02) and Di Luca 2007 (15:01). Measured steep final 3.7 km at 12.11%",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/05/26/roglic-destroys-tre-cime-di-laverado-record-before-final-itt/"
+        }
+      ]
+    },
+    {
+      "name": "Truc d'Arbe",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.2,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Umbrail Pass (Giogo di Santa Maria)",
+      "side": "Santa Maria Val Mustair",
+      "category": "1",
+      "lengthKm": 13.4,
+      "avgGradientPct": 8.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2017,
+          "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Vado della Forcella",
+      "side": null,
+      "category": "2",
+      "lengthKm": 21.6,
+      "avgGradientPct": 3.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Val Thorens",
       "side": null,
       "category": "HC",
@@ -17474,6 +24119,24 @@
           "year": 2019,
           "stage": 20,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valco della Somma",
+      "side": null,
+      "category": "4",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2021,
+          "stage": 10,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -17515,6 +24178,198 @@
       "performances": []
     },
     {
+      "name": "Valico di Macerone",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valico di Monte Carruozzo",
+      "side": null,
+      "category": "2",
+      "lengthKm": 8.8,
+      "avgGradientPct": 4.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valico di Monte Scuro",
+      "side": null,
+      "category": "",
+      "lengthKm": 24.6,
+      "avgGradientPct": 5.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2020,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valico di Santa Maria Maddalena",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.1,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2025,
+          "stage": 8,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valico di Trensasco",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valico di Valcava",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.6,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Valle (Montefosca)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.2,
+      "avgGradientPct": 7.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2016,
+          "stage": 13,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Verrayes",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.6,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Verrogne",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.8,
+      "avgGradientPct": 7.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Giro d'Italia",
+          "year": 2019,
+          "stage": 14,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Visegrád (Castle)",
+      "side": null,
+      "category": "4",
+      "lengthKm": 5.6,
+      "avgGradientPct": 4.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2022,
+          "stage": 1,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Xorret de Catí",
       "side": null,
       "category": "1",
@@ -17544,6 +24399,24 @@
           "sourceUrl": "https://lanternerouge.com/2023/09/02/evenepoel-pushes-over-7-%E1%B5%89w-kg-on-rampas-inhumanas-la-vuelta-2023-stage-8/"
         }
       ]
+    },
+    {
+      "name": "Zoldo Alto (Rifugio Palafavera)",
+      "side": null,
+      "category": "2",
+      "lengthKm": 2.7,
+      "avgGradientPct": 6.4,
+      "summitLat": 46.3786,
+      "summitLon": 12.1233,
+      "appearances": [
+        {
+          "race": "Giro d'Italia",
+          "year": 2023,
+          "stage": 18,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
     }
   ]
 }

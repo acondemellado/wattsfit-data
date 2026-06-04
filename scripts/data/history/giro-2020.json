@@ -1,0 +1,40 @@
+{
+  "race": "Giro d'Italia",
+  "year": 2020,
+  "climbs": [
+    {"stage": 1, "name": "Monreale", "side": null, "category": "4", "lengthKm": 1.1, "avgGradientPct": 5.6, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 2, "name": "Santa Ninfa", "side": null, "category": "4", "lengthKm": 5.6, "avgGradientPct": 4.2, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 2, "name": "Agrigento", "side": null, "category": "", "lengthKm": 3.7, "avgGradientPct": 5.3, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 3, "name": "Etna (Linguaglossa)", "side": "Linguaglossa", "category": "", "lengthKm": 18.2, "avgGradientPct": 6.8, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 4, "name": "Portella Mandrazzi", "side": null, "category": "", "lengthKm": 19.5, "avgGradientPct": 4.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 5, "name": "Valico di Monte Scuro", "side": null, "category": "", "lengthKm": 24.6, "avgGradientPct": 5.6, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 9, "name": "Passo Lanciano", "side": null, "category": "", "lengthKm": null, "avgGradientPct": null, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 9, "name": "Passo San Leonardo", "side": null, "category": "", "lengthKm": null, "avgGradientPct": null, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 9, "name": "Bosco di Sant'Antonio", "side": null, "category": "", "lengthKm": null, "avgGradientPct": null, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 9, "name": "Roccaraso (Aremogna)", "side": null, "category": "", "lengthKm": 9.7, "avgGradientPct": 5.7, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 15, "name": "Sella Chianzutan", "side": null, "category": "", "lengthKm": 10.6, "avgGradientPct": 5.4, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 15, "name": "Forcella di Monte Rest", "side": null, "category": "", "lengthKm": 7.0, "avgGradientPct": 7.5, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 15, "name": "Forcella di Pala Barzana", "side": null, "category": "", "lengthKm": 13.3, "avgGradientPct": 4.4, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 15, "name": "Piancavallo", "side": null, "category": "", "lengthKm": 15.5, "avgGradientPct": 7.3, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 16, "name": "Madonnina del Domm", "side": null, "category": "", "lengthKm": 12.0, "avgGradientPct": 6.6, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 16, "name": "Monte di Ragogna", "side": null, "category": "", "lengthKm": 2.8, "avgGradientPct": 10.4, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Forcella Valbona", "side": null, "category": "", "lengthKm": 20.0, "avgGradientPct": 7.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Monte Bondone", "side": null, "category": "", "lengthKm": 20.0, "avgGradientPct": 7.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Passo Durone", "side": null, "category": "", "lengthKm": 10.0, "avgGradientPct": 6.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Madonna di Campiglio", "side": null, "category": "", "lengthKm": 15.5, "avgGradientPct": 5.9, "summitFinish": true, "summitLat": 46.2300, "summitLon": 10.8260},
+    {"stage": 18, "name": "Campo Carlo Magno", "side": null, "category": "2", "lengthKm": 15.3, "avgGradientPct": 6.1, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo Castrin (Hofmahdjoch)", "side": null, "category": "", "lengthKm": 8.8, "avgGradientPct": 9.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo dello Stelvio", "side": "Prato / Trafoi", "category": "CC", "lengthKm": 24.7, "avgGradientPct": 7.5, "summitFinish": false, "summitLat": 46.5285, "summitLon": 10.4543},
+    {"stage": 18, "name": "Torri di Fraele (Laghi di Cancano)", "side": null, "category": "", "lengthKm": 8.7, "avgGradientPct": 6.8, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 20, "name": "Sestriere (east, 1st ascent)", "side": "east", "category": "", "lengthKm": 9.2, "avgGradientPct": 5.4, "summitFinish": false, "summitLat": 44.9568, "summitLon": 6.8777},
+    {"stage": 20, "name": "Sestriere (west, 2nd ascent)", "side": "west", "category": "", "lengthKm": 11.4, "avgGradientPct": 5.9, "summitFinish": false, "summitLat": 44.9568, "summitLon": 6.8777},
+    {"stage": 20, "name": "Sestriere (west, 3rd ascent / finish)", "side": "west", "category": "", "lengthKm": 11.4, "avgGradientPct": 5.9, "summitFinish": true, "summitLat": 44.9568, "summitLon": 6.8777}
+  ],
+  "times": [
+    {"name": "Etna (Linguaglossa)", "side": "Linguaglossa", "stage": 3, "group": "leading", "rider": "Harm Vanhoucke", "timeS": 2844, "lengthKm": 18.6, "note": "Strava fastest time on the NE/Linguaglossa approach; avg 23.3 km/h", "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"},
+    {"name": "Etna (Linguaglossa)", "side": "Linguaglossa", "stage": 3, "group": "leading", "rider": "Steven Kruijswijk", "timeS": 2873, "lengthKm": 18.6, "note": "GC contender among the fastest on Strava segment", "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"},
+    {"name": "Etna (Linguaglossa)", "side": "Linguaglossa", "stage": 3, "group": "leading", "rider": "Fausto Masnada", "timeS": 2908, "lengthKm": 18.6, "note": "Strava segment time", "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/giro-ditalia-2020-strava-stats-reveal-new-fastest-times-set-on-mount-etna-ascent-471803"},
+    {"name": "Piancavallo", "side": null, "stage": 15, "group": "gc-group", "rider": "Geoghegan Hart / Kelderman / Hindley", "timeS": 2270, "lengthKm": 13.61, "note": "Measured first 13.61 km at 8.15%; ~6.3 w/kg; reported 37:50 (some sources 37:51); 2nd fastest ever after Pantani 36:20 (1998)", "sourceUrl": "http://www.climbing-records.com/"},
+    {"name": "Passo dello Stelvio", "side": "Prato / Trafoi", "stage": 18, "group": "leading", "rider": "Dennis / Geoghegan Hart / Hindley", "timeS": 4266, "lengthKm": 24.7, "note": "Record ascent 1:11:06; avg ~20.6 km/h; VAM >1500 m/h; ~5.5-5.7 w/kg at altitude", "sourceUrl": "http://www.climbing-records.com/2020/10/"}
+  ]
+}

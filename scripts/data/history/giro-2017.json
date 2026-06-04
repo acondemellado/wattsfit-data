@@ -1,0 +1,37 @@
+{
+  "race": "Giro d'Italia",
+  "year": 2017,
+  "climbs": [
+    {"stage": 4, "name": "Portella Femmina Morta", "side": "Acquedolci", "category": "2", "lengthKm": 32.75, "avgGradientPct": 4.5, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 4, "name": "Etna (Rifugio Sapienza, from Nicolosi)", "side": "Nicolosi", "category": "1", "lengthKm": 17.95, "avgGradientPct": 6.6, "summitFinish": true, "summitLat": 37.7005, "summitLon": 14.9984},
+    {"stage": 9, "name": "Blockhaus (Passo Lanciano side, Roccamorice)", "side": "Roccamorice", "category": "1", "lengthKm": 13.6, "avgGradientPct": 8.4, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 14, "name": "Oropa (Santuario di Oropa)", "side": "Biella", "category": "1", "lengthKm": 11.75, "avgGradientPct": 6.2, "summitFinish": true, "summitLat": 45.6252, "summitLon": 7.982},
+    {"stage": 16, "name": "Passo del Mortirolo (from Monno)", "side": "Monno", "category": "1", "lengthKm": 12.6, "avgGradientPct": 7.6, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 16, "name": "Passo dello Stelvio (Cima Coppi, from Bormio)", "side": "Bormio", "category": "HC", "lengthKm": 21.7, "avgGradientPct": 7.1, "summitFinish": false, "summitLat": 46.5286, "summitLon": 10.4528},
+    {"stage": 16, "name": "Umbrail Pass (Giogo di Santa Maria)", "side": "Santa Maria Val Mustair", "category": "1", "lengthKm": 13.4, "avgGradientPct": 8.4, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Aprica", "side": null, "category": "", "lengthKm": 12.3, "avgGradientPct": 6.3, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Passo del Tonale (from Ponte di Legno)", "side": "Ponte di Legno", "category": "", "lengthKm": 11.0, "avgGradientPct": 5.7, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 17, "name": "Giovo", "side": null, "category": "", "lengthKm": 8.1, "avgGradientPct": 5.7, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo Pordoi", "side": null, "category": "1", "lengthKm": 11.85, "avgGradientPct": 6.7, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo Valparola", "side": null, "category": "2", "lengthKm": 12.9, "avgGradientPct": 6.0, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo Gardena", "side": null, "category": "2", "lengthKm": 9.3, "avgGradientPct": 6.4, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Passo di Pinei (Panidersattel)", "side": null, "category": "3", "lengthKm": 4.25, "avgGradientPct": 6.2, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 18, "name": "Pontives (Ortisei / St. Ulrich)", "side": null, "category": "1", "lengthKm": 9.3, "avgGradientPct": 6.8, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 19, "name": "Passo di Monte Croce Comelico", "side": null, "category": "", "lengthKm": 13.9, "avgGradientPct": null, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 19, "name": "Cima Sappada", "side": null, "category": "", "lengthKm": null, "avgGradientPct": null, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 19, "name": "Sella Chianzutan", "side": null, "category": "2", "lengthKm": 11.8, "avgGradientPct": 5.5, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 19, "name": "Piancavallo (Monte Cavallo)", "side": "Aviano", "category": "1", "lengthKm": 13.8, "avgGradientPct": 8.1, "summitFinish": true, "summitLat": null, "summitLon": null},
+    {"stage": 20, "name": "Muro di Ca' del Poggio", "side": null, "category": "", "lengthKm": 1.15, "avgGradientPct": 12.2, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 20, "name": "Monte Grappa", "side": null, "category": "1", "lengthKm": 24.2, "avgGradientPct": 5.3, "summitFinish": false, "summitLat": null, "summitLon": null},
+    {"stage": 20, "name": "Foza (Asiago plateau)", "side": null, "category": "1", "lengthKm": 14.05, "avgGradientPct": 6.7, "summitFinish": false, "summitLat": null, "summitLon": null}
+  ],
+  "times": [
+    {"name": "Etna (Rifugio Sapienza, from Nicolosi)", "side": "Nicolosi", "stage": 4, "group": "leading", "rider": "Ilnur Zakarin", "timeS": 2902, "lengthKm": 17.8, "note": "Fastest GC rider; climbing-records.com measured 17.8 km at 6.7%, 22.08 km/h. Polanc (stage winner, from the day's break) measured 52:18.", "sourceUrl": "http://www.climbing-records.com/2017/05/"},
+    {"name": "Etna (Rifugio Sapienza, from Nicolosi)", "side": "Nicolosi", "stage": 4, "group": "gc-group", "rider": null, "timeS": 2922, "lengthKm": 17.8, "note": "20-rider GC group, 48:42, 21.93 km/h per climbing-records.com.", "sourceUrl": "http://www.climbing-records.com/2017/05/"},
+    {"name": "Blockhaus (from Roccamorice)", "side": "Roccamorice", "stage": 9, "group": "leading", "rider": "Nairo Quintana", "timeS": 2394, "lengthKm": 13.6, "note": "Stage winner; widely reported climbing time 39:54 over the official 13.6 km at 8.4%. Lanterne Rouge estimated ~40:35 at 6.17 W/kg.", "sourceUrl": "https://www.cyclingweekly.com/news/racing/giro-ditalia/nairo-quintana-wins-blockhaus-giro-ditalia-stage-nine-marred-controversy-330553"},
+    {"name": "Oropa (Santuario di Oropa)", "side": "Biella", "stage": 14, "group": "leading", "rider": "Tom Dumoulin", "timeS": 1057, "lengthKm": 6.7, "note": "Stage winner; climbing-records.com measured 6.7 km at 8%, 17:37, 22.82 km/h (a reader recalculated 17:27).", "sourceUrl": "http://www.climbing-records.com/2017/05/tom-dumoulin-flattens-oropa.html"},
+    {"name": "Oropa (Santuario di Oropa)", "side": "Biella", "stage": 14, "group": "gc-group", "rider": "Ilnur Zakarin", "timeS": 1060, "lengthKm": 6.7, "note": "Next fastest, 17:40 per climbing-records.com.", "sourceUrl": "http://www.climbing-records.com/2017/05/tom-dumoulin-flattens-oropa.html"},
+    {"name": "Piancavallo (Monte Cavallo)", "side": "Aviano", "stage": 19, "group": "leading", "rider": "Thibaut Pinot", "timeS": 2330, "lengthKm": 13.8, "note": "Fastest ascent; climbing-records.com measured 13.8 km at 8.1%, 38:50, 21.32 km/h.", "sourceUrl": "http://www.climbing-records.com/2017/05/pinot-fastest-on-piancavallo-after.html"},
+    {"name": "Piancavallo (Monte Cavallo)", "side": "Aviano", "stage": 19, "group": "gc-group", "rider": "Jungels-A.Yates-Quintana-Mollema-Nibali-Hirt", "timeS": 2340, "lengthKm": 13.8, "note": "GC group 39:00, 21.23 km/h per climbing-records.com (Pozzovivo-Zakarin 38:55; Landa 39:25).", "sourceUrl": "http://www.climbing-records.com/2017/05/pinot-fastest-on-piancavallo-after.html"}
+  ]
+}

@@ -4,6 +4,18 @@
   "note": "Histórico de puertos para comparativas. Solo tiempos reales medidos (measured=true, con source_url) + presencia. Las estimaciones las calcula la app en vivo, no se almacenan aquí. Separado de routes.json.",
   "races_covered": [
     {
+      "race": "Abu Dhabi Tour",
+      "year": 2016
+    },
+    {
+      "race": "Abu Dhabi Tour",
+      "year": 2017
+    },
+    {
+      "race": "Abu Dhabi Tour",
+      "year": 2018
+    },
+    {
       "race": "Critérium du Dauphiné",
       "year": 2016
     },
@@ -244,6 +256,46 @@
       "year": 2025
     },
     {
+      "race": "Tour de Pologne",
+      "year": 2016
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2017
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2018
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2019
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2020
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2021
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2022
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2023
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2024
+    },
+    {
+      "race": "Tour de Pologne",
+      "year": 2025
+    },
+    {
       "race": "Tour de Suisse",
       "year": 2016
     },
@@ -312,6 +364,34 @@
       "year": 2025
     },
     {
+      "race": "UAE Tour",
+      "year": 2019
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2020
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2021
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2022
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2023
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2024
+    },
+    {
+      "race": "UAE Tour",
+      "year": 2025
+    },
+    {
       "race": "Volta a Catalunya",
       "year": 2016
     },
@@ -345,6 +425,126 @@
     },
     {
       "race": "Volta a Catalunya",
+      "year": 2025
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2016
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2017
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2018
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2019
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2020
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2021
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2022
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2023
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2024
+    },
+    {
+      "race": "Volta ao Algarve",
+      "year": 2025
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2016
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2017
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2018
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2019
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2020
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2021
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2022
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2023
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2024
+    },
+    {
+      "race": "Vuelta a Andalucía",
+      "year": 2025
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2016
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2017
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2018
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2019
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2020
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2021
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2022
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2023
+    },
+    {
+      "race": "Vuelta a Burgos",
+      "year": 2024
+    },
+    {
+      "race": "Vuelta a Burgos",
       "year": 2025
     },
     {
@@ -389,6 +589,24 @@
     }
   ],
   "climbs": [
+    {
+      "name": "Acebal de Pradoluengo",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2023,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
     {
       "name": "Agrigento",
       "side": null,
@@ -481,6 +699,42 @@
           "year": 2017,
           "stage": 6,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alcalá la Real (Castillo de la Mota)",
+      "side": null,
+      "category": null,
+      "lengthKm": 1.0,
+      "avgGradientPct": 11.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2022,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alcalá la Real (castle)",
+      "side": null,
+      "category": null,
+      "lengthKm": 3.4,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2023,
+          "stage": 2,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -1351,6 +1605,24 @@
       "performances": []
     },
     {
+      "name": "Alte",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.1,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto Campo de Arbre",
       "side": null,
       "category": "3",
@@ -1519,6 +1791,24 @@
       "performances": []
     },
     {
+      "name": "Alto Peña del Águila",
+      "side": null,
+      "category": "1",
+      "lengthKm": 5.3,
+      "avgGradientPct": 9.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2017,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto Portillo de las Batuecas",
       "side": null,
       "category": "1",
@@ -1620,6 +1910,78 @@
           "sourceUrl": "http://www.climbing-records.com/2017/08/only-contador-can-follow-froome-on-cati.html"
         }
       ]
+    },
+    {
+      "name": "Alto da Fóia",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.5,
+      "avgGradientPct": 7.3,
+      "summitLat": 37.32,
+      "summitLon": -8.6,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2025,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2023,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2022,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2021,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2020,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2019,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2018,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2017,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2016,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Alto da Garganta",
@@ -2152,6 +2514,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Despiernacaballos",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.6,
+      "avgGradientPct": 5.8,
+      "summitLat": 38.46219,
+      "summitLon": -3.29829,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de El Morredero",
       "side": null,
       "category": "1",
@@ -2383,8 +2763,8 @@
       "name": "Alto de Hazallanas",
       "side": null,
       "category": "1",
-      "lengthKm": 16.3,
-      "avgGradientPct": 5.5,
+      "lengthKm": 16.2,
+      "avgGradientPct": 5.7,
       "summitLat": null,
       "summitLon": null,
       "appearances": [
@@ -2393,6 +2773,12 @@
           "year": 2024,
           "stage": 9,
           "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2019,
+          "stage": 4,
+          "role": "summit-finish"
         },
         {
           "race": "Vuelta a España",
@@ -2916,6 +3302,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Peñas Blancas",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.5,
+      "avgGradientPct": 6.6,
+      "summitLat": 39.73183,
+      "summitLon": -0.45749,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2016,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Pike",
       "side": null,
       "category": "2",
@@ -3006,6 +3410,24 @@
           "race": "Vuelta a España",
           "year": 2024,
           "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Rozavientos",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.0,
+      "avgGradientPct": 4.7,
+      "summitLat": 42.04871,
+      "summitLon": -3.02725,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2024,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -4304,6 +4726,24 @@
       "performances": []
     },
     {
+      "name": "Alto de la Hortichuela",
+      "side": null,
+      "category": null,
+      "lengthKm": 8.3,
+      "avgGradientPct": 5.4,
+      "summitLat": 36.87813,
+      "summitLon": -2.04283,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2021,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de la Llama",
       "side": null,
       "category": "3",
@@ -4521,6 +4961,24 @@
       "performances": []
     },
     {
+      "name": "Alto de las Allanadas",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.5,
+      "avgGradientPct": 10.8,
+      "summitLat": 40.56538,
+      "summitLon": -5.1324,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2018,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de las Coronas",
       "side": null,
       "category": "2",
@@ -4669,9 +5127,81 @@
       "summitLon": -2.71476,
       "appearances": [
         {
+          "race": "Vuelta a Burgos",
+          "year": 2025,
+          "stage": 1,
+          "role": "summit-finish"
+        },
+        {
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2021,
+          "stage": 1,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2020,
+          "stage": 1,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2017,
+          "stage": 1,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Cerro",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.0,
+      "avgGradientPct": 3.3,
+      "summitLat": 42.74182,
+      "summitLon": -3.6636,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Collado de Vilviestre",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.4,
+      "avgGradientPct": 3.5,
+      "summitLat": 41.92925,
+      "summitLon": -3.09023,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2024,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2021,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -4929,8 +5459,8 @@
       "name": "Alto del Purche",
       "side": null,
       "category": "1",
-      "lengthKm": 8.5,
-      "avgGradientPct": 8.0,
+      "lengthKm": 9.5,
+      "avgGradientPct": 6.9,
       "summitLat": 37.13586,
       "summitLon": -3.49264,
       "appearances": [
@@ -4944,6 +5474,12 @@
           "race": "Vuelta a España",
           "year": 2022,
           "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2020,
+          "stage": 4,
           "role": "intermediate"
         },
         {
@@ -4979,8 +5515,8 @@
       "category": "2",
       "lengthKm": 5.6,
       "avgGradientPct": 8.2,
-      "summitLat": null,
-      "summitLon": null,
+      "summitLat": 37.16956,
+      "summitLon": -2.4598,
       "appearances": [
         {
           "race": "Vuelta a España",
@@ -5059,6 +5595,78 @@
           "year": 2020,
           "stage": 15,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto do Malhão",
+      "side": null,
+      "category": "2",
+      "lengthKm": 2.5,
+      "avgGradientPct": 9.4,
+      "summitLat": 37.27,
+      "summitLon": -7.99,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2025,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2024,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2023,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2022,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2021,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2020,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2019,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2018,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2017,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Volta ao Algarve",
+          "year": 2016,
+          "stage": 5,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -6469,6 +7077,78 @@
       "performances": []
     },
     {
+      "name": "Bukovina Resort (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": 49.3167,
+      "summitLon": 20.0986,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Bukowina Tatrzanska (uphill finish)",
+      "side": null,
+      "category": 1,
+      "lengthKm": 5.0,
+      "avgGradientPct": 0,
+      "summitLat": 49.3167,
+      "summitLon": 20.0986,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2020,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2019,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2018,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2018,
+          "stage": 6,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2017,
+          "stage": 7,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Bürgenstock",
       "side": null,
       "category": "2",
@@ -7035,6 +7715,24 @@
           "race": "Giro d'Italia",
           "year": 2021,
           "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Chomranice",
+      "side": null,
+      "category": 2,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -13033,6 +13731,24 @@
       "performances": []
     },
     {
+      "name": "Complejo Kárstico de Ojo Guareña",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.2,
+      "avgGradientPct": 6.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Coppa Casarinelle",
       "side": null,
       "category": "2",
@@ -17911,6 +18627,30 @@
       "performances": []
     },
     {
+      "name": "Duszniki-Zdroj (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0.9,
+      "avgGradientPct": 9.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "El Ferial Larra-Belagua",
       "side": null,
       "category": "1",
@@ -19447,6 +20187,24 @@
       "performances": []
     },
     {
+      "name": "Gubalowka",
+      "side": null,
+      "category": null,
+      "lengthKm": 4.4,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Hautacam",
       "side": null,
       "category": "HC",
@@ -19961,6 +20719,157 @@
       ]
     },
     {
+      "name": "Jebel Hafeet",
+      "side": "Al Ain",
+      "category": "1",
+      "lengthKm": 10.8,
+      "avgGradientPct": 6.6,
+      "summitLat": 24.06,
+      "summitLon": 55.77,
+      "appearances": [
+        {
+          "race": "UAE Tour",
+          "year": 2025,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2024,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2023,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2022,
+          "stage": 7,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2020,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2020,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2019,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Abu Dhabi Tour",
+          "year": 2018,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Abu Dhabi Tour",
+          "year": 2017,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Abu Dhabi Tour",
+          "year": 2016,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "UAE Tour",
+          "year": 2023,
+          "stage": 7,
+          "group": "leading",
+          "rider": "Adam Yates",
+          "timeS": 1553,
+          "lengthKm": 10.7,
+          "note": "Measured ascent time; new climb record (beat 25:57 from 2021)",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingnews.com/news/adam-yates-beats-jebel-hafeet-climbing-record-with-knockout-solo-win-at-uae-tour/"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2021,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Tadej Pogačar",
+          "timeS": 1557,
+          "lengthKm": 10.7,
+          "note": "Measured ascent time; record at the time (shared with A. Yates)",
+          "measured": true,
+          "sourceUrl": "https://www.cyclingnews.com/news/adam-yates-beats-jebel-hafeet-climbing-record-with-knockout-solo-win-at-uae-tour/"
+        }
+      ]
+    },
+    {
+      "name": "Jebel Jais",
+      "side": "Ras Al Khaimah",
+      "category": "1",
+      "lengthKm": 20.0,
+      "avgGradientPct": 5.0,
+      "summitLat": 25.93,
+      "summitLon": 56.13,
+      "appearances": [
+        {
+          "race": "UAE Tour",
+          "year": 2025,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2024,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2022,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2021,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "UAE Tour",
+          "year": 2019,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Julierpass",
       "side": null,
       "category": "1",
@@ -20057,6 +20966,66 @@
       "performances": []
     },
     {
+      "name": "Karpacz (Orlinek uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 6.9,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Karpacz (uphill ITT finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 3.2,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Karpacz (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 3.2,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 1,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Kartitscher Sattel",
       "side": null,
       "category": null,
@@ -20136,6 +21105,24 @@
           "year": 2022,
           "stage": 19,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Koscielisko (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 7.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2019,
+          "stage": 6,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -21272,6 +22259,103 @@
       "performances": []
     },
     {
+      "name": "Lagunas de Neila",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 7.2,
+      "avgGradientPct": 8.3,
+      "summitLat": 42.0383,
+      "summitLon": -3.0481,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2025,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2024,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2023,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2022,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2021,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2020,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2019,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2018,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2017,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2016,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2025,
+          "stage": 5,
+          "group": "leading",
+          "rider": "Giulio Ciccone",
+          "timeS": 875,
+          "lengthKm": 4.2,
+          "note": "Measured on the steep final section 4.2 km @10.95%, 14:35 @6.51 W/kg; ~35 s slower than Jose Maria Jimenez's 1998 record. Ciccone won stage, Del Toro took GC.",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2025/08/09/ciccone-conquers-lagunas-de-neila-as-del-toro-secures-overall-win-vuelta-a-burgos-stage-5-2025/"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2016,
+          "stage": 5,
+          "group": "leading",
+          "rider": "Sergio Pardilla",
+          "timeS": 1269,
+          "lengthKm": 7.2,
+          "note": "Measured 21:09 on the categorized final climb 7.2 km @8.3%, 20.43 km/h (climbing-records.com). Pardilla won stage; Contador took GC by 1 s.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2016/08/pardilla-best-on-lagunas-de-neila.html"
+        }
+      ]
+    },
+    {
       "name": "Lamon",
       "side": null,
       "category": "4",
@@ -21303,6 +22387,24 @@
           "year": 2018,
           "stage": 4,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Lapszanka",
+      "side": null,
+      "category": 2,
+      "lengthKm": 4.0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -21711,8 +22813,8 @@
       "category": "Especial",
       "lengthKm": 8.4,
       "avgGradientPct": 9.0,
-      "summitLat": null,
-      "summitLon": null,
+      "summitLat": 42.62792,
+      "summitLon": 1.40847,
       "appearances": [
         {
           "race": "Volta a Catalunya",
@@ -21808,6 +22910,24 @@
           "sourceUrl": "https://www.digdeepcoaching.com/blog/power-analysis-vuelta-stage-131"
         }
       ]
+    },
+    {
+      "name": "Lubiniec",
+      "side": null,
+      "category": 3,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Luchon-Superbagnères",
@@ -27447,8 +28567,50 @@
           "role": "summit-finish"
         },
         {
+          "race": "Vuelta a Burgos",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2022,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
           "race": "Vuelta a España",
           "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2020,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2019,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2018,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2017,
           "stage": 3,
           "role": "summit-finish"
         }
@@ -27467,6 +28629,18 @@
           "sourceUrl": "https://lanternerouge.com/2024/09/07/dunbar-breaks-picon-blanco-record-vuelta-a-espana-2024-stage-20/"
         },
         {
+          "race": "Vuelta a Burgos",
+          "year": 2023,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Primož Roglič",
+          "timeS": 1521,
+          "lengthKm": 8.0,
+          "note": "Measured 25:21 @~6.20 W/kg (climbing-records.com 25:20, 18.71 km/h). Roglič won stage and took GC lead. Adam Yates same time @6.22 W/kg.",
+          "measured": true,
+          "sourceUrl": "https://lanternerouge.com/2023/08/17/primoz-roglic-returns-from-picon-blanco-with-a-victory-vuelta-a-burgos-2023-stage-3/"
+        },
+        {
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 3,
@@ -27477,6 +28651,18 @@
           "note": "Measured 8.0 km at 9.3%, 18.87 km/h",
           "measured": true,
           "sourceUrl": "http://www.climbing-records.com/2021/"
+        },
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2020,
+          "stage": 3,
+          "group": "leading",
+          "rider": "Remco Evenepoel",
+          "timeS": 1530,
+          "lengthKm": 8.0,
+          "note": "Climbing record at the time: 25:30, 8.0 km @9.3%, 18.82 km/h. Evenepoel won stage and took GC lead.",
+          "measured": true,
+          "sourceUrl": "http://www.climbing-records.com/2020/07/picon-blanco-remco-evenepoels-first.html"
         }
       ]
     },
@@ -27607,6 +28793,24 @@
           "race": "Tour of the Alps",
           "year": 2021,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pitoniowka",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2019,
+          "stage": 6,
           "role": "intermediate"
         }
       ],
@@ -27802,6 +29006,24 @@
       "performances": []
     },
     {
+      "name": "Plumeira",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.0,
+      "avgGradientPct": 14.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Poggio l'Apparita",
       "side": null,
       "category": "4",
@@ -27814,6 +29036,24 @@
           "race": "Giro d'Italia",
           "year": 2019,
           "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Pomba",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.8,
+      "avgGradientPct": 7.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2025,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -28477,6 +29717,174 @@
           "sourceUrl": "http://www.climbing-records.com/2018/05/prato-nevoso-entertaining-and-fast.html"
         }
       ]
+    },
+    {
+      "name": "Przelecz Jugowska",
+      "side": null,
+      "category": 2,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Kocierska",
+      "side": null,
+      "category": 1,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Kowarska",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Krowiarki",
+      "side": null,
+      "category": 1,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Niedzwiedzica",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Przegibek",
+      "side": null,
+      "category": 1,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz Walimska",
+      "side": null,
+      "category": 2,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Przelecz pod Srednica",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.3,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Puerto A Garganta",
@@ -29417,6 +30825,24 @@
       "performances": []
     },
     {
+      "name": "Puerto de Monachil",
+      "side": null,
+      "category": null,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 37.10199,
+      "summitLon": -3.46941,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2017,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Puerto de Montserrat",
       "side": null,
       "category": "3",
@@ -29575,6 +31001,12 @@
       "summitLat": 42.949,
       "summitLon": -3.0305,
       "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        },
         {
           "race": "Vuelta a España",
           "year": 2020,
@@ -30216,6 +31648,30 @@
       "performances": []
     },
     {
+      "name": "Puerto de las 7 Pilillas",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.8,
+      "avgGradientPct": 3.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2019,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2017,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Puerto de las Alisas",
       "side": null,
       "category": "1",
@@ -30228,6 +31684,24 @@
           "race": "Vuelta a España",
           "year": 2016,
           "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Puerto de las Palomas",
+      "side": null,
+      "category": null,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 38.79482,
+      "summitLon": -6.23171,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2020,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -30336,6 +31810,24 @@
           "race": "Vuelta a España",
           "year": 2019,
           "stage": 15,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Puerto del Legionario",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2016,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -30691,6 +32183,24 @@
       "performances": []
     },
     {
+      "name": "Regumiel de la Sierra",
+      "side": null,
+      "category": null,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Burgos",
+          "year": 2025,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Rettenbachferner (Sölden)",
       "side": null,
       "category": "HC",
@@ -30884,6 +32394,24 @@
       "performances": []
     },
     {
+      "name": "Rusinski Wierch (uphill ITT finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 11.8,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2022,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Saint-Gervais Mont Blanc",
       "side": null,
       "category": "1",
@@ -30968,6 +32496,24 @@
           "race": "Itzulia Basque Country",
           "year": 2023,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Salmopol",
+      "side": null,
+      "category": 1,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2017,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -31871,6 +33417,66 @@
       "performances": []
     },
     {
+      "name": "Sciana Bukovina",
+      "side": null,
+      "category": 1,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2020,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Sciana Harnas",
+      "side": null,
+      "category": 1,
+      "lengthKm": 2.0,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2020,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Sedrun",
       "side": null,
       "category": "3",
@@ -32185,6 +33791,24 @@
       "performances": []
     },
     {
+      "name": "Sierockie",
+      "side": null,
+      "category": null,
+      "lengthKm": 5.7,
+      "avgGradientPct": 5.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2017,
+          "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Sierra Nevada (Alto Hoya de la Mora)",
       "side": null,
       "category": "HC",
@@ -32435,6 +34059,24 @@
       "performances": []
     },
     {
+      "name": "Sosnowka",
+      "side": null,
+      "category": 2,
+      "lengthKm": 4.8,
+      "avgGradientPct": 5.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Stockhütte (ITT)",
       "side": null,
       "category": "1",
@@ -32639,6 +34281,24 @@
       "performances": []
     },
     {
+      "name": "Szczyrk (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2018,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Tarres",
       "side": null,
       "category": null,
@@ -32760,6 +34420,24 @@
           "year": 2025,
           "stage": 11,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Torredelcampo (final ramp)",
+      "side": null,
+      "category": null,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2025,
+          "stage": 2,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -33631,6 +35309,24 @@
       "performances": []
     },
     {
+      "name": "Vermelhos",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.2,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Volta ao Algarve",
+          "year": 2021,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Verrayes",
       "side": null,
       "category": "2",
@@ -33684,6 +35380,24 @@
         {
           "race": "Itzulia Basque Country",
           "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Villarrodrigo (final climb)",
+      "side": null,
+      "category": null,
+      "lengthKm": 6.7,
+      "avgGradientPct": 4.8,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Andalucía",
+          "year": 2021,
           "stage": 3,
           "role": "summit-finish"
         }
@@ -33811,6 +35525,24 @@
       "performances": []
     },
     {
+      "name": "Wierch Rusinski",
+      "side": null,
+      "category": null,
+      "lengthKm": 1.7,
+      "avgGradientPct": 7.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2020,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Xorret de Catí",
       "side": null,
       "category": "1",
@@ -33840,6 +35572,66 @@
           "sourceUrl": "https://lanternerouge.com/2023/09/02/evenepoel-pushes-over-7-%E1%B5%89w-kg-on-rampas-inhumanas-la-vuelta-2023-stage-8/"
         }
       ]
+    },
+    {
+      "name": "Zakopane (Wielka Krokiew uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": 49.278,
+      "summitLon": 19.964,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2017,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Zakopane (uphill finish)",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": 49.278,
+      "summitLon": 19.964,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2025,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Pologne",
+          "year": 2016,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Zieleniec",
+      "side": null,
+      "category": 2,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Pologne",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
     },
     {
       "name": "Zoldo Alto (Rifugio Palafavera)",

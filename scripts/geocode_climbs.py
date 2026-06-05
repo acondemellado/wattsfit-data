@@ -39,7 +39,9 @@ KW = re.compile(r"\b(col|coll|port|porte|puerto|alto|alt|passo|cima|mont|mont[é
                 r"glandon|croix de fer|telegraphe|t[ée]l[ée]graphe|turini|colmiane|"
                 r"couillole|isola|peyragudes|hautacam|superbagn[èe]res|beille|adet)\b", re.I)
 
-EUR_BBOX = (35.5, 53.0, -10.0, 18.0)  # lat_min, lat_max, lon_min, lon_max
+# Cubre Europa occidental + Polonia. (Los puertos de UAE traen coords nativas
+# de los agentes, así que no se geocodifican y no necesitan estar en el bbox.)
+EUR_BBOX = (35.5, 54.5, -10.0, 24.5)  # lat_min, lat_max, lon_min, lon_max
 
 
 def norm_name(s: str) -> str:
@@ -96,6 +98,12 @@ RACE_CC = {
     "Giro del Trentino": "it",
     "Tirreno-Adriatico": "it",
     "Paris-Nice": "fr",
+    "Vuelta a Burgos": "es",
+    "Vuelta a Andalucía": "es",
+    "Volta ao Algarve": "pt",
+    "Tour de Pologne": "pl",
+    "UAE Tour": "ae",
+    "Abu Dhabi Tour": "ae",
 }
 
 

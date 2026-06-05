@@ -1,0 +1,6654 @@
+{
+ "version": 1,
+ "note": "POIs de puertos detectados desde cada GPX (coords precisas de cima). Generado por detect_climbs_in_gpx.py.",
+ "routes": {
+  "dwars-door-vlaanderen-2026": [
+   {
+    "summitLat": 50.76454,
+    "summitLon": 3.53768,
+    "summitEleM": 126,
+    "startKm": 90.5,
+    "summitKm": 93.28,
+    "lengthKm": 2.79,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 50.76454,
+    "summitLon": 3.53768,
+    "summitEleM": 126,
+    "startKm": 127.32,
+    "summitKm": 130.1,
+    "lengthKm": 2.78,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 9.4
+   }
+  ],
+  "fleche-wallonne-femmes-2026": [
+   {
+    "summitLat": 50.4817,
+    "summitLon": 5.13639,
+    "summitEleM": 210,
+    "startKm": 8.01,
+    "summitKm": 10.68,
+    "lengthKm": 2.67,
+    "gainM": 134,
+    "avgGradePct": 5.0,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 50.40381,
+    "summitLon": 5.00702,
+    "summitEleM": 278,
+    "startKm": 36.05,
+    "summitKm": 38.5,
+    "lengthKm": 2.45,
+    "gainM": 112,
+    "avgGradePct": 4.6,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 50.466,
+    "summitLon": 5.23593,
+    "summitEleM": 264,
+    "startKm": 90.16,
+    "summitKm": 93.46,
+    "lengthKm": 3.3,
+    "gainM": 116,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 50.51027,
+    "summitLon": 5.22032,
+    "summitEleM": 188,
+    "startKm": 103.36,
+    "summitKm": 105.05,
+    "lengthKm": 1.69,
+    "gainM": 109,
+    "avgGradePct": 6.4,
+    "maxGradePct": 11.4
+   },
+   {
+    "summitLat": 50.50206,
+    "summitLon": 5.28043,
+    "summitEleM": 251,
+    "startKm": 108.89,
+    "summitKm": 113.19,
+    "lengthKm": 4.3,
+    "gainM": 179,
+    "avgGradePct": 4.2,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 50.46431,
+    "summitLon": 5.23904,
+    "summitEleM": 264,
+    "startKm": 127.22,
+    "summitKm": 130.17,
+    "lengthKm": 2.95,
+    "gainM": 116,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 50.51027,
+    "summitLon": 5.22032,
+    "summitEleM": 188,
+    "startKm": 140.42,
+    "summitKm": 142.11,
+    "lengthKm": 1.69,
+    "gainM": 109,
+    "avgGradePct": 6.4,
+    "maxGradePct": 11.4
+   },
+   {
+    "summitLat": 50.51411,
+    "summitLon": 5.24996,
+    "summitEleM": 184,
+    "startKm": 145.95,
+    "summitKm": 147.65,
+    "lengthKm": 1.7,
+    "gainM": 112,
+    "avgGradePct": 6.6,
+    "maxGradePct": 12.0
+   }
+  ],
+  "kuurne-brussels-kuurne-2026": [
+   {
+    "summitLat": 50.75938,
+    "summitLon": 3.5733,
+    "summitEleM": 140,
+    "startKm": 115.07,
+    "summitKm": 118.74,
+    "lengthKm": 3.68,
+    "gainM": 114,
+    "avgGradePct": 3.1,
+    "maxGradePct": 6.7
+   }
+  ],
+  "la-fleche-wallonne-2026": [
+   {
+    "summitLat": 50.54185,
+    "summitLon": 5.7394,
+    "summitEleM": 303,
+    "startKm": 27.69,
+    "summitKm": 32.9,
+    "lengthKm": 5.22,
+    "gainM": 196,
+    "avgGradePct": 3.7,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 50.40865,
+    "summitLon": 5.4874,
+    "summitEleM": 262,
+    "startKm": 73.17,
+    "summitKm": 76.21,
+    "lengthKm": 3.05,
+    "gainM": 123,
+    "avgGradePct": 4.0,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 50.466,
+    "summitLon": 5.23593,
+    "summitEleM": 264,
+    "startKm": 105.05,
+    "summitKm": 108.35,
+    "lengthKm": 3.3,
+    "gainM": 116,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 50.5108,
+    "summitLon": 5.22028,
+    "summitEleM": 189,
+    "startKm": 118.25,
+    "summitKm": 120.0,
+    "lengthKm": 1.75,
+    "gainM": 110,
+    "avgGradePct": 6.3,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 50.50206,
+    "summitLon": 5.28043,
+    "summitEleM": 251,
+    "startKm": 123.79,
+    "summitKm": 128.09,
+    "lengthKm": 4.3,
+    "gainM": 179,
+    "avgGradePct": 4.2,
+    "maxGradePct": 10.8
+   },
+   {
+    "summitLat": 50.46431,
+    "summitLon": 5.23904,
+    "summitEleM": 264,
+    "startKm": 142.11,
+    "summitKm": 145.07,
+    "lengthKm": 2.95,
+    "gainM": 116,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 50.5108,
+    "summitLon": 5.22028,
+    "summitEleM": 190,
+    "startKm": 155.31,
+    "summitKm": 157.06,
+    "lengthKm": 1.75,
+    "gainM": 111,
+    "avgGradePct": 6.3,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 50.50206,
+    "summitLon": 5.28043,
+    "summitEleM": 251,
+    "startKm": 160.85,
+    "summitKm": 165.15,
+    "lengthKm": 4.3,
+    "gainM": 179,
+    "avgGradePct": 4.2,
+    "maxGradePct": 10.8
+   },
+   {
+    "summitLat": 50.46431,
+    "summitLon": 5.23904,
+    "summitEleM": 264,
+    "startKm": 179.18,
+    "summitKm": 182.13,
+    "lengthKm": 2.95,
+    "gainM": 116,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.8
+   },
+   {
+    "summitLat": 50.51027,
+    "summitLon": 5.22032,
+    "summitEleM": 189,
+    "startKm": 192.38,
+    "summitKm": 194.06,
+    "lengthKm": 1.69,
+    "gainM": 110,
+    "avgGradePct": 6.5,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 50.5141,
+    "summitLon": 5.25007,
+    "summitEleM": 185,
+    "startKm": 197.91,
+    "summitKm": 199.62,
+    "lengthKm": 1.71,
+    "gainM": 113,
+    "avgGradePct": 6.6,
+    "maxGradePct": 11.9
+   }
+  ],
+  "liege-bastogne-liege-2026": [
+   {
+    "summitLat": 50.55942,
+    "summitLon": 5.63757,
+    "summitEleM": 286,
+    "startKm": 0.0,
+    "summitKm": 6.48,
+    "lengthKm": 6.48,
+    "gainM": 200,
+    "avgGradePct": 3.1,
+    "maxGradePct": 5.1
+   },
+   {
+    "summitLat": 50.38063,
+    "summitLon": 5.60043,
+    "summitEleM": 341,
+    "startKm": 37.36,
+    "summitKm": 42.17,
+    "lengthKm": 4.82,
+    "gainM": 195,
+    "avgGradePct": 4.0,
+    "maxGradePct": 7.8
+   },
+   {
+    "summitLat": 50.20666,
+    "summitLon": 5.60832,
+    "summitEleM": 504,
+    "startKm": 126.74,
+    "summitKm": 131.91,
+    "lengthKm": 5.17,
+    "gainM": 282,
+    "avgGradePct": 5.5,
+    "maxGradePct": 12.4
+   },
+   {
+    "summitLat": 50.34943,
+    "summitLon": 5.91954,
+    "summitEleM": 491,
+    "startKm": 168.18,
+    "summitKm": 170.19,
+    "lengthKm": 2.01,
+    "gainM": 158,
+    "avgGradePct": 7.8,
+    "maxGradePct": 14.5
+   },
+   {
+    "summitLat": 50.42939,
+    "summitLon": 5.9293,
+    "summitEleM": 504,
+    "startKm": 178.19,
+    "summitKm": 182.7,
+    "lengthKm": 4.51,
+    "gainM": 224,
+    "avgGradePct": 5.0,
+    "maxGradePct": 12.1
+   },
+   {
+    "summitLat": 50.45352,
+    "summitLon": 5.88148,
+    "summitEleM": 564,
+    "startKm": 190.89,
+    "summitKm": 195.59,
+    "lengthKm": 4.7,
+    "gainM": 249,
+    "avgGradePct": 5.3,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 50.489,
+    "summitLon": 5.80873,
+    "summitEleM": 364,
+    "startKm": 205.06,
+    "summitKm": 207.89,
+    "lengthKm": 2.83,
+    "gainM": 142,
+    "avgGradePct": 5.0,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 50.46747,
+    "summitLon": 5.79514,
+    "summitEleM": 382,
+    "startKm": 210.17,
+    "summitKm": 213.15,
+    "lengthKm": 2.98,
+    "gainM": 122,
+    "avgGradePct": 4.1,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 50.49313,
+    "summitLon": 5.70029,
+    "summitEleM": 282,
+    "startKm": 222.19,
+    "summitKm": 224.63,
+    "lengthKm": 2.43,
+    "gainM": 154,
+    "avgGradePct": 6.3,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 50.55028,
+    "summitLon": 5.57384,
+    "summitEleM": 212,
+    "startKm": 242.69,
+    "summitKm": 245.14,
+    "lengthKm": 2.44,
+    "gainM": 133,
+    "avgGradePct": 5.4,
+    "maxGradePct": 12.8
+   }
+  ],
+  "liege-bastogne-liege-femmes-2026": [
+   {
+    "summitLat": 50.20666,
+    "summitLon": 5.60832,
+    "summitEleM": 504,
+    "startKm": 24.26,
+    "summitKm": 29.43,
+    "lengthKm": 5.17,
+    "gainM": 282,
+    "avgGradePct": 5.5,
+    "maxGradePct": 12.4
+   },
+   {
+    "summitLat": 50.34962,
+    "summitLon": 5.91956,
+    "summitEleM": 494,
+    "startKm": 65.86,
+    "summitKm": 67.86,
+    "lengthKm": 2.0,
+    "gainM": 162,
+    "avgGradePct": 8.1,
+    "maxGradePct": 12.9
+   },
+   {
+    "summitLat": 50.42928,
+    "summitLon": 5.92936,
+    "summitEleM": 505,
+    "startKm": 75.85,
+    "summitKm": 80.36,
+    "lengthKm": 4.51,
+    "gainM": 226,
+    "avgGradePct": 5.0,
+    "maxGradePct": 11.8
+   },
+   {
+    "summitLat": 50.45332,
+    "summitLon": 5.88146,
+    "summitEleM": 564,
+    "startKm": 88.27,
+    "summitKm": 93.1,
+    "lengthKm": 4.82,
+    "gainM": 255,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 50.489,
+    "summitLon": 5.80873,
+    "summitEleM": 363,
+    "startKm": 102.6,
+    "summitKm": 105.43,
+    "lengthKm": 2.83,
+    "gainM": 141,
+    "avgGradePct": 5.0,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 50.46747,
+    "summitLon": 5.79517,
+    "summitEleM": 382,
+    "startKm": 107.7,
+    "summitKm": 110.68,
+    "lengthKm": 2.98,
+    "gainM": 122,
+    "avgGradePct": 4.1,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 50.49311,
+    "summitLon": 5.70026,
+    "summitEleM": 278,
+    "startKm": 119.75,
+    "summitKm": 122.19,
+    "lengthKm": 2.44,
+    "gainM": 152,
+    "avgGradePct": 6.2,
+    "maxGradePct": 11.6
+   },
+   {
+    "summitLat": 50.54957,
+    "summitLon": 5.57521,
+    "summitEleM": 214,
+    "startKm": 140.45,
+    "summitKm": 142.57,
+    "lengthKm": 2.13,
+    "gainM": 135,
+    "avgGradePct": 6.3,
+    "maxGradePct": 14.0
+   }
+  ],
+  "ronde-vlaanderen-women-2026": [
+   {
+    "summitLat": 50.75938,
+    "summitLon": 3.5733,
+    "summitEleM": 153,
+    "startKm": 134.44,
+    "summitKm": 137.44,
+    "lengthKm": 3.0,
+    "gainM": 112,
+    "avgGradePct": 3.7,
+    "maxGradePct": 6.6
+   }
+  ],
+  "tour-of-flanders-2026": [
+   {
+    "summitLat": 50.76454,
+    "summitLon": 3.53785,
+    "summitEleM": 125,
+    "startKm": 139.98,
+    "summitKm": 143.2,
+    "lengthKm": 3.21,
+    "gainM": 114,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 50.75938,
+    "summitLon": 3.5733,
+    "summitEleM": 154,
+    "startKm": 210.06,
+    "summitKm": 213.11,
+    "lengthKm": 3.05,
+    "gainM": 112,
+    "avgGradePct": 3.7,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 50.75938,
+    "summitLon": 3.5733,
+    "summitEleM": 154,
+    "startKm": 248.45,
+    "summitKm": 251.37,
+    "lengthKm": 2.92,
+    "gainM": 113,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.6
+   }
+  ],
+  "milan-san-remo-2026": [
+   {
+    "summitLat": 43.89278,
+    "summitLon": 8.07242,
+    "summitEleM": 127,
+    "startKm": 254.08,
+    "summitKm": 257.77,
+    "lengthKm": 3.69,
+    "gainM": 122,
+    "avgGradePct": 3.3,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 43.85135,
+    "summitLon": 7.9304,
+    "summitEleM": 239,
+    "startKm": 269.01,
+    "summitKm": 274.85,
+    "lengthKm": 5.84,
+    "gainM": 226,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.5
+   }
+  ],
+  "strade-bianche-2026": [
+   {
+    "summitLat": 43.21782,
+    "summitLon": 11.31462,
+    "summitEleM": 370,
+    "startKm": 14.07,
+    "summitKm": 17.2,
+    "lengthKm": 3.13,
+    "gainM": 162,
+    "avgGradePct": 5.2,
+    "maxGradePct": 8.2
+   },
+   {
+    "summitLat": 43.05182,
+    "summitLon": 11.50664,
+    "summitEleM": 452,
+    "startKm": 45.73,
+    "summitKm": 52.73,
+    "lengthKm": 6.99,
+    "gainM": 306,
+    "avgGradePct": 4.4,
+    "maxGradePct": 6.9
+   },
+   {
+    "summitLat": 43.08581,
+    "summitLon": 11.5825,
+    "summitEleM": 370,
+    "startKm": 60.31,
+    "summitKm": 63.43,
+    "lengthKm": 3.13,
+    "gainM": 127,
+    "avgGradePct": 4.1,
+    "maxGradePct": 6.7
+   }
+  ],
+  "strade-bianche-women-2026": [
+   {
+    "summitLat": 43.21782,
+    "summitLon": 11.31462,
+    "summitEleM": 370,
+    "startKm": 14.29,
+    "summitKm": 17.42,
+    "lengthKm": 3.13,
+    "gainM": 162,
+    "avgGradePct": 5.2,
+    "maxGradePct": 8.2
+   }
+  ],
+  "amstel-gold-race-2026": [
+   {
+    "summitLat": 50.77356,
+    "summitLon": 5.88621,
+    "summitEleM": 222,
+    "startKm": 99.05,
+    "summitKm": 102.74,
+    "lengthKm": 3.69,
+    "gainM": 120,
+    "avgGradePct": 3.3,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": 50.76772,
+    "summitLon": 5.95241,
+    "summitEleM": 264,
+    "startKm": 105.98,
+    "summitKm": 109.79,
+    "lengthKm": 3.81,
+    "gainM": 151,
+    "avgGradePct": 4.0,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 50.77269,
+    "summitLon": 5.88546,
+    "summitEleM": 222,
+    "startKm": 133.62,
+    "summitKm": 136.67,
+    "lengthKm": 3.05,
+    "gainM": 109,
+    "avgGradePct": 3.6,
+    "maxGradePct": 6.9
+   }
+  ],
+  "mallorca-312-2026": [
+   {
+    "summitLat": 39.78895,
+    "summitLon": 2.7795,
+    "summitEleM": 867,
+    "startKm": 50.01,
+    "summitKm": 55.14,
+    "lengthKm": 5.12,
+    "gainM": 250,
+    "avgGradePct": 4.9,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 39.77235,
+    "summitLon": 2.67706,
+    "summitEleM": 219,
+    "startKm": 69.86,
+    "summitKm": 74.41,
+    "lengthKm": 4.56,
+    "gainM": 204,
+    "avgGradePct": 4.5,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 39.72564,
+    "summitLon": 2.60658,
+    "summitEleM": 412,
+    "startKm": 80.92,
+    "summitKm": 87.13,
+    "lengthKm": 6.21,
+    "gainM": 279,
+    "avgGradePct": 4.5,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 39.69066,
+    "summitLon": 2.57484,
+    "summitEleM": 495,
+    "startKm": 89.93,
+    "summitKm": 93.29,
+    "lengthKm": 3.37,
+    "gainM": 129,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 39.60636,
+    "summitLon": 2.40972,
+    "summitEleM": 354,
+    "startKm": 119.01,
+    "summitKm": 122.44,
+    "lengthKm": 3.43,
+    "gainM": 171,
+    "avgGradePct": 5.0,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 39.58889,
+    "summitLon": 2.44085,
+    "summitEleM": 224,
+    "startKm": 127.54,
+    "summitKm": 130.84,
+    "lengthKm": 3.3,
+    "gainM": 125,
+    "avgGradePct": 3.8,
+    "maxGradePct": 5.8
+   },
+   {
+    "summitLat": 39.60744,
+    "summitLon": 2.50261,
+    "summitEleM": 407,
+    "startKm": 137.62,
+    "summitKm": 142.68,
+    "lengthKm": 5.07,
+    "gainM": 279,
+    "avgGradePct": 5.5,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 39.64331,
+    "summitLon": 2.53221,
+    "summitEleM": 461,
+    "startKm": 147.04,
+    "summitKm": 151.0,
+    "lengthKm": 3.95,
+    "gainM": 243,
+    "avgGradePct": 6.2,
+    "maxGradePct": 8.7
+   }
+  ],
+  "pedro-delgado-2026-fondo": [
+   {
+    "summitLat": 40.79062,
+    "summitLon": -3.9988,
+    "summitEleM": 1854,
+    "startKm": 12.87,
+    "summitKm": 28.05,
+    "lengthKm": 15.18,
+    "gainM": 676,
+    "avgGradePct": 4.5,
+    "maxGradePct": 11.5
+   },
+   {
+    "summitLat": 40.98569,
+    "summitLon": -3.81448,
+    "summitEleM": 1774,
+    "startKm": 57.82,
+    "summitKm": 71.34,
+    "lengthKm": 13.52,
+    "gainM": 679,
+    "avgGradePct": 5.0,
+    "maxGradePct": 9.7
+   }
+  ],
+  "pedro-delgado-2026-gran-fondo": [
+   {
+    "summitLat": 40.78942,
+    "summitLon": -4.00409,
+    "summitEleM": 1853,
+    "startKm": 12.79,
+    "summitKm": 27.42,
+    "lengthKm": 14.63,
+    "gainM": 675,
+    "avgGradePct": 4.6,
+    "maxGradePct": 11.5
+   },
+   {
+    "summitLat": 40.82892,
+    "summitLon": -3.83389,
+    "summitEleM": 1778,
+    "startKm": 51.75,
+    "summitKm": 64.77,
+    "lengthKm": 13.02,
+    "gainM": 654,
+    "avgGradePct": 5.0,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 40.83309,
+    "summitLon": -3.76994,
+    "summitEleM": 1268,
+    "startKm": 73.94,
+    "summitKm": 77.06,
+    "lengthKm": 3.12,
+    "gainM": 122,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 40.87042,
+    "summitLon": -3.76621,
+    "summitEleM": 1525,
+    "startKm": 78.04,
+    "summitKm": 82.05,
+    "lengthKm": 4.01,
+    "gainM": 272,
+    "avgGradePct": 6.8,
+    "maxGradePct": 10.5
+   },
+   {
+    "summitLat": 40.98569,
+    "summitLon": -3.81448,
+    "summitEleM": 1774,
+    "startKm": 103.28,
+    "summitKm": 115.34,
+    "lengthKm": 12.06,
+    "gainM": 681,
+    "avgGradePct": 5.6,
+    "maxGradePct": 9.3
+   }
+  ],
+  "maratona-dles-dolomites-2026": [
+   {
+    "summitLat": 46.51385,
+    "summitLon": 11.87236,
+    "summitEleM": 1877,
+    "startKm": 2.86,
+    "summitKm": 9.43,
+    "lengthKm": 6.57,
+    "gainM": 368,
+    "avgGradePct": 5.6,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.48755,
+    "summitLon": 11.81219,
+    "summitEleM": 2239,
+    "startKm": 13.28,
+    "summitKm": 22.66,
+    "lengthKm": 9.38,
+    "gainM": 639,
+    "avgGradePct": 6.8,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 46.50802,
+    "summitLon": 11.76738,
+    "summitEleM": 2233,
+    "startKm": 29.0,
+    "summitKm": 34.51,
+    "lengthKm": 5.51,
+    "gainM": 405,
+    "avgGradePct": 7.4,
+    "maxGradePct": 10.4
+   },
+   {
+    "summitLat": 46.53692,
+    "summitLon": 11.78715,
+    "summitEleM": 2029,
+    "startKm": 39.81,
+    "summitKm": 42.13,
+    "lengthKm": 2.32,
+    "gainM": 152,
+    "avgGradePct": 6.6,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.51405,
+    "summitLon": 11.87234,
+    "summitEleM": 1877,
+    "startKm": 54.25,
+    "summitKm": 60.44,
+    "lengthKm": 6.18,
+    "gainM": 352,
+    "avgGradePct": 5.7,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.44634,
+    "summitLon": 12.00091,
+    "summitEleM": 1469,
+    "startKm": 80.65,
+    "summitKm": 82.49,
+    "lengthKm": 1.83,
+    "gainM": 148,
+    "avgGradePct": 8.1,
+    "maxGradePct": 12.5
+   },
+   {
+    "summitLat": 46.48253,
+    "summitLon": 12.05326,
+    "summitEleM": 2227,
+    "startKm": 86.68,
+    "summitKm": 96.18,
+    "lengthKm": 9.49,
+    "gainM": 908,
+    "avgGradePct": 9.6,
+    "maxGradePct": 14.3
+   },
+   {
+    "summitLat": 46.52116,
+    "summitLon": 12.08082,
+    "summitEleM": 1712,
+    "startKm": 105.09,
+    "summitKm": 109.7,
+    "lengthKm": 4.61,
+    "gainM": 200,
+    "avgGradePct": 4.3,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 46.5256,
+    "summitLon": 11.99668,
+    "summitEleM": 2197,
+    "startKm": 110.18,
+    "summitKm": 117.79,
+    "lengthKm": 7.61,
+    "gainM": 486,
+    "avgGradePct": 6.4,
+    "maxGradePct": 9.8
+   }
+  ],
+  "sportful-dolomiti-race-2026-long": [
+   {
+    "summitLat": 46.23299,
+    "summitLon": 12.01299,
+    "summitEleM": 992,
+    "startKm": 33.57,
+    "summitKm": 43.59,
+    "lengthKm": 10.02,
+    "gainM": 528,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.5
+   },
+   {
+    "summitLat": 46.40433,
+    "summitLon": 12.0197,
+    "summitEleM": 992,
+    "startKm": 67.32,
+    "summitKm": 70.88,
+    "lengthKm": 3.56,
+    "gainM": 156,
+    "avgGradePct": 4.4,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 46.44206,
+    "summitLon": 12.06434,
+    "summitEleM": 1433,
+    "startKm": 74.82,
+    "summitKm": 83.28,
+    "lengthKm": 8.46,
+    "gainM": 444,
+    "avgGradePct": 5.2,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.42102,
+    "summitLon": 12.10554,
+    "summitEleM": 1768,
+    "startKm": 83.99,
+    "summitKm": 89.55,
+    "lengthKm": 5.57,
+    "gainM": 352,
+    "avgGradePct": 6.3,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 46.324,
+    "summitLon": 12.09552,
+    "summitEleM": 1606,
+    "startKm": 102.06,
+    "summitKm": 110.23,
+    "lengthKm": 8.18,
+    "gainM": 658,
+    "avgGradePct": 8.0,
+    "maxGradePct": 12.8
+   },
+   {
+    "summitLat": 46.23666,
+    "summitLon": 11.97263,
+    "summitEleM": 1297,
+    "startKm": 123.97,
+    "summitKm": 135.89,
+    "lengthKm": 11.92,
+    "gainM": 709,
+    "avgGradePct": 6.0,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 46.19331,
+    "summitLon": 11.907,
+    "summitEleM": 1366,
+    "startKm": 146.04,
+    "summitKm": 150.81,
+    "lengthKm": 4.77,
+    "gainM": 307,
+    "avgGradePct": 6.4,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.05473,
+    "summitLon": 11.77426,
+    "summitEleM": 614,
+    "startKm": 175.77,
+    "summitKm": 179.1,
+    "lengthKm": 3.33,
+    "gainM": 196,
+    "avgGradePct": 5.9,
+    "maxGradePct": 8.4
+   },
+   {
+    "summitLat": 46.06217,
+    "summitLon": 11.8294,
+    "summitEleM": 1004,
+    "startKm": 181.01,
+    "summitKm": 186.98,
+    "lengthKm": 5.97,
+    "gainM": 398,
+    "avgGradePct": 6.7,
+    "maxGradePct": 11.8
+   }
+  ],
+  "sportful-dolomiti-race-2026-medium": [
+   {
+    "summitLat": 46.08116,
+    "summitLon": 11.97606,
+    "summitEleM": 472,
+    "startKm": 6.91,
+    "summitKm": 11.24,
+    "lengthKm": 4.33,
+    "gainM": 134,
+    "avgGradePct": 3.1,
+    "maxGradePct": 6.9
+   },
+   {
+    "summitLat": 46.23299,
+    "summitLon": 12.01299,
+    "summitEleM": 993,
+    "startKm": 33.68,
+    "summitKm": 43.7,
+    "lengthKm": 10.02,
+    "gainM": 528,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.4
+   },
+   {
+    "summitLat": 46.23661,
+    "summitLon": 11.97251,
+    "summitEleM": 1298,
+    "startKm": 49.9,
+    "summitKm": 58.02,
+    "lengthKm": 8.12,
+    "gainM": 463,
+    "avgGradePct": 5.7,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.19331,
+    "summitLon": 11.907,
+    "summitEleM": 1366,
+    "startKm": 66.96,
+    "summitKm": 73.41,
+    "lengthKm": 6.45,
+    "gainM": 320,
+    "avgGradePct": 5.0,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 46.05481,
+    "summitLon": 11.77429,
+    "summitEleM": 615,
+    "startKm": 98.24,
+    "summitKm": 101.59,
+    "lengthKm": 3.34,
+    "gainM": 195,
+    "avgGradePct": 5.8,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 46.06217,
+    "summitLon": 11.8294,
+    "summitEleM": 1007,
+    "startKm": 103.41,
+    "summitKm": 109.47,
+    "lengthKm": 6.06,
+    "gainM": 400,
+    "avgGradePct": 6.6,
+    "maxGradePct": 11.9
+   }
+  ],
+  "vuelta-2026-stage-02": [
+   {
+    "summitLat": 43.57842,
+    "summitLon": 6.49237,
+    "summitEleM": 385,
+    "startKm": 99.03,
+    "summitKm": 103.41,
+    "lengthKm": 4.38,
+    "gainM": 139,
+    "avgGradePct": 3.2,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 43.60369,
+    "summitLon": 6.43002,
+    "summitEleM": 628,
+    "startKm": 107.6,
+    "summitKm": 111.73,
+    "lengthKm": 4.13,
+    "gainM": 196,
+    "avgGradePct": 4.8,
+    "maxGradePct": 7.2
+   },
+   {
+    "summitLat": 43.72228,
+    "summitLon": 6.0283,
+    "summitEleM": 550,
+    "startKm": 156.9,
+    "summitKm": 160.56,
+    "lengthKm": 3.66,
+    "gainM": 182,
+    "avgGradePct": 5.0,
+    "maxGradePct": 9.3
+   }
+  ],
+  "vuelta-2026-stage-03": [
+   {
+    "summitLat": 42.50704,
+    "summitLon": 2.11521,
+    "summitEleM": 1578,
+    "startKm": 126.04,
+    "summitKm": 148.66,
+    "lengthKm": 22.62,
+    "gainM": 999,
+    "avgGradePct": 4.4,
+    "maxGradePct": 9.8
+   },
+   {
+    "summitLat": 42.521,
+    "summitLon": 2.03659,
+    "summitEleM": 1928,
+    "startKm": 154.46,
+    "summitKm": 164.18,
+    "lengthKm": 9.72,
+    "gainM": 479,
+    "avgGradePct": 4.9,
+    "maxGradePct": 7.5
+   }
+  ],
+  "vuelta-2026-stage-04": [
+   {
+    "summitLat": 42.5778,
+    "summitLon": 1.62664,
+    "summitEleM": 1609,
+    "startKm": 0.0,
+    "summitKm": 11.09,
+    "lengthKm": 11.09,
+    "gainM": 468,
+    "avgGradePct": 4.2,
+    "maxGradePct": 11.1
+   },
+   {
+    "summitLat": 42.53995,
+    "summitLon": 1.72013,
+    "summitEleM": 2403,
+    "startKm": 11.62,
+    "summitKm": 25.98,
+    "lengthKm": 14.36,
+    "gainM": 807,
+    "avgGradePct": 5.6,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 42.52769,
+    "summitLon": 1.54807,
+    "summitEleM": 1798,
+    "startKm": 53.05,
+    "summitKm": 59.62,
+    "lengthKm": 6.57,
+    "gainM": 554,
+    "avgGradePct": 8.4,
+    "maxGradePct": 15.7
+   },
+   {
+    "summitLat": 42.55595,
+    "summitLon": 1.57298,
+    "summitEleM": 1982,
+    "startKm": 68.3,
+    "summitKm": 78.85,
+    "lengthKm": 10.56,
+    "gainM": 719,
+    "avgGradePct": 6.8,
+    "maxGradePct": 11.7
+   },
+   {
+    "summitLat": 42.50607,
+    "summitLon": 1.54372,
+    "summitEleM": 1241,
+    "startKm": 95.96,
+    "summitKm": 98.13,
+    "lengthKm": 2.17,
+    "gainM": 116,
+    "avgGradePct": 5.4,
+    "maxGradePct": 11.6
+   }
+  ],
+  "vuelta-2026-stage-05": [
+   {
+    "summitLat": 40.93405,
+    "summitLon": 0.50286,
+    "summitEleM": 183,
+    "startKm": 114.62,
+    "summitKm": 119.01,
+    "lengthKm": 4.4,
+    "gainM": 173,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 41.00265,
+    "summitLon": 0.51381,
+    "summitEleM": 196,
+    "startKm": 126.78,
+    "summitKm": 130.35,
+    "lengthKm": 3.57,
+    "gainM": 176,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 40.94306,
+    "summitLon": 0.42956,
+    "summitEleM": 378,
+    "startKm": 143.07,
+    "summitKm": 146.97,
+    "lengthKm": 3.9,
+    "gainM": 251,
+    "avgGradePct": 6.4,
+    "maxGradePct": 11.7
+   }
+  ],
+  "vuelta-2026-stage-06": [
+   {
+    "summitLat": 40.3153,
+    "summitLon": 0.14148,
+    "summitEleM": 283,
+    "startKm": 15.34,
+    "summitKm": 18.5,
+    "lengthKm": 3.16,
+    "gainM": 112,
+    "avgGradePct": 3.5,
+    "maxGradePct": 5.4
+   },
+   {
+    "summitLat": 40.30563,
+    "summitLon": 0.03064,
+    "summitEleM": 808,
+    "startKm": 22.86,
+    "summitKm": 40.02,
+    "lengthKm": 17.16,
+    "gainM": 625,
+    "avgGradePct": 3.6,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 40.27626,
+    "summitLon": -0.0329,
+    "summitEleM": 779,
+    "startKm": 60.27,
+    "summitKm": 64.75,
+    "lengthKm": 4.48,
+    "gainM": 303,
+    "avgGradePct": 6.8,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 40.07848,
+    "summitLon": 0.03912,
+    "summitEleM": 386,
+    "startKm": 114.85,
+    "summitKm": 123.6,
+    "lengthKm": 8.76,
+    "gainM": 379,
+    "avgGradePct": 4.3,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 40.08771,
+    "summitLon": 0.0356,
+    "summitEleM": 676,
+    "startKm": 142.23,
+    "summitKm": 152.33,
+    "lengthKm": 10.1,
+    "gainM": 671,
+    "avgGradePct": 6.6,
+    "maxGradePct": 14.3
+   }
+  ],
+  "vuelta-2026-stage-07": [
+   {
+    "summitLat": 40.14203,
+    "summitLon": -0.35089,
+    "summitEleM": 980,
+    "startKm": 37.35,
+    "summitKm": 52.39,
+    "lengthKm": 15.03,
+    "gainM": 636,
+    "avgGradePct": 4.2,
+    "maxGradePct": 8.0
+   },
+   {
+    "summitLat": 40.13119,
+    "summitLon": -0.42258,
+    "summitEleM": 813,
+    "startKm": 61.1,
+    "summitKm": 66.58,
+    "lengthKm": 5.48,
+    "gainM": 264,
+    "avgGradePct": 4.8,
+    "maxGradePct": 6.9
+   },
+   {
+    "summitLat": 40.17468,
+    "summitLon": -0.62157,
+    "summitEleM": 1003,
+    "startKm": 96.01,
+    "summitKm": 104.68,
+    "lengthKm": 8.67,
+    "gainM": 398,
+    "avgGradePct": 4.6,
+    "maxGradePct": 11.1
+   },
+   {
+    "summitLat": 40.34508,
+    "summitLon": -0.70957,
+    "summitEleM": 1556,
+    "startKm": 121.91,
+    "summitKm": 135.75,
+    "lengthKm": 13.84,
+    "gainM": 523,
+    "avgGradePct": 3.8,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 40.37286,
+    "summitLon": -0.62765,
+    "summitEleM": 1963,
+    "startKm": 139.35,
+    "summitKm": 148.29,
+    "lengthKm": 8.95,
+    "gainM": 581,
+    "avgGradePct": 6.5,
+    "maxGradePct": 10.7
+   }
+  ],
+  "vuelta-2026-stage-08": [
+   {
+    "summitLat": 39.01451,
+    "summitLon": -0.30103,
+    "summitEleM": 350,
+    "startKm": 136.89,
+    "summitKm": 143.65,
+    "lengthKm": 6.76,
+    "gainM": 302,
+    "avgGradePct": 4.5,
+    "maxGradePct": 7.8
+   }
+  ],
+  "vuelta-2026-stage-09": [
+   {
+    "summitLat": 38.56945,
+    "summitLon": -0.20854,
+    "summitEleM": 268,
+    "startKm": 0.47,
+    "summitKm": 4.84,
+    "lengthKm": 4.36,
+    "gainM": 175,
+    "avgGradePct": 4.0,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 38.69858,
+    "summitLon": -0.10212,
+    "summitEleM": 590,
+    "startKm": 26.06,
+    "summitKm": 36.76,
+    "lengthKm": 10.7,
+    "gainM": 422,
+    "avgGradePct": 3.9,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 38.82843,
+    "summitLon": -0.17479,
+    "summitEleM": 623,
+    "startKm": 67.05,
+    "summitKm": 74.2,
+    "lengthKm": 7.16,
+    "gainM": 548,
+    "avgGradePct": 7.7,
+    "maxGradePct": 17.4
+   },
+   {
+    "summitLat": 38.76255,
+    "summitLon": -0.26874,
+    "summitEleM": 826,
+    "startKm": 86.81,
+    "summitKm": 90.95,
+    "lengthKm": 4.13,
+    "gainM": 229,
+    "avgGradePct": 5.5,
+    "maxGradePct": 9.6
+   },
+   {
+    "summitLat": 38.68817,
+    "summitLon": -0.33978,
+    "summitEleM": 707,
+    "startKm": 108.19,
+    "summitKm": 113.87,
+    "lengthKm": 5.69,
+    "gainM": 217,
+    "avgGradePct": 3.8,
+    "maxGradePct": 5.4
+   },
+   {
+    "summitLat": 38.65035,
+    "summitLon": -0.32552,
+    "summitEleM": 1020,
+    "startKm": 117.06,
+    "summitKm": 121.88,
+    "lengthKm": 4.82,
+    "gainM": 284,
+    "avgGradePct": 5.9,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 38.64026,
+    "summitLon": -0.40369,
+    "summitEleM": 1017,
+    "startKm": 132.11,
+    "summitKm": 139.87,
+    "lengthKm": 7.76,
+    "gainM": 345,
+    "avgGradePct": 4.4,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 38.60212,
+    "summitLon": -0.39308,
+    "summitEleM": 886,
+    "startKm": 145.5,
+    "summitKm": 147.79,
+    "lengthKm": 2.29,
+    "gainM": 127,
+    "avgGradePct": 5.5,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 38.64973,
+    "summitLon": -0.26953,
+    "summitEleM": 1541,
+    "startKm": 164.86,
+    "summitKm": 186.69,
+    "lengthKm": 21.83,
+    "gainM": 1260,
+    "avgGradePct": 5.8,
+    "maxGradePct": 10.7
+   }
+  ],
+  "vuelta-2026-stage-10": [
+   {
+    "summitLat": 38.49154,
+    "summitLon": -2.28237,
+    "summitEleM": 1128,
+    "startKm": 41.72,
+    "summitKm": 47.19,
+    "lengthKm": 5.47,
+    "gainM": 222,
+    "avgGradePct": 4.1,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 38.58105,
+    "summitLon": -2.03692,
+    "summitEleM": 947,
+    "startKm": 76.23,
+    "summitKm": 85.71,
+    "lengthKm": 9.49,
+    "gainM": 307,
+    "avgGradePct": 3.2,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 38.33698,
+    "summitLon": -1.9921,
+    "summitEleM": 775,
+    "startKm": 154.82,
+    "summitKm": 162.42,
+    "lengthKm": 7.6,
+    "gainM": 246,
+    "avgGradePct": 3.2,
+    "maxGradePct": 8.1
+   }
+  ],
+  "vuelta-2026-stage-11": [
+   {
+    "summitLat": 37.59353,
+    "summitLon": -0.82481,
+    "summitEleM": 136,
+    "startKm": 11.97,
+    "summitKm": 15.24,
+    "lengthKm": 3.28,
+    "gainM": 127,
+    "avgGradePct": 3.9,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 37.79425,
+    "summitLon": -1.56437,
+    "summitEleM": 621,
+    "startKm": 113.17,
+    "summitKm": 122.72,
+    "lengthKm": 9.55,
+    "gainM": 399,
+    "avgGradePct": 4.2,
+    "maxGradePct": 8.7
+   }
+  ],
+  "vuelta-2026-stage-12": [
+   {
+    "summitLat": 37.26869,
+    "summitLon": -2.20209,
+    "summitEleM": 666,
+    "startKm": 52.17,
+    "summitKm": 57.21,
+    "lengthKm": 5.05,
+    "gainM": 218,
+    "avgGradePct": 4.3,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 37.2632,
+    "summitLon": -2.2476,
+    "summitEleM": 876,
+    "startKm": 58.61,
+    "summitKm": 64.91,
+    "lengthKm": 6.3,
+    "gainM": 276,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 37.28212,
+    "summitLon": -2.27694,
+    "summitEleM": 946,
+    "startKm": 66.73,
+    "summitKm": 69.76,
+    "lengthKm": 3.03,
+    "gainM": 165,
+    "avgGradePct": 5.4,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 37.2643,
+    "summitLon": -2.30397,
+    "summitEleM": 1163,
+    "startKm": 71.14,
+    "summitKm": 76.26,
+    "lengthKm": 5.12,
+    "gainM": 282,
+    "avgGradePct": 5.5,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 37.20975,
+    "summitLon": -2.28648,
+    "summitEleM": 1240,
+    "startKm": 81.32,
+    "summitKm": 86.0,
+    "lengthKm": 4.68,
+    "gainM": 189,
+    "avgGradePct": 4.0,
+    "maxGradePct": 7.2
+   },
+   {
+    "summitLat": 37.2354,
+    "summitLon": -2.41794,
+    "summitEleM": 1820,
+    "startKm": 106.7,
+    "summitKm": 136.19,
+    "lengthKm": 29.49,
+    "gainM": 1356,
+    "avgGradePct": 4.6,
+    "maxGradePct": 13.2
+   },
+   {
+    "summitLat": 37.24997,
+    "summitLon": -2.5125,
+    "summitEleM": 1890,
+    "startKm": 147.7,
+    "summitKm": 157.04,
+    "lengthKm": 9.34,
+    "gainM": 696,
+    "avgGradePct": 7.5,
+    "maxGradePct": 15.2
+   },
+   {
+    "summitLat": 37.22199,
+    "summitLon": -2.54671,
+    "summitEleM": 2148,
+    "startKm": 161.09,
+    "summitKm": 165.32,
+    "lengthKm": 4.23,
+    "gainM": 210,
+    "avgGradePct": 5.0,
+    "maxGradePct": 10.8
+   }
+  ],
+  "vuelta-2026-stage-13": [
+   {
+    "summitLat": 36.87223,
+    "summitLon": -3.53842,
+    "summitEleM": 820,
+    "startKm": 12.98,
+    "summitKm": 28.09,
+    "lengthKm": 15.11,
+    "gainM": 736,
+    "avgGradePct": 4.9,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 36.93016,
+    "summitLon": -3.61592,
+    "summitEleM": 743,
+    "startKm": 40.18,
+    "summitKm": 43.41,
+    "lengthKm": 3.22,
+    "gainM": 218,
+    "avgGradePct": 6.8,
+    "maxGradePct": 12.9
+   },
+   {
+    "summitLat": 36.95694,
+    "summitLon": -3.60155,
+    "summitEleM": 863,
+    "startKm": 46.04,
+    "summitKm": 48.69,
+    "lengthKm": 2.65,
+    "gainM": 178,
+    "avgGradePct": 6.7,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 37.01855,
+    "summitLon": -3.69125,
+    "summitEleM": 1021,
+    "startKm": 65.21,
+    "summitKm": 70.57,
+    "lengthKm": 5.36,
+    "gainM": 187,
+    "avgGradePct": 3.5,
+    "maxGradePct": 9.0
+   },
+   {
+    "summitLat": 36.95776,
+    "summitLon": -3.72521,
+    "summitEleM": 1330,
+    "startKm": 70.89,
+    "summitKm": 79.12,
+    "lengthKm": 8.23,
+    "gainM": 310,
+    "avgGradePct": 3.8,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 37.30426,
+    "summitLon": -3.99545,
+    "summitEleM": 1047,
+    "startKm": 143.24,
+    "summitKm": 155.09,
+    "lengthKm": 11.85,
+    "gainM": 495,
+    "avgGradePct": 4.2,
+    "maxGradePct": 7.8
+   }
+  ],
+  "vuelta-2026-stage-14": [
+   {
+    "summitLat": 37.78915,
+    "summitLon": -3.60907,
+    "summitEleM": 761,
+    "startKm": 7.72,
+    "summitKm": 14.33,
+    "lengthKm": 6.6,
+    "gainM": 240,
+    "avgGradePct": 3.6,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 37.78574,
+    "summitLon": -3.54359,
+    "summitEleM": 946,
+    "startKm": 34.25,
+    "summitKm": 37.18,
+    "lengthKm": 2.93,
+    "gainM": 165,
+    "avgGradePct": 5.6,
+    "maxGradePct": 8.2
+   },
+   {
+    "summitLat": 37.75045,
+    "summitLon": -3.70318,
+    "summitEleM": 604,
+    "startKm": 58.29,
+    "summitKm": 61.59,
+    "lengthKm": 3.3,
+    "gainM": 126,
+    "avgGradePct": 3.8,
+    "maxGradePct": 8.2
+   },
+   {
+    "summitLat": 37.7557,
+    "summitLon": -3.79455,
+    "summitEleM": 593,
+    "startKm": 66.65,
+    "summitKm": 71.07,
+    "lengthKm": 4.42,
+    "gainM": 198,
+    "avgGradePct": 4.5,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 37.72665,
+    "summitLon": -3.8055,
+    "summitEleM": 760,
+    "startKm": 71.49,
+    "summitKm": 75.7,
+    "lengthKm": 4.21,
+    "gainM": 175,
+    "avgGradePct": 4.2,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 37.6519,
+    "summitLon": -3.83034,
+    "summitEleM": 1189,
+    "startKm": 79.07,
+    "summitKm": 90.33,
+    "lengthKm": 11.26,
+    "gainM": 606,
+    "avgGradePct": 5.4,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 37.59743,
+    "summitLon": -3.90466,
+    "summitEleM": 755,
+    "startKm": 105.71,
+    "summitKm": 108.6,
+    "lengthKm": 2.89,
+    "gainM": 136,
+    "avgGradePct": 4.7,
+    "maxGradePct": 7.1
+   },
+   {
+    "summitLat": 37.54837,
+    "summitLon": -3.91163,
+    "summitEleM": 819,
+    "startKm": 120.57,
+    "summitKm": 123.84,
+    "lengthKm": 3.27,
+    "gainM": 176,
+    "avgGradePct": 5.4,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 37.56576,
+    "summitLon": -3.87086,
+    "summitEleM": 1087,
+    "startKm": 124.18,
+    "summitKm": 129.43,
+    "lengthKm": 5.25,
+    "gainM": 277,
+    "avgGradePct": 5.3,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 37.59004,
+    "summitLon": -3.81243,
+    "summitEleM": 975,
+    "startKm": 134.64,
+    "summitKm": 136.86,
+    "lengthKm": 2.22,
+    "gainM": 104,
+    "avgGradePct": 4.7,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 37.63111,
+    "summitLon": -3.77508,
+    "summitEleM": 1818,
+    "startKm": 138.2,
+    "summitKm": 150.75,
+    "lengthKm": 12.55,
+    "gainM": 909,
+    "avgGradePct": 7.2,
+    "maxGradePct": 18.1
+   }
+  ],
+  "vuelta-2026-stage-15": [
+   {
+    "summitLat": 37.92296,
+    "summitLon": -5.09854,
+    "summitEleM": 498,
+    "startKm": 30.83,
+    "summitKm": 39.25,
+    "lengthKm": 8.42,
+    "gainM": 338,
+    "avgGradePct": 4.0,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 38.02728,
+    "summitLon": -5.0499,
+    "summitEleM": 530,
+    "startKm": 55.97,
+    "summitKm": 59.39,
+    "lengthKm": 3.42,
+    "gainM": 110,
+    "avgGradePct": 3.2,
+    "maxGradePct": 5.5
+   },
+   {
+    "summitLat": 38.07402,
+    "summitLon": -5.04077,
+    "summitEleM": 786,
+    "startKm": 60.31,
+    "summitKm": 68.1,
+    "lengthKm": 7.79,
+    "gainM": 270,
+    "avgGradePct": 3.5,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 38.18161,
+    "summitLon": -5.00831,
+    "summitEleM": 608,
+    "startKm": 89.49,
+    "summitKm": 92.82,
+    "lengthKm": 3.33,
+    "gainM": 133,
+    "avgGradePct": 4.0,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 38.07678,
+    "summitLon": -5.00371,
+    "summitEleM": 732,
+    "startKm": 120.44,
+    "summitKm": 126.04,
+    "lengthKm": 5.6,
+    "gainM": 254,
+    "avgGradePct": 4.5,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 37.96401,
+    "summitLon": -4.97141,
+    "summitEleM": 431,
+    "startKm": 145.02,
+    "summitKm": 147.41,
+    "lengthKm": 2.4,
+    "gainM": 138,
+    "avgGradePct": 5.8,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 37.94264,
+    "summitLon": -4.93548,
+    "summitEleM": 523,
+    "startKm": 151.51,
+    "summitKm": 157.53,
+    "lengthKm": 6.02,
+    "gainM": 328,
+    "avgGradePct": 5.4,
+    "maxGradePct": 6.8
+   }
+  ],
+  "vuelta-2026-stage-16": [
+   {
+    "summitLat": 37.88824,
+    "summitLon": -6.5954,
+    "summitEleM": 699,
+    "startKm": 33.93,
+    "summitKm": 36.79,
+    "lengthKm": 2.86,
+    "gainM": 127,
+    "avgGradePct": 4.4,
+    "maxGradePct": 6.4
+   },
+   {
+    "summitLat": 37.78088,
+    "summitLon": -6.56893,
+    "summitEleM": 457,
+    "startKm": 52.05,
+    "summitKm": 55.17,
+    "lengthKm": 3.12,
+    "gainM": 135,
+    "avgGradePct": 4.3,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 37.54673,
+    "summitLon": -6.53358,
+    "summitEleM": 334,
+    "startKm": 93.48,
+    "summitKm": 98.64,
+    "lengthKm": 5.16,
+    "gainM": 210,
+    "avgGradePct": 4.1,
+    "maxGradePct": 7.9
+   }
+  ],
+  "vuelta-2026-stage-19": [
+   {
+    "summitLat": 36.73367,
+    "summitLon": -4.88286,
+    "summitEleM": 576,
+    "startKm": 74.66,
+    "summitKm": 82.27,
+    "lengthKm": 7.61,
+    "gainM": 376,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 36.74644,
+    "summitLon": -4.92827,
+    "summitEleM": 817,
+    "startKm": 82.94,
+    "summitKm": 89.15,
+    "lengthKm": 6.21,
+    "gainM": 269,
+    "avgGradePct": 4.3,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 36.78889,
+    "summitLon": -4.99375,
+    "summitEleM": 973,
+    "startKm": 95.86,
+    "summitKm": 103.15,
+    "lengthKm": 7.29,
+    "gainM": 415,
+    "avgGradePct": 5.7,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 36.78852,
+    "summitLon": -5.04859,
+    "summitEleM": 1057,
+    "startKm": 105.88,
+    "summitKm": 109.38,
+    "lengthKm": 3.5,
+    "gainM": 173,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 36.69974,
+    "summitLon": -5.11719,
+    "summitEleM": 956,
+    "startKm": 122.94,
+    "summitKm": 128.92,
+    "lengthKm": 5.98,
+    "gainM": 268,
+    "avgGradePct": 4.5,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 36.48416,
+    "summitLon": -5.19995,
+    "summitEleM": 1242,
+    "startKm": 184.99,
+    "summitKm": 204.51,
+    "lengthKm": 19.52,
+    "gainM": 1236,
+    "avgGradePct": 6.3,
+    "maxGradePct": 13.8
+   }
+  ],
+  "vuelta-2026-stage-20": [
+   {
+    "summitLat": 37.29319,
+    "summitLon": -3.21951,
+    "summitEleM": 992,
+    "startKm": 31.17,
+    "summitKm": 34.33,
+    "lengthKm": 3.16,
+    "gainM": 116,
+    "avgGradePct": 3.7,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 37.1616,
+    "summitLon": -3.47768,
+    "summitEleM": 975,
+    "startKm": 72.71,
+    "summitKm": 76.97,
+    "lengthKm": 4.27,
+    "gainM": 220,
+    "avgGradePct": 5.2,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 37.16085,
+    "summitLon": -3.45336,
+    "summitEleM": 1081,
+    "startKm": 77.59,
+    "summitKm": 79.61,
+    "lengthKm": 2.02,
+    "gainM": 119,
+    "avgGradePct": 5.9,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 37.13316,
+    "summitLon": -3.43313,
+    "summitEleM": 1670,
+    "startKm": 82.49,
+    "summitKm": 89.58,
+    "lengthKm": 7.09,
+    "gainM": 687,
+    "avgGradePct": 9.7,
+    "maxGradePct": 18.5
+   },
+   {
+    "summitLat": 37.13701,
+    "summitLon": -3.47131,
+    "summitEleM": 1480,
+    "startKm": 118.14,
+    "summitKm": 127.29,
+    "lengthKm": 9.16,
+    "gainM": 678,
+    "avgGradePct": 7.4,
+    "maxGradePct": 13.5
+   },
+   {
+    "summitLat": 37.1616,
+    "summitLon": -3.47768,
+    "summitEleM": 975,
+    "startKm": 137.68,
+    "summitKm": 141.45,
+    "lengthKm": 3.77,
+    "gainM": 200,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 37.16085,
+    "summitLon": -3.45336,
+    "summitEleM": 1081,
+    "startKm": 142.06,
+    "summitKm": 144.08,
+    "lengthKm": 2.02,
+    "gainM": 119,
+    "avgGradePct": 5.9,
+    "maxGradePct": 8.4
+   },
+   {
+    "summitLat": 37.13316,
+    "summitLon": -3.43313,
+    "summitEleM": 1670,
+    "startKm": 146.96,
+    "summitKm": 154.05,
+    "lengthKm": 7.08,
+    "gainM": 687,
+    "avgGradePct": 9.7,
+    "maxGradePct": 18.5
+   },
+   {
+    "summitLat": 37.1616,
+    "summitLon": -3.47768,
+    "summitEleM": 975,
+    "startKm": 168.58,
+    "summitKm": 172.35,
+    "lengthKm": 3.76,
+    "gainM": 200,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 37.16085,
+    "summitLon": -3.45336,
+    "summitEleM": 1081,
+    "startKm": 172.96,
+    "summitKm": 174.98,
+    "lengthKm": 2.02,
+    "gainM": 119,
+    "avgGradePct": 5.9,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 37.1746,
+    "summitLon": -3.36898,
+    "summitEleM": 1880,
+    "startKm": 176.89,
+    "summitKm": 185.2,
+    "lengthKm": 8.31,
+    "gainM": 820,
+    "avgGradePct": 9.9,
+    "maxGradePct": 13.8
+   }
+  ],
+  "vuelta-2026-stage-21": [
+   {
+    "summitLat": 37.17149,
+    "summitLon": -3.58044,
+    "summitEleM": 816,
+    "startKm": 69.05,
+    "summitKm": 72.85,
+    "lengthKm": 3.8,
+    "gainM": 140,
+    "avgGradePct": 3.7,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 37.17149,
+    "summitLon": -3.58044,
+    "summitEleM": 816,
+    "startKm": 76.91,
+    "summitKm": 80.71,
+    "lengthKm": 3.8,
+    "gainM": 140,
+    "avgGradePct": 3.7,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 37.17149,
+    "summitLon": -3.58044,
+    "summitEleM": 816,
+    "startKm": 84.77,
+    "summitKm": 88.57,
+    "lengthKm": 3.8,
+    "gainM": 140,
+    "avgGradePct": 3.7,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 37.17433,
+    "summitLon": -3.58558,
+    "summitEleM": 779,
+    "startKm": 92.64,
+    "summitKm": 95.87,
+    "lengthKm": 3.23,
+    "gainM": 102,
+    "avgGradePct": 3.2,
+    "maxGradePct": 9.4
+   }
+  ],
+  "tdf-2026-stage-02": [
+   {
+    "summitLat": 41.32648,
+    "summitLon": 1.94705,
+    "summitEleM": 410,
+    "startKm": 85.61,
+    "summitKm": 94.0,
+    "lengthKm": 8.39,
+    "gainM": 395,
+    "avgGradePct": 4.7,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 41.4192,
+    "summitLon": 2.06139,
+    "summitEleM": 352,
+    "startKm": 122.78,
+    "summitKm": 130.38,
+    "lengthKm": 7.59,
+    "gainM": 328,
+    "avgGradePct": 4.3,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 41.36455,
+    "summitLon": 2.16535,
+    "summitEleM": 167,
+    "startKm": 148.69,
+    "summitKm": 150.92,
+    "lengthKm": 2.23,
+    "gainM": 151,
+    "avgGradePct": 6.8,
+    "maxGradePct": 11.5
+   },
+   {
+    "summitLat": 41.36455,
+    "summitLon": 2.16534,
+    "summitEleM": 169,
+    "startKm": 160.97,
+    "summitKm": 163.2,
+    "lengthKm": 2.23,
+    "gainM": 153,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.9
+   },
+   {
+    "summitLat": 41.36455,
+    "summitLon": 2.16534,
+    "summitEleM": 169,
+    "startKm": 173.25,
+    "summitKm": 175.48,
+    "lengthKm": 2.23,
+    "gainM": 153,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.8
+   }
+  ],
+  "tdf-2026-stage-03": [
+   {
+    "summitLat": 42.33603,
+    "summitLon": 1.99112,
+    "summitEleM": 1790,
+    "startKm": 113.58,
+    "summitKm": 121.61,
+    "lengthKm": 8.03,
+    "gainM": 534,
+    "avgGradePct": 6.6,
+    "maxGradePct": 12.7
+   },
+   {
+    "summitLat": 42.47163,
+    "summitLon": 2.05333,
+    "summitEleM": 1478,
+    "startKm": 156.87,
+    "summitKm": 160.77,
+    "lengthKm": 3.9,
+    "gainM": 180,
+    "avgGradePct": 4.6,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 42.56343,
+    "summitLon": 2.06646,
+    "summitEleM": 1793,
+    "startKm": 178.57,
+    "summitKm": 186.06,
+    "lengthKm": 7.49,
+    "gainM": 288,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.8
+   }
+  ],
+  "tdf-2026-stage-04": [
+   {
+    "summitLat": 42.86168,
+    "summitLon": 2.12165,
+    "summitEleM": 886,
+    "startKm": 49.45,
+    "summitKm": 60.66,
+    "lengthKm": 11.2,
+    "gainM": 608,
+    "avgGradePct": 5.4,
+    "maxGradePct": 9.0
+   },
+   {
+    "summitLat": 42.75625,
+    "summitLon": 1.84391,
+    "summitEleM": 1452,
+    "startKm": 86.54,
+    "summitKm": 93.21,
+    "lengthKm": 6.66,
+    "gainM": 264,
+    "avgGradePct": 4.0,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 42.89902,
+    "summitLon": 1.45291,
+    "summitEleM": 1239,
+    "startKm": 136.0,
+    "summitKm": 147.22,
+    "lengthKm": 11.23,
+    "gainM": 616,
+    "avgGradePct": 5.5,
+    "maxGradePct": 9.8
+   },
+   {
+    "summitLat": 42.91868,
+    "summitLon": 1.39183,
+    "summitEleM": 1366,
+    "startKm": 153.77,
+    "summitKm": 157.49,
+    "lengthKm": 3.72,
+    "gainM": 417,
+    "avgGradePct": 11.2,
+    "maxGradePct": 16.9
+   }
+  ],
+  "tdf-2026-stage-05": [
+   {
+    "summitLat": 42.94317,
+    "summitLon": 0.32618,
+    "summitEleM": 1477,
+    "startKm": 21.22,
+    "summitKm": 37.94,
+    "lengthKm": 16.72,
+    "gainM": 821,
+    "avgGradePct": 4.9,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 42.9084,
+    "summitLon": 0.14529,
+    "summitEleM": 2106,
+    "startKm": 50.34,
+    "summitKm": 67.41,
+    "lengthKm": 17.07,
+    "gainM": 1259,
+    "avgGradePct": 7.4,
+    "maxGradePct": 11.1
+   }
+  ],
+  "tdf-2026-stage-06": [
+   {
+    "summitLat": 43.1179,
+    "summitLon": 0.07045,
+    "summitEleM": 527,
+    "startKm": 48.28,
+    "summitKm": 50.88,
+    "lengthKm": 2.6,
+    "gainM": 137,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 43.0803,
+    "summitLon": 0.35449,
+    "summitEleM": 661,
+    "startKm": 73.9,
+    "summitKm": 84.71,
+    "lengthKm": 10.81,
+    "gainM": 348,
+    "avgGradePct": 3.2,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 42.94294,
+    "summitLon": 0.3266,
+    "summitEleM": 1481,
+    "startKm": 104.91,
+    "summitKm": 117.85,
+    "lengthKm": 12.94,
+    "gainM": 790,
+    "avgGradePct": 6.1,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 42.90842,
+    "summitLon": 0.14535,
+    "summitEleM": 2106,
+    "startKm": 130.42,
+    "summitKm": 147.56,
+    "lengthKm": 17.14,
+    "gainM": 1252,
+    "avgGradePct": 7.3,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 42.73606,
+    "summitLon": -0.0126,
+    "summitEleM": 1372,
+    "startKm": 167.27,
+    "summitKm": 185.94,
+    "lengthKm": 18.67,
+    "gainM": 678,
+    "avgGradePct": 3.6,
+    "maxGradePct": 7.2
+   }
+  ],
+  "tdf-2026-stage-09": [
+   {
+    "summitLat": 45.07706,
+    "summitLon": 1.69992,
+    "summitEleM": 403,
+    "startKm": 22.54,
+    "summitKm": 28.85,
+    "lengthKm": 6.31,
+    "gainM": 214,
+    "avgGradePct": 3.4,
+    "maxGradePct": 6.0
+   },
+   {
+    "summitLat": 45.3078,
+    "summitLon": 1.77627,
+    "summitEleM": 420,
+    "startKm": 73.59,
+    "summitKm": 76.87,
+    "lengthKm": 3.28,
+    "gainM": 186,
+    "avgGradePct": 5.7,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 45.37805,
+    "summitLon": 1.80266,
+    "summitEleM": 462,
+    "startKm": 82.22,
+    "summitKm": 87.14,
+    "lengthKm": 4.93,
+    "gainM": 200,
+    "avgGradePct": 4.1,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 45.47202,
+    "summitLon": 1.85193,
+    "summitEleM": 889,
+    "startKm": 100.54,
+    "summitKm": 104.48,
+    "lengthKm": 3.95,
+    "gainM": 275,
+    "avgGradePct": 7.0,
+    "maxGradePct": 12.6
+   },
+   {
+    "summitLat": 45.51912,
+    "summitLon": 1.86714,
+    "summitEleM": 822,
+    "startKm": 123.98,
+    "summitKm": 128.81,
+    "lengthKm": 4.84,
+    "gainM": 281,
+    "avgGradePct": 5.8,
+    "maxGradePct": 10.7
+   }
+  ],
+  "tdf-2026-stage-10": [
+   {
+    "summitLat": 44.77581,
+    "summitLon": 2.36364,
+    "summitEleM": 733,
+    "startKm": 14.45,
+    "summitKm": 17.1,
+    "lengthKm": 2.65,
+    "gainM": 129,
+    "avgGradePct": 4.9,
+    "maxGradePct": 10.6
+   },
+   {
+    "summitLat": 44.95129,
+    "summitLon": 2.68027,
+    "summitEleM": 1042,
+    "startKm": 58.88,
+    "summitKm": 68.03,
+    "lengthKm": 9.15,
+    "gainM": 374,
+    "avgGradePct": 4.1,
+    "maxGradePct": 9.5
+   },
+   {
+    "summitLat": 45.02497,
+    "summitLon": 2.81993,
+    "summitEleM": 1362,
+    "startKm": 85.32,
+    "summitKm": 97.68,
+    "lengthKm": 12.36,
+    "gainM": 548,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 45.05236,
+    "summitLon": 2.79414,
+    "summitEleM": 1386,
+    "startKm": 100.27,
+    "summitKm": 103.36,
+    "lengthKm": 3.09,
+    "gainM": 179,
+    "avgGradePct": 5.8,
+    "maxGradePct": 7.1
+   },
+   {
+    "summitLat": 45.14743,
+    "summitLon": 2.81447,
+    "summitEleM": 1203,
+    "startKm": 111.75,
+    "summitKm": 119.74,
+    "lengthKm": 7.99,
+    "gainM": 313,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 45.11335,
+    "summitLon": 2.67286,
+    "summitEleM": 1576,
+    "startKm": 123.85,
+    "summitKm": 134.88,
+    "lengthKm": 11.03,
+    "gainM": 521,
+    "avgGradePct": 4.7,
+    "maxGradePct": 12.7
+   },
+   {
+    "summitLat": 45.05892,
+    "summitLon": 2.67564,
+    "summitEleM": 1305,
+    "startKm": 146.47,
+    "summitKm": 151.39,
+    "lengthKm": 4.92,
+    "gainM": 381,
+    "avgGradePct": 7.7,
+    "maxGradePct": 14.5
+   },
+   {
+    "summitLat": 45.08455,
+    "summitLon": 2.73218,
+    "summitEleM": 1294,
+    "startKm": 156.95,
+    "summitKm": 163.05,
+    "lengthKm": 6.1,
+    "gainM": 281,
+    "avgGradePct": 4.6,
+    "maxGradePct": 8.5
+   }
+  ],
+  "tdf-2026-stage-12": [
+   {
+    "summitLat": 46.7153,
+    "summitLon": 4.66563,
+    "summitEleM": 378,
+    "startKm": 156.22,
+    "summitKm": 159.1,
+    "lengthKm": 2.88,
+    "gainM": 104,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.3
+   }
+  ],
+  "tdf-2026-stage-13": [
+   {
+    "summitLat": 47.82076,
+    "summitLon": 6.83634,
+    "summitEleM": 1168,
+    "startKm": 160.39,
+    "summitKm": 174.08,
+    "lengthKm": 13.69,
+    "gainM": 674,
+    "avgGradePct": 4.9,
+    "maxGradePct": 9.9
+   }
+  ],
+  "tdf-2026-stage-14": [
+   {
+    "summitLat": 47.84477,
+    "summitLon": 7.14569,
+    "summitEleM": 844,
+    "startKm": 14.54,
+    "summitKm": 23.34,
+    "lengthKm": 8.8,
+    "gainM": 544,
+    "avgGradePct": 6.2,
+    "maxGradePct": 9.2
+   },
+   {
+    "summitLat": 47.90466,
+    "summitLon": 7.10333,
+    "summitEleM": 1332,
+    "startKm": 29.86,
+    "summitKm": 36.34,
+    "lengthKm": 6.48,
+    "gainM": 498,
+    "avgGradePct": 7.7,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 47.92263,
+    "summitLon": 6.9176,
+    "summitEleM": 892,
+    "startKm": 60.88,
+    "summitKm": 67.9,
+    "lengthKm": 7.03,
+    "gainM": 399,
+    "avgGradePct": 5.7,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 47.91501,
+    "summitLon": 6.89054,
+    "summitEleM": 962,
+    "startKm": 69.28,
+    "summitKm": 70.95,
+    "lengthKm": 1.67,
+    "gainM": 129,
+    "avgGradePct": 7.7,
+    "maxGradePct": 9.5
+   },
+   {
+    "summitLat": 47.82134,
+    "summitLon": 6.83425,
+    "summitEleM": 1169,
+    "startKm": 84.47,
+    "summitKm": 93.76,
+    "lengthKm": 9.29,
+    "gainM": 618,
+    "avgGradePct": 6.6,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 47.78776,
+    "summitLon": 7.02447,
+    "summitEleM": 600,
+    "startKm": 116.04,
+    "summitKm": 119.69,
+    "lengthKm": 3.65,
+    "gainM": 195,
+    "avgGradePct": 5.3,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 47.80689,
+    "summitLon": 7.04328,
+    "summitEleM": 742,
+    "startKm": 120.95,
+    "summitKm": 124.59,
+    "lengthKm": 3.63,
+    "gainM": 183,
+    "avgGradePct": 5.0,
+    "maxGradePct": 8.4
+   },
+   {
+    "summitLat": 47.88435,
+    "summitLon": 7.05018,
+    "summitEleM": 763,
+    "startKm": 136.11,
+    "summitKm": 141.42,
+    "lengthKm": 5.31,
+    "gainM": 370,
+    "avgGradePct": 7.0,
+    "maxGradePct": 12.2
+   },
+   {
+    "summitLat": 47.90628,
+    "summitLon": 7.08698,
+    "summitEleM": 1234,
+    "startKm": 142.4,
+    "summitKm": 148.87,
+    "lengthKm": 6.47,
+    "gainM": 500,
+    "avgGradePct": 7.7,
+    "maxGradePct": 12.9
+   }
+  ],
+  "tdf-2026-stage-15": [
+   {
+    "summitLat": 46.6619,
+    "summitLon": 5.94609,
+    "summitEleM": 721,
+    "startKm": 4.94,
+    "summitKm": 7.29,
+    "lengthKm": 2.35,
+    "gainM": 124,
+    "avgGradePct": 5.3,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 46.56457,
+    "summitLon": 6.00091,
+    "summitEleM": 995,
+    "startKm": 19.18,
+    "summitKm": 21.84,
+    "lengthKm": 2.66,
+    "gainM": 119,
+    "avgGradePct": 4.5,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 46.48165,
+    "summitLon": 6.06228,
+    "summitEleM": 1110,
+    "startKm": 29.72,
+    "summitKm": 37.37,
+    "lengthKm": 7.65,
+    "gainM": 378,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 46.11954,
+    "summitLon": 6.1716,
+    "summitEleM": 1166,
+    "startKm": 127.98,
+    "summitKm": 135.45,
+    "lengthKm": 7.47,
+    "gainM": 664,
+    "avgGradePct": 8.9,
+    "maxGradePct": 16.4
+   },
+   {
+    "summitLat": 46.09779,
+    "summitLon": 6.21757,
+    "summitEleM": 853,
+    "startKm": 142.69,
+    "summitKm": 146.51,
+    "lengthKm": 3.82,
+    "gainM": 212,
+    "avgGradePct": 5.5,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.03277,
+    "summitLon": 6.42713,
+    "summitEleM": 1499,
+    "startKm": 168.0,
+    "summitKm": 182.38,
+    "lengthKm": 14.37,
+    "gainM": 1052,
+    "avgGradePct": 7.3,
+    "maxGradePct": 13.8
+   }
+  ],
+  "tdf-2026-stage-16": [
+   {
+    "summitLat": 46.36099,
+    "summitLon": 6.57138,
+    "summitEleM": 807,
+    "startKm": 0.0,
+    "summitKm": 10.55,
+    "lengthKm": 10.55,
+    "gainM": 415,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.2
+   }
+  ],
+  "tdf-2026-stage-17": [
+   {
+    "summitLat": 45.69736,
+    "summitLon": 6.1134,
+    "summitEleM": 702,
+    "startKm": 38.5,
+    "summitKm": 41.61,
+    "lengthKm": 3.11,
+    "gainM": 118,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.0
+   },
+   {
+    "summitLat": 45.59531,
+    "summitLon": 6.05992,
+    "summitEleM": 1134,
+    "startKm": 50.19,
+    "summitKm": 54.81,
+    "lengthKm": 4.62,
+    "gainM": 239,
+    "avgGradePct": 5.2,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 45.34724,
+    "summitLon": 5.59492,
+    "summitEleM": 298,
+    "startKm": 173.3,
+    "summitKm": 176.52,
+    "lengthKm": 3.22,
+    "gainM": 104,
+    "avgGradePct": 3.2,
+    "maxGradePct": 5.2
+   }
+  ],
+  "tdf-2026-stage-18": [
+   {
+    "summitLat": 45.14636,
+    "summitLon": 5.59917,
+    "summitEleM": 963,
+    "startKm": 20.7,
+    "summitKm": 40.27,
+    "lengthKm": 19.57,
+    "gainM": 766,
+    "avgGradePct": 3.9,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 45.13937,
+    "summitLon": 5.60599,
+    "summitEleM": 1102,
+    "startKm": 41.35,
+    "summitKm": 45.89,
+    "lengthKm": 4.54,
+    "gainM": 149,
+    "avgGradePct": 3.3,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": 44.96207,
+    "summitLon": 5.71249,
+    "summitEleM": 858,
+    "startKm": 80.42,
+    "summitKm": 92.71,
+    "lengthKm": 12.29,
+    "gainM": 552,
+    "avgGradePct": 4.5,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 44.95269,
+    "summitLon": 5.756,
+    "summitEleM": 963,
+    "startKm": 94.69,
+    "summitKm": 98.12,
+    "lengthKm": 3.43,
+    "gainM": 154,
+    "avgGradePct": 4.5,
+    "maxGradePct": 6.0
+   },
+   {
+    "summitLat": 44.87575,
+    "summitLon": 5.8335,
+    "summitEleM": 852,
+    "startKm": 108.56,
+    "summitKm": 112.84,
+    "lengthKm": 4.29,
+    "gainM": 239,
+    "avgGradePct": 5.6,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 44.84062,
+    "summitLon": 5.87356,
+    "summitEleM": 909,
+    "startKm": 115.44,
+    "summitKm": 119.61,
+    "lengthKm": 4.17,
+    "gainM": 141,
+    "avgGradePct": 3.4,
+    "maxGradePct": 5.8
+   },
+   {
+    "summitLat": 44.64503,
+    "summitLon": 6.19984,
+    "summitEleM": 1245,
+    "startKm": 161.73,
+    "summitKm": 165.65,
+    "lengthKm": 3.92,
+    "gainM": 193,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 44.69636,
+    "summitLon": 6.32178,
+    "summitEleM": 1819,
+    "startKm": 173.49,
+    "summitKm": 184.13,
+    "lengthKm": 10.64,
+    "gainM": 635,
+    "avgGradePct": 6.0,
+    "maxGradePct": 9.5
+   }
+  ],
+  "tdf-2026-stage-19": [
+   {
+    "summitLat": 44.60971,
+    "summitLon": 6.08049,
+    "summitEleM": 1243,
+    "startKm": 0.0,
+    "summitKm": 5.11,
+    "lengthKm": 5.11,
+    "gainM": 367,
+    "avgGradePct": 7.2,
+    "maxGradePct": 12.7
+   },
+   {
+    "summitLat": 44.69305,
+    "summitLon": 5.98354,
+    "summitEleM": 1666,
+    "startKm": 18.33,
+    "summitKm": 25.86,
+    "lengthKm": 7.53,
+    "gainM": 606,
+    "avgGradePct": 8.1,
+    "maxGradePct": 13.9
+   },
+   {
+    "summitLat": 44.81905,
+    "summitLon": 5.94561,
+    "summitEleM": 930,
+    "startKm": 53.14,
+    "summitKm": 56.28,
+    "lengthKm": 3.15,
+    "gainM": 160,
+    "avgGradePct": 5.1,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 44.90029,
+    "summitLon": 5.90595,
+    "summitEleM": 792,
+    "startKm": 77.94,
+    "summitKm": 81.02,
+    "lengthKm": 3.08,
+    "gainM": 112,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.8
+   },
+   {
+    "summitLat": 45.0125,
+    "summitLon": 5.96823,
+    "summitEleM": 1369,
+    "startKm": 85.88,
+    "summitKm": 99.97,
+    "lengthKm": 14.09,
+    "gainM": 570,
+    "avgGradePct": 4.0,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 45.09457,
+    "summitLon": 6.07091,
+    "summitEleM": 1840,
+    "startKm": 111.86,
+    "summitKm": 128.12,
+    "lengthKm": 16.26,
+    "gainM": 1123,
+    "avgGradePct": 6.9,
+    "maxGradePct": 14.4
+   }
+  ],
+  "tdf-2026-stage-20": [
+   {
+    "summitLat": 45.20942,
+    "summitLon": 6.04622,
+    "summitEleM": 1289,
+    "startKm": 9.62,
+    "summitKm": 16.64,
+    "lengthKm": 7.02,
+    "gainM": 494,
+    "avgGradePct": 7.0,
+    "maxGradePct": 13.2
+   },
+   {
+    "summitLat": 45.222,
+    "summitLon": 6.13676,
+    "summitEleM": 1790,
+    "startKm": 18.38,
+    "summitKm": 27.21,
+    "lengthKm": 8.83,
+    "gainM": 604,
+    "avgGradePct": 6.8,
+    "maxGradePct": 13.6
+   },
+   {
+    "summitLat": 45.22751,
+    "summitLon": 6.20317,
+    "summitEleM": 2061,
+    "startKm": 28.74,
+    "summitKm": 33.78,
+    "lengthKm": 5.04,
+    "gainM": 331,
+    "avgGradePct": 6.6,
+    "maxGradePct": 9.1
+   },
+   {
+    "summitLat": 45.20103,
+    "summitLon": 6.44562,
+    "summitEleM": 1566,
+    "startKm": 74.09,
+    "summitKm": 87.11,
+    "lengthKm": 13.02,
+    "gainM": 865,
+    "avgGradePct": 6.6,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 45.06409,
+    "summitLon": 6.40784,
+    "summitEleM": 2628,
+    "startKm": 92.27,
+    "summitKm": 110.08,
+    "lengthKm": 17.81,
+    "gainM": 1220,
+    "avgGradePct": 6.8,
+    "maxGradePct": 11.6
+   },
+   {
+    "summitLat": 45.05384,
+    "summitLon": 6.14452,
+    "summitEleM": 1200,
+    "startKm": 143.23,
+    "summitKm": 144.77,
+    "lengthKm": 1.54,
+    "gainM": 145,
+    "avgGradePct": 9.5,
+    "maxGradePct": 16.9
+   },
+   {
+    "summitLat": 45.08866,
+    "summitLon": 6.14942,
+    "summitEleM": 1989,
+    "startKm": 145.3,
+    "summitKm": 155.7,
+    "lengthKm": 10.41,
+    "gainM": 806,
+    "avgGradePct": 7.7,
+    "maxGradePct": 12.8
+   },
+   {
+    "summitLat": 45.09468,
+    "summitLon": 6.07086,
+    "summitEleM": 1842,
+    "startKm": 166.67,
+    "summitKm": 170.5,
+    "lengthKm": 3.83,
+    "gainM": 236,
+    "avgGradePct": 6.2,
+    "maxGradePct": 9.9
+   }
+  ],
+  "giro-2026-stage-02": [
+   {
+    "summitLat": 43.0911,
+    "summitLon": 25.70223,
+    "summitEleM": 448,
+    "startKm": 204.84,
+    "summitKm": 210.33,
+    "lengthKm": 5.49,
+    "gainM": 263,
+    "avgGradePct": 4.8,
+    "maxGradePct": 11.4
+   }
+  ],
+  "giro-2026-stage-03": [
+   {
+    "summitLat": 42.2761,
+    "summitLon": 23.62443,
+    "summitEleM": 1330,
+    "startKm": 78.04,
+    "summitKm": 103.8,
+    "lengthKm": 25.76,
+    "gainM": 825,
+    "avgGradePct": 3.2,
+    "maxGradePct": 8.4
+   }
+  ],
+  "giro-2026-stage-04": [
+   {
+    "summitLat": 39.30566,
+    "summitLon": 16.12093,
+    "summitEleM": 931,
+    "startKm": 81.45,
+    "summitKm": 101.53,
+    "lengthKm": 20.08,
+    "gainM": 924,
+    "avgGradePct": 4.6,
+    "maxGradePct": 8.7
+   }
+  ],
+  "giro-2026-stage-05": [
+   {
+    "summitLat": 40.02285,
+    "summitLon": 15.87535,
+    "summitEleM": 750,
+    "startKm": 10.37,
+    "summitKm": 23.2,
+    "lengthKm": 12.83,
+    "gainM": 634,
+    "avgGradePct": 4.9,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 40.01846,
+    "summitLon": 15.9232,
+    "summitEleM": 837,
+    "startKm": 24.69,
+    "summitKm": 27.52,
+    "lengthKm": 2.83,
+    "gainM": 105,
+    "avgGradePct": 3.7,
+    "maxGradePct": 4.6
+   },
+   {
+    "summitLat": 40.03478,
+    "summitLon": 15.99453,
+    "summitEleM": 884,
+    "startKm": 32.83,
+    "summitKm": 40.63,
+    "lengthKm": 7.8,
+    "gainM": 270,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.8
+   },
+   {
+    "summitLat": 40.3397,
+    "summitLon": 15.90009,
+    "summitEleM": 948,
+    "startKm": 134.75,
+    "summitKm": 145.3,
+    "lengthKm": 10.55,
+    "gainM": 388,
+    "avgGradePct": 3.7,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 40.38372,
+    "summitLon": 15.86375,
+    "summitEleM": 1408,
+    "startKm": 148.19,
+    "summitKm": 154.67,
+    "lengthKm": 6.48,
+    "gainM": 596,
+    "avgGradePct": 9.2,
+    "maxGradePct": 14.5
+   },
+   {
+    "summitLat": 40.46825,
+    "summitLon": 15.77197,
+    "summitEleM": 1311,
+    "startKm": 169.41,
+    "summitKm": 172.04,
+    "lengthKm": 2.63,
+    "gainM": 107,
+    "avgGradePct": 4.1,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 40.63637,
+    "summitLon": 15.79928,
+    "summitEleM": 808,
+    "startKm": 196.32,
+    "summitKm": 198.8,
+    "lengthKm": 2.47,
+    "gainM": 135,
+    "avgGradePct": 5.5,
+    "maxGradePct": 8.3
+   }
+  ],
+  "giro-2026-stage-06": [
+   {
+    "summitLat": 40.7016,
+    "summitLon": 14.70916,
+    "summitEleM": 208,
+    "startKm": 38.5,
+    "summitKm": 41.64,
+    "lengthKm": 3.14,
+    "gainM": 125,
+    "avgGradePct": 4.0,
+    "maxGradePct": 7.8
+   }
+  ],
+  "giro-2026-stage-07": [
+   {
+    "summitLat": 41.30034,
+    "summitLon": 13.50415,
+    "summitEleM": 266,
+    "startKm": 0.0,
+    "summitKm": 8.02,
+    "lengthKm": 8.02,
+    "gainM": 250,
+    "avgGradePct": 3.1,
+    "maxGradePct": 9.0
+   },
+   {
+    "summitLat": 41.44143,
+    "summitLon": 14.01362,
+    "summitEleM": 289,
+    "startKm": 100.81,
+    "summitKm": 106.36,
+    "lengthKm": 5.56,
+    "gainM": 216,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.1
+   },
+   {
+    "summitLat": 41.71917,
+    "summitLon": 14.12356,
+    "summitEleM": 1004,
+    "startKm": 129.1,
+    "summitKm": 148.56,
+    "lengthKm": 19.46,
+    "gainM": 714,
+    "avgGradePct": 3.7,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 41.84849,
+    "summitLon": 14.07939,
+    "summitEleM": 1244,
+    "startKm": 158.18,
+    "summitKm": 166.46,
+    "lengthKm": 8.28,
+    "gainM": 444,
+    "avgGradePct": 5.4,
+    "maxGradePct": 11.0
+   },
+   {
+    "summitLat": 42.05425,
+    "summitLon": 14.05264,
+    "summitEleM": 1254,
+    "startKm": 191.31,
+    "summitKm": 196.82,
+    "lengthKm": 5.5,
+    "gainM": 210,
+    "avgGradePct": 3.8,
+    "maxGradePct": 7.0
+   },
+   {
+    "summitLat": 42.16971,
+    "summitLon": 14.11888,
+    "summitEleM": 1656,
+    "startKm": 230.16,
+    "summitKm": 243.9,
+    "lengthKm": 13.75,
+    "gainM": 1152,
+    "avgGradePct": 8.4,
+    "maxGradePct": 13.0
+   }
+  ],
+  "giro-2026-stage-08": [
+   {
+    "summitLat": 43.04958,
+    "summitLon": 13.75033,
+    "summitEleM": 361,
+    "startKm": 98.74,
+    "summitKm": 108.92,
+    "lengthKm": 10.18,
+    "gainM": 359,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 43.092,
+    "summitLon": 13.71206,
+    "summitEleM": 370,
+    "startKm": 115.22,
+    "summitKm": 120.71,
+    "lengthKm": 5.49,
+    "gainM": 270,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 43.18958,
+    "summitLon": 13.756,
+    "summitEleM": 218,
+    "startKm": 143.26,
+    "summitKm": 150.38,
+    "lengthKm": 7.12,
+    "gainM": 215,
+    "avgGradePct": 3.0,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 43.1601,
+    "summitLon": 13.71546,
+    "summitEleM": 309,
+    "startKm": 153.55,
+    "summitKm": 157.16,
+    "lengthKm": 3.61,
+    "gainM": 210,
+    "avgGradePct": 5.8,
+    "maxGradePct": 16.6
+   }
+  ],
+  "giro-2026-stage-09": [
+   {
+    "summitLat": 44.19158,
+    "summitLon": 10.88546,
+    "summitEleM": 808,
+    "startKm": 155.25,
+    "summitKm": 167.64,
+    "lengthKm": 12.39,
+    "gainM": 480,
+    "avgGradePct": 3.9,
+    "maxGradePct": 10.6
+   },
+   {
+    "summitLat": 44.172,
+    "summitLon": 10.85569,
+    "summitEleM": 935,
+    "startKm": 171.25,
+    "summitKm": 174.94,
+    "lengthKm": 3.69,
+    "gainM": 215,
+    "avgGradePct": 5.8,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 44.13265,
+    "summitLon": 10.81435,
+    "summitEleM": 1469,
+    "startKm": 178.05,
+    "summitKm": 183.96,
+    "lengthKm": 5.91,
+    "gainM": 464,
+    "avgGradePct": 7.9,
+    "maxGradePct": 16.1
+   }
+  ],
+  "giro-2026-stage-11": [
+   {
+    "summitLat": 44.17613,
+    "summitLon": 9.73425,
+    "summitEleM": 239,
+    "startKm": 101.64,
+    "summitKm": 104.32,
+    "lengthKm": 2.68,
+    "gainM": 142,
+    "avgGradePct": 5.3,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 44.15432,
+    "summitLon": 9.67341,
+    "summitEleM": 542,
+    "startKm": 105.95,
+    "summitKm": 112.99,
+    "lengthKm": 7.04,
+    "gainM": 354,
+    "avgGradePct": 5.0,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 44.21206,
+    "summitLon": 9.5855,
+    "summitEleM": 619,
+    "startKm": 122.53,
+    "summitKm": 132.64,
+    "lengthKm": 10.11,
+    "gainM": 611,
+    "avgGradePct": 6.0,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 44.32482,
+    "summitLon": 9.37322,
+    "summitEleM": 330,
+    "startKm": 161.61,
+    "summitKm": 168.45,
+    "lengthKm": 6.84,
+    "gainM": 328,
+    "avgGradePct": 4.8,
+    "maxGradePct": 9.8
+   }
+  ],
+  "giro-2026-stage-12": [
+   {
+    "summitLat": 44.43375,
+    "summitLon": 8.4798,
+    "summitEleM": 518,
+    "startKm": 93.07,
+    "summitKm": 108.71,
+    "lengthKm": 15.63,
+    "gainM": 514,
+    "avgGradePct": 3.3,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 44.51774,
+    "summitLon": 8.53748,
+    "summitEleM": 759,
+    "startKm": 115.62,
+    "summitKm": 123.81,
+    "lengthKm": 8.19,
+    "gainM": 375,
+    "avgGradePct": 4.6,
+    "maxGradePct": 10.5
+   }
+  ],
+  "giro-2026-stage-13": [
+   {
+    "summitLat": 45.94966,
+    "summitLon": 8.51522,
+    "summitEleM": 338,
+    "startKm": 161.86,
+    "summitKm": 164.8,
+    "lengthKm": 2.94,
+    "gainM": 144,
+    "avgGradePct": 4.9,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 45.97174,
+    "summitLon": 8.5296,
+    "summitEleM": 586,
+    "startKm": 168.09,
+    "summitKm": 173.77,
+    "lengthKm": 5.69,
+    "gainM": 336,
+    "avgGradePct": 5.9,
+    "maxGradePct": 12.8
+   }
+  ],
+  "giro-2026-stage-14": [
+   {
+    "summitLat": 45.78894,
+    "summitLon": 7.46476,
+    "summitEleM": 1625,
+    "startKm": 2.44,
+    "summitKm": 18.19,
+    "lengthKm": 15.75,
+    "gainM": 972,
+    "avgGradePct": 6.2,
+    "maxGradePct": 11.7
+   },
+   {
+    "summitLat": 45.76861,
+    "summitLon": 7.32169,
+    "summitEleM": 789,
+    "startKm": 43.1,
+    "summitKm": 51.3,
+    "lengthKm": 8.2,
+    "gainM": 251,
+    "avgGradePct": 3.1,
+    "maxGradePct": 7.4
+   },
+   {
+    "summitLat": 45.81772,
+    "summitLon": 7.30515,
+    "summitEleM": 1168,
+    "startKm": 55.82,
+    "summitKm": 61.34,
+    "lengthKm": 5.51,
+    "gainM": 358,
+    "avgGradePct": 6.5,
+    "maxGradePct": 11.7
+   },
+   {
+    "summitLat": 45.74952,
+    "summitLon": 7.28153,
+    "summitEleM": 1282,
+    "startKm": 74.09,
+    "summitKm": 81.73,
+    "lengthKm": 7.64,
+    "gainM": 578,
+    "avgGradePct": 7.6,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 45.7339,
+    "summitLon": 7.20597,
+    "summitEleM": 1592,
+    "startKm": 85.23,
+    "summitKm": 91.53,
+    "lengthKm": 6.3,
+    "gainM": 392,
+    "avgGradePct": 6.2,
+    "maxGradePct": 12.6
+   },
+   {
+    "summitLat": 45.688,
+    "summitLon": 7.31049,
+    "summitEleM": 1790,
+    "startKm": 113.33,
+    "summitKm": 131.44,
+    "lengthKm": 18.11,
+    "gainM": 1185,
+    "avgGradePct": 6.5,
+    "maxGradePct": 10.2
+   }
+  ],
+  "giro-2026-stage-16": [
+   {
+    "summitLat": 46.49018,
+    "summitLon": 8.95005,
+    "summitEleM": 778,
+    "startKm": 24.62,
+    "summitKm": 32.79,
+    "lengthKm": 8.17,
+    "gainM": 338,
+    "avgGradePct": 4.1,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.45493,
+    "summitLon": 8.92365,
+    "summitEleM": 871,
+    "startKm": 40.07,
+    "summitKm": 43.52,
+    "lengthKm": 3.45,
+    "gainM": 254,
+    "avgGradePct": 7.4,
+    "maxGradePct": 11.4
+   },
+   {
+    "summitLat": 46.49018,
+    "summitLon": 8.95005,
+    "summitEleM": 778,
+    "startKm": 49.19,
+    "summitKm": 54.46,
+    "lengthKm": 5.27,
+    "gainM": 276,
+    "avgGradePct": 5.2,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 46.45493,
+    "summitLon": 8.92365,
+    "summitEleM": 871,
+    "startKm": 61.75,
+    "summitKm": 65.2,
+    "lengthKm": 3.45,
+    "gainM": 254,
+    "avgGradePct": 7.4,
+    "maxGradePct": 11.4
+   },
+   {
+    "summitLat": 46.49368,
+    "summitLon": 8.81625,
+    "summitEleM": 1637,
+    "startKm": 83.02,
+    "summitKm": 112.43,
+    "lengthKm": 29.41,
+    "gainM": 1340,
+    "avgGradePct": 4.6,
+    "maxGradePct": 12.2
+   }
+  ],
+  "giro-2026-stage-17": [
+   {
+    "summitLat": 45.66115,
+    "summitLon": 10.10781,
+    "summitEleM": 683,
+    "startKm": 52.45,
+    "summitKm": 62.51,
+    "lengthKm": 10.07,
+    "gainM": 499,
+    "avgGradePct": 5.0,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 45.98342,
+    "summitLon": 10.67061,
+    "summitEleM": 801,
+    "startKm": 132.52,
+    "summitKm": 141.87,
+    "lengthKm": 9.36,
+    "gainM": 334,
+    "avgGradePct": 3.6,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 46.0876,
+    "summitLon": 10.92004,
+    "summitEleM": 803,
+    "startKm": 169.27,
+    "summitKm": 173.3,
+    "lengthKm": 4.03,
+    "gainM": 217,
+    "avgGradePct": 5.4,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 46.15351,
+    "summitLon": 10.98766,
+    "summitEleM": 1011,
+    "startKm": 181.21,
+    "summitKm": 184.47,
+    "lengthKm": 3.26,
+    "gainM": 182,
+    "avgGradePct": 5.6,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 46.17422,
+    "summitLon": 11.02596,
+    "summitEleM": 1139,
+    "startKm": 185.19,
+    "summitKm": 188.83,
+    "lengthKm": 3.63,
+    "gainM": 136,
+    "avgGradePct": 3.7,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 46.17351,
+    "summitLon": 11.01081,
+    "summitEleM": 1026,
+    "startKm": 193.74,
+    "summitKm": 198.58,
+    "lengthKm": 4.83,
+    "gainM": 188,
+    "avgGradePct": 3.9,
+    "maxGradePct": 9.0
+   }
+  ],
+  "giro-2026-stage-18": [
+   {
+    "summitLat": 46.08322,
+    "summitLon": 11.17245,
+    "summitEleM": 502,
+    "startKm": 17.22,
+    "summitKm": 23.75,
+    "lengthKm": 6.53,
+    "gainM": 311,
+    "avgGradePct": 4.8,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 46.08317,
+    "summitLon": 11.2208,
+    "summitEleM": 548,
+    "startKm": 26.46,
+    "summitKm": 29.6,
+    "lengthKm": 3.15,
+    "gainM": 128,
+    "avgGradePct": 4.1,
+    "maxGradePct": 6.6
+   },
+   {
+    "summitLat": 45.92913,
+    "summitLon": 12.23954,
+    "summitEleM": 262,
+    "startKm": 155.3,
+    "summitKm": 157.4,
+    "lengthKm": 2.1,
+    "gainM": 154,
+    "avgGradePct": 7.3,
+    "maxGradePct": 14.4
+   }
+  ],
+  "giro-2026-stage-19": [
+   {
+    "summitLat": 46.08124,
+    "summitLon": 11.97629,
+    "summitEleM": 474,
+    "startKm": 3.16,
+    "summitKm": 7.3,
+    "lengthKm": 4.13,
+    "gainM": 137,
+    "avgGradePct": 3.3,
+    "maxGradePct": 6.7
+   },
+   {
+    "summitLat": 46.32422,
+    "summitLon": 12.09554,
+    "summitEleM": 1600,
+    "startKm": 37.12,
+    "summitKm": 58.99,
+    "lengthKm": 21.87,
+    "gainM": 1142,
+    "avgGradePct": 5.2,
+    "maxGradePct": 13.1
+   },
+   {
+    "summitLat": 46.38335,
+    "summitLon": 12.13069,
+    "summitEleM": 1495,
+    "startKm": 67.22,
+    "summitKm": 73.19,
+    "lengthKm": 5.97,
+    "gainM": 541,
+    "avgGradePct": 9.1,
+    "maxGradePct": 13.7
+   },
+   {
+    "summitLat": 46.42102,
+    "summitLon": 12.10561,
+    "summitEleM": 1764,
+    "startKm": 75.41,
+    "summitKm": 82.02,
+    "lengthKm": 6.61,
+    "gainM": 420,
+    "avgGradePct": 6.4,
+    "maxGradePct": 9.5
+   },
+   {
+    "summitLat": 46.48253,
+    "summitLon": 12.05455,
+    "summitEleM": 2224,
+    "startKm": 91.64,
+    "summitKm": 101.27,
+    "lengthKm": 9.63,
+    "gainM": 904,
+    "avgGradePct": 9.4,
+    "maxGradePct": 13.9
+   },
+   {
+    "summitLat": 46.51875,
+    "summitLon": 12.0087,
+    "summitEleM": 2098,
+    "startKm": 110.06,
+    "summitKm": 121.52,
+    "lengthKm": 11.46,
+    "gainM": 588,
+    "avgGradePct": 5.1,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 46.41306,
+    "summitLon": 12.0405,
+    "summitEleM": 1454,
+    "startKm": 144.71,
+    "summitKm": 150.03,
+    "lengthKm": 5.32,
+    "gainM": 482,
+    "avgGradePct": 9.1,
+    "maxGradePct": 14.1
+   }
+  ],
+  "giro-2026-stage-20": [
+   {
+    "summitLat": 46.22405,
+    "summitLon": 12.9746,
+    "summitEleM": 266,
+    "startKm": 70.95,
+    "summitKm": 72.95,
+    "lengthKm": 2.0,
+    "gainM": 119,
+    "avgGradePct": 5.9,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.22898,
+    "summitLon": 12.92088,
+    "summitEleM": 556,
+    "startKm": 77.95,
+    "summitKm": 85.05,
+    "lengthKm": 7.09,
+    "gainM": 382,
+    "avgGradePct": 5.4,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 46.11191,
+    "summitLon": 12.51686,
+    "summitEleM": 1290,
+    "startKm": 131.41,
+    "summitKm": 146.06,
+    "lengthKm": 14.65,
+    "gainM": 1128,
+    "avgGradePct": 7.7,
+    "maxGradePct": 15.2
+   },
+   {
+    "summitLat": 46.10934,
+    "summitLon": 12.51712,
+    "summitEleM": 1284,
+    "startKm": 183.57,
+    "summitKm": 197.92,
+    "lengthKm": 14.35,
+    "gainM": 1123,
+    "avgGradePct": 7.8,
+    "maxGradePct": 15.2
+   }
+  ],
+  "giro-women-2026-stage-03": [
+   {
+    "summitLat": 46.25337,
+    "summitLon": 13.16668,
+    "summitEleM": 379,
+    "startKm": 129.43,
+    "summitKm": 133.72,
+    "lengthKm": 4.29,
+    "gainM": 188,
+    "avgGradePct": 4.4,
+    "maxGradePct": 13.5
+   }
+  ],
+  "giro-women-2026-stage-04": [
+   {
+    "summitLat": 46.09261,
+    "summitLon": 12.28105,
+    "summitEleM": 1043,
+    "startKm": 1.43,
+    "summitKm": 12.57,
+    "lengthKm": 11.14,
+    "gainM": 698,
+    "avgGradePct": 6.3,
+    "maxGradePct": 14.9
+   }
+  ],
+  "giro-women-2026-stage-05": [
+   {
+    "summitLat": 46.42062,
+    "summitLon": 12.35562,
+    "summitEleM": 842,
+    "startKm": 14.9,
+    "summitKm": 21.77,
+    "lengthKm": 6.87,
+    "gainM": 314,
+    "avgGradePct": 4.6,
+    "maxGradePct": 8.4
+   },
+   {
+    "summitLat": 46.55737,
+    "summitLon": 12.201,
+    "summitEleM": 1805,
+    "startKm": 45.28,
+    "summitKm": 58.82,
+    "lengthKm": 13.54,
+    "gainM": 685,
+    "avgGradePct": 5.1,
+    "maxGradePct": 11.7
+   },
+   {
+    "summitLat": 46.57075,
+    "summitLon": 12.48594,
+    "summitEleM": 1481,
+    "startKm": 87.0,
+    "summitKm": 95.0,
+    "lengthKm": 8.0,
+    "gainM": 633,
+    "avgGradePct": 7.9,
+    "maxGradePct": 14.0
+   },
+   {
+    "summitLat": 46.57305,
+    "summitLon": 12.57249,
+    "summitEleM": 1326,
+    "startKm": 104.66,
+    "summitKm": 109.98,
+    "lengthKm": 5.32,
+    "gainM": 346,
+    "avgGradePct": 6.5,
+    "maxGradePct": 14.0
+   },
+   {
+    "summitLat": 46.57305,
+    "summitLon": 12.57249,
+    "summitEleM": 1326,
+    "startKm": 119.63,
+    "summitKm": 127.44,
+    "lengthKm": 7.81,
+    "gainM": 415,
+    "avgGradePct": 5.3,
+    "maxGradePct": 14.0
+   }
+  ],
+  "giro-women-2026-stage-07": [
+   {
+    "summitLat": 44.83794,
+    "summitLon": 9.2416,
+    "summitEleM": 721,
+    "startKm": 125.61,
+    "summitKm": 130.06,
+    "lengthKm": 4.44,
+    "gainM": 201,
+    "avgGradePct": 4.5,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 44.84843,
+    "summitLon": 9.19132,
+    "summitEleM": 726,
+    "startKm": 136.31,
+    "summitKm": 140.62,
+    "lengthKm": 4.31,
+    "gainM": 316,
+    "avgGradePct": 7.3,
+    "maxGradePct": 13.5
+   }
+  ],
+  "giro-women-2026-stage-08": [
+   {
+    "summitLat": 45.0724,
+    "summitLon": 7.05176,
+    "summitEleM": 2167,
+    "startKm": 49.3,
+    "summitKm": 72.46,
+    "lengthKm": 23.16,
+    "gainM": 1721,
+    "avgGradePct": 7.4,
+    "maxGradePct": 13.2
+   },
+   {
+    "summitLat": 44.95751,
+    "summitLon": 6.88102,
+    "summitEleM": 2034,
+    "startKm": 88.57,
+    "summitKm": 99.47,
+    "lengthKm": 10.9,
+    "gainM": 532,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.9
+   }
+  ],
+  "giro-women-2026-stage-09": [
+   {
+    "summitLat": 44.7641,
+    "summitLon": 7.24712,
+    "summitEleM": 1250,
+    "startKm": 40.31,
+    "summitKm": 55.22,
+    "lengthKm": 14.9,
+    "gainM": 890,
+    "avgGradePct": 6.0,
+    "maxGradePct": 13.7
+   },
+   {
+    "summitLat": 44.69595,
+    "summitLon": 7.29767,
+    "summitEleM": 618,
+    "startKm": 68.69,
+    "summitKm": 74.4,
+    "lengthKm": 5.71,
+    "gainM": 245,
+    "avgGradePct": 4.3,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 44.59807,
+    "summitLon": 7.38416,
+    "summitEleM": 817,
+    "startKm": 96.24,
+    "summitKm": 107.0,
+    "lengthKm": 10.76,
+    "gainM": 501,
+    "avgGradePct": 4.7,
+    "maxGradePct": 11.1
+   }
+  ],
+  "uae-tour-2026-stage-03": [
+   {
+    "summitLat": 25.60089,
+    "summitLon": 56.11745,
+    "summitEleM": 524,
+    "startKm": 167.81,
+    "summitKm": 174.06,
+    "lengthKm": 6.24,
+    "gainM": 367,
+    "avgGradePct": 5.9,
+    "maxGradePct": 14.5
+   },
+   {
+    "summitLat": 25.64397,
+    "summitLon": 56.11597,
+    "summitEleM": 1224,
+    "startKm": 175.37,
+    "summitKm": 182.38,
+    "lengthKm": 7.01,
+    "gainM": 799,
+    "avgGradePct": 11.4,
+    "maxGradePct": 16.7
+   }
+  ],
+  "uae-tour-2026-stage-04": [
+   {
+    "summitLat": 25.15505,
+    "summitLon": 56.197,
+    "summitEleM": 379,
+    "startKm": 9.36,
+    "summitKm": 12.32,
+    "lengthKm": 2.96,
+    "gainM": 173,
+    "avgGradePct": 5.8,
+    "maxGradePct": 10.2
+   }
+  ],
+  "uae-tour-2026-stage-06": [
+   {
+    "summitLat": 24.05906,
+    "summitLon": 55.77783,
+    "summitEleM": 1030,
+    "startKm": 151.73,
+    "summitKm": 167.28,
+    "lengthKm": 15.55,
+    "gainM": 786,
+    "avgGradePct": 5.1,
+    "maxGradePct": 12.1
+   }
+  ],
+  "tour-of-the-alps-2026-stage-01": [
+   {
+    "summitLat": 47.23675,
+    "summitLon": 11.30817,
+    "summitEleM": 866,
+    "startKm": 94.97,
+    "summitKm": 101.04,
+    "lengthKm": 6.07,
+    "gainM": 286,
+    "avgGradePct": 4.7,
+    "maxGradePct": 11.5
+   },
+   {
+    "summitLat": 47.23634,
+    "summitLon": 11.30927,
+    "summitEleM": 866,
+    "startKm": 113.35,
+    "summitKm": 119.33,
+    "lengthKm": 5.97,
+    "gainM": 285,
+    "avgGradePct": 4.8,
+    "maxGradePct": 10.8
+   }
+  ],
+  "tour-of-the-alps-2026-stage-02": [
+   {
+    "summitLat": 47.21351,
+    "summitLon": 10.78839,
+    "summitEleM": 826,
+    "startKm": 19.99,
+    "summitKm": 22.52,
+    "lengthKm": 2.53,
+    "gainM": 116,
+    "avgGradePct": 4.6,
+    "maxGradePct": 5.9
+   },
+   {
+    "summitLat": 47.18972,
+    "summitLon": 10.75217,
+    "summitEleM": 948,
+    "startKm": 25.64,
+    "summitKm": 29.9,
+    "lengthKm": 4.25,
+    "gainM": 204,
+    "avgGradePct": 4.8,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 47.1342,
+    "summitLon": 10.69124,
+    "summitEleM": 1367,
+    "startKm": 30.67,
+    "summitKm": 38.76,
+    "lengthKm": 8.1,
+    "gainM": 425,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.6
+   },
+   {
+    "summitLat": 47.11529,
+    "summitLon": 10.66868,
+    "summitEleM": 1570,
+    "startKm": 39.34,
+    "summitKm": 42.11,
+    "lengthKm": 2.77,
+    "gainM": 206,
+    "avgGradePct": 7.4,
+    "maxGradePct": 12.1
+   },
+   {
+    "summitLat": 46.57073,
+    "summitLon": 10.79543,
+    "summitEleM": 1153,
+    "startKm": 137.9,
+    "summitKm": 146.92,
+    "lengthKm": 9.02,
+    "gainM": 507,
+    "avgGradePct": 5.6,
+    "maxGradePct": 14.6
+   }
+  ],
+  "tour-of-the-alps-2026-stage-03": [
+   {
+    "summitLat": 46.60255,
+    "summitLon": 11.102,
+    "summitEleM": 788,
+    "startKm": 23.34,
+    "summitKm": 32.57,
+    "lengthKm": 9.22,
+    "gainM": 509,
+    "avgGradePct": 5.5,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 46.57298,
+    "summitLon": 11.06792,
+    "summitEleM": 851,
+    "startKm": 34.55,
+    "summitKm": 37.74,
+    "lengthKm": 3.2,
+    "gainM": 123,
+    "avgGradePct": 3.8,
+    "maxGradePct": 16.2
+   },
+   {
+    "summitLat": 46.50472,
+    "summitLon": 11.04282,
+    "summitEleM": 1687,
+    "startKm": 38.76,
+    "summitKm": 50.42,
+    "lengthKm": 11.66,
+    "gainM": 844,
+    "avgGradePct": 7.2,
+    "maxGradePct": 14.4
+   },
+   {
+    "summitLat": 46.17503,
+    "summitLon": 11.01304,
+    "summitEleM": 1025,
+    "startKm": 93.11,
+    "summitKm": 107.2,
+    "lengthKm": 14.09,
+    "gainM": 763,
+    "avgGradePct": 5.4,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 45.97304,
+    "summitLon": 10.8178,
+    "summitEleM": 759,
+    "startKm": 136.99,
+    "summitKm": 143.94,
+    "lengthKm": 6.95,
+    "gainM": 274,
+    "avgGradePct": 3.9,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 45.93591,
+    "summitLon": 10.81184,
+    "summitEleM": 596,
+    "startKm": 152.72,
+    "summitKm": 158.24,
+    "lengthKm": 5.52,
+    "gainM": 215,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.3
+   }
+  ],
+  "tour-of-the-alps-2026-stage-04": [
+   {
+    "summitLat": 45.90677,
+    "summitLon": 10.97634,
+    "summitEleM": 1250,
+    "startKm": 8.06,
+    "summitKm": 22.76,
+    "lengthKm": 14.71,
+    "gainM": 1020,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 46.00579,
+    "summitLon": 11.19252,
+    "summitEleM": 711,
+    "startKm": 45.08,
+    "summitKm": 54.31,
+    "lengthKm": 9.23,
+    "gainM": 532,
+    "avgGradePct": 5.8,
+    "maxGradePct": 11.5
+   },
+   {
+    "summitLat": 46.13687,
+    "summitLon": 11.3223,
+    "summitEleM": 1457,
+    "startKm": 69.19,
+    "summitKm": 84.45,
+    "lengthKm": 15.25,
+    "gainM": 953,
+    "avgGradePct": 6.2,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.1997,
+    "summitLon": 11.27169,
+    "summitEleM": 771,
+    "startKm": 110.19,
+    "summitKm": 113.59,
+    "lengthKm": 3.4,
+    "gainM": 158,
+    "avgGradePct": 4.6,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 46.17763,
+    "summitLon": 11.32412,
+    "summitEleM": 1106,
+    "startKm": 114.48,
+    "summitKm": 123.07,
+    "lengthKm": 8.58,
+    "gainM": 357,
+    "avgGradePct": 4.2,
+    "maxGradePct": 12.7
+   },
+   {
+    "summitLat": 46.11277,
+    "summitLon": 11.17322,
+    "summitEleM": 762,
+    "startKm": 141.71,
+    "summitKm": 146.22,
+    "lengthKm": 4.51,
+    "gainM": 228,
+    "avgGradePct": 5.1,
+    "maxGradePct": 12.2
+   }
+  ],
+  "tour-of-the-alps-2026-stage-05": [
+   {
+    "summitLat": 46.1514,
+    "summitLon": 11.12972,
+    "summitEleM": 427,
+    "startKm": 5.02,
+    "summitKm": 8.77,
+    "lengthKm": 3.75,
+    "gainM": 205,
+    "avgGradePct": 5.5,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 46.16116,
+    "summitLon": 11.13454,
+    "summitEleM": 607,
+    "startKm": 9.37,
+    "summitKm": 12.86,
+    "lengthKm": 3.49,
+    "gainM": 185,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 46.42752,
+    "summitLon": 11.23733,
+    "summitEleM": 659,
+    "startKm": 42.65,
+    "summitKm": 54.49,
+    "lengthKm": 11.84,
+    "gainM": 448,
+    "avgGradePct": 3.8,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 46.5352,
+    "summitLon": 11.29826,
+    "summitEleM": 1202,
+    "startKm": 75.79,
+    "summitKm": 92.78,
+    "lengthKm": 17.0,
+    "gainM": 956,
+    "avgGradePct": 5.6,
+    "maxGradePct": 16.2
+   },
+   {
+    "summitLat": 46.5352,
+    "summitLon": 11.29826,
+    "summitEleM": 1202,
+    "startKm": 103.06,
+    "summitKm": 111.43,
+    "lengthKm": 8.36,
+    "gainM": 570,
+    "avgGradePct": 6.8,
+    "maxGradePct": 12.7
+   }
+  ],
+  "tour-down-under-2026-stage-03": [
+   {
+    "summitLat": -35.2014,
+    "summitLon": 138.6515,
+    "summitEleM": 402,
+    "startKm": 44.14,
+    "summitKm": 47.32,
+    "lengthKm": 3.18,
+    "gainM": 208,
+    "avgGradePct": 6.6,
+    "maxGradePct": 10.0
+   },
+   {
+    "summitLat": -35.18135,
+    "summitLon": 138.87863,
+    "summitEleM": 309,
+    "startKm": 96.88,
+    "summitKm": 101.09,
+    "lengthKm": 4.21,
+    "gainM": 174,
+    "avgGradePct": 4.1,
+    "maxGradePct": 7.9
+   }
+  ],
+  "tour-down-under-2026-stage-04": [
+   {
+    "summitLat": -35.0544,
+    "summitLon": 138.53508,
+    "summitEleM": 201,
+    "startKm": 1.73,
+    "summitKm": 5.2,
+    "lengthKm": 3.47,
+    "gainM": 193,
+    "avgGradePct": 5.6,
+    "maxGradePct": 7.2
+   },
+   {
+    "summitLat": -35.29159,
+    "summitLon": 138.57958,
+    "summitEleM": 374,
+    "startKm": 170.13,
+    "summitKm": 178.39,
+    "lengthKm": 8.26,
+    "gainM": 301,
+    "avgGradePct": 3.6,
+    "maxGradePct": 9.6
+   }
+  ],
+  "tour-down-under-2026-stage-05": [
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 19.08,
+    "summitKm": 21.88,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 40.26,
+    "summitKm": 43.06,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 61.44,
+    "summitKm": 64.24,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 82.62,
+    "summitKm": 85.42,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 103.8,
+    "summitKm": 106.6,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 124.97,
+    "summitKm": 127.78,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.3
+   },
+   {
+    "summitLat": -35.00461,
+    "summitLon": 138.71311,
+    "summitEleM": 526,
+    "startKm": 146.15,
+    "summitKm": 148.96,
+    "lengthKm": 2.8,
+    "gainM": 102,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.3
+   }
+  ],
+  "o-gran-camino-2026-stage-02": [
+   {
+    "summitLat": 43.47465,
+    "summitLon": -7.68398,
+    "summitEleM": 708,
+    "startKm": 21.13,
+    "summitKm": 24.93,
+    "lengthKm": 3.81,
+    "gainM": 191,
+    "avgGradePct": 5.0,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 43.53084,
+    "summitLon": -7.15586,
+    "summitEleM": 280,
+    "startKm": 122.75,
+    "summitKm": 126.72,
+    "lengthKm": 3.97,
+    "gainM": 220,
+    "avgGradePct": 5.5,
+    "maxGradePct": 12.2
+   }
+  ],
+  "o-gran-camino-2026-stage-03": [
+   {
+    "summitLat": 43.12762,
+    "summitLon": -8.75032,
+    "summitEleM": 409,
+    "startKm": 0.17,
+    "summitKm": 9.72,
+    "lengthKm": 9.55,
+    "gainM": 310,
+    "avgGradePct": 3.3,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 42.73585,
+    "summitLon": -8.78147,
+    "summitEleM": 449,
+    "startKm": 123.87,
+    "summitKm": 132.95,
+    "lengthKm": 9.09,
+    "gainM": 401,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.0
+   }
+  ],
+  "o-gran-camino-2026-stage-04": [
+   {
+    "summitLat": 42.38659,
+    "summitLon": -7.65163,
+    "summitEleM": 657,
+    "startKm": 88.76,
+    "summitKm": 98.02,
+    "lengthKm": 9.27,
+    "gainM": 500,
+    "avgGradePct": 5.4,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 42.3518,
+    "summitLon": -7.62115,
+    "summitEleM": 1140,
+    "startKm": 99.3,
+    "summitKm": 110.04,
+    "lengthKm": 10.74,
+    "gainM": 499,
+    "avgGradePct": 4.6,
+    "maxGradePct": 11.6
+   },
+   {
+    "summitLat": 42.29414,
+    "summitLon": -7.59579,
+    "summitEleM": 869,
+    "startKm": 128.05,
+    "summitKm": 133.95,
+    "lengthKm": 5.91,
+    "gainM": 334,
+    "avgGradePct": 5.7,
+    "maxGradePct": 12.5
+   },
+   {
+    "summitLat": 42.3518,
+    "summitLon": -7.62115,
+    "summitEleM": 1141,
+    "startKm": 138.95,
+    "summitKm": 144.69,
+    "lengthKm": 5.74,
+    "gainM": 515,
+    "avgGradePct": 9.0,
+    "maxGradePct": 14.3
+   }
+  ],
+  "o-gran-camino-2026-stage-05": [
+   {
+    "summitLat": 42.00086,
+    "summitLon": -8.85528,
+    "summitEleM": 426,
+    "startKm": 83.62,
+    "summitKm": 88.68,
+    "lengthKm": 5.06,
+    "gainM": 384,
+    "avgGradePct": 7.6,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 42.00086,
+    "summitLon": -8.85528,
+    "summitEleM": 426,
+    "startKm": 123.89,
+    "summitKm": 128.93,
+    "lengthKm": 5.03,
+    "gainM": 384,
+    "avgGradePct": 7.6,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 41.88809,
+    "summitLon": -8.87111,
+    "summitEleM": 317,
+    "startKm": 149.18,
+    "summitKm": 154.18,
+    "lengthKm": 5.0,
+    "gainM": 305,
+    "avgGradePct": 6.1,
+    "maxGradePct": 9.3
+   }
+  ],
+  "ruta-del-sol-2026-stage-01": [
+   {
+    "summitLat": 36.61391,
+    "summitLon": -5.0675,
+    "summitEleM": 1062,
+    "startKm": 2.4,
+    "summitKm": 24.07,
+    "lengthKm": 21.67,
+    "gainM": 992,
+    "avgGradePct": 4.6,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 36.78909,
+    "summitLon": -5.04803,
+    "summitEleM": 1065,
+    "startKm": 56.62,
+    "summitKm": 59.75,
+    "lengthKm": 3.13,
+    "gainM": 132,
+    "avgGradePct": 4.2,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 36.74499,
+    "summitLon": -4.92876,
+    "summitEleM": 818,
+    "startKm": 75.17,
+    "summitKm": 80.09,
+    "lengthKm": 4.92,
+    "gainM": 243,
+    "avgGradePct": 4.9,
+    "maxGradePct": 9.2
+   },
+   {
+    "summitLat": 36.6507,
+    "summitLon": -4.83055,
+    "summitEleM": 390,
+    "startKm": 101.3,
+    "summitKm": 108.39,
+    "lengthKm": 7.09,
+    "gainM": 250,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.1
+   }
+  ],
+  "ruta-del-sol-2026-stage-02": [
+   {
+    "summitLat": 36.73723,
+    "summitLon": -3.72408,
+    "summitEleM": 147,
+    "startKm": 22.97,
+    "summitKm": 25.08,
+    "lengthKm": 2.11,
+    "gainM": 131,
+    "avgGradePct": 6.2,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 36.8248,
+    "summitLon": -3.6841,
+    "summitEleM": 364,
+    "startKm": 33.67,
+    "summitKm": 42.42,
+    "lengthKm": 8.75,
+    "gainM": 308,
+    "avgGradePct": 3.5,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 36.84244,
+    "summitLon": -3.72172,
+    "summitEleM": 1077,
+    "startKm": 42.97,
+    "summitKm": 54.89,
+    "lengthKm": 11.93,
+    "gainM": 720,
+    "avgGradePct": 6.0,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 36.8757,
+    "summitLon": -3.74167,
+    "summitEleM": 1268,
+    "startKm": 58.03,
+    "summitKm": 61.22,
+    "lengthKm": 3.19,
+    "gainM": 201,
+    "avgGradePct": 6.3,
+    "maxGradePct": 11.2
+   },
+   {
+    "summitLat": 37.0081,
+    "summitLon": -3.84734,
+    "summitEleM": 1130,
+    "startKm": 98.5,
+    "summitKm": 103.94,
+    "lengthKm": 5.44,
+    "gainM": 302,
+    "avgGradePct": 5.5,
+    "maxGradePct": 8.8
+   },
+   {
+    "summitLat": 37.11525,
+    "summitLon": -3.71326,
+    "summitEleM": 822,
+    "startKm": 121.82,
+    "summitKm": 124.53,
+    "lengthKm": 2.71,
+    "gainM": 112,
+    "avgGradePct": 4.2,
+    "maxGradePct": 6.2
+   }
+  ],
+  "ruta-del-sol-2026-stage-03": [
+   {
+    "summitLat": 37.75557,
+    "summitLon": -3.91329,
+    "summitEleM": 768,
+    "startKm": 32.02,
+    "summitKm": 34.55,
+    "lengthKm": 2.53,
+    "gainM": 140,
+    "avgGradePct": 5.5,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 38.11706,
+    "summitLon": -3.96328,
+    "summitEleM": 490,
+    "startKm": 105.65,
+    "summitKm": 111.03,
+    "lengthKm": 5.37,
+    "gainM": 211,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.2
+   }
+  ],
+  "ruta-del-sol-2026-stage-04": [
+   {
+    "summitLat": 38.1937,
+    "summitLon": -4.28139,
+    "summitEleM": 736,
+    "startKm": 19.62,
+    "summitKm": 30.72,
+    "lengthKm": 11.09,
+    "gainM": 344,
+    "avgGradePct": 3.1,
+    "maxGradePct": 6.8
+   }
+  ],
+  "ruta-del-sol-2026-stage-05": [
+   {
+    "summitLat": 37.27886,
+    "summitLon": -4.89767,
+    "summitEleM": 655,
+    "startKm": 13.52,
+    "summitKm": 18.66,
+    "lengthKm": 5.14,
+    "gainM": 238,
+    "avgGradePct": 4.6,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 37.584,
+    "summitLon": -4.749,
+    "summitEleM": 279,
+    "startKm": 61.9,
+    "summitKm": 64.78,
+    "lengthKm": 2.89,
+    "gainM": 105,
+    "avgGradePct": 3.6,
+    "maxGradePct": 5.8
+   },
+   {
+    "summitLat": 37.50267,
+    "summitLon": -4.63614,
+    "summitEleM": 388,
+    "startKm": 100.56,
+    "summitKm": 104.98,
+    "lengthKm": 4.42,
+    "gainM": 138,
+    "avgGradePct": 3.1,
+    "maxGradePct": 6.1
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-01": [
+   {
+    "summitLat": 43.26923,
+    "summitLon": -2.90545,
+    "summitEleM": 261,
+    "startKm": 0.0,
+    "summitKm": 2.44,
+    "lengthKm": 2.44,
+    "gainM": 169,
+    "avgGradePct": 6.9,
+    "maxGradePct": 10.1
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-02": [
+   {
+    "summitLat": 42.78655,
+    "summitLon": -1.84279,
+    "summitEleM": 838,
+    "startKm": 7.71,
+    "summitKm": 14.32,
+    "lengthKm": 6.61,
+    "gainM": 428,
+    "avgGradePct": 6.5,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 42.76099,
+    "summitLon": -1.99441,
+    "summitEleM": 771,
+    "startKm": 26.72,
+    "summitKm": 33.43,
+    "lengthKm": 6.7,
+    "gainM": 292,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 42.86209,
+    "summitLon": -2.00869,
+    "summitEleM": 1052,
+    "startKm": 43.4,
+    "summitKm": 47.51,
+    "lengthKm": 4.11,
+    "gainM": 206,
+    "avgGradePct": 5.0,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 42.94332,
+    "summitLon": -1.87486,
+    "summitEleM": 796,
+    "startKm": 79.75,
+    "summitKm": 87.4,
+    "lengthKm": 7.65,
+    "gainM": 362,
+    "avgGradePct": 4.7,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 43.01559,
+    "summitLon": -1.83323,
+    "summitEleM": 786,
+    "startKm": 99.43,
+    "summitKm": 101.75,
+    "lengthKm": 2.32,
+    "gainM": 144,
+    "avgGradePct": 6.2,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 42.94961,
+    "summitLon": -1.97028,
+    "summitEleM": 1204,
+    "startKm": 133.81,
+    "summitKm": 144.46,
+    "lengthKm": 10.65,
+    "gainM": 742,
+    "avgGradePct": 7.0,
+    "maxGradePct": 13.9
+   },
+   {
+    "summitLat": 42.97436,
+    "summitLon": -1.89459,
+    "summitEleM": 748,
+    "startKm": 159.96,
+    "summitKm": 163.58,
+    "lengthKm": 3.62,
+    "gainM": 185,
+    "avgGradePct": 5.1,
+    "maxGradePct": 8.2
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-03": [
+   {
+    "summitLat": 43.16219,
+    "summitLon": -3.19269,
+    "summitEleM": 282,
+    "startKm": 40.63,
+    "summitKm": 44.09,
+    "lengthKm": 3.46,
+    "gainM": 124,
+    "avgGradePct": 3.6,
+    "maxGradePct": 6.1
+   },
+   {
+    "summitLat": 43.13402,
+    "summitLon": -3.14337,
+    "summitEleM": 364,
+    "startKm": 46.44,
+    "summitKm": 49.95,
+    "lengthKm": 3.51,
+    "gainM": 169,
+    "avgGradePct": 4.8,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 43.0943,
+    "summitLon": -3.06965,
+    "summitEleM": 300,
+    "startKm": 55.89,
+    "summitKm": 58.62,
+    "lengthKm": 2.73,
+    "gainM": 120,
+    "avgGradePct": 4.4,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 42.9894,
+    "summitLon": -2.95434,
+    "summitEleM": 635,
+    "startKm": 70.07,
+    "summitKm": 81.19,
+    "lengthKm": 11.12,
+    "gainM": 400,
+    "avgGradePct": 3.6,
+    "maxGradePct": 11.4
+   },
+   {
+    "summitLat": 43.11062,
+    "summitLon": -2.82884,
+    "summitEleM": 559,
+    "startKm": 111.26,
+    "summitKm": 120.61,
+    "lengthKm": 9.35,
+    "gainM": 400,
+    "avgGradePct": 4.3,
+    "maxGradePct": 12.6
+   },
+   {
+    "summitLat": 43.1378,
+    "summitLon": -2.80519,
+    "summitEleM": 255,
+    "startKm": 125.64,
+    "summitKm": 127.59,
+    "lengthKm": 1.95,
+    "gainM": 112,
+    "avgGradePct": 5.8,
+    "maxGradePct": 8.1
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-04": [
+   {
+    "summitLat": 43.28447,
+    "summitLon": -2.75801,
+    "summitEleM": 321,
+    "startKm": 6.23,
+    "summitKm": 12.35,
+    "lengthKm": 6.12,
+    "gainM": 253,
+    "avgGradePct": 4.1,
+    "maxGradePct": 9.2
+   },
+   {
+    "summitLat": 43.42587,
+    "summitLon": -2.83786,
+    "summitEleM": 276,
+    "startKm": 53.11,
+    "summitKm": 58.88,
+    "lengthKm": 5.76,
+    "gainM": 274,
+    "avgGradePct": 4.8,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 43.24876,
+    "summitLon": -2.82967,
+    "summitEleM": 359,
+    "startKm": 94.76,
+    "summitKm": 102.64,
+    "lengthKm": 7.88,
+    "gainM": 322,
+    "avgGradePct": 4.1,
+    "maxGradePct": 15.0
+   },
+   {
+    "summitLat": 43.25877,
+    "summitLon": -2.86794,
+    "summitEleM": 396,
+    "startKm": 132.35,
+    "summitKm": 137.63,
+    "lengthKm": 5.28,
+    "gainM": 354,
+    "avgGradePct": 6.7,
+    "maxGradePct": 12.3
+   },
+   {
+    "summitLat": 43.24625,
+    "summitLon": -2.82378,
+    "summitEleM": 331,
+    "startKm": 150.41,
+    "summitKm": 157.31,
+    "lengthKm": 6.9,
+    "gainM": 291,
+    "avgGradePct": 4.2,
+    "maxGradePct": 14.3
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-05": [
+   {
+    "summitLat": 43.26883,
+    "summitLon": -2.36449,
+    "summitEleM": 184,
+    "startKm": 9.78,
+    "summitKm": 12.96,
+    "lengthKm": 3.18,
+    "gainM": 168,
+    "avgGradePct": 5.3,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 43.20841,
+    "summitLon": -2.32879,
+    "summitEleM": 672,
+    "startKm": 15.37,
+    "summitKm": 24.2,
+    "lengthKm": 8.83,
+    "gainM": 541,
+    "avgGradePct": 6.1,
+    "maxGradePct": 14.2
+   },
+   {
+    "summitLat": 43.19055,
+    "summitLon": -2.20403,
+    "summitEleM": 526,
+    "startKm": 44.87,
+    "summitKm": 49.59,
+    "lengthKm": 4.71,
+    "gainM": 338,
+    "avgGradePct": 7.2,
+    "maxGradePct": 11.0
+   },
+   {
+    "summitLat": 43.29496,
+    "summitLon": -2.38198,
+    "summitEleM": 228,
+    "startKm": 83.2,
+    "summitKm": 86.19,
+    "lengthKm": 2.99,
+    "gainM": 183,
+    "avgGradePct": 6.1,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 43.21101,
+    "summitLon": -2.45608,
+    "summitEleM": 583,
+    "startKm": 98.19,
+    "summitKm": 108.0,
+    "lengthKm": 9.81,
+    "gainM": 539,
+    "avgGradePct": 5.5,
+    "maxGradePct": 16.8
+   },
+   {
+    "summitLat": 43.21205,
+    "summitLon": -2.54344,
+    "summitEleM": 392,
+    "startKm": 121.96,
+    "summitKm": 129.83,
+    "lengthKm": 7.87,
+    "gainM": 304,
+    "avgGradePct": 3.9,
+    "maxGradePct": 12.2
+   },
+   {
+    "summitLat": 43.20792,
+    "summitLon": -2.47772,
+    "summitEleM": 541,
+    "startKm": 141.8,
+    "summitKm": 148.35,
+    "lengthKm": 6.55,
+    "gainM": 404,
+    "avgGradePct": 6.2,
+    "maxGradePct": 12.3
+   },
+   {
+    "summitLat": 43.23696,
+    "summitLon": -2.44252,
+    "summitEleM": 348,
+    "startKm": 157.03,
+    "summitKm": 162.98,
+    "lengthKm": 5.95,
+    "gainM": 248,
+    "avgGradePct": 4.2,
+    "maxGradePct": 6.8
+   }
+  ],
+  "tour-of-the-basque-country-2026-stage-06": [
+   {
+    "summitLat": 43.12431,
+    "summitLon": -2.49234,
+    "summitEleM": 568,
+    "startKm": 0.0,
+    "summitKm": 7.48,
+    "lengthKm": 7.48,
+    "gainM": 400,
+    "avgGradePct": 5.4,
+    "maxGradePct": 11.8
+   },
+   {
+    "summitLat": 43.12915,
+    "summitLon": -2.37484,
+    "summitEleM": 683,
+    "startKm": 25.95,
+    "summitKm": 33.97,
+    "lengthKm": 8.03,
+    "gainM": 546,
+    "avgGradePct": 6.8,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 43.20258,
+    "summitLon": -2.35896,
+    "summitEleM": 360,
+    "startKm": 44.45,
+    "summitKm": 49.74,
+    "lengthKm": 5.29,
+    "gainM": 241,
+    "avgGradePct": 4.6,
+    "maxGradePct": 10.4
+   },
+   {
+    "summitLat": 43.1287,
+    "summitLon": -2.37633,
+    "summitEleM": 684,
+    "startKm": 70.4,
+    "summitKm": 78.67,
+    "lengthKm": 8.26,
+    "gainM": 547,
+    "avgGradePct": 6.6,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 43.20258,
+    "summitLon": -2.35896,
+    "summitEleM": 360,
+    "startKm": 89.27,
+    "summitKm": 94.56,
+    "lengthKm": 5.29,
+    "gainM": 241,
+    "avgGradePct": 4.6,
+    "maxGradePct": 10.5
+   },
+   {
+    "summitLat": 43.12743,
+    "summitLon": -2.48514,
+    "summitEleM": 547,
+    "startKm": 114.46,
+    "summitKm": 126.06,
+    "lengthKm": 11.59,
+    "gainM": 416,
+    "avgGradePct": 3.6,
+    "maxGradePct": 11.5
+   }
+  ],
+  "tour-of-valencia-2026-stage-01": [
+   {
+    "summitLat": 40.06161,
+    "summitLon": -0.23695,
+    "summitEleM": 315,
+    "startKm": 73.04,
+    "summitKm": 76.54,
+    "lengthKm": 3.5,
+    "gainM": 113,
+    "avgGradePct": 3.2,
+    "maxGradePct": 5.6
+   },
+   {
+    "summitLat": 40.07548,
+    "summitLon": 0.04498,
+    "summitEleM": 330,
+    "startKm": 119.13,
+    "summitKm": 123.73,
+    "lengthKm": 4.6,
+    "gainM": 185,
+    "avgGradePct": 4.0,
+    "maxGradePct": 9.6
+   }
+  ],
+  "tour-of-valencia-2026-stage-03": [
+   {
+    "summitLat": 38.52887,
+    "summitLon": -0.53348,
+    "summitEleM": 704,
+    "startKm": 108.22,
+    "summitKm": 118.84,
+    "lengthKm": 10.62,
+    "gainM": 466,
+    "avgGradePct": 4.4,
+    "maxGradePct": 11.1
+   },
+   {
+    "summitLat": 38.51156,
+    "summitLon": -0.60527,
+    "summitEleM": 669,
+    "startKm": 125.01,
+    "summitKm": 130.56,
+    "lengthKm": 5.55,
+    "gainM": 216,
+    "avgGradePct": 3.9,
+    "maxGradePct": 9.7
+   }
+  ],
+  "tour-of-valencia-2026-stage-04": [
+   {
+    "summitLat": 38.69858,
+    "summitLon": -0.10212,
+    "summitEleM": 590,
+    "startKm": 7.55,
+    "summitKm": 16.36,
+    "lengthKm": 8.8,
+    "gainM": 417,
+    "avgGradePct": 4.7,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 38.82843,
+    "summitLon": -0.17479,
+    "summitEleM": 623,
+    "startKm": 46.15,
+    "summitKm": 53.31,
+    "lengthKm": 7.16,
+    "gainM": 548,
+    "avgGradePct": 7.7,
+    "maxGradePct": 17.4
+   },
+   {
+    "summitLat": 38.8404,
+    "summitLon": -0.06199,
+    "summitEleM": 162,
+    "startKm": 97.06,
+    "summitKm": 99.98,
+    "lengthKm": 2.92,
+    "gainM": 153,
+    "avgGradePct": 5.2,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 38.69,
+    "summitLon": 0.07763,
+    "summitEleM": 243,
+    "startKm": 138.76,
+    "summitKm": 144.1,
+    "lengthKm": 5.34,
+    "gainM": 230,
+    "avgGradePct": 4.3,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 38.71192,
+    "summitLon": 0.15484,
+    "summitEleM": 267,
+    "startKm": 153.5,
+    "summitKm": 159.15,
+    "lengthKm": 5.65,
+    "gainM": 260,
+    "avgGradePct": 4.6,
+    "maxGradePct": 15.5
+   }
+  ],
+  "tour-of-valencia-2026-stage-05": [
+   {
+    "summitLat": 39.70577,
+    "summitLon": -0.41688,
+    "summitEleM": 493,
+    "startKm": 19.63,
+    "summitKm": 23.98,
+    "lengthKm": 4.35,
+    "gainM": 210,
+    "avgGradePct": 4.8,
+    "maxGradePct": 7.1
+   },
+   {
+    "summitLat": 39.68653,
+    "summitLon": -0.38642,
+    "summitEleM": 546,
+    "startKm": 39.84,
+    "summitKm": 47.3,
+    "lengthKm": 7.46,
+    "gainM": 448,
+    "avgGradePct": 6.0,
+    "maxGradePct": 14.8
+   }
+  ],
+  "volta-a-catalunya-2026-stage-01": [
+   {
+    "summitLat": 41.78826,
+    "summitLon": 2.85986,
+    "summitEleM": 251,
+    "startKm": 133.97,
+    "summitKm": 136.8,
+    "lengthKm": 2.82,
+    "gainM": 105,
+    "avgGradePct": 3.7,
+    "maxGradePct": 7.1
+   }
+  ],
+  "volta-a-catalunya-2026-stage-02": [
+   {
+    "summitLat": 42.192,
+    "summitLon": 2.52246,
+    "summitEleM": 459,
+    "startKm": 124.63,
+    "summitKm": 129.94,
+    "lengthKm": 5.31,
+    "gainM": 199,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.5
+   }
+  ],
+  "volta-a-catalunya-2026-stage-03": [
+   {
+    "summitLat": 41.25054,
+    "summitLon": 1.06092,
+    "summitEleM": 978,
+    "startKm": 23.23,
+    "summitKm": 33.63,
+    "lengthKm": 10.39,
+    "gainM": 621,
+    "avgGradePct": 6.0,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 41.29163,
+    "summitLon": 0.99906,
+    "summitEleM": 954,
+    "startKm": 44.88,
+    "summitKm": 49.3,
+    "lengthKm": 4.42,
+    "gainM": 198,
+    "avgGradePct": 4.5,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 41.24187,
+    "summitLon": 0.82063,
+    "summitEleM": 453,
+    "startKm": 75.91,
+    "summitKm": 78.47,
+    "lengthKm": 2.56,
+    "gainM": 118,
+    "avgGradePct": 4.6,
+    "maxGradePct": 6.1
+   },
+   {
+    "summitLat": 41.20509,
+    "summitLon": 0.77747,
+    "summitEleM": 350,
+    "startKm": 86.6,
+    "summitKm": 89.43,
+    "lengthKm": 2.83,
+    "gainM": 138,
+    "avgGradePct": 4.9,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 41.11533,
+    "summitLon": 0.88046,
+    "summitEleM": 558,
+    "startKm": 104.22,
+    "summitKm": 113.24,
+    "lengthKm": 9.02,
+    "gainM": 298,
+    "avgGradePct": 3.3,
+    "maxGradePct": 7.1
+   }
+  ],
+  "volta-a-catalunya-2026-stage-04": [
+   {
+    "summitLat": 41.67927,
+    "summitLon": 2.16378,
+    "summitEleM": 457,
+    "startKm": 32.2,
+    "summitKm": 37.93,
+    "lengthKm": 5.72,
+    "gainM": 226,
+    "avgGradePct": 3.9,
+    "maxGradePct": 6.7
+   },
+   {
+    "summitLat": 41.71654,
+    "summitLon": 2.15435,
+    "summitEleM": 694,
+    "startKm": 38.28,
+    "summitKm": 43.92,
+    "lengthKm": 5.63,
+    "gainM": 240,
+    "avgGradePct": 4.3,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 41.83835,
+    "summitLon": 2.09961,
+    "summitEleM": 862,
+    "startKm": 52.06,
+    "summitKm": 59.88,
+    "lengthKm": 7.82,
+    "gainM": 250,
+    "avgGradePct": 3.2,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 42.42596,
+    "summitLon": 2.26484,
+    "summitEleM": 2138,
+    "startKm": 150.75,
+    "summitKm": 172.11,
+    "lengthKm": 21.36,
+    "gainM": 1172,
+    "avgGradePct": 5.5,
+    "maxGradePct": 13.8
+   }
+  ],
+  "volta-a-catalunya-2026-stage-05": [
+   {
+    "summitLat": 42.2479,
+    "summitLon": 1.36748,
+    "summitEleM": 1132,
+    "startKm": 16.71,
+    "summitKm": 25.62,
+    "lengthKm": 8.91,
+    "gainM": 563,
+    "avgGradePct": 6.3,
+    "maxGradePct": 10.4
+   },
+   {
+    "summitLat": 42.24279,
+    "summitLon": 1.41021,
+    "summitEleM": 1328,
+    "startKm": 28.67,
+    "summitKm": 32.47,
+    "lengthKm": 3.8,
+    "gainM": 182,
+    "avgGradePct": 4.8,
+    "maxGradePct": 8.0
+   },
+   {
+    "summitLat": 42.26002,
+    "summitLon": 1.61727,
+    "summitEleM": 1396,
+    "startKm": 49.82,
+    "summitKm": 59.71,
+    "lengthKm": 9.88,
+    "gainM": 385,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 42.25012,
+    "summitLon": 1.65081,
+    "summitEleM": 1632,
+    "startKm": 60.13,
+    "summitKm": 64.67,
+    "lengthKm": 4.54,
+    "gainM": 248,
+    "avgGradePct": 5.5,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 42.23239,
+    "summitLon": 1.77593,
+    "summitEleM": 1270,
+    "startKm": 77.28,
+    "summitKm": 80.63,
+    "lengthKm": 3.35,
+    "gainM": 142,
+    "avgGradePct": 4.3,
+    "maxGradePct": 6.7
+   },
+   {
+    "summitLat": 42.18098,
+    "summitLon": 1.79716,
+    "summitEleM": 1561,
+    "startKm": 86.81,
+    "summitKm": 92.49,
+    "lengthKm": 5.68,
+    "gainM": 486,
+    "avgGradePct": 8.6,
+    "maxGradePct": 15.5
+   },
+   {
+    "summitLat": 42.22225,
+    "summitLon": 1.93039,
+    "summitEleM": 1215,
+    "startKm": 109.39,
+    "summitKm": 118.66,
+    "lengthKm": 9.27,
+    "gainM": 504,
+    "avgGradePct": 5.4,
+    "maxGradePct": 10.9
+   },
+   {
+    "summitLat": 42.2616,
+    "summitLon": 1.85186,
+    "summitEleM": 891,
+    "startKm": 132.4,
+    "summitKm": 136.56,
+    "lengthKm": 4.16,
+    "gainM": 151,
+    "avgGradePct": 3.6,
+    "maxGradePct": 7.1
+   },
+   {
+    "summitLat": 42.30302,
+    "summitLon": 1.92258,
+    "summitEleM": 2102,
+    "startKm": 137.02,
+    "summitKm": 154.04,
+    "lengthKm": 17.02,
+    "gainM": 1216,
+    "avgGradePct": 7.1,
+    "maxGradePct": 11.0
+   }
+  ],
+  "volta-a-catalunya-2026-stage-06": [
+   {
+    "summitLat": 42.18433,
+    "summitLon": 2.0113,
+    "summitEleM": 1112,
+    "startKm": 50.9,
+    "summitKm": 59.04,
+    "lengthKm": 8.13,
+    "gainM": 299,
+    "avgGradePct": 3.7,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 42.20121,
+    "summitLon": 2.01942,
+    "summitEleM": 1194,
+    "startKm": 60.33,
+    "summitKm": 62.89,
+    "lengthKm": 2.56,
+    "gainM": 127,
+    "avgGradePct": 5.0,
+    "maxGradePct": 10.8
+   },
+   {
+    "summitLat": 42.21819,
+    "summitLon": 1.82276,
+    "summitEleM": 1109,
+    "startKm": 82.4,
+    "summitKm": 90.17,
+    "lengthKm": 7.77,
+    "gainM": 397,
+    "avgGradePct": 5.1,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 42.20107,
+    "summitLon": 1.76882,
+    "summitEleM": 1730,
+    "startKm": 91.09,
+    "summitKm": 97.79,
+    "lengthKm": 6.7,
+    "gainM": 656,
+    "avgGradePct": 9.8,
+    "maxGradePct": 17.2
+   },
+   {
+    "summitLat": 42.2331,
+    "summitLon": 1.77579,
+    "summitEleM": 1270,
+    "startKm": 107.71,
+    "summitKm": 110.99,
+    "lengthKm": 3.28,
+    "gainM": 143,
+    "avgGradePct": 4.3,
+    "maxGradePct": 6.5
+   },
+   {
+    "summitLat": 42.18092,
+    "summitLon": 1.88687,
+    "summitEleM": 1114,
+    "startKm": 125.08,
+    "summitKm": 130.33,
+    "lengthKm": 5.25,
+    "gainM": 439,
+    "avgGradePct": 8.4,
+    "maxGradePct": 11.9
+   },
+   {
+    "summitLat": 42.12732,
+    "summitLon": 1.86194,
+    "summitEleM": 765,
+    "startKm": 142.76,
+    "summitKm": 145.21,
+    "lengthKm": 2.45,
+    "gainM": 129,
+    "avgGradePct": 5.3,
+    "maxGradePct": 10.6
+   },
+   {
+    "summitLat": 42.10802,
+    "summitLon": 1.82727,
+    "summitEleM": 1135,
+    "startKm": 149.44,
+    "summitKm": 156.69,
+    "lengthKm": 7.25,
+    "gainM": 502,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.4
+   }
+  ],
+  "paris-nice-2026-stage-01": [
+   {
+    "summitLat": 49.04856,
+    "summitLon": 1.73558,
+    "summitEleM": 146,
+    "startKm": 88.83,
+    "summitKm": 91.74,
+    "lengthKm": 2.91,
+    "gainM": 100,
+    "avgGradePct": 3.4,
+    "maxGradePct": 6.1
+   },
+   {
+    "summitLat": 49.01459,
+    "summitLon": 1.81894,
+    "summitEleM": 191,
+    "startKm": 104.18,
+    "summitKm": 107.72,
+    "lengthKm": 3.54,
+    "gainM": 134,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.0
+   }
+  ],
+  "paris-nice-2026-stage-04": [
+   {
+    "summitLat": 46.9359,
+    "summitLon": 3.99553,
+    "summitEleM": 608,
+    "startKm": 126.68,
+    "summitKm": 133.44,
+    "lengthKm": 6.75,
+    "gainM": 264,
+    "avgGradePct": 3.9,
+    "maxGradePct": 8.0
+   },
+   {
+    "summitLat": 46.9404,
+    "summitLon": 4.31324,
+    "summitEleM": 421,
+    "startKm": 165.65,
+    "summitKm": 167.85,
+    "lengthKm": 2.21,
+    "gainM": 111,
+    "avgGradePct": 5.0,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 46.91968,
+    "summitLon": 4.28169,
+    "summitEleM": 593,
+    "startKm": 168.6,
+    "summitKm": 172.47,
+    "lengthKm": 3.87,
+    "gainM": 201,
+    "avgGradePct": 5.2,
+    "maxGradePct": 10.0
+   },
+   {
+    "summitLat": 46.83989,
+    "summitLon": 4.22974,
+    "summitEleM": 438,
+    "startKm": 185.48,
+    "summitKm": 189.48,
+    "lengthKm": 4.0,
+    "gainM": 170,
+    "avgGradePct": 4.2,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 46.81266,
+    "summitLon": 4.25561,
+    "summitEleM": 624,
+    "startKm": 192.54,
+    "summitKm": 194.2,
+    "lengthKm": 1.66,
+    "gainM": 176,
+    "avgGradePct": 10.6,
+    "maxGradePct": 13.9
+   }
+  ],
+  "paris-nice-2026-stage-05": [
+   {
+    "summitLat": 45.54108,
+    "summitLon": 4.73407,
+    "summitEleM": 437,
+    "startKm": 97.13,
+    "summitKm": 103.51,
+    "lengthKm": 6.38,
+    "gainM": 248,
+    "avgGradePct": 3.9,
+    "maxGradePct": 9.8
+   },
+   {
+    "summitLat": 45.12924,
+    "summitLon": 4.77037,
+    "summitEleM": 423,
+    "startKm": 165.88,
+    "summitKm": 171.89,
+    "lengthKm": 6.01,
+    "gainM": 290,
+    "avgGradePct": 4.8,
+    "maxGradePct": 9.7
+   },
+   {
+    "summitLat": 45.08209,
+    "summitLon": 4.78983,
+    "summitEleM": 386,
+    "startKm": 180.87,
+    "summitKm": 184.94,
+    "lengthKm": 4.07,
+    "gainM": 262,
+    "avgGradePct": 6.4,
+    "maxGradePct": 13.5
+   },
+   {
+    "summitLat": 45.05742,
+    "summitLon": 4.75472,
+    "summitEleM": 417,
+    "startKm": 190.13,
+    "summitKm": 194.86,
+    "lengthKm": 4.73,
+    "gainM": 266,
+    "avgGradePct": 5.6,
+    "maxGradePct": 11.6
+   },
+   {
+    "summitLat": 45.06584,
+    "summitLon": 4.69707,
+    "summitEleM": 419,
+    "startKm": 199.49,
+    "summitKm": 203.85,
+    "lengthKm": 4.36,
+    "gainM": 160,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.3
+   }
+  ],
+  "paris-nice-2026-stage-06": [
+   {
+    "summitLat": 43.81745,
+    "summitLon": 5.3197,
+    "summitEleM": 434,
+    "startKm": 100.46,
+    "summitKm": 105.27,
+    "lengthKm": 4.81,
+    "gainM": 145,
+    "avgGradePct": 3.0,
+    "maxGradePct": 4.9
+   },
+   {
+    "summitLat": 43.82929,
+    "summitLon": 5.58179,
+    "summitEleM": 691,
+    "startKm": 138.02,
+    "summitKm": 145.35,
+    "lengthKm": 7.34,
+    "gainM": 309,
+    "avgGradePct": 4.2,
+    "maxGradePct": 7.1
+   },
+   {
+    "summitLat": 43.85909,
+    "summitLon": 5.51199,
+    "summitEleM": 459,
+    "startKm": 158.74,
+    "summitKm": 162.4,
+    "lengthKm": 3.66,
+    "gainM": 142,
+    "avgGradePct": 3.9,
+    "maxGradePct": 7.0
+   },
+   {
+    "summitLat": 43.86427,
+    "summitLon": 5.4269,
+    "summitEleM": 456,
+    "startKm": 169.63,
+    "summitKm": 173.79,
+    "lengthKm": 4.17,
+    "gainM": 196,
+    "avgGradePct": 4.7,
+    "maxGradePct": 7.5
+   }
+  ],
+  "paris-nice-2026-stage-07": [
+   {
+    "summitLat": 43.82414,
+    "summitLon": 7.15814,
+    "summitEleM": 564,
+    "startKm": 7.05,
+    "summitKm": 18.46,
+    "lengthKm": 11.41,
+    "gainM": 503,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 43.82579,
+    "summitLon": 7.1236,
+    "summitEleM": 626,
+    "startKm": 21.03,
+    "summitKm": 24.23,
+    "lengthKm": 3.2,
+    "gainM": 122,
+    "avgGradePct": 3.8,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 43.85711,
+    "summitLon": 7.14437,
+    "summitEleM": 432,
+    "startKm": 57.49,
+    "summitKm": 61.11,
+    "lengthKm": 3.63,
+    "gainM": 150,
+    "avgGradePct": 4.1,
+    "maxGradePct": 9.2
+   },
+   {
+    "summitLat": 44.22677,
+    "summitLon": 6.93213,
+    "summitEleM": 1598,
+    "startKm": 129.26,
+    "summitKm": 137.62,
+    "lengthKm": 8.37,
+    "gainM": 550,
+    "avgGradePct": 6.6,
+    "maxGradePct": 11.1
+   }
+  ],
+  "paris-nice-2026-stage-08": [
+   {
+    "summitLat": 43.84947,
+    "summitLon": 7.23401,
+    "summitEleM": 543,
+    "startKm": 16.63,
+    "summitKm": 21.64,
+    "lengthKm": 5.01,
+    "gainM": 216,
+    "avgGradePct": 4.3,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 43.94589,
+    "summitLon": 7.29782,
+    "summitEleM": 643,
+    "startKm": 53.14,
+    "summitKm": 58.1,
+    "lengthKm": 4.96,
+    "gainM": 216,
+    "avgGradePct": 4.4,
+    "maxGradePct": 8.1
+   },
+   {
+    "summitLat": 43.90667,
+    "summitLon": 7.33455,
+    "summitEleM": 1058,
+    "startKm": 60.08,
+    "summitKm": 67.33,
+    "lengthKm": 7.25,
+    "gainM": 486,
+    "avgGradePct": 6.7,
+    "maxGradePct": 10.8
+   },
+   {
+    "summitLat": 43.80052,
+    "summitLon": 7.29298,
+    "summitEleM": 624,
+    "startKm": 89.02,
+    "summitKm": 99.49,
+    "lengthKm": 10.47,
+    "gainM": 492,
+    "avgGradePct": 4.7,
+    "maxGradePct": 9.6
+   },
+   {
+    "summitLat": 43.78984,
+    "summitLon": 7.23456,
+    "summitEleM": 357,
+    "startKm": 122.46,
+    "summitKm": 126.81,
+    "lengthKm": 4.35,
+    "gainM": 291,
+    "avgGradePct": 6.7,
+    "maxGradePct": 14.8
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-01": [
+   {
+    "summitLat": 44.96557,
+    "summitLon": 5.57087,
+    "summitEleM": 882,
+    "startKm": 31.06,
+    "summitKm": 34.08,
+    "lengthKm": 3.02,
+    "gainM": 227,
+    "avgGradePct": 7.5,
+    "maxGradePct": 13.7
+   },
+   {
+    "summitLat": 44.98928,
+    "summitLon": 5.59449,
+    "summitEleM": 1152,
+    "startKm": 34.57,
+    "summitKm": 39.57,
+    "lengthKm": 5.0,
+    "gainM": 273,
+    "avgGradePct": 5.5,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 45.14146,
+    "summitLon": 5.67463,
+    "summitEleM": 433,
+    "startKm": 64.29,
+    "summitKm": 68.05,
+    "lengthKm": 3.76,
+    "gainM": 190,
+    "avgGradePct": 5.1,
+    "maxGradePct": 10.7
+   },
+   {
+    "summitLat": 45.16389,
+    "summitLon": 5.67192,
+    "summitEleM": 504,
+    "startKm": 69.71,
+    "summitKm": 72.53,
+    "lengthKm": 2.82,
+    "gainM": 157,
+    "avgGradePct": 5.6,
+    "maxGradePct": 8.5
+   },
+   {
+    "summitLat": 45.2533,
+    "summitLon": 5.71436,
+    "summitEleM": 538,
+    "startKm": 89.23,
+    "summitKm": 94.89,
+    "lengthKm": 5.66,
+    "gainM": 324,
+    "avgGradePct": 5.7,
+    "maxGradePct": 13.5
+   },
+   {
+    "summitLat": 45.24571,
+    "summitLon": 5.7435,
+    "summitEleM": 767,
+    "startKm": 96.59,
+    "summitKm": 102.13,
+    "lengthKm": 5.55,
+    "gainM": 307,
+    "avgGradePct": 5.5,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 45.21405,
+    "summitLon": 5.89084,
+    "summitEleM": 796,
+    "startKm": 114.37,
+    "summitKm": 123.53,
+    "lengthKm": 9.16,
+    "gainM": 577,
+    "avgGradePct": 6.3,
+    "maxGradePct": 12.4
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-02": [
+   {
+    "summitLat": 45.06226,
+    "summitLon": 4.74756,
+    "summitEleM": 338,
+    "startKm": 98.24,
+    "summitKm": 104.2,
+    "lengthKm": 5.96,
+    "gainM": 194,
+    "avgGradePct": 3.3,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 45.10168,
+    "summitLon": 4.54159,
+    "summitEleM": 1016,
+    "startKm": 116.23,
+    "summitKm": 129.73,
+    "lengthKm": 13.49,
+    "gainM": 588,
+    "avgGradePct": 4.4,
+    "maxGradePct": 9.4
+   },
+   {
+    "summitLat": 45.14044,
+    "summitLon": 4.52041,
+    "summitEleM": 1234,
+    "startKm": 130.08,
+    "summitKm": 136.01,
+    "lengthKm": 5.94,
+    "gainM": 222,
+    "avgGradePct": 3.7,
+    "maxGradePct": 6.7
+   },
+   {
+    "summitLat": 45.12525,
+    "summitLon": 3.87573,
+    "summitEleM": 844,
+    "startKm": 200.6,
+    "summitKm": 205.06,
+    "lengthKm": 4.47,
+    "gainM": 284,
+    "avgGradePct": 6.4,
+    "maxGradePct": 11.8
+   },
+   {
+    "summitLat": 45.07624,
+    "summitLon": 3.80946,
+    "summitEleM": 848,
+    "startKm": 222.02,
+    "summitKm": 224.03,
+    "lengthKm": 2.02,
+    "gainM": 130,
+    "avgGradePct": 6.4,
+    "maxGradePct": 9.2
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-04": [
+   {
+    "summitLat": 45.1208,
+    "summitLon": 3.82552,
+    "summitEleM": 807,
+    "startKm": 3.79,
+    "summitKm": 6.91,
+    "lengthKm": 3.13,
+    "gainM": 139,
+    "avgGradePct": 4.4,
+    "maxGradePct": 10.0
+   },
+   {
+    "summitLat": 45.17506,
+    "summitLon": 3.82778,
+    "summitEleM": 1004,
+    "startKm": 8.49,
+    "summitKm": 14.34,
+    "lengthKm": 5.85,
+    "gainM": 202,
+    "avgGradePct": 3.5,
+    "maxGradePct": 5.2
+   },
+   {
+    "summitLat": 45.48576,
+    "summitLon": 3.81189,
+    "summitEleM": 836,
+    "startKm": 60.2,
+    "summitKm": 66.32,
+    "lengthKm": 6.11,
+    "gainM": 260,
+    "avgGradePct": 4.3,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 45.52498,
+    "summitLon": 3.8498,
+    "summitEleM": 1194,
+    "startKm": 68.94,
+    "summitKm": 76.66,
+    "lengthKm": 7.72,
+    "gainM": 420,
+    "avgGradePct": 5.4,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 45.54194,
+    "summitLon": 3.94618,
+    "summitEleM": 1151,
+    "startKm": 84.0,
+    "summitKm": 88.94,
+    "lengthKm": 4.94,
+    "gainM": 221,
+    "avgGradePct": 4.5,
+    "maxGradePct": 7.1
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-05": [
+   {
+    "summitLat": 45.51926,
+    "summitLon": 4.5023,
+    "summitEleM": 752,
+    "startKm": 0.0,
+    "summitKm": 4.18,
+    "lengthKm": 4.18,
+    "gainM": 166,
+    "avgGradePct": 4.0,
+    "maxGradePct": 6.2
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-06": [
+   {
+    "summitLat": 45.48049,
+    "summitLon": 5.91498,
+    "summitEleM": 1132,
+    "startKm": 89.52,
+    "summitKm": 99.02,
+    "lengthKm": 9.5,
+    "gainM": 487,
+    "avgGradePct": 5.1,
+    "maxGradePct": 8.7
+   },
+   {
+    "summitLat": 45.77976,
+    "summitLon": 6.48093,
+    "summitEleM": 1006,
+    "startKm": 167.01,
+    "summitKm": 172.19,
+    "lengthKm": 5.19,
+    "gainM": 313,
+    "avgGradePct": 6.0,
+    "maxGradePct": 9.5
+   },
+   {
+    "summitLat": 45.79164,
+    "summitLon": 6.50112,
+    "summitEleM": 1210,
+    "startKm": 175.37,
+    "summitKm": 181.09,
+    "lengthKm": 5.71,
+    "gainM": 432,
+    "avgGradePct": 7.6,
+    "maxGradePct": 11.8
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-07": [
+   {
+    "summitLat": 45.56628,
+    "summitLon": 5.73434,
+    "summitEleM": 589,
+    "startKm": 0.0,
+    "summitKm": 5.29,
+    "lengthKm": 5.29,
+    "gainM": 310,
+    "avgGradePct": 5.9,
+    "maxGradePct": 10.0
+   },
+   {
+    "summitLat": 45.59349,
+    "summitLon": 5.73131,
+    "summitEleM": 575,
+    "startKm": 10.12,
+    "summitKm": 13.86,
+    "lengthKm": 3.74,
+    "gainM": 144,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.3
+   },
+   {
+    "summitLat": 45.63325,
+    "summitLon": 5.7103,
+    "summitEleM": 825,
+    "startKm": 18.93,
+    "summitKm": 27.12,
+    "lengthKm": 8.19,
+    "gainM": 496,
+    "avgGradePct": 6.1,
+    "maxGradePct": 11.1
+   },
+   {
+    "summitLat": 45.74465,
+    "summitLon": 5.74,
+    "summitEleM": 498,
+    "startKm": 42.35,
+    "summitKm": 45.78,
+    "lengthKm": 3.43,
+    "gainM": 175,
+    "avgGradePct": 5.1,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 45.8888,
+    "summitLon": 5.78545,
+    "summitEleM": 883,
+    "startKm": 65.99,
+    "summitKm": 76.73,
+    "lengthKm": 10.74,
+    "gainM": 648,
+    "avgGradePct": 6.0,
+    "maxGradePct": 15.5
+   },
+   {
+    "summitLat": 46.00385,
+    "summitLon": 5.73899,
+    "summitEleM": 1056,
+    "startKm": 100.84,
+    "summitKm": 111.82,
+    "lengthKm": 10.98,
+    "gainM": 542,
+    "avgGradePct": 4.9,
+    "maxGradePct": 8.3
+   },
+   {
+    "summitLat": 45.90388,
+    "summitLon": 5.76027,
+    "summitEleM": 1482,
+    "startKm": 124.31,
+    "summitKm": 132.59,
+    "lengthKm": 8.28,
+    "gainM": 839,
+    "avgGradePct": 10.1,
+    "maxGradePct": 15.4
+   }
+  ],
+  "tour-auvergne-rhone-alpes-2026-stage-08": [
+   {
+    "summitLat": 45.68817,
+    "summitLon": 6.60323,
+    "summitEleM": 1734,
+    "startKm": 0.0,
+    "summitKm": 10.77,
+    "lengthKm": 10.77,
+    "gainM": 864,
+    "avgGradePct": 8.0,
+    "maxGradePct": 12.2
+   },
+   {
+    "summitLat": 45.74663,
+    "summitLon": 6.5299,
+    "summitEleM": 1722,
+    "startKm": 31.44,
+    "summitKm": 43.81,
+    "lengthKm": 12.37,
+    "gainM": 1013,
+    "avgGradePct": 8.2,
+    "maxGradePct": 13.8
+   },
+   {
+    "summitLat": 45.87197,
+    "summitLon": 6.46553,
+    "summitEleM": 1482,
+    "startKm": 65.72,
+    "summitKm": 73.47,
+    "lengthKm": 7.74,
+    "gainM": 493,
+    "avgGradePct": 6.4,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 46.0328,
+    "summitLon": 6.42708,
+    "summitEleM": 1499,
+    "startKm": 106.46,
+    "summitKm": 119.81,
+    "lengthKm": 13.35,
+    "gainM": 1051,
+    "avgGradePct": 7.9,
+    "maxGradePct": 15.5
+   }
+  ],
+  "tirreno-adriatico-2026-stage-02": [
+   {
+    "summitLat": 43.91127,
+    "summitLon": 10.33869,
+    "summitEleM": 214,
+    "startKm": 0.0,
+    "summitKm": 4.21,
+    "lengthKm": 4.21,
+    "gainM": 161,
+    "avgGradePct": 3.8,
+    "maxGradePct": 6.6
+   },
+   {
+    "summitLat": 43.29889,
+    "summitLon": 10.8712,
+    "summitEleM": 361,
+    "startKm": 124.94,
+    "summitKm": 134.11,
+    "lengthKm": 9.17,
+    "gainM": 294,
+    "avgGradePct": 3.2,
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 43.25331,
+    "summitLon": 10.87797,
+    "summitEleM": 426,
+    "startKm": 137.94,
+    "summitKm": 141.94,
+    "lengthKm": 4.0,
+    "gainM": 148,
+    "avgGradePct": 3.7,
+    "maxGradePct": 5.4
+   },
+   {
+    "summitLat": 43.21557,
+    "summitLon": 10.89875,
+    "summitEleM": 607,
+    "startKm": 146.18,
+    "summitKm": 148.34,
+    "lengthKm": 2.16,
+    "gainM": 146,
+    "avgGradePct": 6.8,
+    "maxGradePct": 10.4
+   },
+   {
+    "summitLat": 43.29782,
+    "summitLon": 11.01061,
+    "summitEleM": 380,
+    "startKm": 167.14,
+    "summitKm": 171.25,
+    "lengthKm": 4.1,
+    "gainM": 214,
+    "avgGradePct": 5.2,
+    "maxGradePct": 7.5
+   },
+   {
+    "summitLat": 43.34073,
+    "summitLon": 11.04888,
+    "summitEleM": 372,
+    "startKm": 178.89,
+    "summitKm": 181.24,
+    "lengthKm": 2.35,
+    "gainM": 115,
+    "avgGradePct": 4.9,
+    "maxGradePct": 6.6
+   }
+  ],
+  "tirreno-adriatico-2026-stage-03": [
+   {
+    "summitLat": 42.95065,
+    "summitLon": 12.31887,
+    "summitEleM": 311,
+    "startKm": 52.09,
+    "summitKm": 55.29,
+    "lengthKm": 3.19,
+    "gainM": 114,
+    "avgGradePct": 3.6,
+    "maxGradePct": 9.0
+   },
+   {
+    "summitLat": 42.77511,
+    "summitLon": 12.42533,
+    "summitEleM": 294,
+    "startKm": 79.35,
+    "summitKm": 83.85,
+    "lengthKm": 4.5,
+    "gainM": 149,
+    "avgGradePct": 3.3,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 42.30272,
+    "summitLon": 13.04659,
+    "summitEleM": 709,
+    "startKm": 172.08,
+    "summitKm": 181.12,
+    "lengthKm": 9.04,
+    "gainM": 293,
+    "avgGradePct": 3.2,
+    "maxGradePct": 6.7
+   }
+  ],
+  "tirreno-adriatico-2026-stage-04": [
+   {
+    "summitLat": 42.13632,
+    "summitLon": 13.5149,
+    "summitEleM": 1367,
+    "startKm": 21.01,
+    "summitKm": 36.95,
+    "lengthKm": 15.95,
+    "gainM": 672,
+    "avgGradePct": 4.2,
+    "maxGradePct": 11.7
+   },
+   {
+    "summitLat": 42.46067,
+    "summitLon": 13.35667,
+    "summitEleM": 1306,
+    "startKm": 83.27,
+    "summitKm": 98.35,
+    "lengthKm": 15.08,
+    "gainM": 637,
+    "avgGradePct": 4.2,
+    "maxGradePct": 7.3
+   },
+   {
+    "summitLat": 42.66678,
+    "summitLon": 13.81713,
+    "summitEleM": 452,
+    "startKm": 153.42,
+    "summitKm": 159.54,
+    "lengthKm": 6.12,
+    "gainM": 340,
+    "avgGradePct": 5.5,
+    "maxGradePct": 10.6
+   },
+   {
+    "summitLat": 42.81078,
+    "summitLon": 13.89043,
+    "summitEleM": 157,
+    "startKm": 188.9,
+    "summitKm": 192.79,
+    "lengthKm": 3.89,
+    "gainM": 137,
+    "avgGradePct": 3.5,
+    "maxGradePct": 6.0
+   },
+   {
+    "summitLat": 42.81123,
+    "summitLon": 13.90995,
+    "summitEleM": 177,
+    "startKm": 195.47,
+    "summitKm": 197.2,
+    "lengthKm": 1.73,
+    "gainM": 135,
+    "avgGradePct": 7.8,
+    "maxGradePct": 8.2
+   }
+  ],
+  "tirreno-adriatico-2026-stage-05": [
+   {
+    "summitLat": 43.68923,
+    "summitLon": 12.89395,
+    "summitEleM": 258,
+    "startKm": 36.76,
+    "summitKm": 39.79,
+    "lengthKm": 3.03,
+    "gainM": 171,
+    "avgGradePct": 5.6,
+    "maxGradePct": 15.2
+   },
+   {
+    "summitLat": 43.64567,
+    "summitLon": 12.89297,
+    "summitEleM": 433,
+    "startKm": 46.5,
+    "summitKm": 49.48,
+    "lengthKm": 2.98,
+    "gainM": 161,
+    "avgGradePct": 5.4,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 43.70029,
+    "summitLon": 12.76678,
+    "summitEleM": 632,
+    "startKm": 84.93,
+    "summitKm": 93.37,
+    "lengthKm": 8.44,
+    "gainM": 542,
+    "avgGradePct": 6.4,
+    "maxGradePct": 13.0
+   },
+   {
+    "summitLat": 43.76478,
+    "summitLon": 12.89223,
+    "summitEleM": 259,
+    "startKm": 124.44,
+    "summitKm": 128.84,
+    "lengthKm": 4.4,
+    "gainM": 200,
+    "avgGradePct": 4.6,
+    "maxGradePct": 8.6
+   },
+   {
+    "summitLat": 43.7839,
+    "summitLon": 12.85577,
+    "summitEleM": 417,
+    "startKm": 133.35,
+    "summitKm": 140.69,
+    "lengthKm": 7.34,
+    "gainM": 323,
+    "avgGradePct": 4.4,
+    "maxGradePct": 12.6
+   },
+   {
+    "summitLat": 43.78874,
+    "summitLon": 12.8586,
+    "summitEleM": 364,
+    "startKm": 157.23,
+    "summitKm": 162.77,
+    "lengthKm": 5.55,
+    "gainM": 276,
+    "avgGradePct": 5.0,
+    "maxGradePct": 10.5
+   },
+   {
+    "summitLat": 43.78874,
+    "summitLon": 12.8586,
+    "summitEleM": 364,
+    "startKm": 178.34,
+    "summitKm": 184.55,
+    "lengthKm": 6.21,
+    "gainM": 281,
+    "avgGradePct": 4.5,
+    "maxGradePct": 10.5
+   }
+  ],
+  "tirreno-adriatico-2026-stage-06": [
+   {
+    "summitLat": 43.2205,
+    "summitLon": 13.25183,
+    "summitEleM": 375,
+    "startKm": 2.2,
+    "summitKm": 5.26,
+    "lengthKm": 3.06,
+    "gainM": 159,
+    "avgGradePct": 5.2,
+    "maxGradePct": 7.9
+   },
+   {
+    "summitLat": 43.0101,
+    "summitLon": 13.22653,
+    "summitEleM": 1450,
+    "startKm": 53.87,
+    "summitKm": 66.95,
+    "lengthKm": 13.08,
+    "gainM": 957,
+    "avgGradePct": 7.3,
+    "maxGradePct": 12.3
+   },
+   {
+    "summitLat": 43.13431,
+    "summitLon": 13.06894,
+    "summitEleM": 626,
+    "startKm": 96.96,
+    "summitKm": 104.99,
+    "lengthKm": 8.03,
+    "gainM": 269,
+    "avgGradePct": 3.4,
+    "maxGradePct": 15.6
+   },
+   {
+    "summitLat": 43.15593,
+    "summitLon": 13.10132,
+    "summitEleM": 678,
+    "startKm": 107.2,
+    "summitKm": 108.99,
+    "lengthKm": 1.78,
+    "gainM": 107,
+    "avgGradePct": 6.0,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 43.13671,
+    "summitLon": 13.06823,
+    "summitEleM": 635,
+    "startKm": 124.92,
+    "summitKm": 131.18,
+    "lengthKm": 6.26,
+    "gainM": 303,
+    "avgGradePct": 4.8,
+    "maxGradePct": 15.1
+   },
+   {
+    "summitLat": 43.15593,
+    "summitLon": 13.10132,
+    "summitEleM": 678,
+    "startKm": 135.25,
+    "summitKm": 137.03,
+    "lengthKm": 1.78,
+    "gainM": 107,
+    "avgGradePct": 6.0,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 43.13671,
+    "summitLon": 13.06823,
+    "summitEleM": 635,
+    "startKm": 152.97,
+    "summitKm": 159.22,
+    "lengthKm": 6.26,
+    "gainM": 303,
+    "avgGradePct": 4.8,
+    "maxGradePct": 15.1
+   },
+   {
+    "summitLat": 43.15593,
+    "summitLon": 13.10132,
+    "summitEleM": 678,
+    "startKm": 163.29,
+    "summitKm": 165.08,
+    "lengthKm": 1.78,
+    "gainM": 107,
+    "avgGradePct": 6.0,
+    "maxGradePct": 10.1
+   },
+   {
+    "summitLat": 43.13592,
+    "summitLon": 13.06865,
+    "summitEleM": 648,
+    "startKm": 181.02,
+    "summitKm": 187.34,
+    "lengthKm": 6.32,
+    "gainM": 316,
+    "avgGradePct": 5.0,
+    "maxGradePct": 15.4
+   }
+  ],
+  "tirreno-adriatico-2026-stage-07": [
+   {
+    "summitLat": 43.07987,
+    "summitLon": 13.81522,
+    "summitEleM": 188,
+    "startKm": 25.53,
+    "summitKm": 29.33,
+    "lengthKm": 3.8,
+    "gainM": 179,
+    "avgGradePct": 4.7,
+    "maxGradePct": 6.6
+   },
+   {
+    "summitLat": 43.05297,
+    "summitLon": 13.75563,
+    "summitEleM": 385,
+    "startKm": 30.01,
+    "summitKm": 36.49,
+    "lengthKm": 6.48,
+    "gainM": 205,
+    "avgGradePct": 3.2,
+    "maxGradePct": 6.2
+   },
+   {
+    "summitLat": 42.99713,
+    "summitLon": 13.75867,
+    "summitEleM": 481,
+    "startKm": 43.94,
+    "summitKm": 53.05,
+    "lengthKm": 9.11,
+    "gainM": 392,
+    "avgGradePct": 4.3,
+    "maxGradePct": 9.2
+   }
+  ],
+  "volta-ao-algarve-2026-stage-01": [
+   {
+    "summitLat": 37.26754,
+    "summitLon": -7.73301,
+    "summitEleM": 438,
+    "startKm": 91.63,
+    "summitKm": 97.95,
+    "lengthKm": 6.32,
+    "gainM": 281,
+    "avgGradePct": 4.4,
+    "maxGradePct": 7.6
+   },
+   {
+    "summitLat": 37.2188,
+    "summitLon": -7.59285,
+    "summitEleM": 187,
+    "startKm": 133.13,
+    "summitKm": 136.62,
+    "lengthKm": 3.49,
+    "gainM": 120,
+    "avgGradePct": 3.4,
+    "maxGradePct": 5.2
+   }
+  ],
+  "volta-ao-algarve-2026-stage-02": [
+   {
+    "summitLat": 37.15729,
+    "summitLon": -8.11071,
+    "summitEleM": 305,
+    "startKm": 36.76,
+    "summitKm": 40.13,
+    "lengthKm": 3.36,
+    "gainM": 147,
+    "avgGradePct": 4.4,
+    "maxGradePct": 10.5
+   },
+   {
+    "summitLat": 37.20622,
+    "summitLon": -8.10119,
+    "summitEleM": 246,
+    "startKm": 44.91,
+    "summitKm": 48.19,
+    "lengthKm": 3.29,
+    "gainM": 144,
+    "avgGradePct": 4.4,
+    "maxGradePct": 6.8
+   },
+   {
+    "summitLat": 37.35154,
+    "summitLon": -8.423,
+    "summitEleM": 238,
+    "startKm": 86.14,
+    "summitKm": 88.26,
+    "lengthKm": 2.12,
+    "gainM": 123,
+    "avgGradePct": 5.8,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 37.33998,
+    "summitLon": -8.46571,
+    "summitEleM": 337,
+    "startKm": 92.3,
+    "summitKm": 95.63,
+    "lengthKm": 3.33,
+    "gainM": 221,
+    "avgGradePct": 6.6,
+    "maxGradePct": 10.3
+   },
+   {
+    "summitLat": 37.3191,
+    "summitLon": -8.49439,
+    "summitEleM": 411,
+    "startKm": 98.21,
+    "summitKm": 102.55,
+    "lengthKm": 4.34,
+    "gainM": 258,
+    "avgGradePct": 5.9,
+    "maxGradePct": 9.3
+   },
+   {
+    "summitLat": 37.31549,
+    "summitLon": -8.59262,
+    "summitEleM": 880,
+    "startKm": 136.77,
+    "summitKm": 147.6,
+    "lengthKm": 10.83,
+    "gainM": 576,
+    "avgGradePct": 5.3,
+    "maxGradePct": 11.4
+   }
+  ],
+  "volta-ao-algarve-2026-stage-04": [
+   {
+    "summitLat": 37.13921,
+    "summitLon": -8.16136,
+    "summitEleM": 133,
+    "startKm": 6.86,
+    "summitKm": 9.5,
+    "lengthKm": 2.65,
+    "gainM": 107,
+    "avgGradePct": 4.1,
+    "maxGradePct": 5.8
+   },
+   {
+    "summitLat": 37.29633,
+    "summitLon": -8.62922,
+    "summitEleM": 487,
+    "startKm": 87.64,
+    "summitKm": 91.82,
+    "lengthKm": 4.17,
+    "gainM": 176,
+    "avgGradePct": 4.2,
+    "maxGradePct": 6.7
+   }
+  ],
+  "volta-ao-algarve-2026-stage-05": [
+   {
+    "summitLat": 37.24675,
+    "summitLon": -8.17296,
+    "summitEleM": 333,
+    "startKm": 88.97,
+    "summitKm": 91.53,
+    "lengthKm": 2.57,
+    "gainM": 151,
+    "avgGradePct": 5.9,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 37.30101,
+    "summitLon": -8.10127,
+    "summitEleM": 505,
+    "startKm": 102.37,
+    "summitKm": 104.94,
+    "lengthKm": 2.58,
+    "gainM": 228,
+    "avgGradePct": 8.9,
+    "maxGradePct": 12.6
+   },
+   {
+    "summitLat": 37.24675,
+    "summitLon": -8.17296,
+    "summitEleM": 333,
+    "startKm": 131.45,
+    "summitKm": 134.02,
+    "lengthKm": 2.57,
+    "gainM": 151,
+    "avgGradePct": 5.9,
+    "maxGradePct": 11.3
+   },
+   {
+    "summitLat": 37.30226,
+    "summitLon": -8.10153,
+    "summitEleM": 510,
+    "startKm": 144.86,
+    "summitKm": 147.58,
+    "lengthKm": 2.72,
+    "gainM": 234,
+    "avgGradePct": 8.6,
+    "maxGradePct": 14.2
+   }
+  ]
+ }
+}

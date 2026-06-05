@@ -183,6 +183,12 @@ for e in climbs.values():
             e["summitLat"], e["summitLon"] = c
             n_filled += 1
 
+# Normaliza la categoría a STRING (algunas ediciones la traen como int y la
+# app la parsea con `as String?`, que reventaría con enteros).
+for e in climbs.values():
+    if e.get("category") is not None:
+        e["category"] = str(e["category"])
+
 # orden de apariciones y rendimientos (recientes primero)
 for e in climbs.values():
     e["appearances"].sort(key=lambda a: (a["year"], a["stage"] or 0), reverse=True)

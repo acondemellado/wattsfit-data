@@ -784,7 +784,7 @@
     {
       "name": "Aguilar Gaina",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 12.6,
       "avgGradientPct": 3.1,
       "summitLat": null,
@@ -898,7 +898,7 @@
     {
       "name": "Alkiza",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 4.4,
       "avgGradientPct": 6.2,
       "summitLat": 43.17258,
@@ -5456,7 +5456,7 @@
     {
       "name": "Alto del Acebo",
       "side": "Cangas del Narcea",
-      "category": 1,
+      "category": "1",
       "lengthKm": 9.5,
       "avgGradientPct": 8.3,
       "summitLat": 43.1356,
@@ -5938,7 +5938,7 @@
     {
       "name": "Alto del Tenebreo",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.5,
       "avgGradientPct": 9.1,
       "summitLat": 43.28785,
@@ -6016,7 +6016,7 @@
     {
       "name": "Alto del Violeo",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.1,
       "avgGradientPct": 9.2,
       "summitLat": 43.39746,
@@ -6281,7 +6281,7 @@
     {
       "name": "Altube",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 4.5,
       "avgGradientPct": 5.7,
       "summitLat": 43.12805,
@@ -6305,7 +6305,7 @@
     {
       "name": "Altzo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.3,
       "avgGradientPct": 8.7,
       "summitLat": 43.1004,
@@ -6371,7 +6371,7 @@
     {
       "name": "Andazarrate",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 5.8,
       "avgGradientPct": 3.8,
       "summitLat": 43.20254,
@@ -6389,7 +6389,7 @@
     {
       "name": "Anras",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.7,
       "avgGradientPct": 6.9,
       "summitLat": null,
@@ -6667,7 +6667,7 @@
     {
       "name": "Arkiskil",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 4.5,
       "avgGradientPct": 5.1,
       "summitLat": 43.08986,
@@ -6835,7 +6835,7 @@
     {
       "name": "Azazeta",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 5.3,
       "avgGradientPct": 3.4,
       "summitLat": 42.77852,
@@ -7016,7 +7016,7 @@
     {
       "name": "Balerringaga",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.0,
       "avgGradientPct": 6.7,
       "summitLat": null,
@@ -7130,7 +7130,7 @@
     {
       "name": "Beasain (final wall)",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.4,
       "avgGradientPct": 10.0,
       "summitLat": 43.04733,
@@ -7208,7 +7208,7 @@
     {
       "name": "Bezi",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.8,
       "avgGradientPct": 6.0,
       "summitLat": 43.23447,
@@ -7655,7 +7655,7 @@
     {
       "name": "Bukowina Tatrzanska (uphill finish)",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 5.0,
       "avgGradientPct": 0,
       "summitLat": 49.3167,
@@ -7944,7 +7944,7 @@
     {
       "name": "Carabanzo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.18543,
@@ -8359,7 +8359,7 @@
     {
       "name": "Chomranice",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": null,
@@ -19685,7 +19685,7 @@
     {
       "name": "Deskarga",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 6.5,
       "avgGradientPct": 5.1,
       "summitLat": 43.17031,
@@ -19763,7 +19763,7 @@
     {
       "name": "El Escamplero",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.9,
       "avgGradientPct": 5.5,
       "summitLat": 43.39193,
@@ -19799,7 +19799,7 @@
     {
       "name": "El Fito",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 8.0,
       "avgGradientPct": 8.0,
       "summitLat": null,
@@ -19853,7 +19853,7 @@
     {
       "name": "El Tornu",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.33513,
@@ -19871,7 +19871,7 @@
     {
       "name": "El Vallado",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.5,
       "avgGradientPct": 10.0,
       "summitLat": null,
@@ -20057,7 +20057,7 @@
     {
       "name": "Erlaitz",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 7.4,
       "avgGradientPct": 6.4,
       "summitLat": 43.30543,
@@ -20136,7 +20136,7 @@
     {
       "name": "Ermualde",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.1,
       "avgGradientPct": 11.1,
       "summitLat": 43.44717,
@@ -20312,7 +20312,7 @@
     {
       "name": "Etxauri",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 11.3,
       "avgGradientPct": 3.3,
       "summitLat": 42.79323,
@@ -20348,7 +20348,7 @@
     {
       "name": "Fai della Paganella (Santel)",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 11,
       "avgGradientPct": 8,
       "summitLat": 46.17933,
@@ -20463,7 +20463,7 @@
     {
       "name": "Fondo",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 46.44006,
@@ -20667,7 +20667,7 @@
     {
       "name": "Forcella di Brez",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 6,
       "avgGradientPct": 10,
       "summitLat": 46.45135,
@@ -20769,7 +20769,7 @@
     {
       "name": "Fresneo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.20142,
@@ -20895,7 +20895,7 @@
     {
       "name": "Gainza",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.2,
       "avgGradientPct": 12.1,
       "summitLat": 43.05461,
@@ -20913,7 +20913,7 @@
     {
       "name": "Gamoneu-Demués",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -21757,7 +21757,7 @@
     {
       "name": "Itsondo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 8.2,
       "avgGradientPct": 5.7,
       "summitLat": null,
@@ -21793,7 +21793,7 @@
     {
       "name": "Izua (Arrate)",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 4.1,
       "avgGradientPct": 9.2,
       "summitLat": 43.2156,
@@ -21962,7 +21962,7 @@
     {
       "name": "Jaufenpass",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 15,
       "avgGradientPct": 7.5,
       "summitLat": 46.8396,
@@ -22258,7 +22258,7 @@
     {
       "name": "Karabieta",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 6.7,
       "avgGradientPct": 5.6,
       "summitLat": 43.14822,
@@ -22462,7 +22462,7 @@
     {
       "name": "Krabelin",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 5.0,
       "avgGradientPct": 10.0,
       "summitLat": 43.2255,
@@ -22565,7 +22565,7 @@
     {
       "name": "La Asturiana",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 7.6,
       "avgGradientPct": 6.2,
       "summitLat": null,
@@ -22607,7 +22607,7 @@
     {
       "name": "La Bobia",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -22625,7 +22625,7 @@
     {
       "name": "La Cabaña",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -22643,7 +22643,7 @@
     {
       "name": "La Cabruñana",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.40273,
@@ -22885,7 +22885,7 @@
     {
       "name": "La Espina",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -23284,7 +23284,7 @@
     {
       "name": "La Tejera",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.5,
       "avgGradientPct": 4.0,
       "summitLat": null,
@@ -23302,7 +23302,7 @@
     {
       "name": "La Tornería",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 6.1,
       "avgGradientPct": 5.7,
       "summitLat": null,
@@ -23846,7 +23846,7 @@
     {
       "name": "Lapszanka",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 4.0,
       "avgGradientPct": 0,
       "summitLat": 49.36055,
@@ -23864,7 +23864,7 @@
     {
       "name": "Las Campas",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.4,
       "avgGradientPct": 8.2,
       "summitLat": null,
@@ -23882,7 +23882,7 @@
     {
       "name": "Las Cruces",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -23900,7 +23900,7 @@
     {
       "name": "Las Estacas",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.27717,
@@ -24105,7 +24105,7 @@
     {
       "name": "Leintz-Gatzaga",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.0,
       "avgGradientPct": 8.7,
       "summitLat": 42.98689,
@@ -24460,7 +24460,7 @@
     {
       "name": "Lizarraga",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 9.5,
       "avgGradientPct": 5.2,
       "summitLat": 42.87426,
@@ -24606,7 +24606,7 @@
     {
       "name": "Lubiniec",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": null,
@@ -24842,7 +24842,7 @@
     {
       "name": "Malkuartu",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.5,
       "avgGradientPct": 6.7,
       "summitLat": 43.15361,
@@ -24884,7 +24884,7 @@
     {
       "name": "Mandubia",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 5.3,
       "avgGradientPct": 5.3,
       "summitLat": 43.08681,
@@ -24956,7 +24956,7 @@
     {
       "name": "Marcena di Rumo",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 46.44265,
@@ -25121,7 +25121,7 @@
     {
       "name": "Meaga",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.9,
       "avgGradientPct": 4.1,
       "summitLat": 43.28124,
@@ -25163,7 +25163,7 @@
     {
       "name": "Mendexa",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.34826,
@@ -25181,7 +25181,7 @@
     {
       "name": "Milloi",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.5,
       "avgGradientPct": 4.0,
       "summitLat": 43.31415,
@@ -25926,7 +25926,7 @@
     {
       "name": "Monte Kalbo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.9,
       "avgGradientPct": 7.1,
       "summitLat": null,
@@ -27217,7 +27217,7 @@
     {
       "name": "Muniketa Gaina",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.5,
       "avgGradientPct": 7.3,
       "summitLat": null,
@@ -27571,7 +27571,7 @@
     {
       "name": "Naz-Sciaves",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -27625,7 +27625,7 @@
     {
       "name": "Nova Ponente (Untermoser)",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 20,
       "avgGradientPct": null,
       "summitLat": 46.40213,
@@ -27835,7 +27835,7 @@
     {
       "name": "Olaeta",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.0,
       "avgGradientPct": 8.6,
       "summitLat": 43.0347,
@@ -27883,7 +27883,7 @@
     {
       "name": "Opellora",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.1,
       "avgGradientPct": 13.0,
       "summitLat": 43.09992,
@@ -27919,7 +27919,7 @@
     {
       "name": "Orendain",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.8,
       "avgGradientPct": 7.3,
       "summitLat": 43.0795,
@@ -28058,7 +28058,7 @@
     {
       "name": "Ozeka",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.6,
       "avgGradientPct": 7.4,
       "summitLat": 43.06435,
@@ -28148,7 +28148,7 @@
     {
       "name": "Paresi",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 9.0,
       "avgGradientPct": 3.4,
       "summitLat": 43.35803,
@@ -31629,7 +31629,7 @@
     {
       "name": "Przelecz Jugowska",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": 50.65597,
@@ -31647,7 +31647,7 @@
     {
       "name": "Przelecz Kocierska",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": 49.77599,
@@ -31689,7 +31689,7 @@
     {
       "name": "Przelecz Krowiarki",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": 49.58815,
@@ -31731,7 +31731,7 @@
     {
       "name": "Przelecz Przegibek",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": null,
@@ -31749,7 +31749,7 @@
     {
       "name": "Przelecz Walimska",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": 50.69706,
@@ -31773,7 +31773,7 @@
     {
       "name": "Przelecz pod Srednica",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 3.3,
       "avgGradientPct": 5.7,
       "summitLat": 50.81461,
@@ -33468,7 +33468,7 @@
     {
       "name": "Puerto de la Garganta",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -34412,7 +34412,7 @@
     {
       "name": "Saint-Ignace",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.19849,
@@ -34466,7 +34466,7 @@
     {
       "name": "Saldias",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 2.9,
       "avgGradientPct": 9.2,
       "summitLat": 43.0874,
@@ -34484,7 +34484,7 @@
     {
       "name": "Salmopol",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": 49.69639,
@@ -34598,7 +34598,7 @@
     {
       "name": "San Cosme",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": null,
@@ -34803,7 +34803,7 @@
     {
       "name": "San Martin de Unx",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 42.52372,
@@ -34929,7 +34929,7 @@
     {
       "name": "San Tirso",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 43.44697,
@@ -35080,7 +35080,7 @@
     {
       "name": "Santa Ageda",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 9.0,
       "avgGradientPct": 6.9,
       "summitLat": null,
@@ -35098,7 +35098,7 @@
     {
       "name": "Santa Giustina (St. Julia)",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
       "summitLat": 46.10076,
@@ -35116,7 +35116,7 @@
     {
       "name": "Santa Koloma",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.0,
       "avgGradientPct": 8.4,
       "summitLat": 43.13828,
@@ -35206,7 +35206,7 @@
     {
       "name": "Santo Domingo",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.6,
       "avgGradientPct": 8.0,
       "summitLat": 40.42043,
@@ -35315,7 +35315,7 @@
     {
       "name": "Sarasola",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.9,
       "avgGradientPct": 3.5,
       "summitLat": 43.01432,
@@ -35417,7 +35417,7 @@
     {
       "name": "Sciana Bukovina",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": null,
@@ -35447,7 +35447,7 @@
     {
       "name": "Sciana Harnas",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 2.0,
       "avgGradientPct": 6.5,
       "summitLat": null,
@@ -36077,7 +36077,7 @@
     {
       "name": "Sosnowka",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 4.8,
       "avgGradientPct": 5.8,
       "summitLat": null,
@@ -36503,7 +36503,7 @@
     {
       "name": "Tineo",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 7.1,
       "avgGradientPct": 5.7,
       "summitLat": 43.33397,
@@ -36786,7 +36786,7 @@
     {
       "name": "Uitzi",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 3.7,
       "avgGradientPct": 6.9,
       "summitLat": 43.03959,
@@ -36834,7 +36834,7 @@
     {
       "name": "Untzilla",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 2.3,
       "avgGradientPct": 8.1,
       "summitLat": null,
@@ -36912,7 +36912,7 @@
     {
       "name": "Urkiola",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 5.5,
       "avgGradientPct": 9.5,
       "summitLat": 43.1003,
@@ -36930,7 +36930,7 @@
     {
       "name": "Urruztimendi",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.9,
       "avgGradientPct": 11.0,
       "summitLat": null,
@@ -37008,7 +37008,7 @@
     {
       "name": "Usategieta Gaina",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 11.2,
       "avgGradientPct": 3.2,
       "summitLat": null,
@@ -37537,7 +37537,7 @@
     {
       "name": "Villabona",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 1.1,
       "avgGradientPct": 12.5,
       "summitLat": 43.18768,
@@ -37651,7 +37651,7 @@
     {
       "name": "Villnoss (Funes)",
       "side": null,
-      "category": 1,
+      "category": "1",
       "lengthKm": 8.7,
       "avgGradientPct": 6.9,
       "summitLat": 46.6451,
@@ -37687,7 +37687,7 @@
     {
       "name": "Vivero",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 4.4,
       "avgGradientPct": 7.2,
       "summitLat": null,
@@ -37832,7 +37832,7 @@
     {
       "name": "Zieleniec",
       "side": null,
-      "category": 2,
+      "category": "2",
       "lengthKm": 0,
       "avgGradientPct": 0,
       "summitLat": null,
@@ -37886,7 +37886,7 @@
     {
       "name": "Zuarrarrate",
       "side": null,
-      "category": 3,
+      "category": "3",
       "lengthKm": 6.8,
       "avgGradientPct": 3.6,
       "summitLat": 42.94344,

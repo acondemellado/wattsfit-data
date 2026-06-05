@@ -176,6 +176,46 @@
       "year": 2025
     },
     {
+      "race": "Route d'Occitanie",
+      "year": 2016
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2017
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2018
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2019
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2020
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2021
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2022
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2023
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2024
+    },
+    {
+      "race": "Route d'Occitanie",
+      "year": 2025
+    },
+    {
       "race": "Tirreno-Adriatico",
       "year": 2016
     },
@@ -216,6 +256,22 @@
       "year": 2025
     },
     {
+      "race": "Tour Colombia",
+      "year": 2018
+    },
+    {
+      "race": "Tour Colombia",
+      "year": 2019
+    },
+    {
+      "race": "Tour Colombia",
+      "year": 2020
+    },
+    {
+      "race": "Tour Colombia",
+      "year": 2024
+    },
+    {
       "race": "Tour de France",
       "year": 2016
     },
@@ -296,6 +352,42 @@
       "year": 2025
     },
     {
+      "race": "Tour de Romandie",
+      "year": 2016
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2017
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2018
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2019
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2021
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2022
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2023
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2024
+    },
+    {
+      "race": "Tour de Romandie",
+      "year": 2025
+    },
+    {
       "race": "Tour de Suisse",
       "year": 2016
     },
@@ -329,6 +421,34 @@
     },
     {
       "race": "Tour de Suisse",
+      "year": 2025
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2016
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2017
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2018
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2019
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2022
+    },
+    {
+      "race": "Tour of Oman",
+      "year": 2024
+    },
+    {
+      "race": "Tour of Oman",
       "year": 2025
     },
     {
@@ -505,6 +625,42 @@
     },
     {
       "race": "Vuelta a Andalucía",
+      "year": 2025
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2016
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2017
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2018
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2019
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2021
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2022
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2023
+    },
+    {
+      "race": "Vuelta a Asturias",
+      "year": 2024
+    },
+    {
+      "race": "Vuelta a Asturias",
       "year": 2025
     },
     {
@@ -1623,6 +1779,24 @@
       "performances": []
     },
     {
+      "name": "Alto Boqueron (El Tambo)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2018,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto Campo de Arbre",
       "side": null,
       "category": "3",
@@ -1708,6 +1882,24 @@
           "year": 2018,
           "stage": 5,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto El Verjon",
+      "side": null,
+      "category": "1",
+      "lengthKm": 18.1,
+      "avgGradientPct": 5.1,
+      "summitLat": 4.598,
+      "summitLon": -74.013,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2020,
+          "stage": 6,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -2243,6 +2435,24 @@
       "performances": []
     },
     {
+      "name": "Alto de Arepas",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2020,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Aritxulegi",
       "side": null,
       "category": "3",
@@ -2454,6 +2664,24 @@
           "race": "Vuelta a España",
           "year": 2021,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Cerritos",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2018,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -2953,6 +3181,60 @@
       "performances": []
     },
     {
+      "name": "Alto de La Union",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.5,
+      "avgGradientPct": 5.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2019,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de La Virgen",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.3,
+      "avgGradientPct": 5.9,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2019,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Las Palmas",
+      "side": null,
+      "category": "1",
+      "lengthKm": 15.6,
+      "avgGradientPct": 6.7,
+      "summitLat": 6.154,
+      "summitLon": -75.542,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2019,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Laukiz",
       "side": null,
       "category": "3",
@@ -3254,6 +3536,30 @@
       "performances": []
     },
     {
+      "name": "Alto de Patios",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2024,
+          "stage": 6,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour Colombia",
+          "year": 2020,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto de Petralba",
       "side": null,
       "category": "3",
@@ -3429,6 +3735,24 @@
           "year": 2024,
           "stage": 3,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Salento",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.3,
+      "avgGradientPct": 6.7,
+      "summitLat": 4.637,
+      "summitLon": -75.57,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2018,
+          "stage": 5,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -3645,6 +3969,30 @@
           "year": 2023,
           "stage": 20,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto de Santa Rosa de Viterbo",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.5,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour Colombia",
+          "year": 2020,
+          "stage": 4,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -4352,6 +4700,12 @@
       "summitLat": 43.22535,
       "summitLon": -5.64798,
       "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        },
         {
           "race": "Vuelta a España",
           "year": 2024,
@@ -5100,6 +5454,60 @@
       "performances": []
     },
     {
+      "name": "Alto del Acebo",
+      "side": "Cangas del Narcea",
+      "category": 1,
+      "lengthKm": 9.5,
+      "avgGradientPct": 8.3,
+      "summitLat": 43.1356,
+      "summitLon": -6.6464,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2021,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2019,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2018,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2017,
+          "stage": 2,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2016,
+          "stage": 1,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto del Caracol",
       "side": null,
       "category": "2",
@@ -5220,6 +5628,12 @@
           "race": "Vuelta a España",
           "year": 2025,
           "stage": 13,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 1,
           "role": "intermediate"
         },
         {
@@ -5360,13 +5774,25 @@
     },
     {
       "name": "Alto del Naranco",
-      "side": null,
+      "side": "El Violeo",
       "category": "2",
       "lengthKm": 5.7,
       "avgGradientPct": 6.1,
       "summitLat": 43.3886,
       "summitLon": -5.8703,
       "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2019,
+          "stage": 3,
+          "role": "summit-finish"
+        },
         {
           "race": "Vuelta a España",
           "year": 2016,
@@ -5492,6 +5918,48 @@
       "performances": []
     },
     {
+      "name": "Alto del Sisga",
+      "side": null,
+      "category": null,
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2020,
+          "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Tenebreo",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.5,
+      "avgGradientPct": 9.1,
+      "summitLat": 43.28785,
+      "summitLon": -5.97642,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Alto del Torno",
       "side": null,
       "category": "2",
@@ -5504,6 +5972,78 @@
           "race": "Vuelta a España",
           "year": 2022,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Vino",
+      "side": null,
+      "category": "1",
+      "lengthKm": 30.2,
+      "avgGradientPct": 5.7,
+      "summitLat": 4.829,
+      "summitLon": -74.243,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2024,
+          "stage": 5,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Vino (sur)",
+      "side": null,
+      "category": "3",
+      "lengthKm": 0,
+      "avgGradientPct": 0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2024,
+          "stage": 5,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Alto del Violeo",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.1,
+      "avgGradientPct": 9.2,
+      "summitLat": 43.39746,
+      "summitLon": -5.90795,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2022,
+          "stage": 3,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2021,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -5920,6 +6460,24 @@
           "year": 2019,
           "stage": 17,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Anzere",
+      "side": null,
+      "category": "1",
+      "lengthKm": 14.5,
+      "avgGradientPct": 7.0,
+      "summitLat": 46.29707,
+      "summitLon": 7.39895,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -7366,6 +7924,48 @@
       "performances": []
     },
     {
+      "name": "Cap de la Coste",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Carabanzo",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.18543,
+      "summitLon": -5.78604,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Carbonare",
       "side": null,
       "category": "2",
@@ -7667,6 +8267,24 @@
       "performances": []
     },
     {
+      "name": "Chamoson",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.0,
+      "avgGradientPct": 7.3,
+      "summitLat": 46.20133,
+      "summitLon": 7.22325,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Champéry",
       "side": null,
       "category": "3",
@@ -7703,6 +8321,24 @@
       "performances": []
     },
     {
+      "name": "Chaumont",
+      "side": null,
+      "category": "2",
+      "lengthKm": 3.0,
+      "avgGradientPct": 11.9,
+      "summitLat": 47.03265,
+      "summitLon": 6.96428,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Chieti",
       "side": null,
       "category": "4",
@@ -7734,6 +8370,24 @@
           "year": 2021,
           "stage": 4,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Château de Peyrepertuse (Duilhac)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.5,
+      "avgGradientPct": 8.5,
+      "summitLat": 42.8694,
+      "summitLon": 2.5564,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 4,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -8506,6 +9160,24 @@
       ]
     },
     {
+      "name": "Col de Beyrède",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.9,
+      "avgGradientPct": 7.2,
+      "summitLat": 42.9408,
+      "summitLon": 0.3489,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2020,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col de Bluffy",
       "side": null,
       "category": "4",
@@ -8722,6 +9394,24 @@
       "performances": []
     },
     {
+      "name": "Col de Jau",
+      "side": null,
+      "category": "1",
+      "lengthKm": 20.8,
+      "avgGradientPct": 5.3,
+      "summitLat": 42.68791,
+      "summitLon": 2.25071,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col de Joux",
       "side": null,
       "category": "1",
@@ -8795,14 +9485,62 @@
       ]
     },
     {
-      "name": "Col de Latrape",
+      "name": "Col de Larrieu",
       "side": null,
-      "category": "1",
+      "category": "2",
       "lengthKm": null,
       "avgGradientPct": null,
+      "summitLat": 43.0161,
+      "summitLon": 0.85949,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Larriu",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.7,
+      "avgGradientPct": 6.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Latrape",
+      "side": null,
+      "category": "2",
+      "lengthKm": 5.9,
+      "avgGradientPct": 7.1,
       "summitLat": 42.79526,
       "summitLon": 1.31432,
       "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
         {
           "race": "Tour de France",
           "year": 2017,
@@ -8887,17 +9625,29 @@
     },
     {
       "name": "Col de Menté",
-      "side": null,
+      "side": "west",
       "category": "1",
-      "lengthKm": 6.9,
-      "avgGradientPct": 8.1,
-      "summitLat": 42.9342,
-      "summitLon": 0.7361,
+      "lengthKm": 12.0,
+      "avgGradientPct": 6.5,
+      "summitLat": 42.9117,
+      "summitLon": 0.715,
       "appearances": [
         {
           "race": "Tour de France",
           "year": 2024,
           "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
           "role": "intermediate"
         },
         {
@@ -8982,6 +9732,24 @@
           "race": "Tour de France",
           "year": 2023,
           "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Notre-Dame",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.8,
+      "avgGradientPct": 3.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -9093,8 +9861,8 @@
       "name": "Col de Peyresourde",
       "side": "west",
       "category": "1",
-      "lengthKm": 7.1,
-      "avgGradientPct": 7.8,
+      "lengthKm": 9.7,
+      "avgGradientPct": 7.5,
       "summitLat": 42.7967,
       "summitLon": 0.4533,
       "appearances": [
@@ -9120,6 +9888,12 @@
           "race": "Tour de France",
           "year": 2020,
           "stage": 8,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2020,
+          "stage": 3,
           "role": "intermediate"
         },
         {
@@ -9283,14 +10057,20 @@
       "performances": []
     },
     {
-      "name": "Col de Portet-d'Aspet",
+      "name": "Col de Portet d'Aspet",
       "side": null,
       "category": "1",
-      "lengthKm": 5.4,
-      "avgGradientPct": 7.1,
-      "summitLat": 42.9417,
-      "summitLon": 0.9067,
+      "lengthKm": 4.4,
+      "avgGradientPct": 9.7,
+      "summitLat": 42.9314,
+      "summitLon": 0.9089,
       "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
         {
           "race": "Tour de France",
           "year": 2021,
@@ -9355,6 +10135,24 @@
       "performances": []
     },
     {
+      "name": "Col de Roque Jalère",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 42.67694,
+      "summitLon": 2.44988,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col de Saint-Louis",
       "side": null,
       "category": "2",
@@ -9403,6 +10201,24 @@
           "race": "Paris-Nice",
           "year": 2018,
           "stage": 7,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col de Sainte-Colombe",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.43727,
+      "summitLon": 2.74157,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2017,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -9958,11 +10774,23 @@
       "name": "Col de la Core",
       "side": null,
       "category": "1",
-      "lengthKm": 13.1,
-      "avgGradientPct": 6.6,
-      "summitLat": 42.872,
-      "summitLon": 1.119,
+      "lengthKm": 14.2,
+      "avgGradientPct": 5.9,
+      "summitLat": 42.8453,
+      "summitLon": 1.1108,
       "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
         {
           "race": "Tour de France",
           "year": 2021,
@@ -11005,10 +11833,10 @@
       "name": "Col des Bordères",
       "side": null,
       "category": "2",
-      "lengthKm": 8.6,
-      "avgGradientPct": 5.8,
-      "summitLat": 42.961,
-      "summitLon": -0.207,
+      "lengthKm": 7.5,
+      "avgGradientPct": 5.5,
+      "summitLat": 42.9444,
+      "summitLon": -0.1444,
       "appearances": [
         {
           "race": "Tour de France",
@@ -11020,6 +11848,12 @@
           "race": "Tour de France",
           "year": 2018,
           "stage": 19,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2016,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -11110,6 +11944,24 @@
       "performances": []
     },
     {
+      "name": "Col des Hares",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.1,
+      "avgGradientPct": 6.2,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col des Lèques",
       "side": null,
       "category": "3",
@@ -11152,6 +12004,42 @@
           "race": "Tour de France",
           "year": 2016,
           "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col des Planches",
+      "side": null,
+      "category": "1",
+      "lengthKm": 11.4,
+      "avgGradientPct": 8.2,
+      "summitLat": 46.09699,
+      "summitLon": 7.12418,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2016,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col des Pontins",
+      "side": null,
+      "category": "3",
+      "lengthKm": 4.0,
+      "avgGradientPct": 6.5,
+      "summitLat": 47.13258,
+      "summitLon": 6.99668,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2025,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -11701,6 +12589,24 @@
       "performances": []
     },
     {
+      "name": "Col du Mollendruz",
+      "side": null,
+      "category": "2",
+      "lengthKm": 14.1,
+      "avgGradientPct": 3.5,
+      "summitLat": 46.64991,
+      "summitLon": 6.36589,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Col du Noyer",
       "side": null,
       "category": "1",
@@ -11777,8 +12683,8 @@
       "name": "Col du Pillon",
       "side": null,
       "category": "2",
-      "lengthKm": 15.7,
-      "avgGradientPct": 3.1,
+      "lengthKm": 7.0,
+      "avgGradientPct": 5.2,
       "summitLat": 46.35343,
       "summitLon": 7.2046,
       "appearances": [
@@ -11786,6 +12692,12 @@
           "race": "Tour de Suisse",
           "year": 2018,
           "stage": 5,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2017,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -12065,17 +12977,23 @@
     },
     {
       "name": "Col du Tourmalet",
-      "side": "west",
-      "category": "HC",
-      "lengthKm": 19.0,
+      "side": "east",
+      "category": "1",
+      "lengthKm": 17.2,
       "avgGradientPct": 7.4,
-      "summitLat": 42.9072,
+      "summitLat": 42.9089,
       "summitLon": 0.1453,
       "appearances": [
         {
           "race": "Tour de France",
           "year": 2025,
           "stage": 14,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 3,
           "role": "intermediate"
         },
         {
@@ -12103,6 +13021,12 @@
           "role": "intermediate"
         },
         {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
           "race": "Tour de France",
           "year": 2019,
           "stage": 14,
@@ -12115,9 +13039,21 @@
           "role": "intermediate"
         },
         {
+          "race": "Route d'Occitanie",
+          "year": 2017,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
           "race": "Tour de France",
           "year": 2016,
           "stage": 8,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2016,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -12233,6 +13169,24 @@
           "race": "Tour de France",
           "year": 2017,
           "stage": 17,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Col du Vent",
+      "side": null,
+      "category": "2",
+      "lengthKm": 7.4,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -14432,6 +15386,24 @@
       "performances": []
     },
     {
+      "name": "Côte d'Aubignac",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.0,
+      "avgGradientPct": 8.0,
+      "summitLat": 44.126,
+      "summitLon": 3.91484,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2019,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Côte d'Aubin",
       "side": null,
       "category": "4",
@@ -15986,6 +16958,24 @@
       "performances": []
     },
     {
+      "name": "Côte de Lacrouzette",
+      "side": null,
+      "category": "3",
+      "lengthKm": 6.0,
+      "avgGradientPct": 4.0,
+      "summitLat": 43.66422,
+      "summitLon": 2.34737,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Côte de Langres",
       "side": null,
       "category": "4",
@@ -16238,6 +17228,24 @@
       "performances": []
     },
     {
+      "name": "Côte de Mauvezin",
+      "side": null,
+      "category": "3",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Côte de Menez Quelerc'h",
       "side": null,
       "category": "3",
@@ -16286,6 +17294,30 @@
           "race": "Tour de France",
           "year": 2016,
           "stage": 11,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Moncassin",
+      "side": null,
+      "category": "3",
+      "lengthKm": 1.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 43.51103,
+      "summitLon": 0.42094,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2019,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2016,
+          "stage": 5,
           "role": "intermediate"
         }
       ],
@@ -16880,6 +17912,24 @@
       "performances": []
     },
     {
+      "name": "Côte de Réquista",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.9,
+      "avgGradientPct": 6.3,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Côte de Saanenmöser",
       "side": null,
       "category": "3",
@@ -17408,6 +18458,30 @@
           "race": "Tour de France",
           "year": 2025,
           "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Côte de Tiergues",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.0,
+      "avgGradientPct": 4.6,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -18039,6 +19113,24 @@
       "performances": []
     },
     {
+      "name": "Côte de la Glévade",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.6,
+      "avgGradientPct": 4.4,
+      "summitLat": 43.73487,
+      "summitLon": 2.43447,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Côte de la Jaillère",
       "side": null,
       "category": "3",
@@ -18651,6 +19743,42 @@
       "performances": []
     },
     {
+      "name": "Eastern Mountain",
+      "side": "Fanja",
+      "category": "2",
+      "lengthKm": 4.8,
+      "avgGradientPct": 8.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour of Oman",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "El Escamplero",
+      "side": null,
+      "category": 3,
+      "lengthKm": 2.9,
+      "avgGradientPct": 5.5,
+      "summitLat": 43.39193,
+      "summitLon": -5.94927,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "El Ferial Larra-Belagua",
       "side": null,
       "category": "1",
@@ -18664,6 +19792,24 @@
           "year": 2025,
           "stage": 10,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "El Fito",
+      "side": null,
+      "category": 1,
+      "lengthKm": 8.0,
+      "avgGradientPct": 8.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 1,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -18699,6 +19845,42 @@
           "race": "Vuelta a España",
           "year": 2020,
           "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "El Tornu",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.33513,
+      "summitLon": -6.14646,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "El Vallado",
+      "side": null,
+      "category": 2,
+      "lengthKm": 3.5,
+      "avgGradientPct": 10.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -19585,6 +20767,24 @@
       "performances": []
     },
     {
+      "name": "Fresneo",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.20142,
+      "summitLon": -5.71165,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Frontignano",
       "side": "Ussita",
       "category": "1",
@@ -19711,6 +20911,24 @@
       "performances": []
     },
     {
+      "name": "Gamoneu-Demués",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Garate",
       "side": null,
       "category": "3",
@@ -19730,6 +20948,24 @@
           "year": 2018,
           "stage": 1,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Gavarnie-Gèdre",
+      "side": null,
+      "category": "2",
+      "lengthKm": 14.8,
+      "avgGradientPct": 4.0,
+      "summitLat": 42.8542,
+      "summitLon": -0.0181,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2017,
+          "stage": 3,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -20103,6 +21339,78 @@
       ]
     },
     {
+      "name": "Green Mountain (Jabal al Akhdar)",
+      "side": "Birkat Al Mouz",
+      "category": "HC",
+      "lengthKm": 5.7,
+      "avgGradientPct": 10.5,
+      "summitLat": 23.07,
+      "summitLon": 57.66,
+      "appearances": [
+        {
+          "race": "Tour of Oman",
+          "year": 2025,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2024,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2022,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2019,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2018,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2017,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour of Oman",
+          "year": 2016,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Grimentz",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.2,
+      "avgGradientPct": 7.1,
+      "summitLat": 46.18029,
+      "summitLon": 7.57383,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Grimselpass",
       "side": null,
       "category": "HC",
@@ -20291,12 +21599,12 @@
     },
     {
       "name": "Hourquette d'Ancizan",
-      "side": null,
+      "side": "east",
       "category": "2",
       "lengthKm": 8.2,
-      "avgGradientPct": 4.9,
-      "summitLat": 42.9272,
-      "summitLon": 0.305,
+      "avgGradientPct": 5.1,
+      "summitLat": 42.8983,
+      "summitLon": 0.2825,
       "appearances": [
         {
           "race": "Tour de France",
@@ -20314,6 +21622,12 @@
           "race": "Tour de France",
           "year": 2019,
           "stage": 12,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2019,
+          "stage": 3,
           "role": "intermediate"
         },
         {
@@ -20658,6 +21972,24 @@
           "race": "Tour of the Alps",
           "year": 2019,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Jaunpass",
+      "side": null,
+      "category": "1",
+      "lengthKm": 6.5,
+      "avgGradientPct": 7.3,
+      "summitLat": 46.59216,
+      "summitLon": 7.33908,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2017,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -21273,6 +22605,66 @@
       "performances": []
     },
     {
+      "name": "La Bobia",
+      "side": null,
+      "category": 1,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Cabaña",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Cabruñana",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.40273,
+      "summitLon": -6.11053,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Campa",
       "side": null,
       "category": "3",
@@ -21485,6 +22877,30 @@
           "race": "Vuelta a España",
           "year": 2023,
           "stage": 20,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Espina",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2019,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -21775,6 +23191,24 @@
       "performances": []
     },
     {
+      "name": "La Rasse",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.1,
+      "avgGradientPct": 8.6,
+      "summitLat": 46.18301,
+      "summitLon": 7.0145,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "La Rosière",
       "side": null,
       "category": "1",
@@ -21860,6 +23294,24 @@
           "race": "Itzulia Basque Country",
           "year": 2021,
           "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "La Tornería",
+      "side": null,
+      "category": 2,
+      "lengthKm": 6.1,
+      "avgGradientPct": 5.7,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -22428,6 +23880,42 @@
       "performances": []
     },
     {
+      "name": "Las Cruces",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Las Estacas",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.27717,
+      "summitLon": -6.27201,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 1,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Las Estacas de Trueba",
       "side": null,
       "category": "3",
@@ -22561,6 +24049,24 @@
       "performances": []
     },
     {
+      "name": "Le Mourtis",
+      "side": null,
+      "category": "1",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 42.9269,
+      "summitLon": 0.7172,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Le Sappey-en-Chartreuse",
       "side": null,
       "category": "3",
@@ -22615,6 +24121,60 @@
       "performances": []
     },
     {
+      "name": "Lens",
+      "side": null,
+      "category": "3",
+      "lengthKm": 3.5,
+      "avgGradientPct": 6.5,
+      "summitLat": 46.2799,
+      "summitLon": 7.44616,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Angles",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.7,
+      "avgGradientPct": 6.8,
+      "summitLat": 42.5644,
+      "summitLon": 2.0742,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Collons",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.1,
+      "avgGradientPct": 6.5,
+      "summitLat": 46.18134,
+      "summitLon": 7.38514,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Les Estables",
       "side": null,
       "category": "3",
@@ -22646,6 +24206,96 @@
           "year": 2021,
           "stage": 8,
           "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Giettes",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.1,
+      "avgGradientPct": 8.2,
+      "summitLat": 46.22537,
+      "summitLon": 6.96235,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Marecottes",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.8,
+      "avgGradientPct": 7.3,
+      "summitLat": 46.1119,
+      "summitLon": 7.0033,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 2,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Monts d'Olmes",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.5,
+      "avgGradientPct": 6.5,
+      "summitLat": 42.8856,
+      "summitLon": 1.7297,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2018,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Mosses",
+      "side": null,
+      "category": "2",
+      "lengthKm": 13.4,
+      "avgGradientPct": 4.1,
+      "summitLat": 46.4598,
+      "summitLon": 6.95912,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Les Pontis",
+      "side": null,
+      "category": "1",
+      "lengthKm": 7.3,
+      "avgGradientPct": 7.5,
+      "summitLat": 46.26032,
+      "summitLon": 7.56424,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
         }
       ],
       "performances": []
@@ -22700,6 +24350,24 @@
       ]
     },
     {
+      "name": "Les Rives",
+      "side": null,
+      "category": "2",
+      "lengthKm": 9.6,
+      "avgGradientPct": 5.4,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Leukerbad",
       "side": null,
       "category": "1",
@@ -22742,6 +24410,30 @@
           "race": "Paris-Nice",
           "year": 2021,
           "stage": 8,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Leysin",
+      "side": null,
+      "category": "2",
+      "lengthKm": 4.0,
+      "avgGradientPct": 7.2,
+      "summitLat": 46.3422,
+      "summitLon": 7.0156,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2017,
+          "stage": 4,
           "role": "summit-finish"
         }
       ],
@@ -22930,6 +24622,24 @@
       "performances": []
     },
     {
+      "name": "Luchon - Hospice de France",
+      "side": null,
+      "category": "1",
+      "lengthKm": 10.0,
+      "avgGradientPct": 7.3,
+      "summitLat": 42.7361,
+      "summitLon": 0.5708,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2019,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Luchon-Superbagnères",
       "side": null,
       "category": "HC",
@@ -23005,12 +24715,18 @@
     {
       "name": "Luz Ardiden",
       "side": null,
-      "category": "HC",
+      "category": "1",
       "lengthKm": 13.3,
       "avgGradientPct": 7.4,
-      "summitLat": 42.866,
-      "summitLon": -0.025,
+      "summitLat": 42.8783,
+      "summitLon": -0.0181,
       "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2025,
+          "stage": 3,
+          "role": "summit-finish"
+        },
         {
           "race": "Tour de France",
           "year": 2021,
@@ -23202,6 +24918,24 @@
       "performances": []
     },
     {
+      "name": "Manizales (Torre de Chipre)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 19.0,
+      "avgGradientPct": 4.0,
+      "summitLat": 5.063,
+      "summitLon": -75.505,
+      "appearances": [
+        {
+          "race": "Tour Colombia",
+          "year": 2018,
+          "stage": 6,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Marblinger Hohe",
       "side": null,
       "category": null,
@@ -23361,6 +25095,24 @@
           "race": "Giro d'Italia",
           "year": 2023,
           "stage": 16,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Maury",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 42.81027,
+      "summitLon": 2.59358,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2021,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -23784,6 +25536,24 @@
           "race": "Critérium du Dauphiné",
           "year": 2017,
           "stage": 6,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Mont-Crosin",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.4,
+      "avgGradientPct": 6.9,
+      "summitLat": 47.18327,
+      "summitLon": 7.03473,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2025,
+          "stage": 1,
           "role": "intermediate"
         }
       ],
@@ -25005,6 +26775,24 @@
       "performances": []
     },
     {
+      "name": "Montségur",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 42.87075,
+      "summitLon": 1.83375,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2018,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Montée d'Aussois",
       "side": null,
       "category": "2",
@@ -25216,6 +27004,24 @@
       "performances": []
     },
     {
+      "name": "Montée du Barrage de l'Agly",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 42.74615,
+      "summitLon": 2.58942,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2022,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Montée du Mont Chéry",
       "side": null,
       "category": "2",
@@ -25289,6 +27095,24 @@
           "year": 2019,
           "stage": 5,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Morgins",
+      "side": null,
+      "category": "1",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 46.23766,
+      "summitLon": 6.8581,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2016,
+          "stage": 2,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -25721,6 +27545,30 @@
       "performances": []
     },
     {
+      "name": "Nax",
+      "side": null,
+      "category": "2",
+      "lengthKm": 6.6,
+      "avgGradientPct": 6.1,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Naz-Sciaves",
       "side": null,
       "category": 2,
@@ -25734,6 +27582,24 @@
           "year": 2016,
           "stage": 2,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Nistos - Cap Nestès",
+      "side": null,
+      "category": "1",
+      "lengthKm": 13.2,
+      "avgGradientPct": 7.1,
+      "summitLat": 42.94214,
+      "summitLon": 0.45912,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2023,
+          "stage": 3,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -26160,6 +28026,30 @@
           "race": "Giro d'Italia",
           "year": 2021,
           "stage": 9,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Ovronnaz",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.9,
+      "avgGradientPct": 9.4,
+      "summitLat": 46.19898,
+      "summitLon": 7.17234,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2024,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -28446,15 +30336,21 @@
       "name": "Pic de Nore",
       "side": null,
       "category": "1",
-      "lengthKm": 11.0,
-      "avgGradientPct": 6.8,
-      "summitLat": 43.42442,
-      "summitLon": 2.46265,
+      "lengthKm": 12.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 43.4156,
+      "summitLon": 2.4458,
       "appearances": [
         {
           "race": "Tour de France",
           "year": 2018,
           "stage": 15,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2018,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -29151,17 +31047,29 @@
     },
     {
       "name": "Port de Balès",
-      "side": null,
-      "category": "HC",
-      "lengthKm": 11.7,
-      "avgGradientPct": 7.7,
-      "summitLat": 42.8606,
-      "summitLon": 0.505,
+      "side": "south",
+      "category": "1",
+      "lengthKm": 19.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 42.8736,
+      "summitLon": 0.5147,
       "appearances": [
         {
           "race": "Tour de France",
           "year": 2020,
           "stage": 8,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2020,
+          "stage": 3,
+          "role": "intermediate"
+        },
+        {
+          "race": "Route d'Occitanie",
+          "year": 2019,
+          "stage": 3,
           "role": "intermediate"
         },
         {
@@ -31558,6 +33466,24 @@
       "performances": []
     },
     {
+      "name": "Puerto de la Garganta",
+      "side": null,
+      "category": 2,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2025,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Puerto de la Morcuera",
       "side": null,
       "category": "1",
@@ -32129,6 +34055,24 @@
       "performances": []
     },
     {
+      "name": "Qurayyat",
+      "side": null,
+      "category": "3",
+      "lengthKm": 2.8,
+      "avgGradientPct": 6.5,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour of Oman",
+          "year": 2022,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Rampe Saint-Hilaire",
       "side": null,
       "category": "3",
@@ -32412,6 +34356,24 @@
       "performances": []
     },
     {
+      "name": "Saanenmoser",
+      "side": null,
+      "category": "3",
+      "lengthKm": 7.6,
+      "avgGradientPct": 4.4,
+      "summitLat": 46.51445,
+      "summitLon": 7.3047,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2017,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Saint-Gervais Mont Blanc",
       "side": null,
       "category": "1",
@@ -32460,6 +34422,24 @@
           "race": "Itzulia Basque Country",
           "year": 2024,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Saint-Luc",
+      "side": null,
+      "category": "1",
+      "lengthKm": 4.6,
+      "avgGradientPct": 7.8,
+      "summitLat": 46.22056,
+      "summitLon": 7.59649,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -32941,6 +34921,24 @@
           "race": "Giro d'Italia",
           "year": 2016,
           "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "San Tirso",
+      "side": null,
+      "category": 3,
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 43.44697,
+      "summitLon": -6.10193,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2024,
+          "stage": 2,
           "role": "intermediate"
         }
       ],
@@ -34059,6 +36057,24 @@
       "performances": []
     },
     {
+      "name": "Sion ITT climb",
+      "side": null,
+      "category": null,
+      "lengthKm": 15.1,
+      "avgGradientPct": null,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2016,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Sosnowka",
       "side": null,
       "category": 2,
@@ -34071,6 +36087,24 @@
           "race": "Tour de Pologne",
           "year": 2023,
           "stage": 2,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Stage 3 ITT climb",
+      "side": null,
+      "category": null,
+      "lengthKm": 6.0,
+      "avgGradientPct": 5.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 3,
           "role": "intermediate"
         }
       ],
@@ -34161,6 +36195,36 @@
           "race": "Tour de France",
           "year": 2020,
           "stage": 12,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Suen",
+      "side": null,
+      "category": "3",
+      "lengthKm": 5.7,
+      "avgGradientPct": 5.2,
+      "summitLat": 46.18038,
+      "summitLon": 7.4372,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2021,
+          "stage": 4,
+          "role": "intermediate"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 4,
           "role": "intermediate"
         }
       ],
@@ -34389,6 +36453,36 @@
       "performances": []
     },
     {
+      "name": "Thyon 2000",
+      "side": null,
+      "category": "HC",
+      "lengthKm": 20.7,
+      "avgGradientPct": 7.7,
+      "summitLat": 46.1939,
+      "summitLon": 7.385,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2025,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2023,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2021,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Tiefenbachferner (Sölden)",
       "side": null,
       "category": "HC",
@@ -34407,6 +36501,24 @@
       "performances": []
     },
     {
+      "name": "Tineo",
+      "side": null,
+      "category": 2,
+      "lengthKm": 7.1,
+      "avgGradientPct": 5.7,
+      "summitLat": 43.33397,
+      "summitLon": -6.41655,
+      "appearances": [
+        {
+          "race": "Vuelta a Asturias",
+          "year": 2023,
+          "stage": 3,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Toano",
       "side": null,
       "category": "2",
@@ -34420,6 +36532,24 @@
           "year": 2025,
           "stage": 11,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Torgon",
+      "side": null,
+      "category": "1",
+      "lengthKm": 12.0,
+      "avgGradientPct": 6.0,
+      "summitLat": 46.3083,
+      "summitLon": 6.8556,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2019,
+          "stage": 4,
+          "role": "summit-finish"
         }
       ],
       "performances": []
@@ -34930,6 +37060,24 @@
       "performances": []
     },
     {
+      "name": "Val d'Azun - Couraduque",
+      "side": null,
+      "category": "1",
+      "lengthKm": 8.0,
+      "avgGradientPct": 6.5,
+      "summitLat": 42.9606,
+      "summitLon": -0.1819,
+      "appearances": [
+        {
+          "race": "Route d'Occitanie",
+          "year": 2016,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Valco della Somma",
       "side": null,
       "category": "4",
@@ -35309,6 +37457,24 @@
       "performances": []
     },
     {
+      "name": "Vercorin",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.6,
+      "avgGradientPct": 8.1,
+      "summitLat": 46.25717,
+      "summitLon": 7.5307,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 4,
+          "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Vermelhos",
       "side": null,
       "category": "3",
@@ -35405,13 +37571,37 @@
       "performances": []
     },
     {
+      "name": "Villars (ITT)",
+      "side": null,
+      "category": "1",
+      "lengthKm": 9.9,
+      "avgGradientPct": 8.0,
+      "summitLat": 46.2978,
+      "summitLon": 7.0556,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 5,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2018,
+          "stage": 3,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Villars-sur-Ollon",
       "side": null,
       "category": "1",
-      "lengthKm": 11.1,
-      "avgGradientPct": 7.6,
-      "summitLat": 46.29776,
-      "summitLon": 7.05533,
+      "lengthKm": 15.8,
+      "avgGradientPct": 5.3,
+      "summitLat": 46.2978,
+      "summitLon": 7.0556,
       "appearances": [
         {
           "race": "Tour de Suisse",
@@ -35428,6 +37618,12 @@
         {
           "race": "Tour de Suisse",
           "year": 2017,
+          "stage": 4,
+          "role": "summit-finish"
+        },
+        {
+          "race": "Tour de Romandie",
+          "year": 2016,
           "stage": 4,
           "role": "summit-finish"
         }
@@ -35574,6 +37770,24 @@
       ]
     },
     {
+      "name": "Yitti Hills",
+      "side": null,
+      "category": "2",
+      "lengthKm": 1.6,
+      "avgGradientPct": 7.0,
+      "summitLat": null,
+      "summitLon": null,
+      "appearances": [
+        {
+          "race": "Tour of Oman",
+          "year": 2024,
+          "stage": 4,
+          "role": "summit-finish"
+        }
+      ],
+      "performances": []
+    },
+    {
       "name": "Zakopane (Wielka Krokiew uphill finish)",
       "side": null,
       "category": null,
@@ -35629,6 +37843,24 @@
           "year": 2023,
           "stage": 3,
           "role": "intermediate"
+        }
+      ],
+      "performances": []
+    },
+    {
+      "name": "Zinal",
+      "side": null,
+      "category": "2",
+      "lengthKm": null,
+      "avgGradientPct": null,
+      "summitLat": 46.1356,
+      "summitLon": 7.6258,
+      "appearances": [
+        {
+          "race": "Tour de Romandie",
+          "year": 2022,
+          "stage": 4,
+          "role": "summit-finish"
         }
       ],
       "performances": []

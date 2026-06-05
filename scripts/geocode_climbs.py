@@ -108,6 +108,11 @@ RACE_CC = {
     "Tour de Pologne": "pl",
     "UAE Tour": "ae",
     "Abu Dhabi Tour": "ae",
+    "Route d'Occitanie": "fr",
+    "Vuelta a Asturias": "es",
+    "Tour de Romandie": "ch",
+    "Tour Colombia": "co",
+    "Tour of Oman": "om",
 }
 
 

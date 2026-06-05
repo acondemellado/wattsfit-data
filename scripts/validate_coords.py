@@ -26,7 +26,8 @@ BB = {"fr": (42.0, 51.3, -5.3, 8.4), "es": (35.8, 44.0, -9.5, 3.5),
       "it": (36.4, 47.2, 6.4, 18.7), "ad": (42.3, 42.7, 1.3, 1.8),
       "ch": (45.6, 47.9, 5.8, 10.6), "at": (46.3, 49.1, 9.5, 17.2),
       "pt": (36.9, 42.2, -9.6, -6.1), "pl": (49.0, 54.9, 14.0, 24.2),
-      "ae": (22.6, 26.2, 51.5, 56.4)}
+      "ae": (22.6, 26.2, 51.5, 56.4), "co": (1.0, 13.0, -79.5, -66.8),
+      "om": (16.5, 26.6, 51.8, 60.0)}
 RACE_CC = {"Critérium du Dauphiné": ["fr"], "Tour de Suisse": ["ch"],
            "Tour of the Alps": ["it", "at"], "Giro del Trentino": ["it"],
            "Tirreno-Adriatico": ["it"], "Paris-Nice": ["fr"],
@@ -34,11 +35,15 @@ RACE_CC = {"Critérium du Dauphiné": ["fr"], "Tour de Suisse": ["ch"],
            "Vuelta a España": ["es", "ad"], "Itzulia Basque Country": ["es"],
            "Volta a Catalunya": ["es", "ad"], "Vuelta a Burgos": ["es"],
            "Vuelta a Andalucía": ["es"], "Volta ao Algarve": ["pt"],
-           "Tour de Pologne": ["pl"], "UAE Tour": ["ae"], "Abu Dhabi Tour": ["ae"]}
+           "Tour de Pologne": ["pl"], "UAE Tour": ["ae"], "Abu Dhabi Tour": ["ae"],
+           "Route d'Occitanie": ["fr"], "Vuelta a Asturias": ["es"],
+           "Tour de Romandie": ["ch"], "Tour Colombia": ["co"],
+           "Tour of Oman": ["om"]}
 NEIGHBORS = {"fr": ["fr", "es", "ad", "it", "ch"], "es": ["es", "ad", "fr", "pt"],
              "it": ["it", "ch", "at", "fr"], "ch": ["ch", "it", "fr", "at"],
              "ad": ["ad", "es", "fr"], "at": ["at", "it", "ch"],
-             "pt": ["pt", "es"], "pl": ["pl"], "ae": ["ae"]}
+             "pt": ["pt", "es"], "pl": ["pl"], "ae": ["ae"],
+             "co": ["co"], "om": ["om"]}
 
 
 def nn(s):

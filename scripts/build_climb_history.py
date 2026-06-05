@@ -22,6 +22,7 @@ import glob
 import json
 import re
 import unicodedata
+from collections import defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -118,6 +119,44 @@ for fp in files:
             "timeS": t["timeS"], "lengthKm": t.get("lengthKm"),
             "note": t.get("note"), "measured": True, "sourceUrl": t.get("sourceUrl"),
         })
+
+# ── Post-merge: une entradas del mismo puerto que sean la MISMA vertiente ──
+# (longitudes parecidas, ≤3 km, o alguna sin longitud). Distintas vertientes
+# (longitudes claramente distintas) se mantienen separadas. Recupera el cruce
+# entre carreras cuando una etiquetó la vertiente y otra no.
+_by_name = defaultdict(list)
+for e in climbs.values():
+    _by_name[norm_name(e["name"])].append(e)
+
+merged = {}
+for name, group in _by_name.items():
+    group.sort(key=lambda e: len(e["appearances"]), reverse=True)
+    clusters = []
+    for e in group:
+        placed = False
+        for cl in clusters:
+            rep = cl[0]
+            la, lb = e.get("lengthKm"), rep.get("lengthKm")
+            if la is None or lb is None or abs(la - lb) <= 3.0:
+                cl.append(e)
+                placed = True
+                break
+        if not placed:
+            clusters.append([e])
+    for ci, cl in enumerate(clusters):
+        base = cl[0]
+        for other in cl[1:]:
+            for a in other["appearances"]:
+                if a not in base["appearances"]:
+                    base["appearances"].append(a)
+            base["performances"].extend(other["performances"])
+            for f in ("side", "category", "lengthKm", "avgGradientPct",
+                      "summitLat", "summitLon"):
+                if base.get(f) is None and other.get(f) is not None:
+                    base[f] = other[f]
+        merged[f"{name}#{ci}"] = base
+
+climbs = merged
 
 # ── Coordenadas: propagación intra-dataset + overrides geocodificados ──
 # La cima de un puerto es la misma sea cual sea la vertiente, así que las

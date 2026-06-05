@@ -90,21 +90,28 @@ RACE_CC = {
     "Vuelta a España": "es,ad",
     "Itzulia Basque Country": "es",
     "Volta a Catalunya": "es,ad",
+    "Critérium du Dauphiné": "fr",
+    "Tour de Suisse": "ch",
+    "Tour of the Alps": "it,at",
+    "Giro del Trentino": "it",
+    "Tirreno-Adriatico": "it",
+    "Paris-Nice": "fr",
 }
 
 
 def main():
     d = json.loads(HIST.read_text())
-    overrides = {}  # re-geocodificación desde cero (las anteriores eran ambiguas)
+    # ADITIVO: conserva las coords ya geocodificadas y solo añade las nuevas.
+    overrides = json.loads(OUT.read_text()) if OUT.exists() else {}
 
-    # nombres distintos SIN coords nativas y con nombre de col/puerto;
-    # guardamos el país (códigos) según las carreras donde aparece el puerto.
+    # nombres distintos SIN coords (ni nativas ni override) y con nombre de
+    # col/puerto; guardamos el país (códigos) según las carreras del puerto.
     targets = {}
     for c in d["climbs"]:
         if c["summitLat"] is not None:
             continue
         nn = norm_name(c["name"])
-        if nn in targets or not KW.search(c["name"]):
+        if nn in targets or nn in overrides or not KW.search(c["name"]):
             continue
         ccs = set()
         for a in c["appearances"]:

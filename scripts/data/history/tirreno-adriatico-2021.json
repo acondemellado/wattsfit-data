@@ -1,0 +1,9 @@
+{"race":"Tirreno-Adriatico","year":2021,"climbs":[
+{"stage":4,"name":"Forca di Arrone","side":null,"category":"3","lengthKm":6.0,"avgGradientPct":null,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Sella di Corno","side":null,"category":"3","lengthKm":14.1,"avgGradientPct":3.7,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Passo Capannelle","side":null,"category":"3","lengthKm":13.8,"avgGradientPct":4.5,"summitFinish":false,"summitLat":null,"summitLon":null},
+{"stage":4,"name":"Prati di Tivo","side":null,"category":"1","lengthKm":14.6,"avgGradientPct":7.0,"summitFinish":true,"summitLat":42.4861,"summitLon":13.5575}
+],"times":[
+{"name":"Prati di Tivo","side":null,"stage":4,"group":"leading","rider":"Tadej Pogačar","timeS":2166,"lengthKm":14.7,"note":"36:06 winning ascent (14.7 km at 7.0%), ~24.4 km/h, ~6.6 W/kg; smashed Froome 2013 record of 38:22 by >2 min per climbing-records.com","sourceUrl":"http://www.climbing-records.com/2021/03/pogacar-in-full-stratospheric-mode-on.html"},
+{"name":"Prati di Tivo","side":null,"stage":4,"group":"leading","rider":"Chris Froome","timeS":2302,"lengthKm":14.7,"note":"38:22 winning ascent in 2013 Tirreno-Adriatico; previous climb record before Pogačar 2021","sourceUrl":"http://www.climbing-records.com/2021/03/pogacar-in-full-stratospheric-mode-on.html"}
+]}

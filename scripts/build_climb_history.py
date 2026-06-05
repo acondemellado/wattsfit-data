@@ -74,7 +74,8 @@ def get_entry(name, side, **geo):
     return e
 
 
-files = sorted(glob.glob(str(HISTORY_DIR / "*.json")))
+_all = sorted(glob.glob(str(HISTORY_DIR / "*.json")))
+files = [f for f in _all if "race" in json.loads(Path(f).read_text())]
 n_editions = 0
 for fp in files:
     data = json.loads(Path(fp).read_text())
@@ -117,6 +118,31 @@ for fp in files:
             "timeS": t["timeS"], "lengthKm": t.get("lengthKm"),
             "note": t.get("note"), "measured": True, "sourceUrl": t.get("sourceUrl"),
         })
+
+# ── Coordenadas: propagación intra-dataset + overrides geocodificados ──
+# La cima de un puerto es la misma sea cual sea la vertiente, así que las
+# coords de cualquier entrada con el mismo nombre sirven para las que no las
+# tienen. Luego se rellenan los huecos con coords_overrides.json (geocodif.).
+OVERRIDES_FILE = Path(__file__).resolve().parent / "data" / "coords_overrides.json"
+overrides = {}
+if OVERRIDES_FILE.exists():
+    overrides = json.loads(OVERRIDES_FILE.read_text())
+
+coords_by_name = {}
+for e in climbs.values():
+    if e["summitLat"] is not None:
+        coords_by_name.setdefault(norm_name(e["name"]), (e["summitLat"], e["summitLon"]))
+# los overrides solo rellenan nombres sin coords nativas
+for k, v in overrides.items():
+    coords_by_name.setdefault(k, (v[0], v[1]))
+
+n_filled = 0
+for e in climbs.values():
+    if e["summitLat"] is None:
+        c = coords_by_name.get(norm_name(e["name"]))
+        if c:
+            e["summitLat"], e["summitLon"] = c
+            n_filled += 1
 
 # orden de apariciones y rendimientos (recientes primero)
 for e in climbs.values():

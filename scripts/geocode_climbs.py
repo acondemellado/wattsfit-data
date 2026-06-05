@@ -58,7 +58,11 @@ def clean_query(name: str) -> str:
 _PREFIX = re.compile(r"^(alto de l'|alto del |alto de la |alto de |alt del |alt de |"
                      r"puerto de la |puerto de |collada de |collado de |coll de la |"
                      r"coll de |mirador de |santuario de |lagos de |pla de |"
-                     r"montee de |montée de |alto d'|alto de l |port de )", re.I)
+                     r"montee de |montée de |alto d'|alto de l |port de |"
+                     r"côte de la |côte de l'|côte de |côte d'|côte du |"
+                     r"cote de la |cote de |cote du |cote d'|"
+                     r"col de la |col de l'|col de |col du |col d'|"
+                     r"montée de la |montée du |montée d'|côte des )", re.I)
 
 
 def strip_prefix(name: str) -> str:
@@ -119,7 +123,9 @@ def main():
         if c["summitLat"] is not None:
             continue
         nn = norm_name(c["name"])
-        if nn in targets or nn in overrides or not KW.search(c["name"]):
+        # Geocodificamos TODO puerto sin coords (incluidas las "Côte de pueblo");
+        # la validación por etapa descarta los homónimos erróneos.
+        if nn in targets or nn in overrides or len(nn) < 4:
             continue
         ccs = set()
         for a in c["appearances"]:

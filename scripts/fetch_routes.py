@@ -37,6 +37,19 @@ SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ROUTES_DIR = REPO_ROOT / "routes"
 INDEX_FILE = REPO_ROOT / "routes.json"
+STAGE_DATES_FILE = Path(__file__).resolve().parent / "data" / "stage_dates.json"
+
+
+def _load_stage_dates() -> dict:
+    """Fechas verificadas por id de etapa (yyyy-mm-dd) para 'Etapa de hoy'."""
+    try:
+        raw = json.loads(STAGE_DATES_FILE.read_text(encoding="utf-8"))
+        return {k: v for k, v in raw.items() if not k.startswith("_")}
+    except Exception:
+        return {}
+
+
+STAGE_DATES = _load_stage_dates()
 
 UA = "Wattsfit/1.0 (catalog builder; contact: acondemellado@gmail.com)"
 TIMEOUT = 30
@@ -581,6 +594,7 @@ def process(src: Source) -> dict | None:
         "source_url": src.source_url,
         "notes": src.notes,
         "gender": src.gender,
+        **({"date": STAGE_DATES[src.id]} if src.id in STAGE_DATES else {}),
         **stats,
     }
     print(f"  ✓ {src.id} — {stats['distance_km']} km / {stats['elevation_gain_m']} m D+ / {size_kb:.0f} KB")

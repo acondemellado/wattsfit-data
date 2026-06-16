@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-06-09",
+  "updated": "2026-06-16",
   "source": "Compilación automática (ver source_url en cada entrada). Atribución a organizadores y cyclingstage.com/ASO/sitios oficiales.",
-  "count": 173,
+  "count": 178,
   "routes": [
     {
       "id": "brabantse-pijl-2026",
@@ -2929,6 +2929,131 @@
       "points": 1255
     },
     {
+      "id": "tour-de-suisse-2026-stage-01",
+      "name": "Tour de Suisse 2026 — Stage 1",
+      "type": "stage-race",
+      "country": "CH",
+      "event": "Tour de Suisse 2026",
+      "year": 2026,
+      "stage": 1,
+      "gpx_path": "routes/stage-race/tour-de-suisse-2026-stage-01.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-de-suisse/2026/stage-1-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 141.9,
+      "elevation_gain_m": 2363,
+      "elevation_loss_m": 2349,
+      "min_ele_m": 201,
+      "max_ele_m": 864,
+      "bbox": {
+        "min_lat": 46.13355,
+        "max_lat": 46.19913,
+        "min_lon": 9.45996,
+        "max_lon": 10.07443
+      },
+      "points": 1077
+    },
+    {
+      "id": "tour-de-suisse-2026-stage-02",
+      "name": "Tour de Suisse 2026 — Stage 2",
+      "type": "stage-race",
+      "country": "CH",
+      "event": "Tour de Suisse 2026",
+      "year": 2026,
+      "stage": 2,
+      "gpx_path": "routes/stage-race/tour-de-suisse-2026-stage-02.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-de-suisse/2026/stage-2-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 156.93,
+      "elevation_gain_m": 2114,
+      "elevation_loss_m": 2118,
+      "min_ele_m": 196,
+      "max_ele_m": 557,
+      "bbox": {
+        "min_lat": 46.01801,
+        "max_lat": 46.42801,
+        "min_lon": 8.77298,
+        "max_lon": 9.03508
+      },
+      "points": 849
+    },
+    {
+      "id": "tour-de-suisse-2026-stage-03",
+      "name": "Tour de Suisse 2026 — Stage 3",
+      "type": "stage-race",
+      "country": "CH",
+      "event": "Tour de Suisse 2026",
+      "year": 2026,
+      "stage": 3,
+      "gpx_path": "routes/stage-race/tour-de-suisse-2026-stage-03.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-de-suisse/2026/stage-3-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 156.95,
+      "elevation_gain_m": 2242,
+      "elevation_loss_m": 2229,
+      "min_ele_m": 416,
+      "max_ele_m": 1303,
+      "bbox": {
+        "min_lat": 47.00129,
+        "max_lat": 47.37778,
+        "min_lon": 9.19194,
+        "max_lon": 9.56799
+      },
+      "points": 1001
+    },
+    {
+      "id": "tour-de-suisse-2026-stage-04",
+      "name": "Tour de Suisse 2026 — Stage 4",
+      "type": "stage-race",
+      "country": "CH",
+      "event": "Tour de Suisse 2026",
+      "year": 2026,
+      "stage": 4,
+      "gpx_path": "routes/stage-race/tour-de-suisse-2026-stage-04.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-de-suisse/2026/stage-4-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 23.58,
+      "elevation_gain_m": 171,
+      "elevation_loss_m": 172,
+      "min_ele_m": 397,
+      "max_ele_m": 480,
+      "bbox": {
+        "min_lat": 47.27753,
+        "max_lat": 47.32122,
+        "min_lon": 7.79472,
+        "max_lon": 7.89936
+      },
+      "points": 122
+    },
+    {
+      "id": "tour-de-suisse-2026-stage-05",
+      "name": "Tour de Suisse 2026 — Stage 5",
+      "type": "stage-race",
+      "country": "CH",
+      "event": "Tour de Suisse 2026",
+      "year": 2026,
+      "stage": 5,
+      "gpx_path": "routes/stage-race/tour-de-suisse-2026-stage-05.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-de-suisse/2026/stage-5-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 150.65,
+      "elevation_gain_m": 4360,
+      "elevation_loss_m": 4403,
+      "min_ele_m": 392,
+      "max_ele_m": 1771,
+      "bbox": {
+        "min_lat": 46.28089,
+        "max_lat": 46.36151,
+        "min_lon": 6.96592,
+        "max_lon": 7.15843
+      },
+      "points": 1331
+    },
+    {
       "id": "o-gran-camino-2026-stage-01",
       "name": "O Gran Camiño 2026 — Stage 1",
       "type": "stage-race",
@@ -3840,6 +3965,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-1-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-07",
       "distance_km": 138.98,
       "elevation_gain_m": 2964,
       "elevation_loss_m": 2907,
@@ -3851,8 +3977,7 @@
         "min_lon": 5.57017,
         "max_lon": 5.89923
       },
-      "points": 1098,
-      "date": "2026-06-07"
+      "points": 1098
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-02",
@@ -3866,6 +3991,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-2-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-08",
       "distance_km": 236.08,
       "elevation_gain_m": 3275,
       "elevation_loss_m": 2844,
@@ -3877,8 +4003,7 @@
         "min_lon": 3.77429,
         "max_lon": 5.62237
       },
-      "points": 1712,
-      "date": "2026-06-08"
+      "points": 1712
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-03",
@@ -3892,6 +4017,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-3-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-09",
       "distance_km": 28.28,
       "elevation_gain_m": 392,
       "elevation_loss_m": 375,
@@ -3903,8 +4029,7 @@
         "min_lon": 4.1214,
         "max_lon": 4.24358
       },
-      "points": 200,
-      "date": "2026-06-09"
+      "points": 200
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-04",
@@ -3918,6 +4043,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-4-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-10",
       "distance_km": 163.95,
       "elevation_gain_m": 2007,
       "elevation_loss_m": 2357,
@@ -3929,8 +4055,7 @@
         "min_lon": 3.72393,
         "max_lon": 4.23309
       },
-      "points": 1035,
-      "date": "2026-06-10"
+      "points": 1035
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-05",
@@ -3944,6 +4069,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-5-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-11",
       "distance_km": 197.34,
       "elevation_gain_m": 2069,
       "elevation_loss_m": 2374,
@@ -3955,8 +4081,7 @@
         "min_lon": 4.35063,
         "max_lon": 5.166
       },
-      "points": 1344,
-      "date": "2026-06-11"
+      "points": 1344
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-06",
@@ -3970,6 +4095,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-6-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-12",
       "distance_km": 181.29,
       "elevation_gain_m": 2868,
       "elevation_loss_m": 1864,
@@ -3981,8 +4107,7 @@
         "min_lon": 5.29655,
         "max_lon": 6.50378
       },
-      "points": 1104,
-      "date": "2026-06-12"
+      "points": 1104
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-07",
@@ -3996,6 +4121,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-7-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-13",
       "distance_km": 132.87,
       "elevation_gain_m": 3684,
       "elevation_loss_m": 2466,
@@ -4007,8 +4133,7 @@
         "min_lon": 5.67474,
         "max_lon": 5.81405
       },
-      "points": 1074,
-      "date": "2026-06-13"
+      "points": 1074
     },
     {
       "id": "tour-auvergne-rhone-alpes-2026-stage-08",
@@ -4022,6 +4147,7 @@
       "source_url": "https://cdn.cyclingstage.com/images/tour-auvergne-rhone-alpes/2026/stage-8-route.gpx",
       "notes": "",
       "gender": "men",
+      "date": "2026-06-14",
       "distance_km": 119.99,
       "elevation_gain_m": 3908,
       "elevation_loss_m": 3271,
@@ -4033,8 +4159,7 @@
         "min_lon": 6.37195,
         "max_lon": 6.63421
       },
-      "points": 1194,
-      "date": "2026-06-14"
+      "points": 1194
     },
     {
       "id": "tirreno-adriatico-2026-stage-01",

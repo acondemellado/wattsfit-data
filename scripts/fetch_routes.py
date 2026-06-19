@@ -373,12 +373,17 @@ def _load_women_2026() -> None:
         ("giro-women-2026",            "Giro d'Italia Women 2026",          "IT", "giro-women",          9),
         ("tour-de-france-femmes-2026", "Tour de France Femmes 2026",        "FR", "tour-de-france-femmes", 9),
         ("vuelta-femenina-2026",       "La Vuelta Femenina 2026",           "ES", "vuelta-femenina",     7),
+        # Tour de Suisse Women 2026: 5 etapas (17-21 jun), recorridos PROPIOS
+        # (más cortos que los masculinos) — NO se duplican los del hombre. Se
+        # recogerá fiel en cuanto cyclingstage publique su GPX (404 a día de hoy).
+        ("tour-de-suisse-women-2026",  "Tour de Suisse Women 2026",         "CH", "tour-de-suisse-women",  5),
     ]:
+        type_ = "grand-tour" if n_stages >= 7 else "stage-race"
         for n in range(1, n_stages + 1):
             SOURCES.append(Source(
                 id=f"{prefix}-stage-{n:02d}",
                 name=f"{race} — Stage {n}",
-                type="grand-tour", country=country,
+                type=type_, country=country,
                 source_url=_cs_women_stage(base, n),
                 event=race, stage=n, gender="women",
             ))

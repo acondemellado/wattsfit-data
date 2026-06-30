@@ -107,7 +107,7 @@ def route_entry(route_id: str):
 
 
 # ----------------------------------------------------------- modos
-def ingest_one(route_id, pts, wpts, source_url, note, reprofile=False):
+def ingest_one(route_id, pts, wpts, source_url, note, reprofile=False, local_dem=None):
     entry = route_entry(route_id)
     if entry is None:
         raise SystemExit(f"✗ id no encontrado: {route_id}")
@@ -116,9 +116,9 @@ def ingest_one(route_id, pts, wpts, source_url, note, reprofile=False):
     n0 = len(pts)
     cum = cl.cumulative(pts)
     if reprofile:
-        # geometría VisuGPX (buena) + elevación EU-DEM (ruidosa en alpino):
+        # geometría VisuGPX (buena) + elevación re-perfilada (DEM local/IGN/EU):
         # reperfilar → decimar → pulir (min-spacing + suavizado + clamp 20%).
-        ele = cl.reprofile_from_dem(pts, sample_m=50.0)
+        ele = cl.reprofile_from_dem(pts, sample_m=50.0, local_dem=local_dem)
         pts = [(p[0], p[1], e) for p, e in zip(pts, ele)]
         pts = cl.decimate(pts, cl.EPSILON_M)
         pts = cl.polish_dem(pts)
@@ -161,11 +161,12 @@ def mode_visugpx(args):
     only = None
     if args.only:
         only = {int(x) for x in args.only.split(",")}
-    src = ("VisuGPX https://www.visugpx.com/Nln1sO8mHz (alta resolución) "
-           "+ EU-DEM 25 m reperfilado")
-    note = ("Interino: geometría VisuGPX (sigue la carretera) con elevación "
-            "re-perfilada desde EU-DEM 25 m. Pendiente de sustituir por "
-            "export VeloViewer (roadbook ASO).")
+    countries = [c for c in (args.countries or "").split(",") if c]
+    dem_lib = "DEM local " + "+".join(countries) if countries else "IGN/EU-DEM"
+    src = ("VisuGPX https://www.visugpx.com/Nln1sO8mHz (alta resolución) + "
+           "re-perfilado (" + dem_lib + ")")
+    note = ("Geometría VisuGPX (sigue la carretera) + elevación re-perfilada "
+            f"({dem_lib}, 5-25 m), pulida. Roadbook ASO solo en export VeloViewer.")
     for i, seg in enumerate(segs):
         stage = args.first + i
         if only and stage not in only:
@@ -175,8 +176,18 @@ def mode_visugpx(args):
         if len(pts) < 2:
             print(f"  · {rid}: segmento vacío, saltado")
             continue
-        print(f"VisuGPX → {rid}  ({len(pts)} pts) — re-perfilando EU-DEM…")
-        ingest_one(rid, pts, [], src, note, reprofile=True)
+        local_dem = None
+        if countries:
+            import dem_local
+            dirs = []
+            for c in countries:
+                dem_local.ensure_corridor(pts, country=c)
+                dirs.append(dem_local.DEM_DIR / c)
+            local_dem = dem_local.LocalDem(dirs)
+        print(f"VisuGPX → {rid}  ({len(pts)} pts) — re-perfilando ({dem_lib})…")
+        ingest_one(rid, pts, [], src, note, reprofile=True, local_dem=local_dem)
+        if local_dem:
+            local_dem.close()
 
 
 def main():
@@ -192,6 +203,8 @@ def main():
     b.add_argument("--type", default="grand-tour")
     b.add_argument("--first", type=int, default=1)
     b.add_argument("--only", default=None)
+    b.add_argument("--countries", default=None,
+                   help="DEM local por país, p.ej. 'spain' o 'spain,france'")
     b.set_defaults(func=mode_visugpx)
     args = ap.parse_args()
     args.func(args)

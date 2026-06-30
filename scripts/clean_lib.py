@@ -303,10 +303,15 @@ def ign_profile(latlon, batch=80, pause=0.4, log=print):
     return out
 
 
-def reprofile_from_dem(pts, sample_m=50.0, provider="ign", log=print):
+def reprofile_from_dem(pts, sample_m=50.0, provider="ign", local_dem=None, log=print):
     """Re-perfila la elevación de pts=[(lat,lon,ele),...] muestreando un DEM
-    cada ~sample_m y reinterpolando a todos los puntos. provider='ign' (IGN
-    RGE ALTI 1-5 m, solo Francia) o 'eudem' (EU-DEM 25 m, toda Europa)."""
+    cada ~sample_m y reinterpolando a todos los puntos.
+
+    Cascada de fuentes por punto (de mejor a peor):
+      1) local_dem (GeoTIFF nacionales: MDT05 España 5 m, RGE ALTI Francia…)
+      2) provider='ign' → API IGN RGE ALTI 1-5 m (solo Francia)
+      3) EU-DEM 25 m (toda Europa) como último recurso.
+    Así una etapa España→Francia usa MDT05 en España e IGN en Francia."""
     cum = cumulative(pts)
     idxs = []
     nextd = 0.0
@@ -317,23 +322,27 @@ def reprofile_from_dem(pts, sample_m=50.0, provider="ign", log=print):
     if idxs[-1] != len(pts) - 1:
         idxs.append(len(pts) - 1)
     coords = [(pts[i][0], pts[i][1]) for i in idxs]
-    if provider == "ign":
+    sampled = [None] * len(coords)
+    # 1) DEM local de alta resolución (GeoTIFF nacionales)
+    if local_dem is not None:
+        sampled = local_dem.profile(coords, log=log)
+    # 2) API IGN Francia para los huecos (si provider='ign')
+    miss = [i for i, v in enumerate(sampled) if v is None]
+    if miss and provider == "ign":
         try:
-            sampled = ign_profile(coords, log=log)
-        except Exception as e:
-            if log:
-                log(f"    IGN falló ({e}); fallback EU-DEM")
-            sampled = [None] * len(coords)
-        # Rellena con EU-DEM los puntos fuera de Francia (None)
-        miss = [i for i, v in enumerate(sampled) if v is None]
-        if miss:
-            if log:
-                log(f"    {len(miss)} pts fuera de Francia → EU-DEM")
-            eu = dem_profile([coords[i] for i in miss], log=log)
-            for i, v in zip(miss, eu):
-                sampled[i] = v
-    else:
-        sampled = dem_profile(coords, log=log)
+            fb = ign_profile([coords[i] for i in miss], log=log)
+        except Exception:
+            fb = [None] * len(miss)
+        for i, v in zip(miss, fb):
+            sampled[i] = v
+    # 3) EU-DEM 25 m para lo que siga sin cubrir
+    miss = [i for i, v in enumerate(sampled) if v is None]
+    if miss:
+        if log:
+            log(f"    {len(miss)} pts → EU-DEM (fallback)")
+        eu = dem_profile([coords[i] for i in miss], log=log)
+        for i, v in zip(miss, eu):
+            sampled[i] = v
     sd = [cum[i] for i in idxs]
     # Hampel + suavizado sobre las muestras (mata picos de puente/túnel)
     sampled = hampel(sampled, sd, win_m=200.0, n_sigmas=3.0)

@@ -2124,114 +2124,81 @@
    {
     "summitLat": 41.32703,
     "summitLon": 1.94661,
-    "summitEleM": 411,
-    "startKm": 91.39,
+    "summitEleM": 403,
+    "startKm": 90.02,
     "summitKm": 99.79,
-    "lengthKm": 8.4,
-    "gainM": 395,
-    "avgGradePct": 4.7,
-    "maxGradePct": 11.1
+    "lengthKm": 9.77,
+    "gainM": 394,
+    "avgGradePct": 4.0,
+    "maxGradePct": 9.4
    },
    {
-    "summitLat": 41.3645,
-    "summitLon": 2.16471,
-    "summitEleM": 166,
+    "summitLat": 41.36463,
+    "summitLon": 2.16581,
+    "summitEleM": 163,
     "startKm": 144.46,
-    "summitKm": 146.82,
-    "lengthKm": 2.36,
-    "gainM": 152,
-    "avgGradePct": 6.5,
-    "maxGradePct": 11.8
+    "summitKm": 146.72,
+    "lengthKm": 2.26,
+    "gainM": 156,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.6
    },
    {
-    "summitLat": 41.3645,
-    "summitLon": 2.16471,
-    "summitEleM": 166,
+    "summitLat": 41.36463,
+    "summitLon": 2.16581,
+    "summitEleM": 163,
     "startKm": 156.68,
-    "summitKm": 159.03,
-    "lengthKm": 2.35,
-    "gainM": 152,
-    "avgGradePct": 6.5,
-    "maxGradePct": 11.7
+    "summitKm": 158.94,
+    "lengthKm": 2.26,
+    "gainM": 156,
+    "avgGradePct": 6.9,
+    "maxGradePct": 11.5
    },
    {
     "summitLat": 41.3645,
     "summitLon": 2.16471,
-    "summitEleM": 166,
+    "summitEleM": 162,
     "startKm": 168.89,
     "summitKm": 171.24,
     "lengthKm": 2.35,
-    "gainM": 152,
-    "avgGradePct": 6.5,
-    "maxGradePct": 11.9
+    "gainM": 155,
+    "avgGradePct": 6.6,
+    "maxGradePct": 11.7
    }
   ],
   "tdf-2026-stage-03": [
    {
     "summitLat": 41.70804,
     "summitLon": 2.16845,
-    "summitEleM": 659,
-    "startKm": 17.67,
+    "summitEleM": 653,
+    "startKm": 17.6,
     "summitKm": 28.37,
-    "lengthKm": 10.7,
-    "gainM": 416,
-    "avgGradePct": 3.9,
-    "maxGradePct": 7.9
-   },
-   {
-    "summitLat": 42.32247,
-    "summitLon": 2.04581,
-    "summitEleM": 1304,
-    "startKm": 126.69,
-    "summitKm": 128.67,
-    "lengthKm": 1.98,
-    "gainM": 104,
-    "avgGradePct": 5.2,
-    "maxGradePct": 15.1
-   },
-   {
-    "summitLat": 42.31963,
-    "summitLon": 2.00861,
-    "summitEleM": 1503,
-    "startKm": 129.1,
-    "summitKm": 132.31,
-    "lengthKm": 3.21,
-    "gainM": 203,
-    "avgGradePct": 6.3,
-    "maxGradePct": 17.1
-   },
-   {
-    "summitLat": 42.3301,
-    "summitLon": 1.97146,
-    "summitEleM": 1821,
-    "startKm": 132.67,
-    "summitKm": 137.06,
-    "lengthKm": 4.38,
-    "gainM": 320,
-    "avgGradePct": 7.3,
-    "maxGradePct": 15.5
-   },
-   {
-    "summitLat": 42.51148,
-    "summitLon": 2.04936,
-    "summitEleM": 1833,
-    "startKm": 160.63,
-    "summitKm": 180.1,
-    "lengthKm": 19.47,
-    "gainM": 691,
-    "avgGradePct": 3.6,
-    "maxGradePct": 6.9
-   },
-   {
-    "summitLat": 42.56343,
-    "summitLon": 2.06646,
-    "summitEleM": 1792,
-    "startKm": 196.14,
-    "summitKm": 203.6,
-    "lengthKm": 7.46,
-    "gainM": 282,
+    "lengthKm": 10.77,
+    "gainM": 407,
     "avgGradePct": 3.8,
-    "maxGradePct": 7.4
+    "maxGradePct": 7.7
+   },
+   {
+    "summitLat": 42.32813,
+    "summitLon": 1.96002,
+    "summitEleM": 1805,
+    "startKm": 125.34,
+    "summitKm": 138.16,
+    "lengthKm": 12.82,
+    "gainM": 670,
+    "avgGradePct": 5.2,
+    "maxGradePct": 11.1
+   },
+   {
+    "summitLat": 42.50046,
+    "summitLon": 2.02137,
+    "summitEleM": 1662,
+    "startKm": 160.45,
+    "summitKm": 176.53,
+    "lengthKm": 16.07,
+    "gainM": 521,
+    "avgGradePct": 3.2,
+    "maxGradePct": 6.8
    }
   ],
   "tdf-2026-stage-04": [

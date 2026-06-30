@@ -3,3 +3,6 @@ logs/
 __pycache__/
 *.pyc
 .claude/
+
+# Fuente bruta VisuGPX (re-descargable)
+scripts/data/visugpx_*.gpx

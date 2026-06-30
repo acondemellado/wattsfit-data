@@ -57,7 +57,39 @@ TARGET_POINTS = 1000
 
 # Entradas curadas a mano que NO deben re-descargarse de la fuente (GPX de
 # origen roto/parcial). Ver nota en main().
-SKIP_REFETCH = {"tdf-2026-stage-06"}
+SKIP_REFETCH = {
+    # Rutas curadas a mano (alta resolución VeloViewer/VisuGPX+DEM); NO re-bajar
+    "tdf-2026-stage-01",
+    "tdf-2026-stage-02",
+    "tdf-2026-stage-03",
+    "tdf-2026-stage-04",
+    "tdf-2026-stage-05",
+    "tdf-2026-stage-06",
+    "tdf-2026-stage-07",
+    "tdf-2026-stage-08",
+    "tdf-2026-stage-09",
+    "tdf-2026-stage-10",
+    "tdf-2026-stage-11",
+    "tdf-2026-stage-12",
+    "tdf-2026-stage-13",
+    "tdf-2026-stage-14",
+    "tdf-2026-stage-15",
+    "tdf-2026-stage-16",
+    "tdf-2026-stage-17",
+    "tdf-2026-stage-18",
+    "tdf-2026-stage-19",
+    "tdf-2026-stage-20",
+    "tdf-2026-stage-21",
+    "tour-de-france-femmes-2026-stage-01",
+    "tour-de-france-femmes-2026-stage-02",
+    "tour-de-france-femmes-2026-stage-03",
+    "tour-de-france-femmes-2026-stage-04",
+    "tour-de-france-femmes-2026-stage-05",
+    "tour-de-france-femmes-2026-stage-06",
+    "tour-de-france-femmes-2026-stage-07",
+    "tour-de-france-femmes-2026-stage-08",
+    "tour-de-france-femmes-2026-stage-09",
+}
 
 
 @dataclass

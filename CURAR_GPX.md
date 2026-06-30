@@ -37,13 +37,18 @@ Dropbox, **rasterio** se instala en cada máquina.
 
 ## 3. Arquitectura
 
-- **Geometría (alta resolución):**
+- **Geometría (alta resolución), 3 vías por orden de preferencia:**
   - **VisuGPX** (automatizable): el Tour masc está en
     `https://www.visugpx.com/download.php?id=Nln1sO8mHz` (1 GPX, 21 segmentos =
     21 etapas). NO tiene Vuelta ni Giro.
-  - **VeloViewer** (export manual, ORO): TCX/GPX con 11 m + elevación limpia +
-    roadbook ASO. Es la vía para carreras sin VisuGPX (Vuelta, Giro…). El
-    usuario los exporta a `~/Downloads/`.
+  - **Map-match** (automatizable, `scripts/mapmatch.py`): coge el GPX basto de
+    cyclingstage (que ya tenemos en el repo) y lo **pega a la carretera OSM** con
+    Valhalla `trace_route` (map_snap, servidor público FOSSGIS, sin clave).
+    Densifica ~6× y recupera curvas SIN sobre-rutear. **Es la vía para Vuelta y
+    cualquier carrera sin VisuGPX, 100% automática** (no necesita VeloViewer).
+  - **VeloViewer** (export manual, ORO): TCX/GPX 11 m + elevación limpia +
+    roadbook ASO. Solo si el usuario los exporta a `~/Downloads/` (no siempre los
+    tiene → por eso existe el map-match).
 - **Elevación — `clean_lib.reprofile_from_dem` hace cascada por punto:**
   1. **DEM local** (`scripts/dem_local.py`, rasterio): GeoTIFF nacionales
      recortados al corredor. **España = IGN MDT05 5 m** (WCS
@@ -82,9 +87,16 @@ python3 ingest_hires.py visugpx --gpx data/visugpx_tdf2026.gpx \
     --prefix tdf-2026-stage- --first 1 --countries spain
 ```
 
-**Caso B — VeloViewer (export manual, ORO; Vuelta/Giro):**
+**Caso B — sin VisuGPX (Vuelta, etc.): map-match de cyclingstage (automático):**
 ```bash
-# el usuario exporta cada etapa de VeloViewer a ~/Downloads (TCX o GPX)
+cd ~/Developer/velotactic/wattsfit-data/scripts
+# pega el GPX del repo a la carretera (Valhalla) + re-perfila con MDT05/IGN/EU-DEM:
+python3 ingest_hires.py snap --prefix vuelta-2026-stage- --countries spain
+# o etapas sueltas:  --ids vuelta-2026-stage-09,vuelta-2026-stage-10
+```
+
+**Caso C — VeloViewer (export manual, ORO; solo si los tienes):**
+```bash
 python3 ingest_hires.py veloviewer "~/Downloads/<archivo>.tcx" --id <route_id>
 # (VeloViewer trae elevación limpia + roadbook → NO necesita DEM)
 ```
@@ -124,8 +136,13 @@ que **no hace falta recompilar la app**.
 |---|---|---|---|
 | Tour Femmes 2026 (9) | VeloViewer (TCX) | VeloViewer (limpia) + roadbook | ✅ ORO |
 | Tour masc 2026 (21) | VisuGPX | IGN 1-5 m (FR) / MDT05 5 m (ES 1-3) | ✅ ±1-2 % FR |
-| **Vuelta 2026 (21)** | ❌ falta (no hay VisuGPX) | MDT05 listo | ⏳ **need VeloViewer export** |
-| Giro 2027 | — | TINITALY pendiente | 🔜 año que viene |
+| Vuelta 2026 (21) | cyclingstage + map-match Valhalla | MDT05 (ES) / IGN (MC-FR) / EU-DEM (AND) | ✅ auto (sin VeloViewer) |
+| Giro 2027 | map-match (idem) | TINITALY 10 m pendiente | 🔜 año que viene |
+
+> Vuelta: algunas etapas conservan un hueco recto largo (p.ej. etapa 17 ~7 km)
+> porque el **cyclingstage de origen ya tenía ese hueco**; el map-match no lo
+> amplifica pero tampoco lo inventa. Para cerrarlos haría falta mejor fuente
+> (VeloViewer) en esas etapas concretas.
 
 Validación: Tour FR vs oficial ±1-2 %; total -2,6 %. cyclingstage tenía
 fantasmas (etapa 5: +126 %). MDT05 mejoró España (etapa 2 +8 %→-3 %).

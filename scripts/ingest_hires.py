@@ -190,9 +190,57 @@ def mode_visugpx(args):
             local_dem.close()
 
 
+def mode_snap(args):
+    """Cura rutas SIN VisuGPX/VeloViewer: coge el GPX basto del repo
+    (cyclingstage), lo pega a la carretera con Valhalla map-match y re-perfila la
+    elevación con la cascada DEM (local/IGN/EU-DEM). Geometría de alta resolución
+    100% automática."""
+    import mapmatch
+    idx = json.loads(INDEX.read_text())
+    if args.ids:
+        ids = args.ids.split(",")
+    else:
+        ids = [r["id"] for r in idx["routes"] if r["id"].startswith(args.prefix)]
+        ids.sort()
+    countries = [c for c in (args.countries or "").split(",") if c]
+    dem_lib = "DEM local " + "+".join(countries) if countries else "IGN/EU-DEM"
+    src = ("cyclingstage + map-match Valhalla (OSM) + re-perfilado (" + dem_lib + ")")
+    note = ("Geometría de cyclingstage pegada a la carretera (Valhalla map-snap) "
+            f"+ elevación re-perfilada ({dem_lib}). Automática, sin VeloViewer.")
+    print(f"map-match+DEM → {len(ids)} rutas")
+    for rid in ids:
+        entry = route_entry(rid)
+        if entry is None:
+            print(f"  ✗ {rid}: no en routes.json"); continue
+        g = gpxpy.parse((cl.REPO / entry["gpx_path"]).read_text())
+        raw = [(p.latitude, p.longitude)
+               for t in g.tracks for s in t.segments for p in s.points]
+        if len(raw) < 2:
+            print(f"  · {rid}: sin puntos, saltado"); continue
+        print(f"snap → {rid} ({len(raw)} pts cyclingstage)…")
+        snapped = mapmatch.snap_track(raw)
+        pts = [(la, lo, 0.0) for la, lo in snapped]
+        local_dem = None
+        if countries:
+            import dem_local
+            dirs = []
+            for c in countries:
+                dem_local.ensure_corridor(pts, country=c)
+                dirs.append(dem_local.DEM_DIR / c)
+            local_dem = dem_local.LocalDem(dirs)
+        ingest_one(rid, pts, [], src, note, reprofile=True, local_dem=local_dem)
+        if local_dem:
+            local_dem.close()
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="mode", required=True)
+    c = sub.add_parser("snap")
+    c.add_argument("--prefix", default="")
+    c.add_argument("--ids", default=None, help="lista coma de route_ids concretos")
+    c.add_argument("--countries", default=None)
+    c.set_defaults(func=mode_snap)
     a = sub.add_parser("veloviewer")
     a.add_argument("file")
     a.add_argument("--id", required=True)

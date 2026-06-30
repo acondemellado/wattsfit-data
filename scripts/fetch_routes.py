@@ -58,7 +58,7 @@ TARGET_POINTS = 1000
 # Entradas curadas a mano que NO deben re-descargarse de la fuente (GPX de
 # origen roto/parcial). Ver nota en main().
 SKIP_REFETCH = {
-    # Rutas curadas a mano (alta resolución VeloViewer/VisuGPX+DEM); NO re-bajar
+    # Rutas curadas a mano (alta resolución); NO re-bajar de cyclingstage
     "tdf-2026-stage-01",
     "tdf-2026-stage-02",
     "tdf-2026-stage-03",
@@ -89,6 +89,27 @@ SKIP_REFETCH = {
     "tour-de-france-femmes-2026-stage-07",
     "tour-de-france-femmes-2026-stage-08",
     "tour-de-france-femmes-2026-stage-09",
+    "vuelta-2026-stage-01",
+    "vuelta-2026-stage-02",
+    "vuelta-2026-stage-03",
+    "vuelta-2026-stage-04",
+    "vuelta-2026-stage-05",
+    "vuelta-2026-stage-06",
+    "vuelta-2026-stage-07",
+    "vuelta-2026-stage-08",
+    "vuelta-2026-stage-09",
+    "vuelta-2026-stage-10",
+    "vuelta-2026-stage-11",
+    "vuelta-2026-stage-12",
+    "vuelta-2026-stage-13",
+    "vuelta-2026-stage-14",
+    "vuelta-2026-stage-15",
+    "vuelta-2026-stage-16",
+    "vuelta-2026-stage-17",
+    "vuelta-2026-stage-18",
+    "vuelta-2026-stage-19",
+    "vuelta-2026-stage-20",
+    "vuelta-2026-stage-21",
 }
 
 

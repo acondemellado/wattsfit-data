@@ -20,6 +20,7 @@ import certifi
 
 SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 VALHALLA = "https://valhalla1.openstreetmap.de/trace_route"
+VALHALLA_ROUTE = "https://valhalla1.openstreetmap.de/route"
 
 
 def _hav(a, b):
@@ -62,22 +63,111 @@ def _decode6(s):
     return coords
 
 
+def _post(url, body, retries=5):
+    """POST JSON con reintentos/backoff ante 429/502/503/504 (el servidor
+    público FOSSGIS da 502 esporádicos bajo carga)."""
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(
+                url, data=json.dumps(body).encode(),
+                headers={"Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=90, context=SSL_CTX) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 502, 503, 504) and attempt < retries - 1:
+                time.sleep(3 * (attempt + 1))
+                continue
+            raise
+        except Exception:
+            if attempt < retries - 1:
+                time.sleep(3 * (attempt + 1))
+                continue
+            raise
+
+
 def _snap_chunk(chunk, costing="auto"):
-    body = {"shape": [{"lat": la, "lon": lo} for la, lo in chunk],
-            "costing": costing, "shape_match": "map_snap"}
-    req = urllib.request.Request(
-        VALHALLA, data=json.dumps(body).encode(),
-        headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=90, context=SSL_CTX) as r:
-        d = json.load(r)
+    d = _post(VALHALLA, {"shape": [{"lat": la, "lon": lo} for la, lo in chunk],
+                         "costing": costing, "shape_match": "map_snap"})
     out = []
     for leg in d["trip"]["legs"]:
         out.extend(_decode6(leg["shape"]))
     return out
 
 
+OSRM = "https://router.project-osrm.org/route/v1/driving"
+
+
+def _osrm_route(a, b):
+    url = (f"{OSRM}/{a[1]:.5f},{a[0]:.5f};{b[1]:.5f},{b[0]:.5f}"
+           "?overview=full&geometries=geojson")
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(url, timeout=40, context=SSL_CTX) as r:
+                d = json.load(r)
+            if d.get("code") == "Ok":
+                return [(c[1], c[0]) for c in d["routes"][0]["geometry"]["coordinates"]]
+            raise RuntimeError("osrm " + str(d.get("code")))
+        except Exception:
+            if attempt == 3:
+                raise
+            time.sleep(2 * (attempt + 1))
+
+
+def _valhalla_route(a, b, costing="auto"):
+    d = _post(VALHALLA_ROUTE,
+              {"locations": [{"lat": a[0], "lon": a[1]},
+                             {"lat": b[0], "lon": b[1]}], "costing": costing},
+              retries=2)
+    out = []
+    for leg in d["trip"]["legs"]:
+        out.extend(_decode6(leg["shape"]))
+    return out
+
+
+def _route(a, b, costing="auto"):
+    """Ruta por carretera entre dos puntos (rellena huecos). OSRM primero (rápido
+    y disponible); Valhalla de respaldo."""
+    try:
+        return _osrm_route(a, b)
+    except Exception:
+        return _valhalla_route(a, b, costing)
+
+
+def _fill_gap(a, b, costing, pause, max_ratio=1.9):
+    """Intenta rellenar el hueco a→b rutando por carretera. Devuelve los puntos
+    INTERIORES (sin extremos) o None si el router se desvía demasiado (posible
+    carretera equivocada) → se deja la recta del origen."""
+    straight = _hav(a, b)
+    try:
+        fill = _route(a, b, costing)
+        time.sleep(pause)
+        if len(fill) >= 3 and straight <= _length(fill) <= max_ratio * straight:
+            return fill[1:-1]
+    except Exception:
+        pass
+    return None
+
+
+def fill_track_gaps(pts, gap_m=1200, pause=0.2, log=print):
+    """Post-proceso: rellena SOLO los huecos rectos largos (>gap_m) de una traza
+    ya buena (p.ej. map-snapeada), rutando por carretera entre los extremos con
+    validación anti-desvío. Deja intacto el resto. pts=[(lat,lon), ...]."""
+    out = [pts[0]]
+    filled = 0
+    for i in range(1, len(pts)):
+        if _hav(pts[i - 1], pts[i]) > gap_m:
+            interior = _fill_gap(out[-1], pts[i], "auto", pause)
+            if interior:
+                out.extend(interior)
+                filled += 1
+        out.append(pts[i])
+    if log:
+        log(f"  fill-gaps: {len(pts)} → {len(out)} pts, {filled} huecos cerrados")
+    return out
+
+
 def snap_track(pts, chunk=60, pause=0.25, costing="auto", gap_split_m=1200,
-               log=print):
+               fill_gaps=True, log=print):
     """pts=[(lat,lon), ...] basto → traza densa pegada a la carretera, ROBUSTO:
     - parte la traza en los huecos grandes del origen (no pide a Valhalla
       puentear un gap de km, que lo amplificaría);
@@ -95,7 +185,7 @@ def snap_track(pts, chunk=60, pause=0.25, costing="auto", gap_split_m=1200,
             cur.append(pts[i])
     subs.append(cur)
 
-    out, raw_chunks = [], 0
+    out, raw_chunks, filled_gaps = [], 0, 0
     for sub in subs:
         if len(sub) < 2:
             if out:
@@ -124,8 +214,11 @@ def snap_track(pts, chunk=60, pause=0.25, costing="auto", gap_split_m=1200,
                 seg = seg[1:]  # evita duplicar el solape
             sub_out.extend(seg)
             time.sleep(pause)
-        if out and sub_out:
-            sub_out = sub_out  # el salto entre subs queda como recta del origen
+        if out and sub_out and fill_gaps:
+            interior = _fill_gap(out[-1], sub_out[0], costing, pause)
+            if interior:
+                out.extend(interior)  # hueco cerrado por carretera
+                filled_gaps += 1
         out.extend(sub_out)
 
     # 2) validación global
@@ -136,5 +229,6 @@ def snap_track(pts, chunk=60, pause=0.25, costing="auto", gap_split_m=1200,
                 f"{_length(pts)/1000:.1f} km) → track crudo")
         return list(pts)
     if log:
-        log(f"  map-match: {len(pts)} → {len(out)} pts ({raw_chunks} chunks crudos)")
+        log(f"  map-match: {len(pts)} → {len(out)} pts "
+            f"({raw_chunks} chunks crudos, {filled_gaps} huecos cerrados)")
     return out

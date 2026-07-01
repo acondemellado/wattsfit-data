@@ -212,7 +212,17 @@ def mode_snap(args):
         entry = route_entry(rid)
         if entry is None:
             print(f"  ✗ {rid}: no en routes.json"); continue
-        g = gpxpy.parse((cl.REPO / entry["gpx_path"]).read_text())
+        # Fuente = cyclingstage ORIGINAL. Con --src-ref se lee de un commit git
+        # (evita partir de una versión ya curada si se re-ejecuta).
+        if args.src_ref:
+            import subprocess
+            gpx_txt = subprocess.run(
+                ["git", "-C", str(cl.REPO), "show",
+                 f"{args.src_ref}:{entry['gpx_path']}"],
+                capture_output=True, text=True).stdout
+            g = gpxpy.parse(gpx_txt)
+        else:
+            g = gpxpy.parse((cl.REPO / entry["gpx_path"]).read_text())
         raw = [(p.latitude, p.longitude)
                for t in g.tracks for s in t.segments for p in s.points]
         if len(raw) < 2:
@@ -233,13 +243,60 @@ def mode_snap(args):
             local_dem.close()
 
 
+def mode_fillgaps(args):
+    """Post-proceso: sobre las rutas YA curadas (map-snapeadas), cierra los
+    huecos rectos que traía el origen rutando por carretera (OSRM) + re-perfila.
+    No re-hace el map-match (no necesita Valhalla)."""
+    import mapmatch
+    idx = json.loads(INDEX.read_text())
+    if args.ids:
+        ids = args.ids.split(",")
+    else:
+        ids = sorted(r["id"] for r in idx["routes"]
+                     if r["id"].startswith(args.prefix))
+    countries = [c for c in (args.countries or "").split(",") if c]
+    print(f"fill-gaps+DEM → {len(ids)} rutas")
+    for rid in ids:
+        entry = route_entry(rid)
+        if entry is None:
+            print(f"  ✗ {rid}: no en routes.json"); continue
+        g = gpxpy.parse((cl.REPO / entry["gpx_path"]).read_text())
+        ll = [(p.latitude, p.longitude)
+              for t in g.tracks for s in t.segments for p in s.points]
+        if len(ll) < 2:
+            continue
+        print(f"fill → {rid} ({len(ll)} pts)…")
+        filled = mapmatch.fill_track_gaps(ll)
+        pts = [(la, lo, 0.0) for la, lo in filled]
+        local_dem = None
+        if countries:
+            import dem_local
+            dirs = []
+            for c in countries:
+                dem_local.ensure_corridor(pts, country=c)
+                dirs.append(dem_local.DEM_DIR / c)
+            local_dem = dem_local.LocalDem(dirs)
+        note = entry.get("notes", "") + " Huecos del origen cerrados por routing OSM."
+        ingest_one(rid, pts, [], entry.get("source_url", ""), note.strip(),
+                   reprofile=True, local_dem=local_dem)
+        if local_dem:
+            local_dem.close()
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="mode", required=True)
+    d = sub.add_parser("fillgaps")
+    d.add_argument("--prefix", default="")
+    d.add_argument("--ids", default=None)
+    d.add_argument("--countries", default=None)
+    d.set_defaults(func=mode_fillgaps)
     c = sub.add_parser("snap")
     c.add_argument("--prefix", default="")
     c.add_argument("--ids", default=None, help="lista coma de route_ids concretos")
     c.add_argument("--countries", default=None)
+    c.add_argument("--src-ref", default=None, dest="src_ref",
+                   help="commit git del que leer la geometría cyclingstage original")
     c.set_defaults(func=mode_snap)
     a = sub.add_parser("veloviewer")
     a.add_argument("file")

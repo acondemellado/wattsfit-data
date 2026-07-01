@@ -94,6 +94,13 @@ cd ~/Developer/velotactic/wattsfit-data/scripts
 python3 ingest_hires.py snap --prefix vuelta-2026-stage- --countries spain
 # o etapas sueltas:  --ids vuelta-2026-stage-09,vuelta-2026-stage-10
 ```
+Cerrar huecos rectos que traía cyclingstage (curvas cortadas) sobre rutas YA
+map-snapeadas, rutando por carretera con OSRM (no necesita Valhalla) + validación
+anti-desvío (rechaza si la ruta se va >1,9× la recta → deja la recta):
+```bash
+python3 ingest_hires.py fillgaps --prefix vuelta-2026-stage- --countries spain
+# Solo rellena huecos CURVOS; las rectas reales (autovías) se quedan como están.
+```
 
 **Caso C — VeloViewer (export manual, ORO; solo si los tienes):**
 ```bash

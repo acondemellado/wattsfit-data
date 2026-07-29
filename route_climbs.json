@@ -7263,6 +7263,74 @@
     "avgGradePct": 8.6,
     "maxGradePct": 14.2
    }
+  ],
+  "donostia-san-sebastian-klasikoa-2026": [
+   {
+    "summitLat": 43.20275,
+    "summitLon": -2.35969,
+    "summitEleM": 341,
+    "startKm": 69.92,
+    "summitKm": 74.43,
+    "lengthKm": 4.51,
+    "gainM": 322,
+    "avgGradePct": 7.1,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 43.15075,
+    "summitLon": -2.18846,
+    "summitEleM": 673,
+    "startKm": 85.41,
+    "summitKm": 94.49,
+    "lengthKm": 9.08,
+    "gainM": 585,
+    "avgGradePct": 6.4,
+    "maxGradePct": 9.9
+   },
+   {
+    "summitLat": 43.17311,
+    "summitLon": -2.10789,
+    "summitEleM": 335,
+    "startKm": 109.9,
+    "summitKm": 115.31,
+    "lengthKm": 5.41,
+    "gainM": 269,
+    "avgGradePct": 5.0,
+    "maxGradePct": 8.9
+   },
+   {
+    "summitLat": 43.34975,
+    "summitLon": -1.85241,
+    "summitEleM": 448,
+    "startKm": 152.69,
+    "summitKm": 162.03,
+    "lengthKm": 9.34,
+    "gainM": 439,
+    "avgGradePct": 4.7,
+    "maxGradePct": 10.2
+   },
+   {
+    "summitLat": 43.30524,
+    "summitLon": -1.75647,
+    "summitEleM": 439,
+    "startKm": 175.92,
+    "summitKm": 181.93,
+    "lengthKm": 6.01,
+    "gainM": 434,
+    "avgGradePct": 7.2,
+    "maxGradePct": 14.0
+   },
+   {
+    "summitLat": 43.30644,
+    "summitLon": -2.04023,
+    "summitEleM": 249,
+    "startKm": 210.79,
+    "summitKm": 216.99,
+    "lengthKm": 6.2,
+    "gainM": 240,
+    "avgGradePct": 3.9,
+    "maxGradePct": 15.2
+   }
   ]
  }
 }

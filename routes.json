@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-06-30",
+  "updated": "2026-07-29",
   "source": "Compilación automática (ver source_url en cada entrada). Atribución a organizadores y cyclingstage.com/ASO/sitios oficiales.",
-  "count": 187,
+  "count": 188,
   "routes": [
     {
       "id": "brabantse-pijl-2026",
@@ -303,6 +303,31 @@
         "max_lon": 4.38191
       },
       "points": 1422
+    },
+    {
+      "id": "donostia-san-sebastian-klasikoa-2026",
+      "name": "Donostia San Sebastián Klasikoa 2026",
+      "type": "classic",
+      "country": "ES",
+      "event": "Donostia San Sebastián Klasikoa 2026",
+      "year": 2026,
+      "stage": null,
+      "gpx_path": "routes/classic/donostia-san-sebastian-klasikoa-2026.gpx",
+      "source_url": "Export TCX de alta resolución con roadbook",
+      "notes": "Geometría de alta resolución (máx resolución, ~15 m, sin decimar). Cola de artefactos recortada (407 km→225 km). Roadbook: Erlaitz 1ª; Jaizkibel/Murgil/Urraki 2ª; Kalbaixo/Azkarate/Alkiza 3ª; sprints, avitualla, agua.",
+      "gender": "men",
+      "distance_km": 224.96,
+      "elevation_gain_m": 4040,
+      "elevation_loss_m": 4040,
+      "min_ele_m": 4,
+      "max_ele_m": 677,
+      "bbox": {
+        "min_lat": 43.12158,
+        "max_lat": 43.37253,
+        "min_lon": -2.40354,
+        "max_lon": -1.75536
+      },
+      "points": 20635
     },
     {
       "id": "paris-roubaix-2026",
@@ -4685,31 +4710,6 @@
         "max_lon": -7.7597
       },
       "points": 857
-    },
-    {
-      "id": "donostia-san-sebastian-klasikoa-2026",
-      "name": "Donostia San Sebastián Klasikoa 2026",
-      "type": "classic",
-      "country": "ES",
-      "event": "Donostia San Sebastián Klasikoa 2026",
-      "year": 2026,
-      "stage": null,
-      "gpx_path": "routes/classic/donostia-san-sebastian-klasikoa-2026.gpx",
-      "source_url": "Export TCX de alta resolución con roadbook",
-      "notes": "Geometría de alta resolución (máx resolución, ~15 m, sin decimar). Cola de artefactos recortada (407 km→225 km). Roadbook: Erlaitz 1ª; Jaizkibel/Murgil/Urraki 2ª; Kalbaixo/Azkarate/Alkiza 3ª; sprints, avitualla, agua.",
-      "gender": "men",
-      "distance_km": 224.96,
-      "elevation_gain_m": 4040,
-      "elevation_loss_m": 4040,
-      "min_ele_m": 4,
-      "max_ele_m": 677,
-      "bbox": {
-        "min_lat": 43.12158,
-        "max_lat": 43.37253,
-        "min_lon": -2.40354,
-        "max_lon": -1.75536
-      },
-      "points": 20635
     }
   ]
 }

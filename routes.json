@@ -1763,11 +1763,11 @@
       "stage": 1,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-01.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 146.76,
-      "elevation_gain_m": 1800,
-      "elevation_loss_m": 1678,
+      "distance_km": 146.98,
+      "elevation_gain_m": 1891,
+      "elevation_loss_m": 1770,
       "min_ele_m": 376,
       "max_ele_m": 770,
       "bbox": {
@@ -1776,7 +1776,7 @@
         "min_lon": 6.59546,
         "max_lon": 6.93738
       },
-      "points": 826
+      "points": 15215
     },
     {
       "id": "tour-de-france-femmes-2026-stage-02",
@@ -1788,20 +1788,20 @@
       "stage": 2,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-02.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 151.9,
-      "elevation_gain_m": 1704,
-      "elevation_loss_m": 1742,
+      "distance_km": 152.16,
+      "elevation_gain_m": 1825,
+      "elevation_loss_m": 1864,
       "min_ele_m": 376,
-      "max_ele_m": 865,
+      "max_ele_m": 866,
       "bbox": {
         "min_lat": 46.20917,
-        "max_lat": 46.62937,
-        "min_lon": 6.13407,
+        "max_lat": 46.62938,
+        "min_lon": 6.13406,
         "max_lon": 6.96984
       },
-      "points": 904
+      "points": 15784
     },
     {
       "id": "tour-de-france-femmes-2026-stage-03",
@@ -1813,11 +1813,11 @@
       "stage": 3,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-03.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 166.13,
-      "elevation_gain_m": 2534,
-      "elevation_loss_m": 2631,
+      "distance_km": 166.44,
+      "elevation_gain_m": 2635,
+      "elevation_loss_m": 2732,
       "min_ele_m": 259,
       "max_ele_m": 1322,
       "bbox": {
@@ -1826,7 +1826,7 @@
         "min_lon": 5.68357,
         "max_lon": 6.13888
       },
-      "points": 1072
+      "points": 17929
     },
     {
       "id": "tour-de-france-femmes-2026-stage-04",
@@ -1838,11 +1838,11 @@
       "stage": 4,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-04.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 20.97,
-      "elevation_gain_m": 256,
-      "elevation_loss_m": 288,
+      "distance_km": 21.0,
+      "elevation_gain_m": 264,
+      "elevation_loss_m": 295,
       "min_ele_m": 236,
       "max_ele_m": 464,
       "bbox": {
@@ -1851,7 +1851,7 @@
         "min_lon": 4.93992,
         "max_lon": 5.04496
       },
-      "points": 122
+      "points": 2245
     },
     {
       "id": "tour-de-france-femmes-2026-stage-05",
@@ -1863,20 +1863,20 @@
       "stage": 5,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-05.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 146.61,
-      "elevation_gain_m": 2958,
-      "elevation_loss_m": 2945,
+      "distance_km": 146.99,
+      "elevation_gain_m": 3011,
+      "elevation_loss_m": 2998,
       "min_ele_m": 175,
       "max_ele_m": 694,
       "bbox": {
         "min_lat": 46.10029,
         "max_lat": 46.30757,
-        "min_lon": 4.51908,
+        "min_lon": 4.51907,
         "max_lon": 4.83465
       },
-      "points": 1222
+      "points": 15578
     },
     {
       "id": "tour-de-france-femmes-2026-stage-06",
@@ -1888,20 +1888,20 @@
       "stage": 6,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-06.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 157.78,
-      "elevation_gain_m": 2625,
-      "elevation_loss_m": 2890,
-      "min_ele_m": 122,
-      "max_ele_m": 1157,
+      "distance_km": 158.21,
+      "elevation_gain_m": 2680,
+      "elevation_loss_m": 2944,
+      "min_ele_m": 123,
+      "max_ele_m": 1158,
       "bbox": {
         "min_lat": 45.02479,
         "max_lat": 45.61512,
         "min_lon": 4.0621,
         "max_lon": 4.82925
       },
-      "points": 1298
+      "points": 17994
     },
     {
       "id": "tour-de-france-femmes-2026-stage-07",
@@ -1913,11 +1913,11 @@
       "stage": 7,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-07.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 157.77,
-      "elevation_gain_m": 3512,
-      "elevation_loss_m": 1718,
+      "distance_km": 158.1,
+      "elevation_gain_m": 3568,
+      "elevation_loss_m": 1774,
       "min_ele_m": 75,
       "max_ele_m": 1891,
       "bbox": {
@@ -1926,7 +1926,7 @@
         "min_lon": 4.78134,
         "max_lon": 5.31882
       },
-      "points": 1029
+      "points": 15912
     },
     {
       "id": "tour-de-france-femmes-2026-stage-08",
@@ -1938,20 +1938,20 @@
       "stage": 8,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-08.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 181.84,
-      "elevation_gain_m": 1434,
-      "elevation_loss_m": 1921,
+      "distance_km": 182.1,
+      "elevation_gain_m": 1501,
+      "elevation_loss_m": 1988,
       "min_ele_m": 9,
       "max_ele_m": 1120,
       "bbox": {
         "min_lat": 43.68123,
-        "max_lat": 44.20082,
-        "min_lon": 5.94267,
+        "max_lat": 44.20083,
+        "min_lon": 5.94266,
         "max_lon": 7.26787
       },
-      "points": 1087
+      "points": 18393
     },
     {
       "id": "tour-de-france-femmes-2026-stage-09",
@@ -1963,11 +1963,11 @@
       "stage": 9,
       "gpx_path": "routes/grand-tour/tour-de-france-femmes-2026-stage-09.gpx",
       "source_url": "VeloViewer export (ASO roadbook)",
-      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO).",
+      "notes": "Geometría y elevación de alta resolución (VeloViewer/ASO), máxima resolución sin decimar.",
       "gender": "women",
-      "distance_km": 101.61,
-      "elevation_gain_m": 2105,
-      "elevation_loss_m": 2107,
+      "distance_km": 101.86,
+      "elevation_gain_m": 2115,
+      "elevation_loss_m": 2118,
       "min_ele_m": 8,
       "max_ele_m": 508,
       "bbox": {
@@ -1976,7 +1976,7 @@
         "min_lon": 7.26752,
         "max_lon": 7.36138
       },
-      "points": 834
+      "points": 12012
     },
     {
       "id": "giro-2026-stage-01",
@@ -4695,21 +4695,21 @@
       "year": 2026,
       "stage": null,
       "gpx_path": "routes/classic/donostia-san-sebastian-klasikoa-2026.gpx",
-      "source_url": "Export TCX de alta resolución con roadbook (mediana 48 m)",
-      "notes": "Geometría de alta resolución (≤3 m de la carretera, sin cortar curvas). Se recortó una cola de artefactos del export (407 km→224 km). Roadbook completo: 7 puertos categorizados (Erlaitz 1ª; Jaizkibel/Murgil/Urraki 2ª; Kalbaixo/Azkarate/Alkiza 3ª), 3 sprints, avituallamientos y agua.",
+      "source_url": "Export TCX de alta resolución con roadbook",
+      "notes": "Geometría de alta resolución (máx resolución, ~15 m, sin decimar). Cola de artefactos recortada (407 km→225 km). Roadbook: Erlaitz 1ª; Jaizkibel/Murgil/Urraki 2ª; Kalbaixo/Azkarate/Alkiza 3ª; sprints, avitualla, agua.",
       "gender": "men",
-      "distance_km": 224.42,
-      "elevation_gain_m": 3932,
-      "elevation_loss_m": 3933,
+      "distance_km": 224.96,
+      "elevation_gain_m": 4040,
+      "elevation_loss_m": 4040,
       "min_ele_m": 4,
       "max_ele_m": 677,
       "bbox": {
-        "min_lat": 43.12159,
+        "min_lat": 43.12158,
         "max_lat": 43.37253,
-        "min_lon": -2.40353,
+        "min_lon": -2.40354,
         "max_lon": -1.75536
       },
-      "points": 3064
+      "points": 20635
     }
   ]
 }

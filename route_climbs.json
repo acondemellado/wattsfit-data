@@ -2962,383 +2962,43 @@
     "maxGradePct": 12.2
    }
   ],
-  "tour-de-france-femmes-2026-stage-01": [
-   {
-    "summitLat": 46.5379,
-    "summitLon": 6.62306,
-    "summitEleM": 606,
-    "startKm": 0.3,
-    "summitKm": 6.83,
-    "lengthKm": 6.53,
-    "gainM": 230,
-    "avgGradePct": 3.5,
-    "maxGradePct": 8.5
-   },
-   {
-    "summitLat": 46.82419,
-    "summitLon": 6.816,
-    "summitEleM": 597,
-    "startKm": 56.17,
-    "summitKm": 59.09,
-    "lengthKm": 2.92,
-    "gainM": 148,
-    "avgGradePct": 5.1,
-    "maxGradePct": 9.0
-   },
-   {
-    "summitLat": 46.51997,
-    "summitLon": 6.62961,
-    "summitEleM": 500,
-    "startKm": 143.71,
-    "summitKm": 146.76,
-    "lengthKm": 3.06,
-    "gainM": 124,
-    "avgGradePct": 4.1,
-    "maxGradePct": 8.0
-   }
-  ],
-  "tour-de-france-femmes-2026-stage-02": [
-   {
-    "summitLat": 46.48467,
-    "summitLon": 6.77896,
-    "summitEleM": 629,
-    "startKm": 31.49,
-    "summitKm": 37.62,
-    "lengthKm": 6.13,
-    "gainM": 252,
-    "avgGradePct": 4.1,
-    "maxGradePct": 7.1
-   },
-   {
-    "summitLat": 46.60222,
-    "summitLon": 6.49075,
-    "summitEleM": 590,
-    "startKm": 75.38,
-    "summitKm": 79.58,
-    "lengthKm": 4.2,
-    "gainM": 153,
-    "avgGradePct": 3.6,
-    "maxGradePct": 8.0
-   },
-   {
-    "summitLat": 46.47494,
-    "summitLon": 6.32533,
-    "summitEleM": 597,
-    "startKm": 101.96,
-    "summitKm": 104.77,
-    "lengthKm": 2.82,
-    "gainM": 160,
-    "avgGradePct": 5.7,
-    "maxGradePct": 8.1
-   }
-  ],
   "tour-de-france-femmes-2026-stage-03": [
    {
-    "summitLat": 46.37417,
-    "summitLon": 6.02913,
-    "summitEleM": 1322,
-    "startKm": 16.45,
-    "summitKm": 35.04,
-    "lengthKm": 18.58,
-    "gainM": 849,
-    "avgGradePct": 4.6,
-    "maxGradePct": 9.9
-   },
-   {
-    "summitLat": 46.36934,
-    "summitLon": 5.98239,
-    "summitEleM": 1194,
-    "startKm": 42.36,
-    "summitKm": 46.12,
-    "lengthKm": 3.76,
-    "gainM": 203,
-    "avgGradePct": 5.4,
-    "maxGradePct": 7.6
-   },
-   {
-    "summitLat": 46.56427,
-    "summitLon": 6.00249,
+    "summitLat": 46.56423,
+    "summitLon": 6.00265,
     "summitEleM": 991,
-    "startKm": 77.03,
-    "summitKm": 83.05,
-    "lengthKm": 6.02,
+    "startKm": 77.1,
+    "summitKm": 83.22,
+    "lengthKm": 6.12,
     "gainM": 288,
-    "avgGradePct": 4.8,
-    "maxGradePct": 7.9
-   },
-   {
-    "summitLat": 46.89138,
-    "summitLon": 5.8738,
-    "summitEleM": 624,
-    "startKm": 139.59,
-    "summitKm": 142.14,
-    "lengthKm": 2.55,
-    "gainM": 124,
-    "avgGradePct": 4.9,
-    "maxGradePct": 8.2
-   }
-  ],
-  "tour-de-france-femmes-2026-stage-04": [
-   {
-    "summitLat": 47.28867,
-    "summitLon": 4.96114,
-    "summitEleM": 435,
-    "startKm": 6.2,
-    "summitKm": 9.82,
-    "lengthKm": 3.62,
-    "gainM": 161,
-    "avgGradePct": 4.5,
-    "maxGradePct": 8.1
+    "avgGradePct": 4.7,
+    "maxGradePct": 7.0
    }
   ],
   "tour-de-france-femmes-2026-stage-05": [
    {
-    "summitLat": 46.27385,
-    "summitLon": 4.73111,
-    "summitEleM": 385,
-    "startKm": 6.13,
-    "summitKm": 12.2,
-    "lengthKm": 6.07,
-    "gainM": 196,
-    "avgGradePct": 3.2,
-    "maxGradePct": 7.3
-   },
-   {
-    "summitLat": 46.26912,
-    "summitLon": 4.67256,
-    "summitEleM": 692,
-    "startKm": 12.84,
-    "summitKm": 19.77,
-    "lengthKm": 6.93,
-    "gainM": 335,
-    "avgGradePct": 4.8,
-    "maxGradePct": 8.6
-   },
-   {
-    "summitLat": 46.26206,
-    "summitLon": 4.54279,
-    "summitEleM": 510,
-    "startKm": 37.49,
-    "summitKm": 40.97,
-    "lengthKm": 3.48,
-    "gainM": 142,
-    "avgGradePct": 4.1,
-    "maxGradePct": 6.8
-   },
-   {
-    "summitLat": 46.23972,
-    "summitLon": 4.62281,
-    "summitEleM": 656,
-    "startKm": 55.69,
-    "summitKm": 61.11,
-    "lengthKm": 5.43,
-    "gainM": 234,
-    "avgGradePct": 4.3,
-    "maxGradePct": 7.0
-   },
-   {
-    "summitLat": 46.26048,
-    "summitLon": 4.66031,
-    "summitEleM": 604,
-    "startKm": 70.95,
-    "summitKm": 75.63,
-    "lengthKm": 4.68,
-    "gainM": 296,
-    "avgGradePct": 6.3,
-    "maxGradePct": 8.6
-   },
-   {
-    "summitLat": 46.18136,
-    "summitLon": 4.66239,
-    "summitEleM": 419,
-    "startKm": 111.6,
-    "summitKm": 114.19,
-    "lengthKm": 2.58,
-    "gainM": 109,
-    "avgGradePct": 4.2,
-    "maxGradePct": 7.4
-   },
-   {
-    "summitLat": 46.19221,
-    "summitLon": 4.64749,
-    "summitEleM": 537,
-    "startKm": 114.72,
-    "summitKm": 116.49,
-    "lengthKm": 1.77,
-    "gainM": 128,
-    "avgGradePct": 7.2,
-    "maxGradePct": 12.1
-   },
-   {
-    "summitLat": 46.10744,
-    "summitLon": 4.65509,
-    "summitEleM": 475,
-    "startKm": 132.76,
-    "summitKm": 136.08,
-    "lengthKm": 3.32,
-    "gainM": 236,
-    "avgGradePct": 7.1,
-    "maxGradePct": 10.8
-   }
-  ],
-  "tour-de-france-femmes-2026-stage-06": [
-   {
-    "summitLat": 45.4696,
-    "summitLon": 4.14829,
-    "summitEleM": 575,
-    "startKm": 17.15,
-    "summitKm": 21.79,
-    "lengthKm": 4.64,
-    "gainM": 177,
-    "avgGradePct": 3.8,
-    "maxGradePct": 6.5
-   },
-   {
-    "summitLat": 45.4034,
-    "summitLon": 4.18362,
-    "summitEleM": 794,
-    "startKm": 28.53,
-    "summitKm": 32.93,
-    "lengthKm": 4.39,
-    "gainM": 166,
-    "avgGradePct": 3.8,
-    "maxGradePct": 6.7
-   },
-   {
-    "summitLat": 45.30321,
-    "summitLon": 4.23578,
-    "summitEleM": 811,
-    "startKm": 47.25,
-    "summitKm": 57.99,
-    "lengthKm": 10.74,
-    "gainM": 361,
-    "avgGradePct": 3.4,
-    "maxGradePct": 8.9
-   },
-   {
-    "summitLat": 45.16503,
-    "summitLon": 4.36791,
-    "summitEleM": 1085,
-    "startKm": 71.38,
-    "summitKm": 81.09,
-    "lengthKm": 9.7,
-    "gainM": 346,
-    "avgGradePct": 3.6,
-    "maxGradePct": 8.2
-   },
-   {
-    "summitLat": 45.12,
-    "summitLon": 4.53204,
-    "summitEleM": 1089,
-    "startKm": 101.63,
-    "summitKm": 110.28,
-    "lengthKm": 8.66,
-    "gainM": 422,
-    "avgGradePct": 4.9,
-    "maxGradePct": 7.8
-   },
-   {
-    "summitLat": 45.03042,
-    "summitLon": 4.70371,
-    "summitEleM": 493,
-    "startKm": 137.56,
-    "summitKm": 142.17,
-    "lengthKm": 4.61,
-    "gainM": 221,
-    "avgGradePct": 4.8,
-    "maxGradePct": 7.3
+    "summitLat": 46.26045,
+    "summitLon": 4.66029,
+    "summitEleM": 605,
+    "startKm": 71.05,
+    "summitKm": 75.83,
+    "lengthKm": 4.77,
+    "gainM": 297,
+    "avgGradePct": 6.2,
+    "maxGradePct": 8.3
    }
   ],
   "tour-de-france-femmes-2026-stage-07": [
    {
-    "summitLat": 44.6655,
-    "summitLon": 4.86658,
-    "summitEleM": 509,
-    "startKm": 17.79,
-    "summitKm": 24.97,
-    "lengthKm": 7.18,
-    "gainM": 327,
-    "avgGradePct": 4.5,
-    "maxGradePct": 8.1
-   },
-   {
-    "summitLat": 44.48933,
-    "summitLon": 4.87488,
-    "summitEleM": 431,
-    "startKm": 44.73,
-    "summitKm": 52.47,
-    "lengthKm": 7.74,
-    "gainM": 271,
-    "avgGradePct": 3.5,
-    "maxGradePct": 8.1
-   },
-   {
-    "summitLat": 44.17162,
-    "summitLon": 5.07082,
-    "summitEleM": 402,
-    "startKm": 107.68,
-    "summitKm": 116.6,
-    "lengthKm": 8.92,
-    "gainM": 326,
-    "avgGradePct": 3.7,
-    "maxGradePct": 8.8
-   },
-   {
     "summitLat": 44.1735,
     "summitLon": 5.27827,
-    "summitEleM": 1882,
-    "startKm": 136.73,
-    "summitKm": 157.77,
-    "lengthKm": 21.04,
-    "gainM": 1568,
-    "avgGradePct": 7.5,
-    "maxGradePct": 12.4
-   }
-  ],
-  "tour-de-france-femmes-2026-stage-09": [
-   {
-    "summitLat": 43.72611,
-    "summitLon": 7.34255,
-    "summitEleM": 507,
-    "startKm": 1.89,
-    "summitKm": 11.38,
-    "lengthKm": 9.49,
-    "gainM": 492,
-    "avgGradePct": 5.2,
-    "maxGradePct": 10.4
-   },
-   {
-    "summitLat": 43.72611,
-    "summitLon": 7.34255,
-    "summitEleM": 507,
-    "startKm": 27.73,
-    "summitKm": 37.22,
-    "lengthKm": 9.49,
-    "gainM": 492,
-    "avgGradePct": 5.2,
-    "maxGradePct": 10.4
-   },
-   {
-    "summitLat": 43.72611,
-    "summitLon": 7.34255,
-    "summitEleM": 507,
-    "startKm": 53.56,
-    "summitKm": 63.06,
-    "lengthKm": 9.49,
-    "gainM": 492,
-    "avgGradePct": 5.2,
-    "maxGradePct": 10.4
-   },
-   {
-    "summitLat": 43.72611,
-    "summitLon": 7.34255,
-    "summitEleM": 507,
-    "startKm": 79.4,
-    "summitKm": 87.23,
-    "lengthKm": 7.82,
-    "gainM": 492,
-    "avgGradePct": 6.3,
-    "maxGradePct": 13.3
+    "summitEleM": 1880,
+    "startKm": 136.94,
+    "summitKm": 158.1,
+    "lengthKm": 21.16,
+    "gainM": 1565,
+    "avgGradePct": 7.4,
+    "maxGradePct": 11.3
    }
   ],
   "giro-2026-stage-02": [
@@ -7266,70 +6926,59 @@
   ],
   "donostia-san-sebastian-klasikoa-2026": [
    {
-    "summitLat": 43.20275,
-    "summitLon": -2.35969,
-    "summitEleM": 341,
-    "startKm": 69.92,
-    "summitKm": 74.43,
-    "lengthKm": 4.51,
-    "gainM": 322,
-    "avgGradePct": 7.1,
-    "maxGradePct": 10.2
+    "summitLat": 43.20256,
+    "summitLon": -2.35875,
+    "summitEleM": 340,
+    "startKm": 65.22,
+    "summitKm": 74.66,
+    "lengthKm": 9.44,
+    "gainM": 324,
+    "avgGradePct": 3.4,
+    "maxGradePct": 9.2
    },
    {
-    "summitLat": 43.15075,
-    "summitLon": -2.18846,
-    "summitEleM": 673,
-    "startKm": 85.41,
-    "summitKm": 94.49,
-    "lengthKm": 9.08,
+    "summitLat": 43.15039,
+    "summitLon": -2.18933,
+    "summitEleM": 672,
+    "startKm": 84.31,
+    "summitKm": 94.6,
+    "lengthKm": 10.3,
     "gainM": 585,
-    "avgGradePct": 6.4,
-    "maxGradePct": 9.9
+    "avgGradePct": 5.7,
+    "maxGradePct": 10.0
    },
    {
-    "summitLat": 43.17311,
-    "summitLon": -2.10789,
+    "summitLat": 43.1733,
+    "summitLon": -2.10745,
     "summitEleM": 335,
-    "startKm": 109.9,
-    "summitKm": 115.31,
-    "lengthKm": 5.41,
-    "gainM": 269,
+    "startKm": 110.19,
+    "summitKm": 115.61,
+    "lengthKm": 5.42,
+    "gainM": 268,
     "avgGradePct": 5.0,
     "maxGradePct": 8.9
    },
    {
-    "summitLat": 43.34975,
-    "summitLon": -1.85241,
-    "summitEleM": 448,
-    "startKm": 152.69,
-    "summitKm": 162.03,
-    "lengthKm": 9.34,
-    "gainM": 439,
-    "avgGradePct": 4.7,
-    "maxGradePct": 10.2
+    "summitLat": 43.35059,
+    "summitLon": -1.85179,
+    "summitEleM": 447,
+    "startKm": 154.45,
+    "summitKm": 162.51,
+    "lengthKm": 8.05,
+    "gainM": 432,
+    "avgGradePct": 5.4,
+    "maxGradePct": 10.6
    },
    {
-    "summitLat": 43.30524,
-    "summitLon": -1.75647,
+    "summitLat": 43.30461,
+    "summitLon": -1.75758,
     "summitEleM": 439,
-    "startKm": 175.92,
-    "summitKm": 181.93,
-    "lengthKm": 6.01,
+    "startKm": 176.27,
+    "summitKm": 182.48,
+    "lengthKm": 6.21,
     "gainM": 434,
-    "avgGradePct": 7.2,
-    "maxGradePct": 14.0
-   },
-   {
-    "summitLat": 43.30644,
-    "summitLon": -2.04023,
-    "summitEleM": 249,
-    "startKm": 210.79,
-    "summitKm": 216.99,
-    "lengthKm": 6.2,
-    "gainM": 240,
-    "avgGradePct": 3.9,
-    "maxGradePct": 15.2
+    "avgGradePct": 7.0,
+    "maxGradePct": 14.5
    }
   ]
  }

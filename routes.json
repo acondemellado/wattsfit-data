@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "source": "Compilación automática (ver source_url en cada entrada). Atribución a organizadores y cyclingstage.com/ASO/sitios oficiales.",
-  "count": 188,
+  "count": 193,
   "routes": [
     {
       "id": "brabantse-pijl-2026",
@@ -3177,6 +3177,131 @@
         "max_lon": 138.76602
       },
       "points": 1255
+    },
+    {
+      "id": "renewi-tour-2026-stage-01",
+      "name": "Renewi Tour 2026 — Stage 1",
+      "type": "stage-race",
+      "country": "BE",
+      "event": "Renewi Tour 2026",
+      "year": 2026,
+      "stage": 1,
+      "gpx_path": "routes/stage-race/renewi-tour-2026-stage-01.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/renewi-tour/2026/stage-1-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 191.03,
+      "elevation_gain_m": 910,
+      "elevation_loss_m": 954,
+      "min_ele_m": 18,
+      "max_ele_m": 80,
+      "bbox": {
+        "min_lat": 50.85546,
+        "max_lat": 51.02975,
+        "min_lon": 4.9195,
+        "max_lon": 5.0745
+      },
+      "points": 673
+    },
+    {
+      "id": "renewi-tour-2026-stage-02",
+      "name": "Renewi Tour 2026 — Stage 2",
+      "type": "stage-race",
+      "country": "BE",
+      "event": "Renewi Tour 2026",
+      "year": 2026,
+      "stage": 2,
+      "gpx_path": "routes/stage-race/renewi-tour-2026-stage-02.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/renewi-tour/2026/stage-2-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 173.94,
+      "elevation_gain_m": 341,
+      "elevation_loss_m": 332,
+      "min_ele_m": -2,
+      "max_ele_m": 45,
+      "bbox": {
+        "min_lat": 50.94489,
+        "max_lat": 51.31262,
+        "min_lon": 3.00101,
+        "max_lon": 3.24737
+      },
+      "points": 596
+    },
+    {
+      "id": "renewi-tour-2026-stage-03",
+      "name": "Renewi Tour 2026 — Stage 3",
+      "type": "stage-race",
+      "country": "BE",
+      "event": "Renewi Tour 2026",
+      "year": 2026,
+      "stage": 3,
+      "gpx_path": "routes/stage-race/renewi-tour-2026-stage-03.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/renewi-tour/2026/stage-3-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 181.3,
+      "elevation_gain_m": 1834,
+      "elevation_loss_m": 1812,
+      "min_ele_m": 12,
+      "max_ele_m": 158,
+      "bbox": {
+        "min_lat": 50.66971,
+        "max_lat": 50.7953,
+        "min_lon": 3.4299,
+        "max_lon": 3.96566
+      },
+      "points": 1029
+    },
+    {
+      "id": "renewi-tour-2026-stage-04",
+      "name": "Renewi Tour 2026 — Stage 4",
+      "type": "stage-race",
+      "country": "BE",
+      "event": "Renewi Tour 2026",
+      "year": 2026,
+      "stage": 4,
+      "gpx_path": "routes/stage-race/renewi-tour-2026-stage-04.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/renewi-tour/2026/stage-4-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 186.61,
+      "elevation_gain_m": 1367,
+      "elevation_loss_m": 1333,
+      "min_ele_m": 56,
+      "max_ele_m": 144,
+      "bbox": {
+        "min_lat": 50.75654,
+        "max_lat": 50.87192,
+        "min_lon": 5.44933,
+        "max_lon": 5.67169
+      },
+      "points": 951
+    },
+    {
+      "id": "renewi-tour-2026-stage-05",
+      "name": "Renewi Tour 2026 — Stage 5",
+      "type": "stage-race",
+      "country": "BE",
+      "event": "Renewi Tour 2026",
+      "year": 2026,
+      "stage": 5,
+      "gpx_path": "routes/stage-race/renewi-tour-2026-stage-05.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/renewi-tour/2026/stage-5-route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 183.08,
+      "elevation_gain_m": 1485,
+      "elevation_loss_m": 1474,
+      "min_ele_m": 16,
+      "max_ele_m": 101,
+      "bbox": {
+        "min_lat": 50.8715,
+        "max_lat": 50.95475,
+        "min_lon": 4.68226,
+        "max_lon": 4.87079
+      },
+      "points": 958
     },
     {
       "id": "tour-de-suisse-2026-stage-01",

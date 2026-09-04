@@ -25,6 +25,7 @@
           17,
           18,
           19,
+          20,
           21
         ]
       },
@@ -45,12 +46,9 @@
           10,
           11,
           12,
-          13,
           14,
           15,
-          16,
           17,
-          18,
           19,
           20,
           21
@@ -277,10 +275,6 @@
         "country": "IT",
         "name": "Milán-San Remo"
       },
-      "e3-saxo-classic": {
-        "country": "BE",
-        "name": "E3 Saxo Classic"
-      },
       "in-flanders-fields": {
         "country": "BE",
         "name": "Gent-Wevelgem"
@@ -288,10 +282,6 @@
       "dwars-door-vlaanderen": {
         "country": "BE",
         "name": "Dwars door Vlaanderen"
-      },
-      "tour-of-flanders": {
-        "country": "BE",
-        "name": "Tour of Flanders"
       },
       "paris-roubaix": {
         "country": "FR",

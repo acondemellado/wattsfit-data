@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "source": "Compilación automática (ver source_url en cada entrada). Atribución a organizadores y cyclingstage.com/ASO/sitios oficiales.",
-  "count": 193,
+  "count": 194,
   "routes": [
     {
       "id": "brabantse-pijl-2026",
@@ -453,6 +453,31 @@
         "max_lon": 11.48492
       },
       "points": 951
+    },
+    {
+      "id": "tour-of-lombardy-2026",
+      "name": "Il Lombardia 2026",
+      "type": "classic",
+      "country": "IT",
+      "event": "Il Lombardia 2026",
+      "year": 2026,
+      "stage": null,
+      "gpx_path": "routes/classic/tour-of-lombardy-2026.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/tour-of-lombardy/2026/route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 237.47,
+      "elevation_gain_m": 4584,
+      "elevation_loss_m": 4643,
+      "min_ele_m": 200,
+      "max_ele_m": 1019,
+      "bbox": {
+        "min_lat": 45.68156,
+        "max_lat": 45.97273,
+        "min_lon": 9.05256,
+        "max_lon": 9.82181
+      },
+      "points": 2156
     },
     {
       "id": "amstel-gold-race-2026",

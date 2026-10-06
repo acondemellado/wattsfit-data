@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "source": "Compilación automática (ver source_url en cada entrada). Atribución a organizadores y cyclingstage.com/ASO/sitios oficiales.",
-  "count": 194,
+  "count": 195,
   "routes": [
     {
       "id": "brabantse-pijl-2026",
@@ -378,6 +378,31 @@
         "max_lon": 3.50317
       },
       "points": 803
+    },
+    {
+      "id": "paris-tours-2026",
+      "name": "Paris-Tours 2026",
+      "type": "classic",
+      "country": "FR",
+      "event": "Paris-Tours 2026",
+      "year": 2026,
+      "stage": null,
+      "gpx_path": "routes/classic/paris-tours-2026.gpx",
+      "source_url": "https://cdn.cyclingstage.com/images/paris-tours/2026/route.gpx",
+      "notes": "",
+      "gender": "men",
+      "distance_km": 216.9,
+      "elevation_gain_m": 1160,
+      "elevation_loss_m": 1240,
+      "min_ele_m": 48,
+      "max_ele_m": 209,
+      "bbox": {
+        "min_lat": 47.38826,
+        "max_lat": 48.40016,
+        "min_lon": 0.6713,
+        "max_lon": 1.49877
+      },
+      "points": 965
     },
     {
       "id": "milan-san-remo-2026",

@@ -287,7 +287,20 @@
         ]
       }
     },
-    "2027": {}
+    "2027": {
+      "tour-down-under": {
+        "country": "AU",
+        "name": "Tour Down Under",
+        "stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    }
   },
   "classics": {
     "2026": {
